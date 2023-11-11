@@ -1,0 +1,3867 @@
+[
+    {
+        "title": "$\\texttt{DoubleSqueeze}$: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression",
+        "status": "Oral",
+        "authors": "Hanlin Tang, Chen Yu, Xiangru Lian, Tong Zhang, Ji Liu"
+    },
+    {
+        "title": "A Baseline for Any Order Gradient Estimation in Stochastic Computation Graphs",
+        "status": "Oral",
+        "authors": "Jingkai Mao, Jakob Foerster, Tim Rockt\u00e4schel, Maruan Al-Shedivat, Gregory Farquhar, Shimon Whiteson"
+    },
+    {
+        "title": "A Better k-means++ Algorithm via Local Search",
+        "status": "Oral",
+        "authors": "Silvio Lattanzi, Christian Sohler"
+    },
+    {
+        "title": "A Block Coordinate Descent Proximal Method for Simultaneous Filtering and Parameter Estimation",
+        "status": "Oral",
+        "authors": "Ramin Raziperchikolaei, Harish Bhat"
+    },
+    {
+        "title": "A Composite Randomized Incremental Gradient Method",
+        "status": "Oral",
+        "authors": "Junyu Zhang, Lin Xiao"
+    },
+    {
+        "title": "A Conditional-Gradient-Based Augmented Lagrangian Framework",
+        "status": "Oral",
+        "authors": "Alp Yurtsever, Olivier Fercoq, Volkan Cevher"
+    },
+    {
+        "title": "A Contrastive Divergence for Combining Variational Inference and MCMC",
+        "status": "Oral",
+        "authors": "Francisco Ruiz, Michalis Titsias"
+    },
+    {
+        "title": "A Convergence Theory for Deep Learning via Over-Parameterization",
+        "status": "Oral",
+        "authors": "Zeyuan Allen-Zhu, Yuanzhi Li, Zhao Song"
+    },
+    {
+        "title": "A Deep Reinforcement Learning Perspective on Internet Congestion Control",
+        "status": "Oral",
+        "authors": "Nathan Jay, Noga H. Rotman, Brighten Godfrey, Michael Schapira, Aviv Tamar"
+    },
+    {
+        "title": "A Dynamical Systems Perspective on Nesterov Acceleration",
+        "status": "Oral",
+        "authors": "Michael Muehlebach, Michael Jordan"
+    },
+    {
+        "title": "A Framework for Bayesian Optimization in Embedded Subspaces",
+        "status": "Oral",
+        "authors": "Amin Nayebi, Alexander Munteanu, Matthias Poloczek"
+    },
+    {
+        "title": "A Gradual, Semi-Discrete Approach to Generative Network Training via Explicit Wasserstein Minimization",
+        "status": "Oral",
+        "authors": "Yucheng Chen, Matus Telgarsky, Chao Zhang, Bolton Bailey, Daniel Hsu, Jian Peng"
+    },
+    {
+        "title": "A Kernel Perspective for Regularizing Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Alberto Bietti, Gregoire Mialon, Dexiong Chen, Julien Mairal"
+    },
+    {
+        "title": "A Kernel Theory of Modern Data Augmentation",
+        "status": "Oral",
+        "authors": "Tri Dao, Albert Gu, Alexander J Ratner, Virginia Smith, Christopher De Sa, Christopher Re"
+    },
+    {
+        "title": "A Large-Scale Study on Regularization and Normalization in GANs",
+        "status": "Oral",
+        "authors": "Karol Kurach, Mario Lucic, Xiaohua Zhai, Marcin Michalski, Sylvain Gelly"
+    },
+    {
+        "title": "A Multitask Multiple Kernel Learning Algorithm for Survival Analysis with Application to Cancer Biology",
+        "status": "Oral",
+        "authors": "Onur Dereli, Ceyda O\u011fuz, Mehmet G\u00f6nen"
+    },
+    {
+        "title": "A Persistent Weisfeiler--Lehman Procedure for Graph Classification",
+        "status": "Oral",
+        "authors": "Bastian Rieck, Christian Bock, Karsten Borgwardt"
+    },
+    {
+        "title": "A Personalized Affective Memory Model for Improving Emotion Recognition",
+        "status": "Oral",
+        "authors": "Pablo Barros, German Parisi, Stefan Wermter"
+    },
+    {
+        "title": "A Polynomial Time MCMC Method for Sampling from Continuous Determinantal Point Processes",
+        "status": "Oral",
+        "authors": "Alireza Rezaei, Shayan Oveis Gharan"
+    },
+    {
+        "title": "A Quantitative Analysis of the Effect of Batch Normalization on Gradient Descent",
+        "status": "Oral",
+        "authors": "YongQiang Cai, Qianxiao Li, Zuowei Shen"
+    },
+    {
+        "title": "A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion",
+        "status": "Oral",
+        "authors": "Sylvain Lamprier"
+    },
+    {
+        "title": "A Statistical Investigation of Long Memory in Language and Music",
+        "status": "Oral",
+        "authors": "Alexander Greaves-Tunnell, Zaid Harchaoui"
+    },
+    {
+        "title": "A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Umut Simsekli, Levent Sagun, Mert Gurbuzbalaban"
+    },
+    {
+        "title": "A Theoretical Analysis of Contrastive Unsupervised Representation Learning",
+        "status": "Oral",
+        "authors": "Nikunj Umesh Saunshi, Orestis Plevrakis, Sanjeev Arora, Mikhail Khodak, Hrishikesh Khandeparkar"
+    },
+    {
+        "title": "A Theory of Regularized Markov Decision Processes",
+        "status": "Oral",
+        "authors": "Matthieu Geist, Bruno Scherrer, Olivier Pietquin"
+    },
+    {
+        "title": "A Tree-Based Method for Fast Repeated Sampling of Determinantal Point Processes",
+        "status": "Oral",
+        "authors": "Jennifer Gillenwater, Alex Kulesza, Zelda Mariet, Sergei Vassilvitskii"
+    },
+    {
+        "title": "A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning",
+        "status": "Oral",
+        "authors": "Yoshihiro Nagano, Shoichiro Yamaguchi, Yasuhiro Fujita, Masanori Koyama"
+    },
+    {
+        "title": "A fully differentiable beam search decoder",
+        "status": "Oral",
+        "authors": "Ronan Collobert, Awni Hannun, Gabriel Synnaeve"
+    },
+    {
+        "title": "ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables",
+        "status": "Oral",
+        "authors": "Mingzhang Yin, Yuguang Yue, Mingyuan Zhou"
+    },
+    {
+        "title": "AReS and MaRS - Adversarial and MMD-Minimizing Regression for SDEs",
+        "status": "Oral",
+        "authors": "Gabriele Abbati, Philippe Wenk, Michael A Osborne, Andreas Krause, Bernhard Sch\u00f6lkopf, Stefan Bauer"
+    },
+    {
+        "title": "AUC\u00b5: A Performance Metric for Multi-Class Machine Learning Models",
+        "status": "Oral",
+        "authors": "Ross Kleiman, University of Wisconsin David Page"
+    },
+    {
+        "title": "Accelerated Flow for Probability Distributions",
+        "status": "Oral",
+        "authors": "Amirhossein Taghvaei, Prashant Mehta"
+    },
+    {
+        "title": "Accelerated Linear Convergence of Stochastic Momentum Methods in Wasserstein Distances",
+        "status": "Oral",
+        "authors": "Bugra Can, Mert Gurbuzbalaban, Lingjiong Zhu"
+    },
+    {
+        "title": "Acceleration of SVRG and Katyusha X by Inexact Preconditioning",
+        "status": "Oral",
+        "authors": "Yanli Liu, Fei Feng, Wotao Yin"
+    },
+    {
+        "title": "Action Robust Reinforcement Learning and Applications in Continuous Control",
+        "status": "Oral",
+        "authors": "Chen Tessler, Chen Tessler, Yonathan Efroni, Yonathan Efroni, Shie Mannor, Shie Mannor"
+    },
+    {
+        "title": "Active Embedding Search via Noisy Paired Comparisons",
+        "status": "Oral",
+        "authors": "Gregory Canal, Andy Massimino, Mark Davenport, Christopher Rozell"
+    },
+    {
+        "title": "Active Learning for Decision-Making from Imbalanced Observational Data",
+        "status": "Oral",
+        "authors": "Iiris Sundin, Peter Schulam, Eero Siivola, Aki Vehtari, Suchi Saria, Samuel Kaski"
+    },
+    {
+        "title": "Active Learning for Probabilistic Structured Prediction of Cuts and Matchings",
+        "status": "Oral",
+        "authors": "Sima Behpour, Anqi Liu, Brian Ziebart"
+    },
+    {
+        "title": "Active Learning with Disagreement Graphs",
+        "status": "Oral",
+        "authors": "Corinna Cortes, Giulia DeSalvo, Mehryar Mohri, Ningshan Zhang, Claudio Gentile"
+    },
+    {
+        "title": "Active Manifolds: A non-linear analogue to Active Subspaces",
+        "status": "Oral",
+        "authors": "Robert Bridges, Anthony Gruber, Christopher Felder, Miki Verma, Chelsey Hoff"
+    },
+    {
+        "title": "Actor-Attention-Critic for Multi-Agent Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Shariq Iqbal, Fei Sha"
+    },
+    {
+        "title": "AdaGrad stepsizes: sharp convergence over nonconvex landscapes",
+        "status": "Oral",
+        "authors": "Rachel Ward, Xiaoxia Wu, Leon Bottou"
+    },
+    {
+        "title": "Adaptive Antithetic Sampling for Variance Reduction",
+        "status": "Oral",
+        "authors": "Hongyu Ren, Shengjia Zhao, Stefano Ermon"
+    },
+    {
+        "title": "Adaptive Monte Carlo Multiple Testing via Multi-Armed Bandits",
+        "status": "Oral",
+        "authors": "Martin Zhang, James Zou, David Tse"
+    },
+    {
+        "title": "Adaptive Neural Trees",
+        "status": "Oral",
+        "authors": "Ryutaro Tanno, Kai Arulkumaran, Daniel Alexander, Antonio Criminisi, Aditya Nori"
+    },
+    {
+        "title": "Adaptive Regret of Convex and Smooth Functions",
+        "status": "Oral",
+        "authors": "Lijun Zhang, Tie-Yan Liu, Zhi-Hua Zhou"
+    },
+    {
+        "title": "Adaptive Scale-Invariant Online Algorithms for Learning Linear Models",
+        "status": "Oral",
+        "authors": "Michal Kempka, Wojciech Kotlowski, Manfred K. Warmuth"
+    },
+    {
+        "title": "Adaptive Sensor Placement for Continuous Spaces",
+        "status": "Oral",
+        "authors": "James A. Grant, Alexis Boukouvalas, Ryan-Rhys Griffiths, David Leslie, Sattar Vakili, Enrique Munoz De Cote"
+    },
+    {
+        "title": "Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search",
+        "status": "Oral",
+        "authors": "Youhei Akimoto, Shinichi Shirakawa, Nozomu Yoshinari, Kento Uchida, Shota Saito, Kouhei Nishida"
+    },
+    {
+        "title": "Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces",
+        "status": "Oral",
+        "authors": "Johannes Kirschner, Mojmir Mutny, Nicole Hiller, Rasmus Ischebeck, Andreas Krause"
+    },
+    {
+        "title": "Addressing the Loss-Metric Mismatch with Adaptive Loss Alignment",
+        "status": "Oral",
+        "authors": "Chen Huang, Shuangfei Zhai, Walter Talbott, Miguel Angel Bautista Martin, Shih-Yu Sun, Carlos Guestrin, Joshua M Susskind"
+    },
+    {
+        "title": "Adjustment Criteria for Generalizing Experimental Findings",
+        "status": "Oral",
+        "authors": "Juan Correa, Jin Tian, Elias Bareinboim"
+    },
+    {
+        "title": "Adversarial Attacks on Node Embeddings via Graph Poisoning",
+        "status": "Oral",
+        "authors": "Aleksandar Bojchevski, Stephan G\u00fcnnemann"
+    },
+    {
+        "title": "Adversarial Examples Are a Natural Consequence of Test Error in Noise",
+        "status": "Oral",
+        "authors": "Justin Gilmer, Nicolas Ford, Nicholas Carlini, Ekin Dogus Cubuk"
+    },
+    {
+        "title": "Adversarial Generation of Time-Frequency Features with application in audio synthesis",
+        "status": "Oral",
+        "authors": "Andr\u00e9s Marafioti, Nathana\u00ebl Perraudin, Nicki Holighaus, Piotr Majdak"
+    },
+    {
+        "title": "Adversarial Online Learning with noise",
+        "status": "Oral",
+        "authors": "Alon Resler, Yishay Mansour"
+    },
+    {
+        "title": "Adversarial camera stickers: A physical camera-based attack on deep learning systems",
+        "status": "Oral",
+        "authors": "Juncheng Li, Frank R Schmidt, Zico Kolter"
+    },
+    {
+        "title": "Adversarial examples from computational constraints",
+        "status": "Oral",
+        "authors": "Sebastien Bubeck, Yin Tat Lee, Eric Price, Ilya Razenshteyn"
+    },
+    {
+        "title": "Adversarially Learned Representations for Information Obfuscation and Inference",
+        "status": "Oral",
+        "authors": "Martin A Bertran, Natalia Martinez Gil, Afroditi Papadaki, Qiang Qiu, Miguel Rodrigues, Galen Reeves, Guillermo Sapiro"
+    },
+    {
+        "title": "Agnostic Federated Learning",
+        "status": "Oral",
+        "authors": "Mehryar Mohri, Gary Sivek, Ananda Suresh"
+    },
+    {
+        "title": "Almost Unsupervised Text to Speech and Automatic Speech Recognition",
+        "status": "Oral",
+        "authors": "Yi Ren, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu"
+    },
+    {
+        "title": "Almost surely constrained convex optimization",
+        "status": "Oral",
+        "authors": "Olivier Fercoq, Ahmet Alacaoglu, Ion Necoara, Volkan Cevher"
+    },
+    {
+        "title": "Alternating Minimizations Converge to Second-Order Optimal Solutions",
+        "status": "Oral",
+        "authors": "Qiuwei Li, Zhihui Zhu, Gongguo Tang"
+    },
+    {
+        "title": "Amortized Monte Carlo Integration",
+        "status": "Oral",
+        "authors": "Adam Golinski, Frank Wood, Tom Rainforth"
+    },
+    {
+        "title": "An Instability in Variational Inference for Topic Models",
+        "status": "Oral",
+        "authors": "Behrooz Ghorbani, Hamidreza Hakim Javadi, Andrea Montanari"
+    },
+    {
+        "title": "An Investigation into Neural Net Optimization via Hessian Eigenvalue Density",
+        "status": "Oral",
+        "authors": "Behrooz Ghorbani, Shankar Krishnan, Ying Xiao"
+    },
+    {
+        "title": "An Investigation of Model-Free Planning",
+        "status": "Oral",
+        "authors": "Arthur Guez, Mehdi Mirza, Karol Gregor, Rishabh Kabra, Sebastien Racaniere, Theophane Weber, David Raposo, Adam Santoro, Laurent Orseau, Tom Eccles, Greg Wayne, David Silver, Timothy Lillicrap"
+    },
+    {
+        "title": "An Optimal Private Stochastic-MAB Algorithm based on Optimal Private Stopping Rule",
+        "status": "Oral",
+        "authors": "Touqir Sajed, Or Sheffet"
+    },
+    {
+        "title": "Analogies Explained: Towards Understanding Word Embeddings",
+        "status": "Oral",
+        "authors": "Carl Allen, Timothy Hospedales"
+    },
+    {
+        "title": "Analyzing Federated Learning through an Adversarial Lens",
+        "status": "Oral",
+        "authors": "Arjun Nitin Bhagoji, Supriyo Chakraborty, Prateek Mittal, Seraphin Calo"
+    },
+    {
+        "title": "Analyzing and Improving Representations with the Soft Nearest Neighbor Loss",
+        "status": "Oral",
+        "authors": "Nicholas Frosst, Nicolas Papernot, Geoffrey Hinton"
+    },
+    {
+        "title": "Anomaly Detection With Multiple-Hypotheses Predictions",
+        "status": "Oral",
+        "authors": "Duc Tam Nguyen, Zhongyu Lou, Michael Klar, Thomas Brox"
+    },
+    {
+        "title": "Anytime Online-to-Batch, Optimism and Acceleration",
+        "status": "Oral",
+        "authors": "Ashok Cutkosky"
+    },
+    {
+        "title": "Approximated Oracle Filter Pruning for Destructive CNN Width Optimization",
+        "status": "Oral",
+        "authors": "XIAOHAN DING, guiguang ding, Yuchen Guo, Jungong Han, Chenggang Yan"
+    },
+    {
+        "title": "Approximating Orthogonal Matrices with Effective Givens Factorization",
+        "status": "Oral",
+        "authors": "Thomas Frerix, Joan Bruna"
+    },
+    {
+        "title": "Approximation and non-parametric estimation of ResNet-type convolutional neural networks",
+        "status": "Oral",
+        "authors": "Kenta Oono, Taiji Suzuki"
+    },
+    {
+        "title": "Are Generative Classifiers More Robust to Adversarial Attacks?",
+        "status": "Oral",
+        "authors": "Yingzhen Li, John Bradshaw, Yash Sharma"
+    },
+    {
+        "title": "Area Attention",
+        "status": "Oral",
+        "authors": "Yang Li, Lukasz Kaiser, Samy Bengio, Si Si"
+    },
+    {
+        "title": "Asynchronous Batch Bayesian Optimisation with Improved Local Penalisation",
+        "status": "Oral",
+        "authors": "Ahsan Alvi, Binxin Ru, Jan-Peter Calliess, Stephen Roberts, Michael A Osborne"
+    },
+    {
+        "title": "AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss",
+        "status": "Oral",
+        "authors": "Kaizhi Qian, Yang Zhang, Shiyu Chang, Xuesong Yang, Mark Hasegawa-Johnson"
+    },
+    {
+        "title": "Automated Model Selection with Bayesian Quadrature",
+        "status": "Oral",
+        "authors": "Henry Chai, Jean-Francois Ton, Michael A Osborne, Roman Garnett"
+    },
+    {
+        "title": "Automatic Classifiers as Scientific Instruments: One Step Further Away from Ground-Truth",
+        "status": "Oral",
+        "authors": "Jacob Whitehill, Anand Ramakrishnan"
+    },
+    {
+        "title": "Automatic Posterior Transformation for Likelihood-Free Inference",
+        "status": "Oral",
+        "authors": "David Greenberg, Marcel Nonnenmacher, Jakob Macke"
+    },
+    {
+        "title": "Autoregressive Energy Machines",
+        "status": "Oral",
+        "authors": "Conor Durkan, Charlie Nash"
+    },
+    {
+        "title": "BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning",
+        "status": "Oral",
+        "authors": "Asa Cooper Stickland, Iain Murray"
+    },
+    {
+        "title": "Band-limited Training and Inference for Convolutional Neural Networks",
+        "status": "Oral",
+        "authors": "Adam Dziedzic, John Paparrizos, Sanjay Krishnan, Aaron Elmore, Michael Franklin"
+    },
+    {
+        "title": "Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case",
+        "status": "Oral",
+        "authors": "Alina Beygelzimer, David Pal, Balazs Szorenyi, Devanathan Thiruvenkatachari, Chen-Yu Wei, Chicheng Zhang"
+    },
+    {
+        "title": "Batch Policy Learning under Constraints",
+        "status": "Oral",
+        "authors": "Hoang Le, Cameron Voloshin, Yisong Yue"
+    },
+    {
+        "title": "BayesNAS: A Bayesian Approach for Neural Architecture Search",
+        "status": "Oral",
+        "authors": "Hongpeng Zhou, Minghao Yang, Jun Wang, Wei Pan"
+    },
+    {
+        "title": "Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Jakob Foerster, Francis Song, Edward Hughes, Neil Burch, Iain Dunning, Shimon Whiteson, Matthew Botvinick, Michael Bowling"
+    },
+    {
+        "title": "Bayesian Counterfactual Risk Minimization",
+        "status": "Oral",
+        "authors": "Ben London, Ted Sandler"
+    },
+    {
+        "title": "Bayesian Deconditional Kernel Mean Embeddings",
+        "status": "Oral",
+        "authors": "Kelvin Hsu, Fabio Ramos"
+    },
+    {
+        "title": "Bayesian Generative Active Deep Learning",
+        "status": "Oral",
+        "authors": "Toan Tran, Thanh-Toan Do, Ian Reid, Gustavo Carneiro"
+    },
+    {
+        "title": "Bayesian Joint Spike-and-Slab Graphical Lasso",
+        "status": "Oral",
+        "authors": "Zehang Li, Tyler Mccormick, Samuel Clark"
+    },
+    {
+        "title": "Bayesian Nonparametric Federated Learning of Neural Networks",
+        "status": "Oral",
+        "authors": "Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Nghia Hoang, Yasaman Khazaeni"
+    },
+    {
+        "title": "Bayesian Optimization Meets Bayesian Optimal Stopping",
+        "status": "Oral",
+        "authors": "Zhongxiang Dai, Haibin Yu, Bryan Kian Hsiang Low, Patrick Jaillet"
+    },
+    {
+        "title": "Bayesian Optimization of Composite Functions",
+        "status": "Oral",
+        "authors": "Raul Astudillo, Peter I Frazier"
+    },
+    {
+        "title": "Bayesian leave-one-out cross-validation for large data",
+        "status": "Oral",
+        "authors": "M\u00e5ns Magnusson, Michael Andersen, Johan Jonasson, Aki Vehtari"
+    },
+    {
+        "title": "Beating Stochastic and Adversarial Semi-bandits Optimally and Simultaneously",
+        "status": "Oral",
+        "authors": "Julian Zimmert, Haipeng Luo, Chen-Yu Wei"
+    },
+    {
+        "title": "Benefits and Pitfalls of the Exponential Mechanism with Applications to Hilbert Spaces and Functional PCA",
+        "status": "Oral",
+        "authors": "Jordan Awan, Ana Kenney, Matthew Reimherr, Aleksandra Slavkovi\u0107"
+    },
+    {
+        "title": "Better generalization with less data using robust gradient descent",
+        "status": "Oral",
+        "authors": "Matthew J. Holland, Kazushi Ikeda"
+    },
+    {
+        "title": "Beyond Adaptive Submodularity: Approximation Guarantees of Greedy Policy with Adaptive Submodularity Ratio",
+        "status": "Oral",
+        "authors": "Kaito Fujii, Shinsaku Sakaue"
+    },
+    {
+        "title": "Beyond Backprop: Online Alternating Minimization with Auxiliary Variables",
+        "status": "Oral",
+        "authors": "Anna Choromanska, Benjamin Cowen, Sadhana Kumaravel, Ronny Luss, Mattia Rigotti, Irina Rish, Paolo DiAchille, Viatcheslav Gurev, Brian Kingsbury, Ravi Tejwani, Djallel Bouneffouf"
+    },
+    {
+        "title": "Beyond the Chinese Restaurant and Pitman-Yor processes: Statistical Models with double power-law behavior",
+        "status": "Oral",
+        "authors": "Fadhel Ayed, Juho Lee, Francois Caron"
+    },
+    {
+        "title": "Bias Also Matters: Bias Attribution for Deep Neural Network Explanation",
+        "status": "Oral",
+        "authors": "Shengjie Wang, Tianyi Zhou, Jeff Bilmes"
+    },
+    {
+        "title": "Bilinear Bandits with Low-rank Structure",
+        "status": "Oral",
+        "authors": "Kwang-Sung Jun, Rebecca Willett, Stephen Wright, Robert Nowak"
+    },
+    {
+        "title": "Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables",
+        "status": "Oral",
+        "authors": "Friso Kingma, Pieter Abbeel, Jonathan Ho"
+    },
+    {
+        "title": "Blended Conditonal Gradients",
+        "status": "Oral",
+        "authors": "G\u00e1bor Braun, Sebastian Pokutta, Dan Tu, Stephen Wright"
+    },
+    {
+        "title": "Boosted Density Estimation Remastered",
+        "status": "Oral",
+        "authors": "Zac Cranko, Richard Nock"
+    },
+    {
+        "title": "Bounding User Contributions: A Bias-Variance Trade-off in Differential Privacy",
+        "status": "Oral",
+        "authors": "Kareem Amin, Alex Kulesza, andres munoz, Sergei Vassilvitskii"
+    },
+    {
+        "title": "Breaking Inter-Layer Co-Adaptation by Classifier Anonymization",
+        "status": "Oral",
+        "authors": "Ikuro Sato, Kohta Ishikawa, Guoqing Liu, Masayuki Tanaka"
+    },
+    {
+        "title": "Breaking the Softmax Bottleneck via Learnable Monotonic Pointwise Non-linearities",
+        "status": "Oral",
+        "authors": "Octavian-Eugen Ganea, Sylvain Gelly, Gary Becigneul, Aliaksei Severyn"
+    },
+    {
+        "title": "Breaking the gridlock in Mixture-of-Experts: Consistent and Efficient Algorithms",
+        "status": "Oral",
+        "authors": "Ashok Vardhan Makkuva, Pramod Viswanath, Sreeram Kannan, Sewoong Oh"
+    },
+    {
+        "title": "Bridging Theory and Algorithm for Domain Adaptation",
+        "status": "Oral",
+        "authors": "Yuchen Zhang, Tianle Liu, Mingsheng Long, Michael Jordan"
+    },
+    {
+        "title": "CAB: Continuous Adaptive Blending for Policy Evaluation and Learning",
+        "status": "Oral",
+        "authors": "Yi Su, Luke Lequn Wang, Michele Santacatterina, Thorsten Joachims"
+    },
+    {
+        "title": "CHiVE: Varying Prosody in Speech Synthesis with a Linguistically Driven Dynamic Hierarchical Conditional Variational Network",
+        "status": "Oral",
+        "authors": "Tom Kenter, Vincent Wan, Chun-an Chan, Robert Clark, Jakub Vit"
+    },
+    {
+        "title": "COMIC: Multi-view Clustering Without Parameter Selection",
+        "status": "Oral",
+        "authors": "Xi Peng, Zhenyu Huang, Jiancheng Lv, Hongyuan Zhu, Joey Tianyi Zhou"
+    },
+    {
+        "title": "CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning",
+        "status": "Oral",
+        "authors": "C\u00e9dric Colas, Pierre-Yves Oudeyer, Olivier Sigaud, Pierre Fournier, Mohamed Chetouani"
+    },
+    {
+        "title": "Calibrated Approximate Bayesian Inference",
+        "status": "Oral",
+        "authors": "Hanwen Xing, Geoff Nicholls, Jeong Lee"
+    },
+    {
+        "title": "Calibrated Model-Based Deep Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Ali Malik, Volodymyr Kuleshov, Jiaming Song, Danny Nemer, Harlan Seymour, Stefano Ermon"
+    },
+    {
+        "title": "CapsAndRuns: An Improved Method for Approximately Optimal Algorithm Configuration",
+        "status": "Oral",
+        "authors": "Gell\u00e9rt Weisz, Andr\u00e1s Gy\u00f6rgy, Csaba Szepesvari"
+    },
+    {
+        "title": "Categorical Feature Compression via Submodular Optimization",
+        "status": "Oral",
+        "authors": "Mohammad Hossein Bateni, Lin Chen, Hossein Esfandiari, Thomas Fu, Vahab Mirrokni, Afshin Rostamizadeh"
+    },
+    {
+        "title": "Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models",
+        "status": "Oral",
+        "authors": "Biwei Huang, Kun Zhang, Mingming Gong, Clark Glymour"
+    },
+    {
+        "title": "Causal Identification under Markov Equivalence: Completeness Results",
+        "status": "Oral",
+        "authors": "Amin Jaber, Jiji Zhang, Elias Bareinboim"
+    },
+    {
+        "title": "Cautious Regret Minimization: Online Optimization with Long-Term Budget Constraints",
+        "status": "Oral",
+        "authors": "Nikolaos Liakopoulos, Apostolos Destounis, Georgios Paschos, Thrasyvoulos Spyropoulos, Panayotis Mertikopoulos"
+    },
+    {
+        "title": "Certified Adversarial Robustness via Randomized Smoothing",
+        "status": "Oral",
+        "authors": "Jeremy Cohen, Elan Rosenfeld, Zico Kolter"
+    },
+    {
+        "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
+        "status": "Oral",
+        "authors": "Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Ratsch, Sylvain Gelly, Bernhard Sch\u00f6lkopf, Olivier Bachem"
+    },
+    {
+        "title": "Characterization of Convex Objective Functions and Optimal Expected Convergence Rates for SGD",
+        "status": "Oral",
+        "authors": "Marten van Dijk, Lam Nguyen, PHUONG_HA NGUYEN, Dzung Phan"
+    },
+    {
+        "title": "Characterizing Well-Behaved vs. Pathological Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Antoine Labatie"
+    },
+    {
+        "title": "Cheap Orthogonal Constraints in Neural Networks: A Simple Parametrization of the Orthogonal and Unitary Group",
+        "status": "Oral",
+        "authors": "Mario Lezcano Casado, David Mart\u00ednez-Rubio"
+    },
+    {
+        "title": "Circuit-GNN: Graph Neural Networks for Distributed Circuit Design",
+        "status": "Oral",
+        "authors": "GUO ZHANG, Hao He, Dina Katabi"
+    },
+    {
+        "title": "Classification from Positive, Unlabeled and Biased Negative Data",
+        "status": "Oral",
+        "authors": "Yu-Guan Hsieh, Gang Niu, Masashi Sugiyama"
+    },
+    {
+        "title": "Classifying Treatment Responders Under Causal Effect Monotonicity",
+        "status": "Oral",
+        "authors": "Nathan Kallus"
+    },
+    {
+        "title": "Co-Representation Network for Generalized Zero-Shot Learning",
+        "status": "Oral",
+        "authors": "Fei Zhang, Guangming Shi"
+    },
+    {
+        "title": "Co-manifold learning with missing data",
+        "status": "Oral",
+        "authors": "Gal Mishne, Eric Chi, Ronald Coifman"
+    },
+    {
+        "title": "CoT: Cooperative Training for Generative Modeling of Discrete Data",
+        "status": "Oral",
+        "authors": "Sidi Lu, Lantao Yu, Siyuan Feng, Yaoming Zhu, Weinan Zhang"
+    },
+    {
+        "title": "Cognitive model priors for predicting human decisions",
+        "status": "Oral",
+        "authors": "Joshua C Peterson, David D Bourgin, Daniel Reichman, Thomas Griffiths, Stuart Russell"
+    },
+    {
+        "title": "Collaborative Channel Pruning for Deep Networks",
+        "status": "Oral",
+        "authors": "Hanyu Peng, Jiaxiang Wu, Shifeng Chen, Junzhou Huang"
+    },
+    {
+        "title": "Collaborative Evolutionary Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Shauharda Khadka, Somdeb Majumdar, Tarek Nassar, Zach Dwiel, Evren Tumer, Santiago Miret, Yinyin Liu, Kagan Tumer"
+    },
+    {
+        "title": "Collective Model Fusion for Multiple Black-Box Experts",
+        "status": "Oral",
+        "authors": "Minh Hoang, Nghia Hoang, Bryan Kian Hsiang Low, Carleton Kingsford"
+    },
+    {
+        "title": "Combating Label Noise in Deep Learning using Abstention",
+        "status": "Oral",
+        "authors": "Sunil Thulasidasan, Tanmoy Bhattacharya, Jeff Bilmes, Gopinath Chennupati, Jamal Mohd-Yusof"
+    },
+    {
+        "title": "Combining parametric and nonparametric models for off-policy evaluation",
+        "status": "Oral",
+        "authors": "Omer Gottesman, Yao Liu, Scott Sussex, Emma Brunskill, Finale Doshi-Velez"
+    },
+    {
+        "title": "Communication Complexity in Locally Private Distribution Estimation and Heavy Hitters",
+        "status": "Oral",
+        "authors": "Jayadev Acharya, Ziteng Sun"
+    },
+    {
+        "title": "Communication-Constrained Inference and the Role of Shared Randomness",
+        "status": "Oral",
+        "authors": "Jayadev Acharya, Cl\u00e9ment Canonne, Himanshu Tyagi"
+    },
+    {
+        "title": "CompILE: Compositional Imitation Learning and Execution",
+        "status": "Oral",
+        "authors": "Thomas Kipf, Yujia Li, Hanjun Dai, Vinicius Zambaldi, Alvaro Sanchez-Gonzalez, Edward Grefenstette, Pushmeet Kohli, Peter Battaglia"
+    },
+    {
+        "title": "Competing Against Nash Equilibria in Adversarially Changing Zero-Sum Games",
+        "status": "Oral",
+        "authors": "Adrian Rivera Cardoso, Jacob Abernethy, He Wang, Huan Xu"
+    },
+    {
+        "title": "Complementary-Label Learning for Arbitrary Losses and Models",
+        "status": "Oral",
+        "authors": "Takashi Ishida, Gang Niu, Aditya Menon, Masashi Sugiyama"
+    },
+    {
+        "title": "Complexity of Linear Regions in Deep Networks",
+        "status": "Oral",
+        "authors": "Boris Hanin, David Rolnick"
+    },
+    {
+        "title": "Composable Core-sets for Determinant Maximization: A Simple Near-Optimal Algorithm",
+        "status": "Oral",
+        "authors": "Sepideh Mahabadi, Piotr Indyk, Shayan Oveis Gharan, Alireza Rezaei"
+    },
+    {
+        "title": "Composing Entropic Policies using Divergence Correction",
+        "status": "Oral",
+        "authors": "Jonathan Hunt, Andre Barreto, Timothy Lillicrap, Nicolas Heess"
+    },
+    {
+        "title": "Composing Value Functions in Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Benjamin van Niekerk, Steven James, Adam Earle, Benjamin Rosman"
+    },
+    {
+        "title": "Compositional Fairness Constraints for Graph Embeddings",
+        "status": "Oral",
+        "authors": "Avishek Bose, William Hamilton"
+    },
+    {
+        "title": "Compressed Factorization: Fast and Accurate Low-Rank Factorization of Compressively-Sensed Data",
+        "status": "Oral",
+        "authors": "Vatsal Sharan, Kai Sheng Tai, Peter Bailis, Gregory Valiant"
+    },
+    {
+        "title": "Compressing Gradient Optimizers via Count-Sketches",
+        "status": "Oral",
+        "authors": "Ryan Spring, Anastasios Kyrillidis, Vijai Mohan, Anshumali Shrivastava"
+    },
+    {
+        "title": "Concentration Inequalities for Conditional Value at Risk",
+        "status": "Oral",
+        "authors": "Philip Thomas, Erik Learned-Miller"
+    },
+    {
+        "title": "Concrete Autoencoders: Differentiable Feature Selection and Reconstruction",
+        "status": "Oral",
+        "authors": "Muhammed Fatih Bal\u0131n, Abubakar Abid, James Zou"
+    },
+    {
+        "title": "Conditional Gradient Methods via Stochastic Path-Integrated Differential Estimator",
+        "status": "Oral",
+        "authors": "Alp Yurtsever, Suvrit Sra, Volkan Cevher"
+    },
+    {
+        "title": "Conditional Independence in Testing Bayesian Networks",
+        "status": "Oral",
+        "authors": "Yujia Shen, Haiying Huang, Arthur Choi, Adnan Darwiche"
+    },
+    {
+        "title": "Conditioning by adaptive sampling for robust design",
+        "status": "Oral",
+        "authors": "David Brookes, Jennifer Listgarten"
+    },
+    {
+        "title": "Connectivity-Optimized Representation Learning via Persistent Homology",
+        "status": "Oral",
+        "authors": "Christoph Hofer, Roland Kwitt, Marc Niethammer, Mandar Dixit"
+    },
+    {
+        "title": "Context-Aware Zero-Shot Learning for Object Recognition",
+        "status": "Oral",
+        "authors": "Eloi Zablocki, Patrick Bordes, Laure Soulier, Benjamin Piwowarski, Patrick Gallinari"
+    },
+    {
+        "title": "Contextual Memory Trees",
+        "status": "Oral",
+        "authors": "Wen Sun, Alina Beygelzimer, Hal Daum\u00e9 III, John Langford, Paul Mineiro"
+    },
+    {
+        "title": "Contextual Multi-armed Bandit Algorithm for Semiparametric Reward Model",
+        "status": "Oral",
+        "authors": "Gi-Soo Kim, Myunghee Cho Paik"
+    },
+    {
+        "title": "Control Regularization for Reduced Variance Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Richard Cheng, Abhinav Verma, Gabor Orosz, Swarat Chaudhuri, Yisong Yue, Joel Burdick"
+    },
+    {
+        "title": "Convolutional Poisson Gamma Belief Network",
+        "status": "Oral",
+        "authors": "CHAOJIE WANG, Bo Chen, SUCHENG XIAO, Mingyuan Zhou"
+    },
+    {
+        "title": "Coresets for Ordered Weighted Clustering",
+        "status": "Oral",
+        "authors": "Vladimir Braverman, Shaofeng Jiang, Robert Krauthgamer, Xuan Wu"
+    },
+    {
+        "title": "Correlated Variational Auto-Encoders",
+        "status": "Oral",
+        "authors": "Da Tang, Dawen Liang, Tony Jebara, Nicholas Ruozzi"
+    },
+    {
+        "title": "Correlated bandits or: How to minimize mean-squared error online",
+        "status": "Oral",
+        "authors": "Vinay Praneeth Boda, Prashanth L.A."
+    },
+    {
+        "title": "Counterfactual Off-Policy Evaluation with Gumbel-Max Structural Causal Models",
+        "status": "Oral",
+        "authors": "Michael Oberst, David Sontag"
+    },
+    {
+        "title": "Counterfactual Visual Explanations",
+        "status": "Oral",
+        "authors": "Yash Goyal, Ziyan Wu, Jan Ernst, Dhruv Batra, Devi Parikh, Stefan Lee"
+    },
+    {
+        "title": "Cross-Domain 3D Equivariant Image Embeddings",
+        "status": "Oral",
+        "authors": "Carlos Esteves, Avneesh Sud, Zhengyi Luo, Kostas Daniilidis, Ameesh Makadia"
+    },
+    {
+        "title": "Curiosity-Bottleneck: Exploration By Distilling Task-Specific Novelty",
+        "status": "Oral",
+        "authors": "Youngjin Kim, Daniel Nam, Hyunwoo Kim, Ji-Hoon Kim, Gunhee Kim"
+    },
+    {
+        "title": "Curvature-Exploiting Acceleration of Elastic Net Computations",
+        "status": "Oral",
+        "authors": "Vien Mai, Mikael Johansson"
+    },
+    {
+        "title": "DAG-GNN: DAG Structure Learning with Graph Neural Networks",
+        "status": "Oral",
+        "authors": "Yue Yu, Jie Chen, Tian Gao, Mo Yu"
+    },
+    {
+        "title": "DBSCAN++: Towards fast and scalable density clustering",
+        "status": "Oral",
+        "authors": "Jennifer Jang, Heinrich Jiang"
+    },
+    {
+        "title": "DL2: Training and Querying Neural Networks with Logic",
+        "status": "Oral",
+        "authors": "Marc Fischer, Mislav Balunovic, Dana Drachsler-Cohen, Timon Gehr, Ce Zhang, Martin Vechev"
+    },
+    {
+        "title": "DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures",
+        "status": "Oral",
+        "authors": "Andrew R Lawrence, Carl Henrik Ek, Neill Campbell"
+    },
+    {
+        "title": "Data Poisoning Attacks in Multi-Party Learning",
+        "status": "Oral",
+        "authors": "Saeed Mahloujifar, Mohammad Mahmoody, Ameer Mohammed"
+    },
+    {
+        "title": "Data Poisoning Attacks on Stochastic Bandits",
+        "status": "Oral",
+        "authors": "Fang Liu, Ness Shroff"
+    },
+    {
+        "title": "Data Shapley: Equitable Valuation of Data for Machine Learning",
+        "status": "Oral",
+        "authors": "Amirata Ghorbani, James Zou"
+    },
+    {
+        "title": "Dead-ends and Secure Exploration in Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Mehdi Fatemi, Shikhar Sharma, Harm van Seijen, Samira Ebrahimi Kahou"
+    },
+    {
+        "title": "Decentralized Exploration in Multi-Armed Bandits",
+        "status": "Oral",
+        "authors": "Rapha\u00ebl F\u00e9raud, REDA ALAMI, Romain Laroche"
+    },
+    {
+        "title": "Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication",
+        "status": "Oral",
+        "authors": "Anastasiia Koloskova, Sebastian Stich, Martin Jaggi"
+    },
+    {
+        "title": "Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models",
+        "status": "Oral",
+        "authors": "Kaspar M\u00e4rtens, Kieran Campbell, Christopher Yau"
+    },
+    {
+        "title": "Deep Compressed Sensing",
+        "status": "Oral",
+        "authors": "Yan Wu, Mihaela Rosca, Timothy Lillicrap"
+    },
+    {
+        "title": "Deep Counterfactual Regret Minimization",
+        "status": "Oral",
+        "authors": "Noam Brown, Adam Lerer, Sam Gross, Tuomas Sandholm"
+    },
+    {
+        "title": "Deep Factors for Forecasting",
+        "status": "Oral",
+        "authors": "Yuyang Wang, Alex Smola, Danielle Robinson, Jan Gasthaus, Dean Foster, Tim Januschowski"
+    },
+    {
+        "title": "Deep Gaussian Processes with Importance-Weighted Variational Inference",
+        "status": "Oral",
+        "authors": "Hugh Salimbeni, Vincent Dutordoir, James Hensman, Marc P Deisenroth"
+    },
+    {
+        "title": "Deep Generative Learning via Variational Gradient Flow",
+        "status": "Oral",
+        "authors": "Yuan Gao, Yuling Jiao, Yang Wang, Yao Wang, Can Yang, Shunkang Zhang"
+    },
+    {
+        "title": "Deep Residual Output Layers for Neural Language Generation",
+        "status": "Oral",
+        "authors": "Nikolaos Pappas, James Henderson"
+    },
+    {
+        "title": "DeepMDP: Learning Continuous Latent Space Models for Representation Learning",
+        "status": "Oral",
+        "authors": "Carles Gelada, Saurabh Kumar, Jacob Buckman, Ofir Nachum, Marc Bellemare"
+    },
+    {
+        "title": "DeepNose: Using artificial neural networks to represent the space of odorants",
+        "status": "Oral",
+        "authors": "Ngoc Tran, Daniel Kepple, Sergey Shuvaev, Alexei Koulakov"
+    },
+    {
+        "title": "Defending Against Saddle Point Attack in Byzantine-Robust Distributed Learning",
+        "status": "Oral",
+        "authors": "Dong Yin, Yudong Chen, Kannan Ramchandran, Peter Bartlett"
+    },
+    {
+        "title": "Demystifying Dropout",
+        "status": "Oral",
+        "authors": "Hongchang Gao, Jian Pei, Heng Huang"
+    },
+    {
+        "title": "Detecting Overlapping and Correlated Communities without Pure Nodes: Identifiability and Algorithm",
+        "status": "Oral",
+        "authors": "Kejun Huang, Xiao Fu"
+    },
+    {
+        "title": "Diagnosing Bottlenecks in Deep Q-learning Algorithms",
+        "status": "Oral",
+        "authors": "Justin Fu, Aviral Kumar, Matthew Soh, Sergey Levine"
+    },
+    {
+        "title": "Differentiable Dynamic Normalization for Learning Deep Representation",
+        "status": "Oral",
+        "authors": "Ping Luo, Peng Zhanglin, Shao Wenqi, Zhang ruimao, Ren jiamin, Wu lingyun"
+    },
+    {
+        "title": "Differentiable Linearized ADMM",
+        "status": "Oral",
+        "authors": "Xingyu Xie, Jianlong Wu, Guangcan Liu, Zhisheng Zhong, Zhouchen Lin"
+    },
+    {
+        "title": "Differential Inclusions for Modeling Nonsmooth ADMM Variants: A Continuous Limit Theory",
+        "status": "Oral",
+        "authors": "Huizhuo Yuan, Yuren Zhou, Chris Junchi Li, Qingyun Sun"
+    },
+    {
+        "title": "Differentially Private Empirical Risk Minimization with Non-convex Loss Functions",
+        "status": "Oral",
+        "authors": "Di Wang, Changyou Chen, Jinhui Xu"
+    },
+    {
+        "title": "Differentially Private Fair Learning",
+        "status": "Oral",
+        "authors": "Matthew Jagielski, Michael Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman"
+    },
+    {
+        "title": "Differentially Private Learning of Geometric Concepts",
+        "status": "Oral",
+        "authors": "Haim Kaplan, Yishay Mansour, Yossi Matias, Uri Stemmer"
+    },
+    {
+        "title": "Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Seungyul Han, Youngchul Sung"
+    },
+    {
+        "title": "Dimensionality Reduction for Tukey Regression",
+        "status": "Oral",
+        "authors": "Kenneth Clarkson, Ruosong Wang, David Woodruff"
+    },
+    {
+        "title": "Direct Uncertainty Prediction for Medical Second Opinions",
+        "status": "Oral",
+        "authors": "Maithra Raghu, Katy Blumer, Rory sayres, Ziad Obermeyer, Bobby Kleinberg, Sendhil Mullainathan, Jon Kleinberg"
+    },
+    {
+        "title": "Dirichlet Simplex Nest and Geometric Inference",
+        "status": "Oral",
+        "authors": "Mikhail Yurochkin, Aritra Guha, Yuekai Sun, XuanLong Nguyen"
+    },
+    {
+        "title": "Discovering Conditionally Salient Features with Statistical Guarantees",
+        "status": "Oral",
+        "authors": "Jaime Roquero Gimenez, James Zou"
+    },
+    {
+        "title": "Discovering Context Effects from Raw Choice Data",
+        "status": "Oral",
+        "authors": "Arjun Seshadri, Alexander Peysakhovich, Johan Ugander"
+    },
+    {
+        "title": "Discovering Latent Covariance Structures for Multiple Time Series",
+        "status": "Oral",
+        "authors": "Anh Tong, Jaesik Choi"
+    },
+    {
+        "title": "Discovering Options for Exploration by Minimizing Cover Time",
+        "status": "Oral",
+        "authors": "Yuu Jinnai, Jee Won Park, David Abel, George Konidaris"
+    },
+    {
+        "title": "Discriminative Regularization for Latent Variable Models with Applications to Electrocardiography",
+        "status": "Oral",
+        "authors": "Andrew Miller, Ziad Obermeyer, John Cunningham, Sendhil Mullainathan"
+    },
+    {
+        "title": "Disentangled Graph Convolutional Networks",
+        "status": "Oral",
+        "authors": "Jianxin Ma, Peng Cui, Kun Kuang, Xin Wang, Wenwu Zhu"
+    },
+    {
+        "title": "Disentangling Disentanglement in Variational Autoencoders",
+        "status": "Oral",
+        "authors": "Emile Mathieu, Tom Rainforth, N Siddharth, Yee-Whye Teh"
+    },
+    {
+        "title": "Distributed Learning over Unreliable Networks",
+        "status": "Oral",
+        "authors": "Chen Yu, Hanlin Tang, Cedric Renggli, Simon Kassing, Ankit Singla, Dan Alistarh, Ce Zhang, Ji Liu"
+    },
+    {
+        "title": "Distributed Learning with Sublinear Communication",
+        "status": "Oral",
+        "authors": "Jayadev Acharya, Christopher De Sa, Dylan Foster, Karthik Sridharan"
+    },
+    {
+        "title": "Distributed Weighted Matching via Randomized Composable Coresets",
+        "status": "Oral",
+        "authors": "Sepehr Assadi, Mohammad Hossein Bateni, Vahab Mirrokni"
+    },
+    {
+        "title": "Distributed, Egocentric Representations of Graphs for Detecting Critical Structures",
+        "status": "Oral",
+        "authors": "Ruo-Chun Tzeng, Shan-Hung (Brandon) Wu"
+    },
+    {
+        "title": "Distribution calibration for regression",
+        "status": "Oral",
+        "authors": "Hao Song, Tom Diethe, Meelis Kull, Peter Flach"
+    },
+    {
+        "title": "Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN",
+        "status": "Oral",
+        "authors": "dror freirich, Tzahi Shimkin, Ron Meir, Aviv Tamar"
+    },
+    {
+        "title": "Distributional Reinforcement Learning for Efficient Exploration",
+        "status": "Oral",
+        "authors": "Borislav Mavrin, Hengshuai Yao, Linglong Kong, Kaiwen Wu, Yaoliang Yu"
+    },
+    {
+        "title": "Do ImageNet Classifiers Generalize to ImageNet?",
+        "status": "Oral",
+        "authors": "Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar"
+    },
+    {
+        "title": "Does Data Augmentation Lead to Positive Margin?",
+        "status": "Oral",
+        "authors": "Shashank Rajput, Zhili Feng, Zachary Charles, Po-Ling Loh, Dimitris Papailiopoulos"
+    },
+    {
+        "title": "Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment",
+        "status": "Oral",
+        "authors": "Yifan Wu, Ezra Winston, Divyansh Kaushik, Zachary Lipton"
+    },
+    {
+        "title": "Domain Agnostic Learning with Disentangled Representations",
+        "status": "Oral",
+        "authors": "Xingchao Peng, Zijun Huang, Ximeng Sun, Kate Saenko"
+    },
+    {
+        "title": "Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random",
+        "status": "Oral",
+        "authors": "Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi"
+    },
+    {
+        "title": "Doubly-Competitive Distribution Estimation",
+        "status": "Oral",
+        "authors": "Yi Hao, Alon Orlitsky"
+    },
+    {
+        "title": "Dropout as a Structured Shrinkage Prior",
+        "status": "Oral",
+        "authors": "Eric Nalisnick, Jose Miguel Hernandez-Lobato, Padhraic Smyth"
+    },
+    {
+        "title": "Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication",
+        "status": "Oral",
+        "authors": "Pedro Soto, Jun Li, Xiaodi Fan"
+    },
+    {
+        "title": "Dynamic Learning with Frequent New Product Launches: A Sequential Multinomial Logit Bandit Problem",
+        "status": "Oral",
+        "authors": "Junyu Cao, Wei Sun"
+    },
+    {
+        "title": "Dynamic Measurement Scheduling for Event Forecasting using Deep RL",
+        "status": "Oral",
+        "authors": "Chun-Hao (Kingsley) Chang, Mingjie Mai, Anna Goldenberg"
+    },
+    {
+        "title": "Dynamic Weights in Multi-Objective Deep Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Axel Abels, Diederik Roijers, Tom Lenaerts, Ann Now\u00e9, Denis Steckelmacher"
+    },
+    {
+        "title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
+        "status": "Oral",
+        "authors": "Chao Ma, Sebastian Tschiatschek, Konstantina Palla, Jose Miguel Hernandez-Lobato, Sebastian Nowozin, Cheng Zhang"
+    },
+    {
+        "title": "ELF OpenGo: an analysis and open reimplementation of AlphaZero",
+        "status": "Oral",
+        "authors": "Yuandong Tian, Jerry Ma, Qucheng Gong, Shubho Sengupta, Zhuoyuan Chen, James Pinkerton, Larry Zitnick"
+    },
+    {
+        "title": "EMI: Exploration with Mutual Information",
+        "status": "Oral",
+        "authors": "Hyoungseok Kim, Jaekyeom Kim, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song"
+    },
+    {
+        "title": "Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems",
+        "status": "Oral",
+        "authors": "Ted Meeds, Geoffrey Roeder, Paul Grant, Andrew Phillips, Neil Dalchau"
+    },
+    {
+        "title": "Efficient Dictionary Learning with Gradient Descent",
+        "status": "Oral",
+        "authors": "Dar Gilboa, Sam Buchanan, John Wright"
+    },
+    {
+        "title": "Efficient Full-Matrix Adaptive Regularization",
+        "status": "Oral",
+        "authors": "Naman Agarwal, Brian Bullins, Xinyi Chen, Elad Hazan, Karan Singh, Cyril Zhang, Yi Zhang"
+    },
+    {
+        "title": "Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations",
+        "status": "Oral",
+        "authors": "Quanming Yao, James Kwok, Bo Han"
+    },
+    {
+        "title": "Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables",
+        "status": "Oral",
+        "authors": "Kate Rakelly, Aurick Zhou, Chelsea Finn, Sergey Levine, Deirdre Quillen"
+    },
+    {
+        "title": "Efficient On-Device Models using Neural Projections",
+        "status": "Oral",
+        "authors": "Sujith Ravi"
+    },
+    {
+        "title": "Efficient Training of BERT by Progressively Stacking",
+        "status": "Oral",
+        "authors": "Linyuan Gong, Di He, Zhuohan Li, Tao Qin, Liwei Wang, Tie-Yan Liu"
+    },
+    {
+        "title": "Efficient learning of smooth probability functions from Bernoulli tests with guarantees",
+        "status": "Oral",
+        "authors": "Paul Rolland, Ali Kavis, Alexander Niklaus Immer, Adish Singla, Volkan Cevher"
+    },
+    {
+        "title": "Efficient optimization of loops and limits with randomized telescoping sums",
+        "status": "Oral",
+        "authors": "Alex Beatson, Ryan P Adams"
+    },
+    {
+        "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+        "status": "Oral",
+        "authors": "Mingxing Tan, Quoc Le"
+    },
+    {
+        "title": "EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis",
+        "status": "Oral",
+        "authors": "Chaoqi Wang, Roger Grosse, Sanja Fidler, Guodong Zhang"
+    },
+    {
+        "title": "Emerging Convolutions for Generative Normalizing Flows",
+        "status": "Oral",
+        "authors": "Emiel Hoogeboom, Rianne Van den Berg, Max Welling"
+    },
+    {
+        "title": "Empirical Analysis of Beam Search Performance Degradation in Neural Sequence Models",
+        "status": "Oral",
+        "authors": "Eldan Cohen, Christopher Beck"
+    },
+    {
+        "title": "End-to-End Probabilistic Inference for Nonstationary Audio Analysis",
+        "status": "Oral",
+        "authors": "William Wilkinson, Michael Riis Andersen, Joshua D. Reiss, Dan Stowell, Arno Solin"
+    },
+    {
+        "title": "Entropic GANs meet VAEs: A Statistical Approach to Compute Sample Likelihoods in GANs",
+        "status": "Oral",
+        "authors": "Yogesh Balaji, Hamed Hassani, Rama Chellappa, Soheil Feizi"
+    },
+    {
+        "title": "Equivariant Transformer Networks",
+        "status": "Oral",
+        "authors": "Kai Sheng Tai, Peter Bailis, Gregory Valiant"
+    },
+    {
+        "title": "Error Feedback Fixes SignSGD and other Gradient Compression Schemes",
+        "status": "Oral",
+        "authors": "Sai Praneeth Reddy Karimireddy, Quentin Rebjock, Sebastian Stich, Martin Jaggi"
+    },
+    {
+        "title": "Escaping Saddle Points with Adaptive Gradient Methods",
+        "status": "Oral",
+        "authors": "Matthew Staib, Sashank Jakkam Reddi, Satyen Kale, Sanjiv Kumar, Suvrit Sra"
+    },
+    {
+        "title": "Estimate Sequences for Variance-Reduced Stochastic Composite Optimization",
+        "status": "Oral",
+        "authors": "Andrei Kulunchakov, Julien Mairal"
+    },
+    {
+        "title": "Estimating Information Flow in Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Ziv Goldfeld, Ewout van den Berg, Kristjan Greenewald, Igor Melnyk, Nam Nguyen, Brian Kingsbury, Yury Polyanskiy"
+    },
+    {
+        "title": "Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation",
+        "status": "Oral",
+        "authors": "Marco Ancona, Cengiz Oztireli, Markus Gross"
+    },
+    {
+        "title": "Exploiting Worker Correlation for Label Aggregation in Crowdsourcing",
+        "status": "Oral",
+        "authors": "Yuan Li, Benjamin Rubinstein, Trevor Cohn"
+    },
+    {
+        "title": "Exploiting structure of uncertainty for efficient matroid semi-bandits",
+        "status": "Oral",
+        "authors": "Pierre Perrault, Vianney Perchet, Michal Valko"
+    },
+    {
+        "title": "Exploration Conscious Reinforcement Learning Revisited",
+        "status": "Oral",
+        "authors": "Lior Shani, Yonathan Efroni, Shie Mannor"
+    },
+    {
+        "title": "Exploring interpretable LSTM neural networks over multi-variable data",
+        "status": "Oral",
+        "authors": "Tian Guo, Tao Lin, Nino Antulov-Fantulin"
+    },
+    {
+        "title": "Exploring the Landscape of Spatial Robustness",
+        "status": "Oral",
+        "authors": "Logan Engstrom, Brandon Tran, Dimitris Tsipras, Ludwig Schmidt, Aleksander Madry"
+    },
+    {
+        "title": "Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations",
+        "status": "Oral",
+        "authors": "Daniel Brown, Wonjoon Goo, Prabhat Nagarajan, Scott Niekum"
+    },
+    {
+        "title": "Fair Regression: Quantitative Definitions and Reduction-Based Algorithms",
+        "status": "Oral",
+        "authors": "Alekh Agarwal, Miroslav Dudik, Steven Wu"
+    },
+    {
+        "title": "Fair k-Center Clustering for Data Summarization",
+        "status": "Oral",
+        "authors": "Matth\u00e4us Kleindessner, Pranjal Awasthi, Jamie Morgenstern"
+    },
+    {
+        "title": "Fairness risk measures",
+        "status": "Oral",
+        "authors": "Robert C Williamson, Aditya Menon"
+    },
+    {
+        "title": "Fairness without Harm: Decoupled Classifiers with Preference Guarantees",
+        "status": "Oral",
+        "authors": "Berk Ustun, Yang Liu, David Parkes"
+    },
+    {
+        "title": "Fairness-Aware Learning for Continuous Attributes and Treatments",
+        "status": "Oral",
+        "authors": "Jeremie Mary, Cl\u00e9ment Calauz\u00e8nes, Noureddine El Karoui"
+    },
+    {
+        "title": "Fairwashing: the risk of rationalization",
+        "status": "Oral",
+        "authors": "Ulrich AIVODJI, Hiromi Arai, Olivier Fortineau, S\u00e9bastien Gambs, Satoshi Hara, Alain Tapp"
+    },
+    {
+        "title": "Fast Algorithm for Generalized Multinomial Models with Ranking Data",
+        "status": "Oral",
+        "authors": "Jiaqi Gu, Guosheng Yin"
+    },
+    {
+        "title": "Fast Context Adaptation via Meta-Learning",
+        "status": "Oral",
+        "authors": "Luisa Zintgraf, Kyriacos Shiarlis, Vitaly Kurin, Katja Hofmann, Shimon Whiteson"
+    },
+    {
+        "title": "Fast Direct Search in an Optimally Compressed Continuous Target Space for Efficient Multi-Label Active Learning",
+        "status": "Oral",
+        "authors": "weishi shi, Qi Yu"
+    },
+    {
+        "title": "Fast Incremental von Neumann Graph Entropy Computation: Theory, Algorithm, and Applications",
+        "status": "Oral",
+        "authors": "Pin-Yu Chen, Lingfei Wu, Sijia Liu, Indika Rajapakse"
+    },
+    {
+        "title": "Fast Rates for a kNN Classifier Robust to Unknown Asymmetric Label Noise",
+        "status": "Oral",
+        "authors": "Henry Reeve, Ata Kaban"
+    },
+    {
+        "title": "Fast and Flexible Inference of Joint Distributions from their Marginals",
+        "status": "Oral",
+        "authors": "Charles Frogner, Tomaso Poggio"
+    },
+    {
+        "title": "Fast and Simple Natural-Gradient Variational Inference with Mixture of Exponential-family Approximations",
+        "status": "Oral",
+        "authors": "Wu Lin, Mohammad Emtiyaz Khan, Mark Schmidt"
+    },
+    {
+        "title": "Fast and Stable Maximum Likelihood Estimation for Incomplete Multinomial Models",
+        "status": "Oral",
+        "authors": "Chenyang ZHANG, Guosheng Yin"
+    },
+    {
+        "title": "Faster Algorithms for Binary Matrix Factorization",
+        "status": "Oral",
+        "authors": "Ravi Kumar, Rina Panigrahy, Ali Rahimi, David Woodruff"
+    },
+    {
+        "title": "Faster Attend-Infer-Repeat with Tractable Probabilistic Models",
+        "status": "Oral",
+        "authors": "Karl Stelzner, Robert Peharz, Kristian Kersting"
+    },
+    {
+        "title": "Faster Stochastic Alternating Direction Method of Multipliers for Nonconvex Optimization",
+        "status": "Oral",
+        "authors": "Feihu Huang, Songcan Chen, Heng Huang"
+    },
+    {
+        "title": "Fault Tolerance in Iterative-Convergent Machine Learning",
+        "status": "Oral",
+        "authors": "Aurick Qiao, Bryon Aragam, Bingjing Zhang, Eric Xing"
+    },
+    {
+        "title": "Feature Grouping as a Stochastic Regularizer for High-Dimensional Structured Data",
+        "status": "Oral",
+        "authors": "Sergul Aydore, Thirion Bertrand, Gael Varoquaux"
+    },
+    {
+        "title": "Feature-Critic Networks for Heterogeneous Domain Generalization",
+        "status": "Oral",
+        "authors": "Yiying Li, Yongxin Yang, Wei Zhou, Timothy Hospedales"
+    },
+    {
+        "title": "Finding Mixed Nash Equilibria of Generative Adversarial Networks",
+        "status": "Oral",
+        "authors": "Ya-Ping Hsieh, Chen Liu, Volkan Cevher"
+    },
+    {
+        "title": "Finding Options that Minimize Planning Time",
+        "status": "Oral",
+        "authors": "Yuu Jinnai, David Abel, David Hershkowitz, Michael L. Littman, George Konidaris"
+    },
+    {
+        "title": "Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks",
+        "status": "Oral",
+        "authors": "Sanjeev Arora, Simon Du, Wei Hu, Zhiyuan Li, Ruosong Wang"
+    },
+    {
+        "title": "Fingerprint Policy Optimisation for Robust Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Supratik Paul, Michael A Osborne, Shimon Whiteson"
+    },
+    {
+        "title": "Finite-Time Analysis of Distributed TD(0) with Linear Function Approximation on Multi-Agent Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Thinh Doan, Siva Maguluri, Justin Romberg"
+    },
+    {
+        "title": "First-Order Adversarial Vulnerability of Neural Networks and Input Dimension",
+        "status": "Oral",
+        "authors": "Carl-Johann Simon-Gabriel, Yann Ollivier, Leon Bottou, Bernhard Sch\u00f6lkopf, David Lopez-Paz"
+    },
+    {
+        "title": "First-Order Algorithms Converge Faster than $O(1/k)$ on Convex Problems",
+        "status": "Oral",
+        "authors": "Ching-pei Lee, Stephen Wright"
+    },
+    {
+        "title": "Flat Metric Minimization with Applications in Generative Modeling",
+        "status": "Oral",
+        "authors": "Thomas M\u00f6llenhoff, Daniel Cremers"
+    },
+    {
+        "title": "Flexibly Fair Representation Learning by Disentanglement",
+        "status": "Oral",
+        "authors": "Elliot Creager, David Madras, Joern-Henrik Jacobsen, Marissa Weis, Kevin Swersky, Toniann Pitassi, Richard Zemel"
+    },
+    {
+        "title": "FloWaveNet : A Generative Flow for Raw Audio",
+        "status": "Oral",
+        "authors": "Sungwon Kim, Sang-gil Lee, Jongyoon Song, Jaehyeon Kim, Sungroh Yoon"
+    },
+    {
+        "title": "Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design",
+        "status": "Oral",
+        "authors": "Jonathan Ho, Peter Chen, Aravind Srinivas, Rocky Duan, Pieter Abbeel"
+    },
+    {
+        "title": "Formal Privacy for Functional Data with Gaussian Perturbations",
+        "status": "Oral",
+        "authors": "Ardalan Mirshani, Matthew Reimherr, Aleksandra Slavkovi\u0107"
+    },
+    {
+        "title": "Functional Transparency for Structured Data: a Game-Theoretic Approach",
+        "status": "Oral",
+        "authors": "Guang-He Lee, Wengong Jin, David Alvarez-Melis, Tommi Jaakkola"
+    },
+    {
+        "title": "GDPP: Learning Diverse Generations using Determinantal Point Processes",
+        "status": "Oral",
+        "authors": "Mohamed Elfeki, Camille Couprie, Morgane Riviere, Mohamed Elhoseiny"
+    },
+    {
+        "title": "GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects",
+        "status": "Oral",
+        "authors": "Edward Smith, Edward Smith, Scott Fujimoto, Adriana Romero Soriano, Scott Fujimoto, Adriana Romero Soriano, David Meger, David Meger"
+    },
+    {
+        "title": "GMNN: Graph Markov Neural Networks",
+        "status": "Oral",
+        "authors": "Meng Qu, Yoshua Bengio, Jian Tang"
+    },
+    {
+        "title": "GOODE: A Gaussian Off-The-Shelf Ordinary Differential Equation Solver",
+        "status": "Oral",
+        "authors": "David John, Vincent Heuveline, Michael Schober"
+    },
+    {
+        "title": "Gaining Free or Low-Cost Interpretability with Interpretable Partial Substitute",
+        "status": "Oral",
+        "authors": "Tong Wang"
+    },
+    {
+        "title": "Game Theoretic Optimization via Gradient-based Nikaido-Isoda Function",
+        "status": "Oral",
+        "authors": "Arvind Raghunathan, Anoop Cherian, Devesh Jha"
+    },
+    {
+        "title": "Garbage In, Reward Out: Bootstrapping Exploration in Multi-Armed Bandits",
+        "status": "Oral",
+        "authors": "Branislav Kveton, Csaba Szepesvari, Sharan Vaswani, Zheng Wen, Tor Lattimore, Mohammad Ghavamzadeh"
+    },
+    {
+        "title": "Gauge Equivariant Convolutional Networks and the Icosahedral CNN",
+        "status": "Oral",
+        "authors": "Taco Cohen, Maurice Weiler, Berkay Kicanaoglu, Max Welling"
+    },
+    {
+        "title": "Generalized Approximate Survey Propagation for High-Dimensional Estimation",
+        "status": "Oral",
+        "authors": "Carlo Lucibello, Luca Saglietti, Yue Lu"
+    },
+    {
+        "title": "Generalized Linear Rule Models",
+        "status": "Oral",
+        "authors": "Dennis Wei, Sanjeeb Dash, Tian Gao, Oktay Gunluk"
+    },
+    {
+        "title": "Generalized Majorization-Minimization",
+        "status": "Oral",
+        "authors": "Sobhan Naderi Parizi, Kun He, Reza Aghajani, Stan Sclaroff, Pedro Felzenszwalb"
+    },
+    {
+        "title": "Generalized No Free Lunch Theorem for Adversarial Robustness",
+        "status": "Oral",
+        "authors": "Elvis Dohmatob"
+    },
+    {
+        "title": "Generative Adversarial User Model for Reinforcement Learning Based Recommendation System",
+        "status": "Oral",
+        "authors": "Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song"
+    },
+    {
+        "title": "Generative Modeling of Infinite Occluded Objects for Compositional Scene Representation",
+        "status": "Oral",
+        "authors": "Jinyang Yuan, Bin Li, Xiangyang Xue"
+    },
+    {
+        "title": "Geometric Losses for Distributional Learning",
+        "status": "Oral",
+        "authors": "Arthur Mensch, Mathieu Blondel, Gabriel Peyr\u00e9"
+    },
+    {
+        "title": "Geometric Scattering for Graph Data Analysis",
+        "status": "Oral",
+        "authors": "Feng Gao, Guy Wolf, Matthew Hirn"
+    },
+    {
+        "title": "Geometry Aware Convolutional Filters for Omnidirectional Images Representation",
+        "status": "Oral",
+        "authors": "Renata Khasanova, Pascal Frossard"
+    },
+    {
+        "title": "Geometry and Symmetry in Short-and-Sparse Deconvolution",
+        "status": "Oral",
+        "authors": "Han-Wen Kuo, Yenson Lau, Yuqian Zhang, John Wright"
+    },
+    {
+        "title": "Global Convergence of Block Coordinate Descent in Deep Learning",
+        "status": "Oral",
+        "authors": "Jinshan ZENG, Tim Tsz-Kit Lau, Shaobo Lin, Yuan Yao"
+    },
+    {
+        "title": "Good Initializations of Variational Bayes for Deep Models",
+        "status": "Oral",
+        "authors": "Simone Rossi, Pietro Michiardi, Maurizio Filippone"
+    },
+    {
+        "title": "Gradient Descent Finds Global Minima of Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Simon Du, Jason Lee, Haochuan Li, Liwei Wang, Xiyu Zhai"
+    },
+    {
+        "title": "Graph Convolutional Gaussian Processes",
+        "status": "Oral",
+        "authors": "Ian Walker, Ben Glocker"
+    },
+    {
+        "title": "Graph Element Networks: adaptive, structured computation and memory",
+        "status": "Oral",
+        "authors": "Ferran Alet, Adarsh Keshav Jeewajee, Maria Bauza Villalonga, Alberto Rodriguez, Tomas Lozano-Perez, Leslie Kaelbling"
+    },
+    {
+        "title": "Graph Matching Networks for Learning the Similarity of Graph Structured Objects",
+        "status": "Oral",
+        "authors": "Yujia Li, Chenjie Gu, Thomas Dullien, Oriol Vinyals, Pushmeet Kohli"
+    },
+    {
+        "title": "Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance",
+        "status": "Oral",
+        "authors": "Dasaem Jeong, Taegyun Kwon, Yoojin Kim, Juhan Nam"
+    },
+    {
+        "title": "Graph Resistance and Learning from Pairwise Comparisons",
+        "status": "Oral",
+        "authors": "Julien Hendrickx, Alex Olshevsky, Venkatesh Saligrama"
+    },
+    {
+        "title": "Graph U-Nets",
+        "status": "Oral",
+        "authors": "Hongyang Gao, Shuiwang Ji"
+    },
+    {
+        "title": "Graphical-model based estimation and inference for differential privacy",
+        "status": "Oral",
+        "authors": "Ryan McKenna, Daniel Sheldon, Gerome Miklau"
+    },
+    {
+        "title": "Graphite: Iterative Generative Modeling of Graphs",
+        "status": "Oral",
+        "authors": "Aditya Grover, Aaron Zweig, Stefano Ermon"
+    },
+    {
+        "title": "Greedy Layerwise Learning Can Scale To ImageNet",
+        "status": "Oral",
+        "authors": "Eugene Belilovsky, Michael Eickenberg, Edouard Oyallon"
+    },
+    {
+        "title": "Greedy Orthogonal Pivoting Algorithm for Non-Negative Matrix Factorization",
+        "status": "Oral",
+        "authors": "Kai Zhang, Sheng Zhang, Jun Liu, Jun Wang, Jie Zhang"
+    },
+    {
+        "title": "Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI",
+        "status": "Oral",
+        "authors": "Lei Han, Peng Sun, Yali Du, Jiechao Xiong, Qing Wang, Xinghai Sun, Han Liu, Tong Zhang"
+    },
+    {
+        "title": "Gromov-Wasserstein Learning for Graph Matching and Node Embedding",
+        "status": "Oral",
+        "authors": "Hongteng Xu, Dixin Luo, Hongyuan Zha, Lawrence Carin"
+    },
+    {
+        "title": "Guarantees for Spectral Clustering with Fairness Constraints",
+        "status": "Oral",
+        "authors": "Matth\u00e4us Kleindessner, Samira Samadi, Pranjal Awasthi, Jamie Morgenstern"
+    },
+    {
+        "title": "Guided evolutionary strategies: augmenting random search with surrogate gradients",
+        "status": "Oral",
+        "authors": "Niru Maheswaranathan, Luke Metz, George Tucker, Dami Choi, Jascha Sohl-Dickstein"
+    },
+    {
+        "title": "HOList: An Environment for Machine Learning of Higher Order Logic Theorem Proving",
+        "status": "Oral",
+        "authors": "Kshitij Bansal, Sarah Loos, Markus Rabe, Christian Szegedy, Stewart Wilcox"
+    },
+    {
+        "title": "Hessian Aided Policy Gradient",
+        "status": "Oral",
+        "authors": "Zebang Shen, Alejandro Ribeiro, Hamed Hassani, Hui Qian, Chao Mi"
+    },
+    {
+        "title": "Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin",
+        "status": "Oral",
+        "authors": "Xi-Zhu Wu, Song Liu, Zhi-Hua Zhou"
+    },
+    {
+        "title": "HexaGAN: Generative Adversarial Nets for Real World Classification",
+        "status": "Oral",
+        "authors": "Uiwon Hwang, Dahuin Jung, Sungroh Yoon"
+    },
+    {
+        "title": "Hierarchical Decompositional Mixtures of Variational Autoencoders",
+        "status": "Oral",
+        "authors": "Ping Liang Tan, Robert Peharz"
+    },
+    {
+        "title": "Hierarchical Importance Weighted Autoencoders",
+        "status": "Oral",
+        "authors": "Chin-Wei Huang, Kris Sankaran, Eeshan Dhekane, Alexandre Lacoste, Aaron Courville"
+    },
+    {
+        "title": "Hierarchically Structured Meta-learning",
+        "status": "Oral",
+        "authors": "Huaxiu Yao, Ying WEI, Junzhou Huang, Zhenhui (Jessie) Li"
+    },
+    {
+        "title": "High-Fidelity Image Generation With Fewer Labels",
+        "status": "Oral",
+        "authors": "Mario Lucic, Michael Tschannen, Marvin Ritter, Xiaohua Zhai, Olivier Bachem, Sylvain Gelly"
+    },
+    {
+        "title": "Hiring Under Uncertainty",
+        "status": "Oral",
+        "authors": "Manish Purohit, Sreenivas Gollapudi, Manish Raghavan"
+    },
+    {
+        "title": "Homomorphic Sensing",
+        "status": "Oral",
+        "authors": "Manolis Tsakiris, Liangzu Peng"
+    },
+    {
+        "title": "How does Disagreement Help Generalization against Label Corruption?",
+        "status": "Oral",
+        "authors": "Xingrui Yu, Bo Han, Jiangchao Yao, Gang Niu, Ivor Tsang, Masashi Sugiyama"
+    },
+    {
+        "title": "Humor in Word Embeddings: Cockamamie Gobbledegook for Nincompoops",
+        "status": "Oral",
+        "authors": "Limor Gultchin, Genevieve Patterson, Nancy Baym, Nathaniel Swinger, Adam Kalai"
+    },
+    {
+        "title": "Hybrid Models with Deep and Invertible Features",
+        "status": "Oral",
+        "authors": "Eric Nalisnick, Akihiro Matsukawa, Yee-Whye Teh, Dilan Gorur, Balaji Lakshminarayanan"
+    },
+    {
+        "title": "HyperGAN: A Generative Model for Diverse, Performant Neural Networks",
+        "status": "Oral",
+        "authors": "Neale Ratzlaff, Fuxin Li"
+    },
+    {
+        "title": "Hyperbolic Disk Embeddings for Directed Acyclic Graphs",
+        "status": "Oral",
+        "authors": "Ryota Suzuki, Ryusuke Takahama, Shun Onoda"
+    },
+    {
+        "title": "IMEXnet - A Forward Stable Deep Neural Network",
+        "status": "Oral",
+        "authors": "Eldad Haber, Keegan Lensink, Eran Treister, Lars Ruthotto"
+    },
+    {
+        "title": "Imitating Latent Policies from Observation",
+        "status": "Oral",
+        "authors": "Ashley Edwards, Himanshu Sahni, Yannick Schroecker, Charles Isbell"
+    },
+    {
+        "title": "Imitation Learning from Imperfect Demonstration",
+        "status": "Oral",
+        "authors": "Yueh-Hua Wu, Nontawat Charoenphakdee, Han Bao, Voot Tangkaratt, Masashi Sugiyama"
+    },
+    {
+        "title": "Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition",
+        "status": "Oral",
+        "authors": "Yao Qin, Nicholas Carlini, Garrison Cottrell, Ian Goodfellow, Colin Raffel"
+    },
+    {
+        "title": "Importance Sampling Policy Evaluation with an Estimated Behavior Policy",
+        "status": "Oral",
+        "authors": "Josiah Hanna, Scott Niekum, Peter Stone"
+    },
+    {
+        "title": "Improved Convergence for $\\ell_1$ and $\\ell_\\infty$ Regression via Iteratively Reweighted Least Squares",
+        "status": "Oral",
+        "authors": "Alina Ene, Adrian Vladu"
+    },
+    {
+        "title": "Improved Dynamic Graph Learning through Fault-Tolerant Sparsification",
+        "status": "Oral",
+        "authors": "Chunjiang Zhu, Sabine Storandt, Kam-Yiu Lam, Song Han, Jinbo Bi"
+    },
+    {
+        "title": "Improved Parallel Algorithms for Density-Based Network Clustering",
+        "status": "Oral",
+        "authors": "Mohsen Ghaffari, Silvio Lattanzi, Slobodan Mitrovi\u0107"
+    },
+    {
+        "title": "Improved Zeroth-Order Variance Reduced Algorithms and Analysis for Nonconvex Optimization",
+        "status": "Oral",
+        "authors": "Kaiyi Ji, Zhe Wang, Yi Zhou, Yingbin LIANG"
+    },
+    {
+        "title": "Improving Adversarial Robustness via Promoting Ensemble Diversity",
+        "status": "Oral",
+        "authors": "Tianyu Pang, Kun Xu, Chao Du, Ning Chen, Jun Zhu"
+    },
+    {
+        "title": "Improving Model Selection by Employing the Test Data",
+        "status": "Oral",
+        "authors": "Max Westphal, Werner Brannath"
+    },
+    {
+        "title": "Improving Neural Language Modeling via Adversarial Training",
+        "status": "Oral",
+        "authors": "Dilin Wang, Chengyue Gong, Qiang Liu"
+    },
+    {
+        "title": "Improving Neural Network Quantization without Retraining using Outlier Channel Splitting",
+        "status": "Oral",
+        "authors": "Ritchie Zhao, Yuwei Hu, Jordan Dotzel, Christopher De Sa, Zhiru Zhang"
+    },
+    {
+        "title": "Imputing Missing Events in Continuous-Time Event Streams",
+        "status": "Oral",
+        "authors": "Hongyuan Mei, Guanghui Qin, Jason Eisner"
+    },
+    {
+        "title": "Incorporating Grouping Information into Bayesian Decision Tree Ensembles",
+        "status": "Oral",
+        "authors": "JUNLIANG DU, Antonio Linero"
+    },
+    {
+        "title": "Incremental Randomized Sketching for Online Kernel Learning",
+        "status": "Oral",
+        "authors": "Xiao Zhang, Shizhong Liao"
+    },
+    {
+        "title": "Inference and Sampling of $K_{33}$-free Ising Models",
+        "status": "Oral",
+        "authors": "Valerii Likhosherstov, Yury Maximov, Misha Chertkov"
+    },
+    {
+        "title": "Inferring Heterogeneous Causal Effects in Presence of Spatial Confounding",
+        "status": "Oral",
+        "authors": "Muhammad Osama, Dave Zachariah, Thomas Sch\u00f6n"
+    },
+    {
+        "title": "Infinite Mixture Prototypes for Few-shot Learning",
+        "status": "Oral",
+        "authors": "Kelsey Allen, Evan Shelhamer, Hanul Shin, Josh Tenenbaum"
+    },
+    {
+        "title": "Information-Theoretic Considerations in Batch Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Jinglin Chen, Nan Jiang"
+    },
+    {
+        "title": "Insertion Transformer: Flexible Sequence Generation via Insertion Operations",
+        "status": "Oral",
+        "authors": "Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit"
+    },
+    {
+        "title": "Interpreting Adversarially Trained Convolutional Neural Networks",
+        "status": "Oral",
+        "authors": "Tianyuan Zhang, Zhanxing Zhu"
+    },
+    {
+        "title": "Invariant-Equivariant Representation Learning for Multi-Class Data",
+        "status": "Oral",
+        "authors": "Ilya Feige"
+    },
+    {
+        "title": "Invertible Residual Networks",
+        "status": "Oral",
+        "authors": "Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Joern-Henrik Jacobsen"
+    },
+    {
+        "title": "Iterative Linearized Control: Stable Algorithms and Complexity Guarantees",
+        "status": "Oral",
+        "authors": "Vincent Roulet, Dmitriy Drusvyatskiy, Siddhartha Srinivasa, Zaid Harchaoui"
+    },
+    {
+        "title": "Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Charith Mendis, Alex Renda, Dr.Saman Amarasinghe, Michael Carbin"
+    },
+    {
+        "title": "Jumpout : Improved Dropout for Deep Neural Networks with ReLUs",
+        "status": "Oral",
+        "authors": "Shengjie Wang, Tianyi Zhou, Jeff Bilmes"
+    },
+    {
+        "title": "Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number",
+        "status": "Oral",
+        "authors": "Zaiyi Chen, Yi Xu, Haoyuan Hu, Tianbao Yang"
+    },
+    {
+        "title": "Kernel Mean Matching for Content Addressability of GANs",
+        "status": "Oral",
+        "authors": "Wittawat Jitkrittum, Wittawat Jitkrittum, Patsorn Sangkloy, Patsorn Sangkloy, Muhammad Waleed Gondal, Muhammad Waleed Gondal, Amit Raj, Amit Raj, James Hays, James Hays, Bernhard Sch\u00f6lkopf, Bernhard Sch\u00f6lkopf"
+    },
+    {
+        "title": "Kernel Normalized Cut: a Theoretical Revisit",
+        "status": "Oral",
+        "authors": "Yoshikazu Terada, Michio Yamamoto"
+    },
+    {
+        "title": "Kernel-Based Reinforcement Learning in Robust Markov Decision Processes",
+        "status": "Oral",
+        "authors": "Shiau Hong Lim, Arnaud Autef"
+    },
+    {
+        "title": "LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning",
+        "status": "Oral",
+        "authors": "Huaiyu Li, Weiming Dong, Xing Mei, Chongyang Ma, Feiyue Huang, Bao-Gang Hu"
+    },
+    {
+        "title": "LIT: Learned Intermediate Representation Training for Model Compression",
+        "status": "Oral",
+        "authors": "Animesh Koratana, Daniel Kang, Peter Bailis, Matei Zaharia"
+    },
+    {
+        "title": "LR-GLM: High-Dimensional Bayesian Inference Using Low-Rank Data Approximations",
+        "status": "Oral",
+        "authors": "Brian Trippe, Jonathan Huggins, Raj Agrawal, Tamara Broderick"
+    },
+    {
+        "title": "Ladder Capsule Network",
+        "status": "Oral",
+        "authors": "Taewon Jeong, Youngmin Lee, Heeyoung Kim"
+    },
+    {
+        "title": "Large-Scale Sparse Kernel Canonical Correlation Analysis",
+        "status": "Oral",
+        "authors": "Viivi Uurtio, Sahely Bhadra, Juho Rousu"
+    },
+    {
+        "title": "Latent Normalizing Flows for Discrete Sequences",
+        "status": "Oral",
+        "authors": "Zachary Ziegler, Alexander Rush"
+    },
+    {
+        "title": "LatentGNN: Learning Efficient Non-local Relations for Visual Recognition",
+        "status": "Oral",
+        "authors": "Songyang Zhang, Xuming He, Shipeng Yan"
+    },
+    {
+        "title": "Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting",
+        "status": "Oral",
+        "authors": "Xilai Li, Yingbo Zhou, Tianfu Wu, Richard Socher, Caiming Xiong"
+    },
+    {
+        "title": "Learning Action Representations for Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Yash Chandak, Georgios Theocharous, James Kostas, Scott Jordan, Philip Thomas"
+    },
+    {
+        "title": "Learning Classifiers for Target Domain with Limited or No Labels",
+        "status": "Oral",
+        "authors": "Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama"
+    },
+    {
+        "title": "Learning Context-dependent Label Permutations for Multi-label Classification",
+        "status": "Oral",
+        "authors": "Jinseok Nam, Young-Bum Kim, Eneldo Loza Mencia, Sunghyun Park, Ruhi Sarikaya, Johannes F\u00fcrnkranz"
+    },
+    {
+        "title": "Learning Dependency Structures for Weak Supervision Models",
+        "status": "Oral",
+        "authors": "Paroma Varma, Frederic Sala, Ann He, Alexander J Ratner, Christopher Re"
+    },
+    {
+        "title": "Learning Discrete Structures for Graph Neural Networks",
+        "status": "Oral",
+        "authors": "Luca Franceschi, Mathias Niepert, Massimiliano Pontil, Xiao He"
+    },
+    {
+        "title": "Learning Discrete and Continuous Factors of Data via Alternating Disentanglement",
+        "status": "Oral",
+        "authors": "Yeonwoo Jeong, Hyun Oh Song"
+    },
+    {
+        "title": "Learning Distance for Sequences by Learning a Ground Metric",
+        "status": "Oral",
+        "authors": "Bing Su, Ying Wu"
+    },
+    {
+        "title": "Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations",
+        "status": "Oral",
+        "authors": "Tri Dao, Albert Gu, Matthew Eichhorn, Atri Rudra, Christopher Re"
+    },
+    {
+        "title": "Learning Generative Models across Incomparable Spaces",
+        "status": "Oral",
+        "authors": "Charlotte Bunne, David Alvarez-Melis, Andreas Krause, Stefanie Jegelka"
+    },
+    {
+        "title": "Learning Hawkes Processes Under Synchronization Noise",
+        "status": "Oral",
+        "authors": "William Trouleau, Jalal Etesami, Matthias Grossglauser, Negar Kiyavash, Patrick Thiran"
+    },
+    {
+        "title": "Learning Latent Dynamics for Planning from Pixels",
+        "status": "Oral",
+        "authors": "Danijar Hafner, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha, Honglak Lee, James Davidson"
+    },
+    {
+        "title": "Learning Linear-Quadratic Regulators Efficiently with only $\\sqrt{T}$ Regret",
+        "status": "Oral",
+        "authors": "Alon Cohen, Tomer Koren, Yishay Mansour"
+    },
+    {
+        "title": "Learning Models from Data with Measurement Error: Tackling Underreporting",
+        "status": "Oral",
+        "authors": "Roy Adams, Yuelong Ji, Xiaobin Wang, Suchi Saria"
+    },
+    {
+        "title": "Learning Neurosymbolic Generative Models via Program Synthesis",
+        "status": "Oral",
+        "authors": "Halley R Young, Osbert Bastani, Mayur Naik"
+    },
+    {
+        "title": "Learning Novel Policies For Tasks",
+        "status": "Oral",
+        "authors": "Yunbo Zhang, Wenhao Yu, Greg Turk"
+    },
+    {
+        "title": "Learning Optimal Fair Policies",
+        "status": "Oral",
+        "authors": "Razieh Nabi, Daniel Malinsky, Ilya Shpitser"
+    },
+    {
+        "title": "Learning Optimal Linear Regularizers",
+        "status": "Oral",
+        "authors": "Matthew Streeter"
+    },
+    {
+        "title": "Learning Structured Decision Problems with Unawareness",
+        "status": "Oral",
+        "authors": "Craig Innes, Alex Lascarides"
+    },
+    {
+        "title": "Learning What and Where to Transfer",
+        "status": "Oral",
+        "authors": "Yunhun Jang, Hankook Lee, Sung Ju Hwang, Jinwoo Shin"
+    },
+    {
+        "title": "Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling",
+        "status": "Oral",
+        "authors": "Shanshan Wu, Alexandros Dimakis, Sujay Sanghavi, Felix Xinnan Yu, Daniel Holtmann-Rice, Dmitry Storcheus, Afshin Rostamizadeh, Sanjiv Kumar"
+    },
+    {
+        "title": "Learning a Prior over Intent via Meta-Inverse Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Kelvin Xu, Ellis Ratner, Anca Dragan, Sergey Levine, Chelsea Finn"
+    },
+    {
+        "title": "Learning and Data Selection in Big Datasets",
+        "status": "Oral",
+        "authors": "Hossein Shokri Ghadikolaei, Hadi Ghauch, Inst. of Technology Carlo Fischione, Mikael Skoglund"
+    },
+    {
+        "title": "Learning deep kernels for exponential family densities",
+        "status": "Oral",
+        "authors": "Li Kevin Wenliang, D.J. Sutherland, Heiko Strathmann, Arthur Gretton"
+    },
+    {
+        "title": "Learning from Delayed Outcomes via Proxies with Applications to Recommender Systems",
+        "status": "Oral",
+        "authors": "Timothy Mann, Sven Gowal, Andr\u00e1s Gy\u00f6rgy, Huiyi Hu, Ray Jiang, Balaji Lakshminarayanan, Prav Srinivasan"
+    },
+    {
+        "title": "Learning from a Learner",
+        "status": "Oral",
+        "authors": "alexis jacq, Matthieu Geist, Ana Paiva, Olivier Pietquin"
+    },
+    {
+        "title": "Learning interpretable continuous-time models of latent stochastic dynamical systems",
+        "status": "Oral",
+        "authors": "Lea Duncker, Gergo Bohner, Julien Boussard, Maneesh Sahani"
+    },
+    {
+        "title": "Learning to Clear the Market",
+        "status": "Oral",
+        "authors": "Weiran Shen, S\u00e9bastien Lahaie, Renato Leme"
+    },
+    {
+        "title": "Learning to Collaborate in Markov Decision Processes",
+        "status": "Oral",
+        "authors": "Goran Radanovic, Rati Devidze, David Parkes, Adish Singla"
+    },
+    {
+        "title": "Learning to Convolve: A Generalized Weight-Tying Approach",
+        "status": "Oral",
+        "authors": "Nichita Diaconu, Daniel E Worrall"
+    },
+    {
+        "title": "Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs",
+        "status": "Oral",
+        "authors": "Lingbing Guo, Zequn Sun, Wei Hu"
+    },
+    {
+        "title": "Learning to Generalize from Sparse and Underspecified Rewards",
+        "status": "Oral",
+        "authors": "Rishabh Agarwal, Chen Liang, Dale Schuurmans, Mohammad Norouzi"
+    },
+    {
+        "title": "Learning to Groove with Inverse Sequence Transformations",
+        "status": "Oral",
+        "authors": "Jon Gillick, Adam Roberts, Jesse Engel, Douglas Eck, David Bamman"
+    },
+    {
+        "title": "Learning to Infer Program Sketches",
+        "status": "Oral",
+        "authors": "Maxwell Nye, Luke Hewitt, Josh Tenenbaum, Armando Solar-Lezama"
+    },
+    {
+        "title": "Learning to Optimize Multigrid PDE Solvers",
+        "status": "Oral",
+        "authors": "Daniel Greenfeld, Meirav Galun, Ronen Basri, Irad Yavneh, Ron Kimmel"
+    },
+    {
+        "title": "Learning to Prove Theorems via Interacting with Proof Assistants",
+        "status": "Oral",
+        "authors": "Kaiyu Yang, Jia Deng"
+    },
+    {
+        "title": "Learning to Route in Similarity Graphs",
+        "status": "Oral",
+        "authors": "Dmitry Baranchuk, Dmitry Persiyanov, Anton Sinitsin, Artem Babenko"
+    },
+    {
+        "title": "Learning to bid in revenue-maximizing auctions",
+        "status": "Oral",
+        "authors": "Thomas Nedelec, Noureddine El Karoui, Vianney Perchet"
+    },
+    {
+        "title": "Learning to select for a predefined ranking",
+        "status": "Oral",
+        "authors": "Aleksei Ustimenko, Aleksandr Vorobev, Gleb Gusev, Pavel Serdyukov"
+    },
+    {
+        "title": "Learning with Bad Training Data via Iterative Trimmed Loss Minimization",
+        "status": "Oral",
+        "authors": "Yanyao Shen, Sujay Sanghavi"
+    },
+    {
+        "title": "Learning-to-Learn Stochastic Gradient Descent with Biased Regularization",
+        "status": "Oral",
+        "authors": "Giulia Denevi, Carlo Ciliberto, Riccardo Grazzi, Massimiliano Pontil"
+    },
+    {
+        "title": "LegoNet: Efficient Convolutional Neural Networks with Lego Filters",
+        "status": "Oral",
+        "authors": "Zhaohui Yang, Yunhe Wang, Chuanjian Liu, Hanting Chen, Chunjing Xu, Boxin Shi, Chao Xu, Chang Xu"
+    },
+    {
+        "title": "Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction",
+        "status": "Oral",
+        "authors": "Giulia Luise, Dimitrios Stamos, Massimiliano Pontil, Carlo Ciliberto"
+    },
+    {
+        "title": "Lexicographic and Depth-Sensitive Margins in Homogeneous and Non-Homogeneous Deep Models",
+        "status": "Oral",
+        "authors": "Mor Shpigel Nacson, Suriya Gunasekar, Jason Lee, Nati Srebro, Daniel Soudry"
+    },
+    {
+        "title": "Linear-Complexity Data-Parallel Earth Mover's Distance Approximations",
+        "status": "Oral",
+        "authors": "Kubilay Atasu, Thomas Mittelholzer"
+    },
+    {
+        "title": "Lipschitz Generative Adversarial Nets",
+        "status": "Oral",
+        "authors": "Zhiming Zhou, Jiadong Liang, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang"
+    },
+    {
+        "title": "Locally Private Bayesian Inference for Count Models",
+        "status": "Oral",
+        "authors": "Aaron Schein, Steven Wu, Alexandra Schofield, Mingyuan Zhou, Hanna Wallach"
+    },
+    {
+        "title": "Look Ma, No Latent Variables: Accurate Cutset Networks via Compilation",
+        "status": "Oral",
+        "authors": "Tahrima Rahman, Shasha Jin, Vibhav Gogate"
+    },
+    {
+        "title": "Lorentzian Distance Learning for Hyperbolic Representations",
+        "status": "Oral",
+        "authors": "Marc Law, Renjie Liao, Jake Snell, Richard Zemel"
+    },
+    {
+        "title": "Loss Landscapes of Regularized Linear Autoencoders",
+        "status": "Oral",
+        "authors": "Daniel Kunin, Jonathan Bloom, Aleksandrina Goeva, Cotton Seed"
+    },
+    {
+        "title": "Lossless or Quantized Boosting with Integer Arithmetic",
+        "status": "Oral",
+        "authors": "Richard Nock, Robert C Williamson"
+    },
+    {
+        "title": "Low Latency Privacy Preserving Inference",
+        "status": "Oral",
+        "authors": "Alon Brutzkus, Ran Gilad-Bachrach, Oren Elisha"
+    },
+    {
+        "title": "Lower Bounds for Smooth Nonconvex Finite-Sum Optimization",
+        "status": "Oral",
+        "authors": "Dongruo Zhou, Quanquan Gu"
+    },
+    {
+        "title": "MASS: Masked Sequence to Sequence Pre-training for Language Generation",
+        "status": "Oral",
+        "authors": "Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-Yan Liu"
+    },
+    {
+        "title": "ME-Net: Towards Effective Adversarial Robustness with Matrix Estimation",
+        "status": "Oral",
+        "authors": "Yuzhe Yang, GUO ZHANG, Zhi Xu, Dina Katabi"
+    },
+    {
+        "title": "MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets",
+        "status": "Oral",
+        "authors": "Pierre-Alexandre Mattei, Jes Frellsen"
+    },
+    {
+        "title": "MONK -- Outlier-Robust Mean Embedding Estimation by Median-of-Means",
+        "status": "Oral",
+        "authors": "Matthieu Lerasle, Zoltan Szabo, Timoth\u00e9e Mathieu, Guillaume Lecue"
+    },
+    {
+        "title": "Making Convolutional Networks Shift-Invariant Again",
+        "status": "Oral",
+        "authors": "Richard Zhang"
+    },
+    {
+        "title": "Making Decisions that Reduce Discriminatory Impacts",
+        "status": "Oral",
+        "authors": "Matt J. Kusner, Chris Russell, Joshua Loftus, Ricardo Silva"
+    },
+    {
+        "title": "Making Deep Q-learning methods robust to time discretization",
+        "status": "Oral",
+        "authors": "Corentin Tallec, Leonard Blier, Yann Ollivier"
+    },
+    {
+        "title": "Mallows ranking models: maximum likelihood estimate and regeneration",
+        "status": "Oral",
+        "authors": "Wenpin Tang"
+    },
+    {
+        "title": "Manifold Mixup: Better Representations by Interpolating Hidden States",
+        "status": "Oral",
+        "authors": "Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio"
+    },
+    {
+        "title": "Matrix-Free Preconditioning in Online Learning",
+        "status": "Oral",
+        "authors": "Ashok Cutkosky, Tamas Sarlos"
+    },
+    {
+        "title": "Maximum Entropy-Regularized Multi-Goal Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Rui Zhao, Xudong Sun, Volker Tresp"
+    },
+    {
+        "title": "Maximum Likelihood Estimation for Learning Populations of Parameters",
+        "status": "Oral",
+        "authors": "Ramya Korlakai Vinayak, Weihao Kong, Gregory Valiant, Sham Kakade"
+    },
+    {
+        "title": "MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization",
+        "status": "Oral",
+        "authors": "Eric Chu, Peter Liu"
+    },
+    {
+        "title": "Measurements of Three-Level Hierarchical Structure in the Outliers in the Spectrum of Deepnet Hessians",
+        "status": "Oral",
+        "authors": "Vardan Papyan"
+    },
+    {
+        "title": "Memory-Optimal Direct Convolutions for Maximizing Classification Accuracy in Embedded Applications",
+        "status": "Oral",
+        "authors": "Albert Gural, Boris Murmann"
+    },
+    {
+        "title": "Meta-Learning Neural Bloom Filters",
+        "status": "Oral",
+        "authors": "Jack Rae, Sergey Bartunov, Timothy Lillicrap"
+    },
+    {
+        "title": "Metric-Optimized Example Weights",
+        "status": "Oral",
+        "authors": "Sen Zhao, Mahdi Milani Fard, Harikrishna Narasimhan, Maya Gupta"
+    },
+    {
+        "title": "MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement",
+        "status": "Oral",
+        "authors": "Szu-Wei Fu, Chien-Feng Liao, Yu Tsao, Shou-De Lin"
+    },
+    {
+        "title": "Metropolis-Hastings Generative Adversarial Networks",
+        "status": "Oral",
+        "authors": "Ryan Turner, Jane Hung, Eric Frank, Yunus Saatchi, Jason Yosinski"
+    },
+    {
+        "title": "Minimal Achievable Sufficient Statistic Learning",
+        "status": "Oral",
+        "authors": "Milan Cvitkovic, G\u00fcnther Koliander"
+    },
+    {
+        "title": "MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing",
+        "status": "Oral",
+        "authors": "Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Kristina Lerman, Hrayr Harutyunyan, Greg Ver Steeg, Aram Galstyan"
+    },
+    {
+        "title": "Mixture Models for Diverse Machine Translation: Tricks of the Trade",
+        "status": "Oral",
+        "authors": "Tianxiao Shen, Myle Ott, Michael Auli, Marc'Aurelio Ranzato"
+    },
+    {
+        "title": "Model Comparison for Semantic Grouping",
+        "status": "Oral",
+        "authors": "Francisco Vargas, Kamen Brestnichki, Nils Hammerla"
+    },
+    {
+        "title": "Model Function Based Conditional Gradient Method with Armijo-like Line Search",
+        "status": "Oral",
+        "authors": "Peter Ochs, Yura Malitsky"
+    },
+    {
+        "title": "Model-Based Active Exploration",
+        "status": "Oral",
+        "authors": "Pranav Shyam, Wojciech Ja\u015bkowski, Faustino Gomez"
+    },
+    {
+        "title": "Molecular Hypergraph Grammar with Its Application to Molecular Optimization",
+        "status": "Oral",
+        "authors": "Hiroshi Kajino"
+    },
+    {
+        "title": "Moment-Based Variational Inference for Markov Jump Processes",
+        "status": "Oral",
+        "authors": "Christian Wildner, Heinz Koeppl"
+    },
+    {
+        "title": "Monge blunts Bayes: Hardness Results for Adversarial Training",
+        "status": "Oral",
+        "authors": "Zac Cranko, Aditya Menon, Richard Nock, Cheng Soon Ong, Zhan Shi, Christian Walder"
+    },
+    {
+        "title": "More Efficient Off-Policy Evaluation through Regularized Targeted Learning",
+        "status": "Oral",
+        "authors": "Aurelien Bibaut, Ivana Malenica, Nikos Vlassis, Mark van der Laan"
+    },
+    {
+        "title": "Multi-Agent Adversarial Inverse Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Lantao Yu, Jiaming Song, Stefano Ermon"
+    },
+    {
+        "title": "Multi-Frequency Phase Synchronization",
+        "status": "Oral",
+        "authors": "Tingran Gao, Zhizhen Zhao"
+    },
+    {
+        "title": "Multi-Frequency Vector Diffusion Maps",
+        "status": "Oral",
+        "authors": "Yifeng Fan, Zhizhen Zhao"
+    },
+    {
+        "title": "Multi-Object Representation Learning with Iterative Variational Inference",
+        "status": "Oral",
+        "authors": "Klaus Greff, Raphael Lopez Kaufman, Rishabh Kabra, Nicholas Watters, Christopher Burgess, Daniel Zoran, Loic Matthey, Matthew Botvinick, Alexander Lerchner"
+    },
+    {
+        "title": "Multi-objective training of Generative Adversarial Networks with multiple discriminators",
+        "status": "Oral",
+        "authors": "Isabela Albuquerque, Joao Monteiro, Thang Doan, Breandan Considine, Tiago Falk, Ioannis Mitliagkas"
+    },
+    {
+        "title": "Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always",
+        "status": "Oral",
+        "authors": "Ioannis Panageas, Georgios Piliouras, xiao wang"
+    },
+    {
+        "title": "Multivariate Submodular Optimization",
+        "status": "Oral",
+        "authors": "Richard Santiago, F. Bruce Shepherd"
+    },
+    {
+        "title": "Multivariate-Information Adversarial Ensemble for Scalable Joint Distribution Matching",
+        "status": "Oral",
+        "authors": "Ziliang Chen, ZHANFU YANG, Xiaoxi Wang, Xiaodan Liang, xiaopeng yan, Guanbin Li, Liang Lin"
+    },
+    {
+        "title": "Myopic Posterior Sampling for Adaptive Goal Oriented Design of Experiments",
+        "status": "Oral",
+        "authors": "Kirthevasan Kandasamy, Willie Neiswanger, Reed Zhang, Akshay Krishnamurthy, Jeff Schneider, Barnab\u00e1s P\u00f3czos"
+    },
+    {
+        "title": "NAS-Bench-101: Towards Reproducible Neural Architecture Search",
+        "status": "Oral",
+        "authors": "Chris Ying, Aaron Klein, Eric Christiansen, Esteban Real, Kevin Murphy, Frank Hutter"
+    },
+    {
+        "title": "NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks",
+        "status": "Oral",
+        "authors": "Yandong li, Lijun Li, Liqiang Wang, Tong Zhang, Boqing Gong"
+    },
+    {
+        "title": "Natural Analysts in Adaptive Data Analysis",
+        "status": "Oral",
+        "authors": "Tijana Zrnic, Moritz Hardt"
+    },
+    {
+        "title": "Near optimal finite time identification of arbitrary linear dynamical systems",
+        "status": "Oral",
+        "authors": "Tuhin Sarkar, Alexander Rakhlin"
+    },
+    {
+        "title": "Nearest Neighbor and Kernel Survival Analysis: Nonasymptotic Error Bounds and Strong Consistency Rates",
+        "status": "Oral",
+        "authors": "George Chen"
+    },
+    {
+        "title": "Neural Collaborative Subspace Clustering",
+        "status": "Oral",
+        "authors": "Tong Zhang, Pan Ji, Mehrtash Harandi, Wenbing Huang, HONGDONG LI"
+    },
+    {
+        "title": "Neural Inverse Knitting: From Images to Manufacturing Instructions",
+        "status": "Oral",
+        "authors": "Alexandre Kaspar, Tae-Hyun Oh, Liane Makatura, Petr Kellnhofer, Wojciech Matusik"
+    },
+    {
+        "title": "Neural Joint Source-Channel Coding",
+        "status": "Oral",
+        "authors": "Kristy Choi, Kedar Tatwawadi, Aditya Grover, Tsachy Weissman, Stefano Ermon"
+    },
+    {
+        "title": "Neural Logic Reinforcement Learning",
+        "status": "Oral",
+        "authors": "zhengyao jiang, Shan Luo"
+    },
+    {
+        "title": "Neural Network Attributions: A Causal Perspective",
+        "status": "Oral",
+        "authors": "Aditya Chattopadhyay, Piyushi Manupriya, Anirban Sarkar, Vineeth N Balasubramanian"
+    },
+    {
+        "title": "Neural Separation of Observed and Unobserved Distributions",
+        "status": "Oral",
+        "authors": "Tavi Halperin, Ariel Ephrat, Yedid Hoshen"
+    },
+    {
+        "title": "Neurally-Guided Structure Inference",
+        "status": "Oral",
+        "authors": "Sidi Lu, Jiayuan Mao, Josh Tenenbaum, Jiajun Wu"
+    },
+    {
+        "title": "Neuron birth-death dynamics accelerates gradient descent and converges asymptotically",
+        "status": "Oral",
+        "authors": "Grant Rotskoff, Samy Jelassi, Joan Bruna, Eric Vanden-Eijnden"
+    },
+    {
+        "title": "New results on information theoretic clustering",
+        "status": "Oral",
+        "authors": "Ferdinando Cicalese, Eduardo Laber, Lucas Murtinho"
+    },
+    {
+        "title": "Noise2Self: Blind Denoising by Self-Supervision",
+        "status": "Oral",
+        "authors": "Joshua Batson, Loic Royer"
+    },
+    {
+        "title": "Noisy Dual Principal Component Pursuit",
+        "status": "Oral",
+        "authors": "Tianyu Ding, Zhihui Zhu, Tianjiao Ding, Yunchen Yang, Daniel Robinson, Manolis Tsakiris, Rene Vidal"
+    },
+    {
+        "title": "Non-Asymptotic Analysis of Fractional Langevin Monte Carlo for Non-Convex Optimization",
+        "status": "Oral",
+        "authors": "Thanh Huy Nguyen, Umut Simsekli, Ga\u00ebl RICHARD"
+    },
+    {
+        "title": "Non-Monotonic Sequential Text Generation",
+        "status": "Oral",
+        "authors": "Sean Welleck, Kiante Brantley, Hal Daum\u00e9 III, Kyunghyun Cho"
+    },
+    {
+        "title": "Non-Parametric Priors For Generative Adversarial Networks",
+        "status": "Oral",
+        "authors": "Rajhans Singh, Pavan Turaga, Suren Jayasuriya, Ravi Garg, Martin Braun"
+    },
+    {
+        "title": "Non-monotone Submodular Maximization with Nearly Optimal Adaptivity and Query Complexity",
+        "status": "Oral",
+        "authors": "Matthew Fahrbach, Vahab Mirrokni, Morteza Zadimoghaddam"
+    },
+    {
+        "title": "Nonconvex Variance Reduced Optimization with Arbitrary Sampling",
+        "status": "Oral",
+        "authors": "Samuel Horvath, Peter Richtarik"
+    },
+    {
+        "title": "Nonlinear Distributional Gradient Temporal-Difference Learning",
+        "status": "Oral",
+        "authors": "chao qu, Shie Mannor, Huan Xu"
+    },
+    {
+        "title": "Nonlinear Stein Variational Gradient Descent for Learning Diversified Mixture Models",
+        "status": "Oral",
+        "authors": "Dilin Wang, Qiang Liu"
+    },
+    {
+        "title": "Nonparametric Bayesian Deep Networks with Local Competition",
+        "status": "Oral",
+        "authors": "Konstantinos Panousis, Sotirios Chatzis, Sergios Theodoridis"
+    },
+    {
+        "title": "Obtaining Fairness using Optimal Transport Theory",
+        "status": "Oral",
+        "authors": "Paula Gordaliza, Eustasio del Barrio, Gamboa Fabrice, Loubes Jean-Michel"
+    },
+    {
+        "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+        "status": "Oral",
+        "authors": "Scott Fujimoto, David Meger, Doina Precup"
+    },
+    {
+        "title": "On Certifying Non-Uniform Bounds against Adversarial Attacks",
+        "status": "Oral",
+        "authors": "Chen Liu, Ryota Tomioka, Volkan Cevher"
+    },
+    {
+        "title": "On Connected Sublevel Sets in Deep Learning",
+        "status": "Oral",
+        "authors": "Quynh Nguyen"
+    },
+    {
+        "title": "On Dropout and Nuclear Norm Regularization",
+        "status": "Oral",
+        "authors": "Poorya Mianjy, Raman Arora"
+    },
+    {
+        "title": "On Efficient Optimal Transport: An Analysis of Greedy and Accelerated Mirror Descent Algorithms",
+        "status": "Oral",
+        "authors": "Tianyi Lin, Nhat Ho, Michael Jordan"
+    },
+    {
+        "title": "On Learning Invariant Representations for Domain Adaptation",
+        "status": "Oral",
+        "authors": "Han Zhao, Remi Tachet des Combes, Kun Zhang, Geoff Gordon"
+    },
+    {
+        "title": "On Medians of (Randomized) Pairwise Means",
+        "status": "Oral",
+        "authors": "Stephan Clemencon, Pierre Laforgue, Patrice Bertail"
+    },
+    {
+        "title": "On Scalable and Efficient Computation of Large Scale Optimal Transport",
+        "status": "Oral",
+        "authors": "Yujia Xie, Minshuo Chen, Haoming Jiang, Tuo Zhao, Hongyuan Zha"
+    },
+    {
+        "title": "On Sparse Linear Regression in the Local Differential Privacy Model",
+        "status": "Oral",
+        "authors": "Di Wang, Jinhui Xu"
+    },
+    {
+        "title": "On Symmetric Losses for Learning from Corrupted Labels",
+        "status": "Oral",
+        "authors": "Nontawat Charoenphakdee, Jongyeong Lee, Masashi Sugiyama"
+    },
+    {
+        "title": "On The Power of Curriculum Learning in Training Deep Networks",
+        "status": "Oral",
+        "authors": "Guy Hacohen, Daphna Weinshall"
+    },
+    {
+        "title": "On Variational Bounds of Mutual Information",
+        "status": "Oral",
+        "authors": "Ben Poole, Sherjil Ozair, A\u00e4ron van den Oord, Alexander Alemi, George Tucker"
+    },
+    {
+        "title": "On discriminative learning of prediction uncertainty",
+        "status": "Oral",
+        "authors": "Vojtech Franc, Daniel Prusa"
+    },
+    {
+        "title": "On the Complexity of Approximating Wasserstein Barycenters",
+        "status": "Oral",
+        "authors": "Alexey Kroshnin, Nazarii Tupitsa, Darina Dvinskikh, Pavel Dvurechenskii, Alexander Gasnikov, Cesar Uribe"
+    },
+    {
+        "title": "On the Computation and Communication Complexity of Parallel SGD with Dynamic Batch Sizes for Stochastic Non-Convex Optimization",
+        "status": "Oral",
+        "authors": "Hao Yu, rong jin"
+    },
+    {
+        "title": "On the Connection Between Adversarial Robustness and Saliency Map Interpretability",
+        "status": "Oral",
+        "authors": "Christian Etmann, Sebastian Lunz, Peter Maass, Carola-Bibiane Sch\u00f6nlieb"
+    },
+    {
+        "title": "On the Convergence and Robustness of Adversarial Training",
+        "status": "Oral",
+        "authors": "Yisen Wang, Xingjun Ma, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu"
+    },
+    {
+        "title": "On the Design of Estimators for Bandit Off-Policy Evaluation",
+        "status": "Oral",
+        "authors": "Nikos Vlassis, Aurelien Bibaut, Maria Dimakopoulou, Tony Jebara"
+    },
+    {
+        "title": "On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference",
+        "status": "Oral",
+        "authors": "Rohin Shah, Noah Gundotra, Pieter Abbeel, Anca Dragan"
+    },
+    {
+        "title": "On the Generalization Gap in Reparameterizable Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Huan Wang, Stephan Zheng, Caiming Xiong, Richard Socher"
+    },
+    {
+        "title": "On the Impact of the Activation function on Deep Neural Networks Training",
+        "status": "Oral",
+        "authors": "Soufiane Hayou, Arnaud Doucet, Judith Rousseau"
+    },
+    {
+        "title": "On the Limitations of Representing Functions on Sets",
+        "status": "Oral",
+        "authors": "Edward Wagstaff, Fabian Fuchs, Martin Engelcke, Ingmar Posner, Michael A Osborne"
+    },
+    {
+        "title": "On the Linear Speedup Analysis of Communication Efficient Momentum SGD for Distributed Non-Convex Optimization",
+        "status": "Oral",
+        "authors": "Hao Yu, rong jin, Sen Yang"
+    },
+    {
+        "title": "On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning",
+        "status": "Oral",
+        "authors": "Hoda Heidari, Vedant Nanda, Krishna Gummadi"
+    },
+    {
+        "title": "On the Spectral Bias of Neural Networks",
+        "status": "Oral",
+        "authors": "Nasim Rahaman, Aristide Baratin, Devansh Arpit, Felix Draxler, Min Lin, Fred Hamprecht, Yoshua Bengio, Aaron Courville"
+    },
+    {
+        "title": "On the Universality of Invariant Networks",
+        "status": "Oral",
+        "authors": "Haggai Maron, Ethan Fetaya, Nimrod Segol, Yaron Lipman"
+    },
+    {
+        "title": "On the statistical rate of nonlinear recovery in generative models with heavy-tailed data",
+        "status": "Oral",
+        "authors": "Xiaohan Wei, Zhuoran Yang, Zhaoran Wang"
+    },
+    {
+        "title": "Online Adaptive Principal Component Analysis and Its extensions",
+        "status": "Oral",
+        "authors": "Jianjun Yuan, Andrew Lamperski"
+    },
+    {
+        "title": "Online Algorithms for Rent-Or-Buy with Expert Advice",
+        "status": "Oral",
+        "authors": "Sreenivas Gollapudi, Debmalya Panigrahi"
+    },
+    {
+        "title": "Online Control with Adversarial Disturbances",
+        "status": "Oral",
+        "authors": "Naman Agarwal, Brian Bullins, Elad Hazan, Sham Kakade, Karan Singh"
+    },
+    {
+        "title": "Online Convex Optimization in Adversarial Markov Decision Processes",
+        "status": "Oral",
+        "authors": "Aviv Rosenberg, Yishay Mansour"
+    },
+    {
+        "title": "Online Learning to Rank with Features",
+        "status": "Oral",
+        "authors": "Shuai Li, Tor Lattimore, Csaba Szepesvari"
+    },
+    {
+        "title": "Online Learning with Sleeping Experts and Feedback Graphs",
+        "status": "Oral",
+        "authors": "Corinna Cortes, Giulia DeSalvo, Claudio Gentile, Mehryar Mohri, Scott Yang"
+    },
+    {
+        "title": "Online Meta-Learning",
+        "status": "Oral",
+        "authors": "Chelsea Finn, Aravind Rajeswaran, Sham Kakade, Sergey Levine"
+    },
+    {
+        "title": "Online Variance Reduction with Mixtures",
+        "status": "Oral",
+        "authors": "Zal\u00e1n Borsos, Sebastian Curi, Yehuda Levy, Andreas Krause"
+    },
+    {
+        "title": "Online learning with kernel losses",
+        "status": "Oral",
+        "authors": "Niladri Chatterji, Aldo Pacchiano, Peter Bartlett"
+    },
+    {
+        "title": "Open Vocabulary Learning on Source Code with a Graph-Structured Cache",
+        "status": "Oral",
+        "authors": "Milan Cvitkovic, Badal Singh, Anima Anandkumar"
+    },
+    {
+        "title": "Open-ended learning in symmetric zero-sum games",
+        "status": "Oral",
+        "authors": "David Balduzzi, Marta Garnelo, Yoram Bachrach, Wojciech Czarnecki, Julien Perolat, Max Jaderberg, Thore Graepel"
+    },
+    {
+        "title": "Optimal Algorithms for Lipschitz Bandits with Heavy-tailed Rewards",
+        "status": "Oral",
+        "authors": "Shiyin Lu, Guanghui Wang, Yao Hu, Lijun Zhang"
+    },
+    {
+        "title": "Optimal Auctions through Deep Learning",
+        "status": "Oral",
+        "authors": "Paul Duetting, Zhe Feng, Harikrishna Narasimhan, David Parkes, Sai Srivatsa Ravindranath"
+    },
+    {
+        "title": "Optimal Continuous DR-Submodular Maximization and Applications to Provable Mean Field Inference",
+        "status": "Oral",
+        "authors": "Yatao Bian, Joachim Buhmann, Andreas Krause"
+    },
+    {
+        "title": "Optimal Kronecker-Sum Approximation of Real Time Recurrent Learning",
+        "status": "Oral",
+        "authors": "Frederik Benzing, Marcelo Matheus Gauy, Asier Mujika, Anders Martinsson, Angelika Steger"
+    },
+    {
+        "title": "Optimal Mini-Batch and Step Sizes for SAGA",
+        "status": "Oral",
+        "authors": "Nidham Gazagnadou, Robert Gower, Joseph Salmon"
+    },
+    {
+        "title": "Optimal Minimal Margin Maximization with Boosting",
+        "status": "Oral",
+        "authors": "Alexander Mathiasen, Kasper Green Larsen, Allan Gr\u00f8nlund"
+    },
+    {
+        "title": "Optimal Transport for structured data with application on graphs",
+        "status": "Oral",
+        "authors": "Titouan Vayer, Nicolas Courty, Romain Tavenard, Chapel Laetitia, Remi Flamary"
+    },
+    {
+        "title": "Optimality Implies Kernel Sum Classifiers are Statistically Efficient",
+        "status": "Oral",
+        "authors": "Raphael Meyer, Jean Honorio"
+    },
+    {
+        "title": "Optimistic Policy Optimization via Multiple Importance Sampling",
+        "status": "Oral",
+        "authors": "Matteo Papini, Alberto Maria Metelli, Lorenzo Lupo, Marcello Restelli"
+    },
+    {
+        "title": "Orthogonal Random Forest for Causal Inference",
+        "status": "Oral",
+        "authors": "Miruna Oprescu, Vasilis Syrgkanis, Steven Wu"
+    },
+    {
+        "title": "Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models",
+        "status": "Oral",
+        "authors": "Alessandro Davide Ialongo, Mark van der Wilk, James Hensman, Carl E Rasmussen"
+    },
+    {
+        "title": "Overcoming Multi-model Forgetting",
+        "status": "Oral",
+        "authors": "Yassine Benyahia, Kaicheng Yu, Kamil Bennani-Smires, Martin Jaggi, Anthony C. Davison, Mathieu Salzmann, Claudiu Musat"
+    },
+    {
+        "title": "Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?",
+        "status": "Oral",
+        "authors": "Samet Oymak, Mahdi Soltanolkotabi"
+    },
+    {
+        "title": "PA-GD: On the Convergence of Perturbed Alternating Gradient Descent to Second-Order Stationary Points for Structured Nonconvex Optimization",
+        "status": "Oral",
+        "authors": "Songtao Lu, Mingyi Hong, Zhengdao Wang"
+    },
+    {
+        "title": "PAC Identification of Many Good Arms in Stochastic Multi-Armed Bandits",
+        "status": "Oral",
+        "authors": "Arghya Roy Chaudhuri, Shivaram Kalyanakrishnan"
+    },
+    {
+        "title": "PAC Learnability of Node Functions in Networked Dynamical Systems",
+        "status": "Oral",
+        "authors": "Abhijin Adiga, Chris J Kuhlman, Madhav Marathe, S. S. Ravi, Anil Vullikanti"
+    },
+    {
+        "title": "POLITEX: Regret Bounds for Policy Iteration using Expert Prediction",
+        "status": "Oral",
+        "authors": "Yasin Abbasi-Yadkori, Peter Bartlett, Kush Bhatia, Nevena Lazic, Csaba Szepesvari, Gell\u00e9rt Weisz"
+    },
+    {
+        "title": "POPQORN: Quantifying Robustness of Recurrent Neural Networks",
+        "status": "Oral",
+        "authors": "CHING-YUN KO, Zhaoyang Lyu, Tsui-Wei Weng, Luca Daniel, Ngai Wong, Dahua Lin"
+    },
+    {
+        "title": "PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach",
+        "status": "Oral",
+        "authors": "Tsui-Wei Weng, Pin-Yu Chen, Lam Nguyen, Mark Squillante, Akhilan Boopathy, Ivan Oseledets, Luca Daniel"
+    },
+    {
+        "title": "Parameter efficient training of deep convolutional neural networks by dynamic sparse reparameterization",
+        "status": "Oral",
+        "authors": "Hesham Mostafa, Xin Wang"
+    },
+    {
+        "title": "Parameter-Efficient Transfer Learning for NLP",
+        "status": "Oral",
+        "authors": "Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly"
+    },
+    {
+        "title": "Pareto Optimal Streaming Unsupervised Classification",
+        "status": "Oral",
+        "authors": "Soumya Basu, Steven Gutstein, Brent Lance, Sanjay Shakkottai"
+    },
+    {
+        "title": "Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization",
+        "status": "Oral",
+        "authors": "Seungyong Moon, Gaon An, Hyun Oh Song"
+    },
+    {
+        "title": "Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation",
+        "status": "Oral",
+        "authors": "Samuel Wiqvist, Pierre-Alexandre Mattei, Umberto Picchini, Jes Frellsen"
+    },
+    {
+        "title": "Partially Linear Additive Gaussian Graphical Models",
+        "status": "Oral",
+        "authors": "Sinong Geng, Minhao Yan, Mladen Kolar, Sanmi Koyejo"
+    },
+    {
+        "title": "Particle Flow Bayes' Rule",
+        "status": "Oral",
+        "authors": "Xinshi Chen, Hanjun Dai, Le Song"
+    },
+    {
+        "title": "Passed & Spurious: Descent Algorithms and Local Minima in Spiked Matrix-Tensor Models",
+        "status": "Oral",
+        "authors": "Stefano Sarao Mannelli, Florent Krzakala, Pierfrancesco Urbani, Lenka Zdeborova"
+    },
+    {
+        "title": "Per-Decision Option Discounting",
+        "status": "Oral",
+        "authors": "Anna Harutyunyan, Peter Vrancx, Philippe Hamel, Ann Nowe, Doina Precup"
+    },
+    {
+        "title": "Phase transition in PCA with missing data: Reduced signal-to-noise ratio, not sample size!",
+        "status": "Oral",
+        "authors": "Niels Ipsen, Lars Kai Hansen"
+    },
+    {
+        "title": "Phaseless PCA: Low-Rank Matrix Recovery from Column-wise Phaseless Measurements",
+        "status": "Oral",
+        "authors": "Seyedehsara Nayer, Praneeth Narayanamurthy, Namrata Vaswani"
+    },
+    {
+        "title": "Plug-and-Play Methods Provably Converge with Properly Trained Denoisers",
+        "status": "Oral",
+        "authors": "Ernest Ryu, Jialin Liu, Sicheng Wang, Xiaohan Chen, Zhangyang Wang, Wotao Yin"
+    },
+    {
+        "title": "Poission Subsampled R\\'enyi Differential Privacy",
+        "status": "Oral",
+        "authors": "Yuqing Zhu, Yu-Xiang Wang"
+    },
+    {
+        "title": "Policy Certificates: Towards Accountable Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Christoph Dann, Lihong Li, Wei Wei, Emma Brunskill"
+    },
+    {
+        "title": "Policy Consolidation for Continual Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Christos Kaplanis, Murray Shanahan, Claudia Clopath"
+    },
+    {
+        "title": "Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules",
+        "status": "Oral",
+        "authors": "Daniel Ho, Eric Liang, Peter Chen, Ion Stoica, Pieter Abbeel"
+    },
+    {
+        "title": "Position-aware Graph Neural Networks",
+        "status": "Oral",
+        "authors": "Jiaxuan You, Rex (Zhitao) Ying, Jure Leskovec"
+    },
+    {
+        "title": "Power k-Means Clustering",
+        "status": "Oral",
+        "authors": "Jason Xu, Kenneth Lange"
+    },
+    {
+        "title": "Predicate Exchange: Inference with Declarative Knowledge",
+        "status": "Oral",
+        "authors": "Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath"
+    },
+    {
+        "title": "Predictor-Corrector Policy Optimization",
+        "status": "Oral",
+        "authors": "Ching-An Cheng, Xinyan Yan, Nathan Ratliff, Byron Boots"
+    },
+    {
+        "title": "Probabilistic Neural Symbolic Models for Interpretable Visual Question Answering",
+        "status": "Oral",
+        "authors": "Shanmukha Ramakrishna Vedantam, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh"
+    },
+    {
+        "title": "Probability Functional Descent: A Unifying Perspective on GANs, Variational Inference, and Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Casey Chu, Jose Blanchet, Peter Glynn"
+    },
+    {
+        "title": "Processing Megapixel Images with Deep Attention-Sampling Models",
+        "status": "Oral",
+        "authors": "Angelos Katharopoulos, Francois Fleuret"
+    },
+    {
+        "title": "Projection onto Minkowski Sums with Application to Constrained Learning",
+        "status": "Oral",
+        "authors": "Joong-Ho (Johann) Won, Jason Xu, Kenneth Lange"
+    },
+    {
+        "title": "Projections for Approximate Policy Iteration Algorithms",
+        "status": "Oral",
+        "authors": "Riad Akrour, Joni Pajarinen, Jan Peters, Gerhard Neumann"
+    },
+    {
+        "title": "Proportionally Fair Clustering",
+        "status": "Oral",
+        "authors": "Xingyu Chen, Brandon Fain, Liang Lyu, Kamesh Munagala"
+    },
+    {
+        "title": "Provable Guarantees for Gradient-Based Meta-Learning",
+        "status": "Oral",
+        "authors": "Nina Balcan, Mikhail Khodak, Ameet Talwalkar"
+    },
+    {
+        "title": "Provably Efficient Imitation Learning from Observation Alone",
+        "status": "Oral",
+        "authors": "Wen Sun, Anirudh Vemula, Byron Boots, Drew Bagnell"
+    },
+    {
+        "title": "Provably Efficient Maximum Entropy Exploration",
+        "status": "Oral",
+        "authors": "Elad Hazan, Sham Kakade, Karan Singh, Abby Van Soest"
+    },
+    {
+        "title": "Provably efficient RL with Rich Observations via Latent State Decoding",
+        "status": "Oral",
+        "authors": "Simon Du, Akshay Krishnamurthy, Nan Jiang, Alekh Agarwal, Miroslav Dudik, John Langford"
+    },
+    {
+        "title": "QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Kyunghwan Son, Daewoo Kim, Wan Ju Kang, David Earl Hostallero, Yung Yi"
+    },
+    {
+        "title": "Quantifying Generalization in Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Karl Cobbe, Oleg Klimov, Chris Hesse, Taehoon Kim, John Schulman"
+    },
+    {
+        "title": "Quantile Stein Variational Gradient Descent for Batch Bayesian Optimization",
+        "status": "Oral",
+        "authors": "Chengyue Gong, Jian Peng, Qiang Liu"
+    },
+    {
+        "title": "RaFM: Rank-Aware Factorization Machines",
+        "status": "Oral",
+        "authors": "Xiaoshuang Chen, Yin Zheng, Jiaxing Wang, Wenye Ma, Junzhou Huang"
+    },
+    {
+        "title": "Rademacher Complexity for Adversarially Robust Generalization",
+        "status": "Oral",
+        "authors": "Dong Yin, Kannan Ramchandran, Peter Bartlett"
+    },
+    {
+        "title": "Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation",
+        "status": "Oral",
+        "authors": "Ruohan Wang, Carlo Ciliberto, Pierluigi Vito Amadori, Yiannis Demiris"
+    },
+    {
+        "title": "Random Function Priors for Correlation Modeling",
+        "status": "Oral",
+        "authors": "Aonan Zhang, John Paisley"
+    },
+    {
+        "title": "Random Matrix Improved Covariance Estimation for a Large Class of Metrics",
+        "status": "Oral",
+        "authors": "Malik TIOMOKO A, Romain Couillet, Florent BOUCHARD, Guillaume GINOLHAC"
+    },
+    {
+        "title": "Random Shuffling Beats SGD after Finite Epochs",
+        "status": "Oral",
+        "authors": "Jeff HaoChen, Suvrit Sra"
+    },
+    {
+        "title": "Random Walks on Hypergraphs with Edge-Dependent Vertex Weights",
+        "status": "Oral",
+        "authors": "Uthsav Chitra, Benjamin Raphael"
+    },
+    {
+        "title": "Rao-Blackwellized Stochastic Gradients for Discrete Distributions",
+        "status": "Oral",
+        "authors": "Runjing Liu, Jeffrey Regier, Nilesh Tripuraneni, Michael Jordan, Jon McAuliffe"
+    },
+    {
+        "title": "Rate Distortion For Model Compression:From Theory To Practice",
+        "status": "Oral",
+        "authors": "Weihao Gao, Yu-Han Liu, Chong Wang, Sewoong Oh"
+    },
+    {
+        "title": "Rates of Convergence for Sparse Variational Gaussian Process Regression",
+        "status": "Oral",
+        "authors": "David Burt, Carl E Rasmussen, Mark van der Wilk"
+    },
+    {
+        "title": "Recurrent Kalman Networks: Factorized Inference in High-Dimensional Deep Feature Spaces",
+        "status": "Oral",
+        "authors": "Philipp Becker, Harit Pandya, Gregor Gebhardt, Cheng Zhao, C. James Taylor, Gerhard Neumann"
+    },
+    {
+        "title": "Recursive Sketches for Modular Deep Learning",
+        "status": "Oral",
+        "authors": "Badih Ghazi, Rina Panigrahy, Joshua R. Wang"
+    },
+    {
+        "title": "Refined Complexity of PCA with Outliers",
+        "status": "Oral",
+        "authors": "Kirill Simonov, Fedor Fomin, Petr Golovach, Fahad Panolan"
+    },
+    {
+        "title": "Regret Circuits: Composability of Regret Minimizers",
+        "status": "Oral",
+        "authors": "Gabriele Farina, Christian Kroer, Tuomas Sandholm"
+    },
+    {
+        "title": "Regularization in directable environments with application to Tetris",
+        "status": "Oral",
+        "authors": "Jan Malte Lichtenberg, Ozgur Simsek"
+    },
+    {
+        "title": "Rehashing Kernel Evaluation in High Dimensions",
+        "status": "Oral",
+        "authors": "Paris Siminelakis, Kexin Rong, Peter Bailis, Moses Charikar, Philip Levis"
+    },
+    {
+        "title": "Reinforcement Learning in Configurable Continuous Environments",
+        "status": "Oral",
+        "authors": "Alberto Maria Metelli, Emanuele Ghelfi, Marcello Restelli"
+    },
+    {
+        "title": "Relational Pooling for Graph Representations",
+        "status": "Oral",
+        "authors": "Ryan Murphy, Balasubramaniam Srinivasan, Vinayak A Rao, Bruno Ribeiro"
+    },
+    {
+        "title": "Remember and Forget for Experience Replay",
+        "status": "Oral",
+        "authors": "Guido Novati, Petros Koumoutsakos"
+    },
+    {
+        "title": "Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions",
+        "status": "Oral",
+        "authors": "Hao Wang, Berk Ustun, Flavio Calmon"
+    },
+    {
+        "title": "Replica Conditional Sequential Monte Carlo",
+        "status": "Oral",
+        "authors": "Alex Shestopaloff, Arnaud Doucet"
+    },
+    {
+        "title": "Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff",
+        "status": "Oral",
+        "authors": "Yochai Blau, Tomer Michaeli"
+    },
+    {
+        "title": "Revisiting precision recall definition for generative modeling",
+        "status": "Oral",
+        "authors": "Loic Simon, Ryan Webster, Julien Rabin"
+    },
+    {
+        "title": "Revisiting the Softmax Bellman Operator: New Benefits and New Perspective",
+        "status": "Oral",
+        "authors": "Zhao Song, Ron Parr, Lawrence Carin"
+    },
+    {
+        "title": "Riemannian adaptive stochastic gradient algorithms on matrix manifolds",
+        "status": "Oral",
+        "authors": "Hiroyuki Kasai, Pratik Kumar Jawanpuria, Bamdev Mishra"
+    },
+    {
+        "title": "Robust Decision Trees Against Adversarial Examples",
+        "status": "Oral",
+        "authors": "Hongge Chen, Huan Zhang, Duane Boning, Cho-Jui Hsieh"
+    },
+    {
+        "title": "Robust Estimation of Tree Structured Gaussian Graphical Models",
+        "status": "Oral",
+        "authors": "Ashish Katiyar, Jessica Hoffmann, Constantine Caramanis"
+    },
+    {
+        "title": "Robust Inference via Generative Classifiers for Handling Noisy Labels",
+        "status": "Oral",
+        "authors": "Kimin Lee, Sukmin Yun, Kibok Lee, Honglak Lee, Bo Li, Jinwoo Shin"
+    },
+    {
+        "title": "Robust Influence Maximization for Hyperparametric Models",
+        "status": "Oral",
+        "authors": "Dimitrios Kalimeris, Gal Kaplun, Yaron Singer"
+    },
+    {
+        "title": "Robust Learning from Untrusted Sources",
+        "status": "Oral",
+        "authors": "Nikola Konstantinov, Christoph H. Lampert"
+    },
+    {
+        "title": "Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness",
+        "status": "Oral",
+        "authors": "Raphael Suter, Djordje Miladinovic, Bernhard Sch\u00f6lkopf, Stefan Bauer"
+    },
+    {
+        "title": "Rotation Invariant Householder Parameterization for Bayesian PCA",
+        "status": "Oral",
+        "authors": "Rajbir-Singh Nirwan, Nils Bertschinger"
+    },
+    {
+        "title": "SAGA with Arbitrary Sampling",
+        "status": "Oral",
+        "authors": "Xun Qian, Zheng Qu, Peter Richtarik"
+    },
+    {
+        "title": "SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver",
+        "status": "Oral",
+        "authors": "Po-Wei Wang, Priya Donti, Bryan Wilder, Zico Kolter"
+    },
+    {
+        "title": "SELFIE: Refurbishing Unclean Samples for Robust Deep Learning",
+        "status": "Oral",
+        "authors": "Hwanjun Song, Minseok Kim, Jae-Gil Lee"
+    },
+    {
+        "title": "SGD without Replacement: Sharper Rates for General Smooth Convex Functions",
+        "status": "Oral",
+        "authors": "Dheeraj Nagaraj, Prateek Jain, Praneeth Netrapalli"
+    },
+    {
+        "title": "SGD: General Analysis and Improved Rates",
+        "status": "Oral",
+        "authors": "Robert Gower, Nicolas Loizou, Xun Qian, Alibek Sailanbayev, Egor Shulgin, Peter Richtarik"
+    },
+    {
+        "title": "SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Marvin Zhang, Sharad Vikram, Laura Smith, Pieter Abbeel, Matthew Johnson, Sergey Levine"
+    },
+    {
+        "title": "SWALP : Stochastic Weight Averaging in Low Precision Training",
+        "status": "Oral",
+        "authors": "Guandao Yang, Tianyi Zhang, Polina Kirichenko, Junwen Bai, Andrew Wilson, Christopher De Sa"
+    },
+    {
+        "title": "Safe Grid Search with Optimal Complexity",
+        "status": "Oral",
+        "authors": "Eugene Ndiaye, Tam Le, Olivier Fercoq, Joseph Salmon, Ichiro Takeuchi"
+    },
+    {
+        "title": "Safe Policy Improvement with Baseline Bootstrapping",
+        "status": "Oral",
+        "authors": "Romain Laroche, Paul TRICHELAIR, Remi Tachet des Combes"
+    },
+    {
+        "title": "Same, Same But Different: Recovering Neural Network Quantization Error Through Weight Factorization",
+        "status": "Oral",
+        "authors": "Eldad Meller, Alexander Finkelstein, Uri Almog, Mark Grobman"
+    },
+    {
+        "title": "Sample-Optimal Parametric Q-Learning Using Linearly Additive Features",
+        "status": "Oral",
+        "authors": "Lin Yang, Mengdi Wang"
+    },
+    {
+        "title": "Scalable Fair Clustering",
+        "status": "Oral",
+        "authors": "Arturs Backurs, Piotr Indyk, Krzysztof Onak, Baruch Schieber, Ali Vakilian, Tal Wagner"
+    },
+    {
+        "title": "Scalable Learning in Reproducing Kernel Krein Spaces",
+        "status": "Oral",
+        "authors": "Dino Oglic, Thomas Gaertner"
+    },
+    {
+        "title": "Scalable Metropolis-Hastings for Exact Bayesian Inference with Large Datasets",
+        "status": "Oral",
+        "authors": "Rob Cornish, Paul Vanetti, Alexandre Bouchard-C\u00f4t\u00e9, George Deligiannidis, Arnaud Doucet"
+    },
+    {
+        "title": "Scalable Nonparametric Sampling from Multimodal Posteriors with the Posterior Bootstrap",
+        "status": "Oral",
+        "authors": "Edwin Fong, Simon Lyddon, Christopher Holmes"
+    },
+    {
+        "title": "Scalable Training of Inference Networks for Gaussian-Process Models",
+        "status": "Oral",
+        "authors": "Jiaxin Shi, Mohammad Emtiyaz Khan, Jun Zhu"
+    },
+    {
+        "title": "Scale-free adaptive planning for deterministic dynamics & discounted rewards",
+        "status": "Oral",
+        "authors": "Peter Bartlett, Victor Gabillon, Jennifer Healey, Michal Valko"
+    },
+    {
+        "title": "Scaling Up Ordinal Embedding: A Landmark Approach",
+        "status": "Oral",
+        "authors": "Jesse Anderton, Javed Aslam"
+    },
+    {
+        "title": "Screening rules for Lasso with non-convex Sparse Regularizers",
+        "status": "Oral",
+        "authors": "alain rakotomamonjy, Gilles Gasso, Joseph Salmon"
+    },
+    {
+        "title": "SelectiveNet: A Deep Neural Network with an Integrated Reject Option",
+        "status": "Oral",
+        "authors": "Yonatan Geifman, Ran El-Yaniv"
+    },
+    {
+        "title": "Self-Attention Generative Adversarial Networks",
+        "status": "Oral",
+        "authors": "Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena"
+    },
+    {
+        "title": "Self-Attention Graph Pooling",
+        "status": "Oral",
+        "authors": "Junhyun Lee, Inyeop Lee, Jaewoo Kang"
+    },
+    {
+        "title": "Self-Supervised Exploration via Disagreement",
+        "status": "Oral",
+        "authors": "Deepak Pathak, Dhiraj Gandhi, Abhinav Gupta"
+    },
+    {
+        "title": "Self-similar Epochs: Value in arrangement",
+        "status": "Oral",
+        "authors": "Eliav Buchnik, Edith Cohen, Avinatan Hasidim, Yossi Matias"
+    },
+    {
+        "title": "Semi-Cyclic Stochastic Gradient Descent",
+        "status": "Oral",
+        "authors": "Hubert Eichner, Tomer Koren, Brendan McMahan, Nati Srebro, Kunal Talwar"
+    },
+    {
+        "title": "Sensitivity Analysis of Linear Structural Causal Models",
+        "status": "Oral",
+        "authors": "Carlos Cinelli, Daniel Kumor, Bryant Chen, Judea Pearl, Elias Bareinboim"
+    },
+    {
+        "title": "Separable value functions across time-scales",
+        "status": "Oral",
+        "authors": "Joshua Romoff, Peter Henderson, Ahmed Touati, Yann Ollivier, Joelle Pineau, Emma Brunskill"
+    },
+    {
+        "title": "Sequential Facility Location: Approximate Submodularity and Greedy Algorithm",
+        "status": "Oral",
+        "authors": "Ehsan Elhamifar"
+    },
+    {
+        "title": "Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks",
+        "status": "Oral",
+        "authors": "Juho Lee, Yoonho Lee, Jungtaek Kim, Adam Kosiorek, Seungjin Choi, Yee-Whye Teh"
+    },
+    {
+        "title": "Sever: A Robust Meta-Algorithm for Stochastic Optimization",
+        "status": "Oral",
+        "authors": "Ilias Diakonikolas, Gautam Kamath, Daniel Kane, Jerry Li, Jacob Steinhardt, Alistair Stewart"
+    },
+    {
+        "title": "Shallow-Deep Networks: Understanding and Mitigating Network Overthinking",
+        "status": "Oral",
+        "authors": "Yigitcan Kaya, Sanghyun Hong, Tudor Dumitras"
+    },
+    {
+        "title": "Shape Constraints for Set Functions",
+        "status": "Oral",
+        "authors": "Andrew Cotter, Maya Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena Wang, Tao Zhu"
+    },
+    {
+        "title": "Similarity of Neural Network Representations Revisited",
+        "status": "Oral",
+        "authors": "Simon Kornblith, Mohammad Norouzi, Honglak Lee, Geoffrey Hinton"
+    },
+    {
+        "title": "Simple Black-box Adversarial Attacks",
+        "status": "Oral",
+        "authors": "Chuan Guo, Jacob Gardner, Yurong You, Andrew Wilson, Kilian Weinberger"
+    },
+    {
+        "title": "Simple Stochastic Gradient Methods for Non-Smooth Non-Convex Regularized Optimization",
+        "status": "Oral",
+        "authors": "Michael Metel, Akiko Takeda"
+    },
+    {
+        "title": "Simplifying Graph Convolutional Networks",
+        "status": "Oral",
+        "authors": "Felix Wu, Amauri Souza, Tianyi Zhang, Christopher Fifty, Tao Yu, Kilian Weinberger"
+    },
+    {
+        "title": "Sliced-Wasserstein Flows: Nonparametric Generative Modeling via Optimal Transport and Diffusions",
+        "status": "Oral",
+        "authors": "Antoine Liutkus, Umut Simsekli, Szymon Majewski, Alain Durmus, Fabian-Robert St\u00f6ter"
+    },
+    {
+        "title": "Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Caglar Gulcehre, Pedro Ortega, DJ Strouse, Joel Z Leibo, Nando de Freitas"
+    },
+    {
+        "title": "Sorting Out Lipschitz Function Approximation",
+        "status": "Oral",
+        "authors": "Cem Anil, James Lucas, Roger Grosse"
+    },
+    {
+        "title": "Sparse Extreme Multi-label Learning with Oracle Property",
+        "status": "Oral",
+        "authors": "Weiwei Liu, Xiaobo Shen"
+    },
+    {
+        "title": "Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data",
+        "status": "Oral",
+        "authors": "Luigi Antelmi, Nicholas Ayache, Philippe Robert, Marco Lorenzi"
+    },
+    {
+        "title": "Spectral Approximate Inference",
+        "status": "Oral",
+        "authors": "Sejun Park, Eunho Yang, Se-Young Yun, Jinwoo Shin"
+    },
+    {
+        "title": "Spectral Clustering of Signed Graphs via Matrix Power Means",
+        "status": "Oral",
+        "authors": "Pedro Mercado, Francesco Tudisco, Matthias Hein"
+    },
+    {
+        "title": "Stable and Fair Classification",
+        "status": "Oral",
+        "authors": "Lingxiao Huang, Nisheeth Vishnoi"
+    },
+    {
+        "title": "Stable-Predictive Optimistic Counterfactual Regret Minimization",
+        "status": "Oral",
+        "authors": "Gabriele Farina, Christian Kroer, Noam Brown, Tuomas Sandholm"
+    },
+    {
+        "title": "State-Regularized Recurrent Neural Networks",
+        "status": "Oral",
+        "authors": "Cheng Wang, Mathias Niepert"
+    },
+    {
+        "title": "State-Reification Networks: Improving Generalization by Modeling the Distribution of Hidden Representations",
+        "status": "Oral",
+        "authors": "Alex Lamb, Jonathan Binas, Anirudh Goyal, Sandeep Subramanian, Ioannis Mitliagkas, Yoshua Bengio, Michael Mozer"
+    },
+    {
+        "title": "Static Automatic Batching In TensorFlow",
+        "status": "Oral",
+        "authors": "Ashish Agarwal"
+    },
+    {
+        "title": "Statistical Foundations of Virtual Democracy",
+        "status": "Oral",
+        "authors": "Anson Kahng, Min Kyung Lee, Ritesh Noothigattu, Ariel Procaccia, Christos-Alexandros Psomas"
+    },
+    {
+        "title": "Statistics and Samples in Distributional Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Mark Rowland, Robert Dadashi, Saurabh Kumar, Remi Munos, Marc Bellemare, Will Dabney"
+    },
+    {
+        "title": "Stay With Me: Lifetime Maximization Through Heteroscedastic Linear Bandits With Reneging",
+        "status": "Oral",
+        "authors": "Ping-Chun Hsieh, Xi Liu, Anirban Bhattacharya, P R Kumar"
+    },
+    {
+        "title": "Stein Point Markov Chain Monte Carlo",
+        "status": "Oral",
+        "authors": "Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey, Chris Oates"
+    },
+    {
+        "title": "Stochastic Beams and Where To Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement",
+        "status": "Oral",
+        "authors": "Wouter Kool, Herke van Hoof, Max Welling"
+    },
+    {
+        "title": "Stochastic Blockmodels meet Graph Neural Networks",
+        "status": "Oral",
+        "authors": "Nikhil Mehta, Lawrence Carin, Piyush Rai"
+    },
+    {
+        "title": "Stochastic Deep Networks",
+        "status": "Oral",
+        "authors": "Gwendoline De Bie, Gabriel Peyr\u00e9, Marco Cuturi"
+    },
+    {
+        "title": "Stochastic Gradient Push for Distributed Deep Learning",
+        "status": "Oral",
+        "authors": "Mahmoud Assran, Nicolas Loizou, Nicolas Ballas, Michael Rabbat"
+    },
+    {
+        "title": "Stochastic Iterative Hard Thresholding for Graph-structured Sparsity Optimization",
+        "status": "Oral",
+        "authors": "Baojian Zhou, Feng Chen, Yiming Ying"
+    },
+    {
+        "title": "Stochastic Optimization for DC Functions and Non-smooth Non-convex Regularizers with Non-asymptotic Convergence",
+        "status": "Oral",
+        "authors": "Yi Xu, Qi Qi, Qihang Lin, rong jin, Tianbao Yang"
+    },
+    {
+        "title": "Structured agents for physical construction",
+        "status": "Oral",
+        "authors": "Victor Bapst, Alvaro Sanchez-Gonzalez, Carl Doersch, Kimberly Stachenfeld, Pushmeet Kohli, Peter Battaglia, Jessica Hamrick"
+    },
+    {
+        "title": "Sublinear Space Private Algorithms Under the Sliding Window Model",
+        "status": "Oral",
+        "authors": "Jalaj Upadhyay"
+    },
+    {
+        "title": "Sublinear Time Nearest Neighbor Search over Generalized Weighted Space",
+        "status": "Oral",
+        "authors": "Yifan Lei, Qiang Huang, Mohan Kankanhalli, Anthony Tung"
+    },
+    {
+        "title": "Sublinear quantum algorithms for training linear and kernel-based classifiers",
+        "status": "Oral",
+        "authors": "Tongyang Li, Shouvanik Chakrabarti, Xiaodi Wu"
+    },
+    {
+        "title": "Submodular Cost Submodular Cover with an Approximate Oracle",
+        "status": "Oral",
+        "authors": "Victoria Crawford, Alan Kuhnle, My T Thai"
+    },
+    {
+        "title": "Submodular Maximization beyond Non-negativity: Guarantees, Fast Algorithms, and Applications",
+        "status": "Oral",
+        "authors": "Christopher Harshaw, Moran Feldman, Justin Ward, Amin Karbasi"
+    },
+    {
+        "title": "Submodular Observation Selection and Information Gathering for Quadratic Models",
+        "status": "Oral",
+        "authors": "Abolfazl Hashemi, Mahsa Ghasemi, Haris Vikalo, Ufuk Topcu"
+    },
+    {
+        "title": "Submodular Streaming in All Its Glory: Tight Approximation, Minimum Memory and Low Adaptive Complexity",
+        "status": "Oral",
+        "authors": "Ehsan Kazemi, Marko Mitrovic, Morteza Zadimoghaddam, Silvio Lattanzi, Amin Karbasi"
+    },
+    {
+        "title": "Subspace Robust Wasserstein Distances",
+        "status": "Oral",
+        "authors": "Fran\u00e7ois-Pierre Paty, Marco Cuturi"
+    },
+    {
+        "title": "Sum-of-Squares Polynomial Flow",
+        "status": "Oral",
+        "authors": "Priyank Jaini, Kira A. Selby, Yaoliang Yu"
+    },
+    {
+        "title": "Supervised Hierarchical Clustering with Exponential Linkage",
+        "status": "Oral",
+        "authors": "Nishant Yadav, Ari Kobren, Nicholas Monath, Andrew McCallum"
+    },
+    {
+        "title": "Surrogate Losses for Online Learning of Stepsizes in Stochastic Non-Convex Optimization",
+        "status": "Oral",
+        "authors": "zhenxun zhuang, Ashok Cutkosky, Francesco Orabona"
+    },
+    {
+        "title": "Switching Linear Dynamics for Variational Bayes Filtering",
+        "status": "Oral",
+        "authors": "Philip Becker-Ehmck, Jan Peters, Patrick van der Smagt"
+    },
+    {
+        "title": "Taming MAML: Efficient unbiased meta-reinforcement learning",
+        "status": "Oral",
+        "authors": "Hao Liu, Richard Socher, Caiming Xiong"
+    },
+    {
+        "title": "TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning",
+        "status": "Oral",
+        "authors": "Sung Whan Yoon, Jun Seo, Jaekyun Moon"
+    },
+    {
+        "title": "TarMAC: Targeted Multi-Agent Communication",
+        "status": "Oral",
+        "authors": "Abhishek Das, Theophile Gervet, Joshua Romoff, Dhruv Batra, Devi Parikh, Michael Rabbat, Joelle Pineau"
+    },
+    {
+        "title": "Target Tracking for Contextual Bandits: Application to Demand Side Management",
+        "status": "Oral",
+        "authors": "Margaux Br\u00e9g\u00e8re, Pierre Gaillard, Yannig Goude, Gilles Stoltz"
+    },
+    {
+        "title": "Target-Based Temporal-Difference Learning",
+        "status": "Oral",
+        "authors": "Donghwan Lee, Niao He"
+    },
+    {
+        "title": "Task-Agnostic Dynamics Priors for Deep Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Yilun Du, Karthik Narasimhan"
+    },
+    {
+        "title": "Teaching a black-box learner",
+        "status": "Oral",
+        "authors": "Sanjoy Dasgupta, Daniel Hsu, Stefanos Poulis, Jerry Zhu"
+    },
+    {
+        "title": "Temporal Gaussian Mixture Layer for Videos",
+        "status": "Oral",
+        "authors": "AJ Piergiovanni, Michael Ryoo"
+    },
+    {
+        "title": "Tensor Variable Elimination for Plated Factor Graphs",
+        "status": "Oral",
+        "authors": "Fritz Obermeyer, Elias Bingham, Martin Jankowiak, Neeraj Pradhan, Justin Chiu, Alexander Rush, Noah Goodman"
+    },
+    {
+        "title": "TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing",
+        "status": "Oral",
+        "authors": "Augustus Odena, Catherine Olsson, David Andersen, Ian Goodfellow"
+    },
+    {
+        "title": "The Anisotropic Noise in Stochastic Gradient Descent: Its Behavior of Escaping from Sharp Minima and Regularization Effects",
+        "status": "Oral",
+        "authors": "Zhanxing Zhu, Jingfeng Wu, Bing Yu, Lei Wu, Jinwen Ma"
+    },
+    {
+        "title": "The Effect of Network Width on Stochastic Gradient Descent and Generalization: an Empirical Study",
+        "status": "Oral",
+        "authors": "Daniel Park, Jascha Sohl-Dickstein, Quoc Le, Samuel Smith"
+    },
+    {
+        "title": "The Evolved Transformer",
+        "status": "Oral",
+        "authors": "David So, Quoc Le, Chen Liang"
+    },
+    {
+        "title": "The Implicit Fairness Criterion of Unconstrained Learning",
+        "status": "Oral",
+        "authors": "Lydia T. Liu, Max Simchowitz, Moritz Hardt"
+    },
+    {
+        "title": "The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions",
+        "status": "Oral",
+        "authors": "Raj Agrawal, Brian Trippe, Jonathan Huggins, Tamara Broderick"
+    },
+    {
+        "title": "The Natural Language of Actions",
+        "status": "Oral",
+        "authors": "Guy Tennenholtz, Shie Mannor"
+    },
+    {
+        "title": "The Odds are Odd: A Statistical Test for Detecting Adversarial Examples",
+        "status": "Oral",
+        "authors": "Kevin Roth, Yannic Kilcher, Thomas Hofmann"
+    },
+    {
+        "title": "The Value Function Polytope in Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Robert Dadashi, Marc Bellemare, Adrien Ali Taiga, Nicolas Le Roux, Dale Schuurmans"
+    },
+    {
+        "title": "The Variational Predictive Natural Gradient",
+        "status": "Oral",
+        "authors": "Da Tang, Rajesh Ranganath"
+    },
+    {
+        "title": "The Wasserstein Transform",
+        "status": "Oral",
+        "authors": "Facundo Memoli, Zane Smith, Zhengchao Wan"
+    },
+    {
+        "title": "The advantages of multiple classes for reducing overfitting from test set reuse",
+        "status": "Oral",
+        "authors": "Vitaly Feldman, Roy Frostig, Moritz Hardt"
+    },
+    {
+        "title": "The information-theoretic value of unlabeled data in semi-supervised learning",
+        "status": "Oral",
+        "authors": "Alexander Golovnev, David Pal, Balazs Szorenyi"
+    },
+    {
+        "title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+        "status": "Oral",
+        "authors": "Hongyang Zhang, Yaodong Yu, Jiantao Jiao, Eric Xing, Laurent El Ghaoui, Michael Jordan"
+    },
+    {
+        "title": "TibGM: A Transferable and Information-Based Graphical Model Approach for Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Tameem Adel, Adrian Weller"
+    },
+    {
+        "title": "Tight Kernel Query Complexity of Kernel Ridge Regression and Kernel $k$-means Clustering",
+        "status": "Oral",
+        "authors": "Taisuke Yasuda, David Woodruff, Manuel Fernandez"
+    },
+    {
+        "title": "Tighter Problem-Dependent Regret Bounds in Reinforcement Learning without Domain Knowledge using Value Function Bounds",
+        "status": "Oral",
+        "authors": "Andrea Zanette, Emma Brunskill"
+    },
+    {
+        "title": "Topological Data Analysis of Decision Boundaries with Application to Model Selection",
+        "status": "Oral",
+        "authors": "Karthikeyan Ramamurthy, Kush Varshney, Krishnan Mody"
+    },
+    {
+        "title": "Toward Controlling Discrimination in Online Ad Auctions",
+        "status": "Oral",
+        "authors": "L. Elisa Celis, Anay Mehrotra, Nisheeth Vishnoi"
+    },
+    {
+        "title": "Toward Understanding the Importance of Noise in Training Neural Networks",
+        "status": "Oral",
+        "authors": "Mo Zhou, Tianyi Liu, Yan Li, Dachao Lin, Enlu Zhou, Tuo Zhao"
+    },
+    {
+        "title": "Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation",
+        "status": "Oral",
+        "authors": "Kaichao You, Ximei Wang, Mingsheng Long, Michael Jordan"
+    },
+    {
+        "title": "Towards Understanding Knowledge Distillation",
+        "status": "Oral",
+        "authors": "Mary Phuong, Christoph H. Lampert"
+    },
+    {
+        "title": "Towards a Deep and Unified Understanding of Deep Neural Models in NLP",
+        "status": "Oral",
+        "authors": "Chaoyu Guan, Xiting Wang, Quanshi Zhang, Runjin Chen, Di He, Xing Xie"
+    },
+    {
+        "title": "Towards a Unified Analysis of Random Fourier Features",
+        "status": "Oral",
+        "authors": "Zhu Li, Jean-Francois Ton, Dino Oglic, Dino Sejdinovic"
+    },
+    {
+        "title": "Trading Redundancy for Communication: Speeding up Distributed SGD for Non-convex Optimization",
+        "status": "Oral",
+        "authors": "Farzin Haddadpour, Mohammad Mahdi Kamani, Mehrdad Mahdavi, Viveck Cadambe"
+    },
+    {
+        "title": "Traditional and Heavy Tailed Self Regularization in Neural Network Models",
+        "status": "Oral",
+        "authors": "Michael Mahoney, Charles H Martin"
+    },
+    {
+        "title": "Trainable Decoding of Sets of Sequences for Neural Sequence Models",
+        "status": "Oral",
+        "authors": "Ashwin Kalyan, Peter Anderson, Stefan Lee, Dhruv Batra"
+    },
+    {
+        "title": "Training CNNs with Selective Allocation of Channels",
+        "status": "Oral",
+        "authors": "Jongheon Jeong, Jinwoo Shin"
+    },
+    {
+        "title": "Training Neural Networks with Local Error Signals",
+        "status": "Oral",
+        "authors": "Arild N\u00f8kland, Lars Hiller Eidnes"
+    },
+    {
+        "title": "Training Well-Generalizing Classifiers for Fairness Metrics and Other Data-Dependent Constraints",
+        "status": "Oral",
+        "authors": "Andrew Cotter, Maya Gupta, Heinrich Jiang, Nati Srebro, Karthik Sridharan, Serena Wang, Blake Woodworth, Seungil You"
+    },
+    {
+        "title": "Trajectory-Based Off-Policy Deep Reinforcement Learning",
+        "status": "Oral",
+        "authors": "Andreas Doerr, Michael Volpp, Marc Toussaint, Sebastian Trimpe, Christian Daniel"
+    },
+    {
+        "title": "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation",
+        "status": "Oral",
+        "authors": "Shani Gamrian, Yoav Goldberg"
+    },
+    {
+        "title": "Transfer of Samples in Policy Search via Multiple Importance Sampling",
+        "status": "Oral",
+        "authors": "Andrea Tirinzoni, Mattia Salvini, Marcello Restelli"
+    },
+    {
+        "title": "Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation",
+        "status": "Oral",
+        "authors": "Xinyang Chen, Sinan Wang, Mingsheng Long, Jianmin Wang"
+    },
+    {
+        "title": "Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers",
+        "status": "Oral",
+        "authors": "Hong Liu, Mingsheng Long, Jianmin Wang, Michael Jordan"
+    },
+    {
+        "title": "Transferable Clean-Label Poisoning Attacks on Deep Neural Nets",
+        "status": "Oral",
+        "authors": "Chen Zhu, W. Ronny Huang, Hengduo Li, Gavin Taylor, Christoph Studer, Tom Goldstein"
+    },
+    {
+        "title": "Trimming the $\\ell_1$ Regularizer: Statistical Analysis, Optimization, and Applications to Deep Learning",
+        "status": "Oral",
+        "authors": "Jihun Yun, Peng Zheng, Eunho Yang, Aurelie Lozano, Aleksandr Aravkin"
+    },
+    {
+        "title": "Understanding Geometry of Encoder-Decoder CNNs",
+        "status": "Oral",
+        "authors": "Jong Chul Ye, woonkyoung Sung"
+    },
+    {
+        "title": "Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation",
+        "status": "Oral",
+        "authors": "Sahil Singla, Eric Wallace, Shi Feng, Soheil Feizi"
+    },
+    {
+        "title": "Understanding MCMC Dynamics as Flows on the Wasserstein Space",
+        "status": "Oral",
+        "authors": "Chang Liu, Jingwei Zhuo, Jun Zhu"
+    },
+    {
+        "title": "Understanding Priors in Bayesian Neural Networks at the Unit Level",
+        "status": "Oral",
+        "authors": "Mariia Vladimirova, Jakob Verbeek, Pablo Mesejo, Julyan Arbel"
+    },
+    {
+        "title": "Understanding and Accelerating Particle-Based Variational Inference",
+        "status": "Oral",
+        "authors": "Chang Liu, Jingwei Zhuo, Pengyu Cheng, RUIYI (ROY) ZHANG, Jun Zhu"
+    },
+    {
+        "title": "Understanding and Controlling Memory in Recurrent Neural Networks",
+        "status": "Oral",
+        "authors": "Doron Haviv, Alexander Rivkind, Omri Barak"
+    },
+    {
+        "title": "Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels",
+        "status": "Oral",
+        "authors": "Pengfei Chen, Ben Liao, Guangyong Chen, Shengyu Zhang"
+    },
+    {
+        "title": "Understanding and correcting pathologies in the training of learned optimizers",
+        "status": "Oral",
+        "authors": "Luke Metz, Niru Maheswaranathan, Jeremy Nixon, Daniel Freeman, Jascha Sohl-Dickstein"
+    },
+    {
+        "title": "Understanding the Impact of Entropy on Policy Optimization",
+        "status": "Oral",
+        "authors": "Zafarali Ahmed, Nicolas Le Roux, Mohammad Norouzi, Dale Schuurmans"
+    },
+    {
+        "title": "Understanding the Origins of Bias in Word Embeddings",
+        "status": "Oral",
+        "authors": "Marc-Etienne Brunet, Colleen Alkalay-Houlihan, Ashton Anderson, Richard Zemel"
+    },
+    {
+        "title": "Uniform Convergence Rate of the Kernel Density Estimator Adaptive to Intrinsic Volume Dimension",
+        "status": "Oral",
+        "authors": "Jisu Kim, Jaehyeok Shin, Alessandro Rinaldo, Larry Wasserman"
+    },
+    {
+        "title": "Unifying Orthogonal Monte Carlo Methods",
+        "status": "Oral",
+        "authors": "Krzysztof Choromanski, Mark Rowland, Wenyu Chen, Adrian Weller"
+    },
+    {
+        "title": "Unreproducible Research is Reproducible",
+        "status": "Oral",
+        "authors": "Xavier Bouthillier, C\u00e9sar Laurent, Pascal Vincent"
+    },
+    {
+        "title": "Unsupervised Deep Learning by Neighbourhood Discovery",
+        "status": "Oral",
+        "authors": "Jiabo Huang, Qi Dong, Shaogang Gong, Xiatian Zhu"
+    },
+    {
+        "title": "Unsupervised Label Noise Modeling and Loss Correction",
+        "status": "Oral",
+        "authors": "Eric Arazo, Diego Ortego, Paul Albert, Noel O'Connor, Kevin McGuinness"
+    },
+    {
+        "title": "Using Pre-Training Can Improve Model Robustness and Uncertainty",
+        "status": "Oral",
+        "authors": "Dan Hendrycks, Kimin Lee, Mantas Mazeika"
+    },
+    {
+        "title": "Validating Causal Inference Models via Influence Functions",
+        "status": "Oral",
+        "authors": "Ahmed Alaa, Mihaela van der Schaar"
+    },
+    {
+        "title": "Variational Annealing of GANs: A Langevin Perspective",
+        "status": "Oral",
+        "authors": "Chenyang Tao, Shuyang Dai, Liqun Chen, Ke Bai, Junya Chen, Chang Liu, RUIYI (ROY) ZHANG, Georgiy Bobashev, Lawrence Carin"
+    },
+    {
+        "title": "Variational Implicit Processes",
+        "status": "Oral",
+        "authors": "Chao Ma, Yingzhen Li, Jose Miguel Hernandez-Lobato"
+    },
+    {
+        "title": "Variational Inference for sparse network reconstruction from count data",
+        "status": "Oral",
+        "authors": "Julien Chiquet, Stephane Robin, Mahendra Mariadassou"
+    },
+    {
+        "title": "Variational Laplace Autoencoders",
+        "status": "Oral",
+        "authors": "Yookoon Park, Chris Kim, Gunhee Kim"
+    },
+    {
+        "title": "Variational Russian Roulette for Deep Bayesian Nonparametrics",
+        "status": "Oral",
+        "authors": "Kai Xu, Akash Srivastava, Charles Sutton"
+    },
+    {
+        "title": "Voronoi Boundary Classification: A High-Dimensional Geometric Approach via Weighted Monte Carlo Integration",
+        "status": "Oral",
+        "authors": "Vladislav Polianskii, Florian T. Pokorny"
+    },
+    {
+        "title": "Warm-starting Contextual Bandits: Robustly Combining Supervised and Bandit Feedback",
+        "status": "Oral",
+        "authors": "Chicheng Zhang, Alekh Agarwal, Hal Daum\u00e9 III, John Langford, Sahand Negahban"
+    },
+    {
+        "title": "Wasserstein Adversarial Examples via Projected Sinkhorn Iterations",
+        "status": "Oral",
+        "authors": "Eric Wong, Frank R Schmidt, Zico Kolter"
+    },
+    {
+        "title": "Wasserstein of Wasserstein Loss for Learning Generative Models",
+        "status": "Oral",
+        "authors": "Yonatan Dukler, Wuchen Li, Alex Lin, Guido Montufar"
+    },
+    {
+        "title": "Weak Detection of Signal in the Spiked Wigner Model",
+        "status": "Oral",
+        "authors": "Hye Won Chung, Ji Oon Lee"
+    },
+    {
+        "title": "Weakly-Supervised Temporal Localization via Occurrence Count Learning",
+        "status": "Oral",
+        "authors": "Julien Schroeter, Kirill Sidorov, David Marshall"
+    },
+    {
+        "title": "What is the Effect of Importance Weighting in Deep Learning?",
+        "status": "Oral",
+        "authors": "Jonathon Byrd, Zachary Lipton"
+    },
+    {
+        "title": "When Samples Are Strategically Selected",
+        "status": "Oral",
+        "authors": "Hanrui Zhang, Yu Cheng, Vincent Conitzer"
+    },
+    {
+        "title": "White-box vs Black-box: Bayes Optimal Strategies for Membership Inference",
+        "status": "Oral",
+        "authors": "Alexandre Sablayrolles, Douze Matthijs, Cordelia Schmid, Yann Ollivier, Herve Jegou"
+    },
+    {
+        "title": "Why do Larger Models Generalize Better? A Theoretical Perspective via the XOR Problem",
+        "status": "Oral",
+        "authors": "Alon Brutzkus, Amir Globerson"
+    },
+    {
+        "title": "Width Provably Matters in Optimization for Deep Linear Neural Networks",
+        "status": "Oral",
+        "authors": "Simon Du, Wei Hu"
+    },
+    {
+        "title": "Zeno: Distributed Stochastic Gradient Descent with Suspicion-based Fault-tolerance",
+        "status": "Oral",
+        "authors": "Cong Xie, Sanmi Koyejo, Indranil Gupta"
+    },
+    {
+        "title": "Zero-Shot Knowledge Distillation in Deep Networks",
+        "status": "Oral",
+        "authors": "Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, Venkatesh Babu Radhakrishnan, Anirban Chakraborty"
+    },
+    {
+        "title": "kernelPSI: a Post-Selection Inference Framework for Nonlinear Variable Selection",
+        "status": "Oral",
+        "authors": "Lotfi Slim, Cl\u00e9ment Chatelain, Chloe-Agathe Azencott, Jean-Philippe Vert"
+    }
+]
