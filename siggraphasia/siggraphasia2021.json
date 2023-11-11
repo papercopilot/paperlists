@@ -1,0 +1,922 @@
+[
+    {
+        "ssid": "papers_437",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Transflower: probabilistic autoregressive dance generation with multimodal attention",
+        "authors": "Guillermo Valle-P\u00e9rez, Gustav Eje Henter, Jonas Beskow, Andre Holzapfel, Pierre-Yves Oudeyer, Simon Alexanderson",
+        "aff": "Inria, Ensta ParisTech, University of Bordeaux; Division of Media Technology and Interaction Design, KTH Royal Institute of Technology; Division of Speech, Music and Hearing, KTH Royal Institute of Technology",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480570"
+    },
+    {
+        "ssid": "papers_228",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Motion Recommendation for Online Character Control",
+        "authors": "Kyungmin Cho, Chaelin Kim, JungJin Park, Joonkyu Park, Junyong Noh",
+        "aff": "Visual Media Lab, KAIST",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480512"
+    },
+    {
+        "ssid": "papers_268",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "SuperTrack: Motion Tracking for Physically Simulated Characters using Supervised Learning",
+        "authors": "Levi Fussell, Kevin Bergamin, Daniel Holden",
+        "aff": "University of Edinburgh; Ubisoft Divertissements",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480527"
+    },
+    {
+        "ssid": "papers_134",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "PBNS: Physically Based Neural Simulation for Unsupervised Garment Pose Space Deformation",
+        "authors": "Hugo Bertiche, Meysam Madadi, Sergio Escalera",
+        "aff": "Computer Vision Center, UAB; Universitat de Barcelona",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480479"
+    },
+    {
+        "ssid": "papers_334",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Modeling Clothing as a Separate Layer for an Animatable Human Avatar",
+        "authors": "Donglai Xiang, Fabian Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu",
+        "aff": "Facebook AI Research; Facebook Reality Labs Research; Carnegie Mellon University",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480545"
+    },
+    {
+        "ssid": "papers_173",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "ShanghaiTech University; California Institute of Technology",
+        "sess": "Turbulence and Fluids",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_174",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "ShanghaiTech University; California Institute of Technology; INRIA",
+        "sess": "Turbulence and Fluids",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_292",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Santa Barbara; Yale University; Adobe Research",
+        "sess": "Turbulence and Fluids",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_176",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Pennsylvania; Zenus Technology; KAUST; University of California Los Angeles",
+        "sess": "Turbulence and Fluids",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_301",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Waterloo; Adobe Inc.",
+        "sess": "Turbulence and Fluids",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_317",
+        "psid": "sess107",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Beijing Institute for General Artificial Intelligence; Dartmouth College; CFCS, Peking University",
+        "sess": "Physically-based Simulation and Motion Control",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_285",
+        "psid": "sess107",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Google Research; KAUST; University of New Mexico; University of Poznan",
+        "sess": "Physically-based Simulation and Motion Control",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_242",
+        "psid": "sess107",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "SoftBank Corp.; Nosan Corporation; NeuralX Inc.",
+        "sess": "Physically-based Simulation and Motion Control",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_209",
+        "psid": "sess107",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Seoul National University; Seoul National University Hospital; Samsung Electronics",
+        "sess": "Physically-based Simulation and Motion Control",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_287",
+        "psid": "sess107",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Beijing Institute for General Artificial Intelligence; IRISA, INRIA, Univ Rennes, CNRS; Center on Frontiers of Computing Studies, Peking University",
+        "sess": "Physically-based Simulation and Motion Control",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_335",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Weizmann Institute of Science; Adobe Research",
+        "sess": "Computational Photography",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_418",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Tencent AI Lab; Xverse; Nankai University",
+        "sess": "Computational Photography",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_238",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Princeton University; Polarimetric Spatio-Temporal Light Transport Probing",
+        "sess": "Computational Photography",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_147",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Berkeley; Google Research; University of Washington; Adobe Inc.",
+        "sess": "Computational Photography",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_250",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Carnegie Mellon University",
+        "sess": "Computational Photography",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_296",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "KAUST; Miami University at Ohio",
+        "sess": "05: Synthesizing Human Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_203",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "SSE, The Chinese University of Hong Kong, Shenzhen; State Key Laboratory of CAD & CG, Zhejiang University; School of Creative Media, City University of Hong Kong",
+        "sess": "05: Synthesizing Human Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_310",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Bath; Tencent NExT Studios; State Key Laboratory of CAD & CG, Zhejiang University; Zhejiang University",
+        "sess": "05: Synthesizing Human Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_378",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Virginia Tech; Kuwait University; Adobe Research; University of Maryland College Park",
+        "sess": "05: Synthesizing Human Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_271",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Facebook AI Research; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "05: Synthesizing Human Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_145",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Nanjing University; Xmov",
+        "sess": "06: Facial Animation and Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_233",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Digital Domain",
+        "sess": "06: Facial Animation and Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_223",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "DisneyResearch|Studios; ETH Z\u00fcrich",
+        "sess": "06: Facial Animation and Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_299",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Unversit\u00e9 C\u00f4te d'Azur; Universit\u00e9 C\u00f4te d'Azur; INRIA",
+        "sess": "06: Facial Animation and Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_144",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Shenzhen University; Simon Fraser University; The Chinese University of Hong Kong",
+        "sess": "07: Scene Synthesis and Navigation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_166",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Shenzhen University; University of Guelph",
+        "sess": "07: Scene Synthesis and Navigation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_392",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "PTC Inc.; Columbia University; University of Washington; Adobe Research",
+        "sess": "07: Scene Synthesis and Navigation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_200",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "George Mason University",
+        "sess": "07: Scene Synthesis and Navigation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_129",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "George Mason University",
+        "sess": "07: Scene Synthesis and Navigation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_240",
+        "psid": "sess117",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Brno University of Technology, CPhoto@FIT; Purdue University; Brno University of Technology, CPhoto@FIT; Czech Technical University in Prague, FEL; Purdue University; Czech Technical University in Prague, FEL",
+        "sess": "08: Natural Phenomena",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_254",
+        "psid": "sess117",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Google Research; Purdue University; University of Poznan; University of Bonn; KAUST",
+        "sess": "08: Natural Phenomena",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_148",
+        "psid": "sess117",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Konstanz; University of Chinese Academy of Sciences; NLPR, Institute of Automation, Chinese Academy of Sciences; Shenzhen University; Purdue University; NLPR, Institute of Automation, Chinese Academy Of Sciences",
+        "sess": "08: Natural Phenomena",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_338",
+        "psid": "sess117",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Calgary",
+        "sess": "08: Natural Phenomena",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_339",
+        "psid": "sess117",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Czech Technical University in Prague, Faculty of Electrical Engineering; Secret Weapons",
+        "sess": "08: Natural Phenomena",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_193",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University College London (UCL); Adobe Research; University College London (UCL), Department of Computer Science",
+        "sess": "Neural Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_181",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Google Research; MIT CSAIL; Waymo",
+        "sess": "Neural Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_152",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Google Research; University of Washington",
+        "sess": "Neural Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_353",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Pixar Animation Studios; ETH Z\u00fcrich; Disney Research|Studios; Industrial Light & Magic (ILM)",
+        "sess": "Neural Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_328",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "NVIDIA Research; Stanford University",
+        "sess": "10: Audio and Visual Displays",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_229",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Cambridge; Bangor University",
+        "sess": "10: Audio and Visual Displays",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_162",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "NVIDIA; Google Research",
+        "sess": "10: Audio and Visual Displays",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_384",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Maryland College Park; Tianjin University",
+        "sess": "10: Audio and Visual Displays",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_141",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Facebook Reality Labs",
+        "sess": "10: Audio and Visual Displays",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_288",
+        "psid": "sess102",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Konstanz; University of Stuttgart",
+        "sess": "NPR and Digital Art",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_342",
+        "psid": "sess102",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "The University of Tokyo",
+        "sess": "NPR and Digital Art",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_225",
+        "psid": "sess102",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of British Columbia; Universidad Panamericana; NVIDIA",
+        "sess": "NPR and Digital Art",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_248",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Toronto; Carnegie Mellon University",
+        "sess": "12: Geometry Processing and Simulation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_344",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Massachusetts Institute of Technology",
+        "sess": "12: Geometry Processing and Simulation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_212",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "AICFVE Beijing Film Academy; Taichi Graphics; Microsoft Research Asia; University of Utah; CFCS, Peking University",
+        "sess": "12: Geometry Processing and Simulation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_330",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Brigham Young University; Weta Digital",
+        "sess": "12: Geometry Processing and Simulation",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_431",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "MIT CSAIL",
+        "sess": "Meshing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_221",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "CNR-IMATI: GENOVA; CRS4; Universit\u00e0 degli Studi di Cagliari",
+        "sess": "Meshing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_249",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Michigan State University; California Institute of Technology; WeRide; INRIA",
+        "sess": "Meshing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_401",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "CNR-IMATI",
+        "sess": "Meshing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_365",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "WASHINGTON UNIVERSITY in ST LOUIS; University of North Carolina at Chapel Hill (UNC); Facebook Reality Labs; Adobe Research; WASHINGTON UNIVERSITY ST LOUIS",
+        "sess": "Surface Parameterization and Texturing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_372",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "New York University; Osnabr\u00fcck University",
+        "sess": "Surface Parameterization and Texturing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_258",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Science and Technology of China; Chinese University of Hongkong (Shenzhen)",
+        "sess": "Surface Parameterization and Texturing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_208",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Cardiff University; Institute of Computing Technology, Chinese Academy of Sciences; Simon Fraser University",
+        "sess": "Surface Parameterization and Texturing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_214",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "George Mason University; Adobe Research; University of Toronto",
+        "sess": "Surface Parameterization and Texturing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_153",
+        "psid": "sess113",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Wangxuan Institute of Computer Technology, Peking University",
+        "sess": "Curves and Surfaces",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_274",
+        "psid": "sess113",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Universit\u00e9 de Montr\u00e9al; Boston University",
+        "sess": "Curves and Surfaces",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_355",
+        "psid": "sess113",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University College London (UCL); LIX, \u00c9cole Polytechnique; Adobe Research",
+        "sess": "Curves and Surfaces",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_245",
+        "psid": "sess113",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Aachen University; Independent Researcher; Carnegie Mellon University",
+        "sess": "Curves and Surfaces",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_121",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Science and Technology of China; Singapore University of Technology and Design",
+        "sess": "Fabrication",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_235",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "New Jersey Institute of Technology (NJIT); Technische Universit\u00e4t Wien (TU Wien)",
+        "sess": "Fabrication",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_345",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "NYU",
+        "sess": "Fabrication",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_364",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Pisa; ISTI - CNR; University of Technology Sydney; IST Austria",
+        "sess": "Fabrication",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_135",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "CRS4; HBKU",
+        "sess": "Reconstruction",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_175",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Alibaba; Ecole Polytechnique; KAUST",
+        "sess": "Reconstruction",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_201",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "EPFL; University of Toronto",
+        "sess": "Reconstruction",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_239",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Simon Fraser University",
+        "sess": "Reconstruction",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_142",
+        "psid": "sess116",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Universit\u00e9 de Lyon, CNRS, LIRIS; NVIDIA; Universit\u00e9 de Lyon, LIRIS; Universit\u00e9 Claude Bernard Lyon 1",
+        "sess": "Sampling and Denoising",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_224",
+        "psid": "sess116",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Santa Barbara; Tsinghua University",
+        "sess": "Sampling and Denoising",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_336",
+        "psid": "sess116",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Cornell University; Adobe Research",
+        "sess": "Sampling and Denoising",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_385",
+        "psid": "sess116",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "National Taiwan University; MIT CSAIL; University of California, San Diego",
+        "sess": "Sampling and Denoising",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_410",
+        "psid": "sess116",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "South China University of Technology; JD Finance America Corporation; OPPO US Research Center, InnoPeak Technology Inc; Sun Yat-sen University",
+        "sess": "Sampling and Denoising",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_195",
+        "psid": "sess121",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "NVIDIA; UNIVERSITY OF UTAH",
+        "sess": "Real-time Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_230",
+        "psid": "sess121",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Cambridge; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Real-time Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_281",
+        "psid": "sess121",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "State Key Lab for Novel Software Technology, Nanjing University; NVIDIA Corporation; University of California, Santa Barbara",
+        "sess": "Real-time Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_289",
+        "psid": "sess121",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Adobe Research; Adobe Inc.",
+        "sess": "Real-time Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_399",
+        "psid": "sess121",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Santa Barbara; Harvard University; Tsinghua University",
+        "sess": "Real-time Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_160",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Irvine; NVIDIA; University of California San Diego",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_194",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Universidad de Zaragoza; Korea Advanced Institute of Science and Technology (KAIST)",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_216",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "Imperial College London; University College London (UCL); University College London; Adobe Research",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_279",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California Santa Barbara",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_329",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of California, University of California Irvine; Universidad de Zaragoza; University of California, Irvine",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_435",
+        "psid": "sess120",
+        "status": "Technical Paper",
+        "title": "",
+        "authors": "",
+        "aff": "University of Maryland, College Park",
+        "sess": "Light Interactions and Differentiable Rendering",
+        "doi": ""
+    }
+]

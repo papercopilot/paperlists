@@ -1,0 +1,1482 @@
+[
+    {
+        "ssid": "papers_360",
+        "psid": "sess123",
+        "status": "Technical Paper",
+        "title": "RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video",
+        "authors": "Jiayi Wang, Franziska Mueller, Florian Bernard, Suzanne Sorli, Oleksandr Sotnychenko, Neng Qian, Miguel A. Otaduy, Dan Casas, Christian Theobalt",
+        "aff": "Universidad Rey Juan Carlos; Technische Universit\u00e4t M\u00fcnchen (TUM); Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Hands and Faces",
+        "doi": "https://doi.org/10.1145/3414685.3417852"
+    },
+    {
+        "ssid": "papers_126",
+        "psid": "sess123",
+        "status": "Technical Paper",
+        "title": "Constraining Dense Hand Surface Tracking with Elasticity",
+        "authors": "Breannan Smith, Chenglei Wu, He Wen, Patrick Peluse, Yaser Sheikh, Jessica Hodgins, Takaaki Shiratori",
+        "aff": "Facebook AI Research; Facebook Reality Labs",
+        "sess": "Hands and Faces",
+        "doi": "https://doi.org/10.1145/3414685.3417768"
+    },
+    {
+        "ssid": "papers_276",
+        "psid": "sess123",
+        "status": "Technical Paper",
+        "title": "Single Image Portrait Relighting via Explicit Multiple Reflectance Channel Modeling",
+        "authors": "Zhibo Wang, Xin Yu, Ming Lu, Quan Wang, Chen Qian, Feng Xu",
+        "aff": "University of Technology Sydney; Intel Labs; SenseTime; Tsinghua University",
+        "sess": "Hands and Faces",
+        "doi": "https://doi.org/10.1145/3414685.3417824"
+    },
+    {
+        "ssid": "papers_143",
+        "psid": "sess123",
+        "status": "Technical Paper",
+        "title": "MakeItTalk: Speaker-Aware Talking-Head Animation",
+        "authors": "Yang Zhou, Xintong Han, Eli Shechtman, Jose Echevarria, Evangelos Kalogerakis, Dingzeyu Li",
+        "aff": "University of Massachusetts Amherst; Huya Inc; Adobe Research",
+        "sess": "Hands and Faces",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_323",
+        "psid": "sess123",
+        "status": "Technical Paper",
+        "title": "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity",
+        "authors": "Youngwoo Yoon, Bok Cha, Joo-Haeng Lee, Minsu Jang, Jaeyeon Lee, Jaehong Kim, Geehyuk Lee",
+        "aff": "Korea Advanced Institute of Science and Technology (KAIST); Electronics and Telecommunications Research Institute (ETRI); University of Science and Technology",
+        "sess": "Hands and Faces",
+        "doi": "https://doi.org/10.1145/3414685.3417838"
+    },
+    {
+        "ssid": "papers_173",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "A Benchmark for Rough Sketch Cleanup",
+        "authors": "Chuan Yan, David Vanderhaeghe, Yotam Gingold",
+        "aff": "Institut de Recherche en Informatique de Toulouse (IRIT); Universit\u00e9 de Toulouse; George Mason University",
+        "sess": "All About Sketches",
+        "doi": "https://doi.org/10.1145/3414685.3417784"
+    },
+    {
+        "ssid": "papers_306",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "Interactive Liquid Splash Modeling by User Sketches",
+        "authors": "Guowei Yan, Zhili Chen, Jimei Yang, Huamin Wang",
+        "aff": "Ohio State University; ByteDance; Adobe Research",
+        "sess": "All About Sketches",
+        "doi": "https://doi.org/10.1145/3414685.3417832"
+    },
+    {
+        "ssid": "papers_224",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "Sketch2CAD: Sequential CAD Modeling by Sketching in Context",
+        "authors": "Changjian Li, Hao Pan, Adrien Bousseau, Niloy J. Mitra",
+        "aff": "University College London (UCL); Microsoft Research Asia; Adobe Research; University College London; Institut national de recherche en informatique et en automatique (INRIA) Universit\u00e9 Nice Cote d'Azur",
+        "sess": "All About Sketches",
+        "doi": "https://doi.org/10.1145/3414685.3417807"
+    },
+    {
+        "ssid": "papers_332",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?",
+        "authors": "Ayan Kumar Bhunia, Ayan Das, Umar Riaz Muhammad, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yulia Gryaditskaya, Yi-Zhe Song",
+        "aff": "University of Surrey; University of Edinburgh; CVSSP, University of Surrey",
+        "sess": "All About Sketches",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_357",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "Lifting  Freehand Concept Sketches into 3D",
+        "authors": "Yulia Gryaditskaya, Felix Hahnlein, Chenxi Liu, Alla Sheffer, Adrien Bousseau",
+        "aff": "CVSSP, University of Surrey; University of British Columbia; Institut national de recherche en informatique et en automatique (INRIA) Universit\u00e9 Nice Cote d'Azur",
+        "sess": "All About Sketches",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_168",
+        "psid": "sess106",
+        "status": "Technical Paper",
+        "title": "Continuous Curve Textures",
+        "authors": "Peihan Tu, Li-Yi Wei, Koji Yatani, Takeo Igarashi, Matthias Zwicker",
+        "aff": "Adobe Research; University of Tokyo; University of Maryland College Park",
+        "sess": "All About Sketches",
+        "doi": "https://doi.org/10.1145/3414685.3417780"
+    },
+    {
+        "ssid": "papers_134",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "VDAC: Volume Decompose-and-Carve for Subtractive Manufacturing",
+        "authors": "Ali Mahdavi Amiri, Fenggen Yu, Haisen Zhao, Adriana Schulz, Hao (Richard) Zhang",
+        "aff": "Simon Fraser University; University of Washington; Shandong University",
+        "sess": "Fabrication: Carving, Dicing, and Printing",
+        "doi": "https://doi.org/10.1145/3414685.3417772"
+    },
+    {
+        "ssid": "papers_312",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "Reinforced FDM: Multi-Axis Filament Alignment with Controlled Anisotropic Strength",
+        "authors": "Guoxin Fang, Tianyu Zhang, Sikai Zhong, Xiangjia Chen, Zichun Zhong, Charlie C. L. Wang",
+        "aff": "Delft University of Technology; The Chinese University of Hong Kong; University of Manchester; Wayne State University",
+        "sess": "Fabrication: Carving, Dicing, and Printing",
+        "doi": "https://doi.org/10.1145/3414685.3417834"
+    },
+    {
+        "ssid": "papers_238",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "DHFSlicer: Double Height-Field Slicing For Milling Fixed Thickness Materials",
+        "authors": "Jinfan Yang, Chrystiano Ara\u00fajo, Nicholas Vining, Zachary Ferguson, Enrique Rosales, Daniele Panozzo, Sylvain Lefebvre, Paolo Cignoni, Alla Sheffer",
+        "aff": "French Institute for Research in Computer Science and Automation; New York University; University of British Columbia; Universidad Panamericana; Google Inc.; Institute for Computer Science and Technologies - Italian National Research Council",
+        "sess": "Fabrication: Carving, Dicing, and Printing",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_356",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "Towards Spatially Varying Gloss Reproduction for 3D Printing",
+        "authors": "Michal Piovarci, Michael Foshey, Vahid Babaei, Szymon Rusinkiewicz, Wojciech Matusik, Piotr Didyk",
+        "aff": "Massachusetts Institute of Technology; Princeton University; Universita della Svizzera italiana; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Fabrication: Carving, Dicing, and Printing",
+        "doi": "https://doi.org/10.1145/3414685.3417850"
+    },
+    {
+        "ssid": "papers_417",
+        "psid": "sess105",
+        "status": "Technical Paper",
+        "title": "Neural Light Field 3D Printing",
+        "authors": "Quan Zheng, Vahid Babaei, Gordon Wetzstein, Hans-Peter Seidel, Matthias Zwicker, Gurprit Singh",
+        "aff": "Stanford University; University of Maryland College Park; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Fabrication: Carving, Dicing, and Printing",
+        "doi": "https://doi.org/10.1145/3414685.3417879"
+    },
+    {
+        "ssid": "papers_105",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "Design and Fabrication of Freeform Holographic Optical Elements",
+        "authors": "Changwon Jang, Olivier Mercier, Kiseung Bang, Gang Li, Yang Zhao, Douglas Lanman",
+        "aff": "Facebook Reality Labs",
+        "sess": "Computational Holography",
+        "doi": "https://doi.org/10.1145/3414685.3417762"
+    },
+    {
+        "ssid": "papers_213",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "Neural Holography with Camera-in-the-loop Training",
+        "authors": "Yifan Peng, Suyeon Choi, Nitish Padmanaban, Gordon Wetzstein",
+        "aff": "Stanford University",
+        "sess": "Computational Holography",
+        "doi": "https://doi.org/10.1145/3414685.3417802"
+    },
+    {
+        "ssid": "papers_343",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays",
+        "authors": "Praneeth Chakravarthula, Ethan Tseng, Tarun Srivastava, Henry Fuchs, Felix Heide",
+        "aff": "Princeton University; University of North Carolina at Chapel Hill (UNC)",
+        "sess": "Computational Holography",
+        "doi": "https://doi.org/10.1145/3414685.3417846"
+    },
+    {
+        "ssid": "papers_246",
+        "psid": "sess103",
+        "status": "Technical Paper",
+        "title": "Rendering Near-Field Speckle Statistics in Scattering Media",
+        "authors": "Chen Bar, Ioannis Gkioulekas, Anat Levin",
+        "aff": "Carnegie Mellon University; Technion \u2013 Israel Institute of Technology",
+        "sess": "Computational Holography",
+        "doi": "https://doi.org/10.1145/3414685.3417813"
+    },
+    {
+        "ssid": "papers_387",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "An Extended Cut-Cell Method for Sub-Grid Liquids Tracking with Surface Tension",
+        "authors": "Yi-Lu Chen, Jonathan Meier, Barbara Solenthaler, Vinicius Azevedo",
+        "aff": "ETH Z\u00fcrich",
+        "sess": "Animation: Fluid",
+        "doi": "https://doi.org/10.1145/3414685.3417859"
+    },
+    {
+        "ssid": "papers_194",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "RBF Liquids: An Adaptive PIC Solver Using RBF-FD",
+        "authors": "Rafael Nakanishi, Filipe Nascimento, Rafael Campos, Paulo Pagliosa, Afonso Paiva",
+        "aff": "FACOM-UFMS; Universidade de S\u00e3o Paulo - USP",
+        "sess": "Animation: Fluid",
+        "doi": "https://doi.org/10.1145/3414685.3417794"
+    },
+    {
+        "ssid": "papers_319",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "An Adaptive Staggered-Tilted Grid for Incompressible Flow Simulation",
+        "authors": "YUWEI XIAO, SZEYU CHAN, SIQI WANG, BO ZHU, XUBO YANG",
+        "aff": "Dartmouth College; University of Pennsylvania; New York University; Shanghai Jiao Tong University",
+        "sess": "Animation: Fluid",
+        "doi": "https://doi.org/10.1145/3414685.3417837"
+    },
+    {
+        "ssid": "papers_337",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Frequency-Domain Fluid Guiding",
+        "authors": "Zahra Forootaninia, Rahul Narain",
+        "aff": "Indian Institute of Technology Delhi; University of Minnesota",
+        "sess": "Animation: Fluid",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_299",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Semi-Analytic Boundary Handling Below Particle Resolution for Smoothed Particle Hydrodynamics",
+        "authors": "Rene Winchenbach, Rustam Akhunov, Andreas Kolb",
+        "aff": "University of Siegen",
+        "sess": "Animation: Fluid",
+        "doi": "https://doi.org/10.1145/3414685.3417829"
+    },
+    {
+        "ssid": "papers_351",
+        "psid": "sess129",
+        "status": "Technical Paper",
+        "title": "Deep Combiner for Independent and Correlated Pixel Estimates",
+        "authors": "Jonghee Back, Binh-Son Hua, Toshiya Hachisuka, Bochang Moon",
+        "aff": "VinUniversity; VinAI Research; University of Tokyo; Gwangju Institute of Science and Technology",
+        "sess": "Light transport: Sampling",
+        "doi": "https://doi.org/10.1145/3414685.3417847"
+    },
+    {
+        "ssid": "papers_218",
+        "psid": "sess129",
+        "status": "Technical Paper",
+        "title": "Neural Control Variates",
+        "authors": "Thomas M\u00fcller, Fabrice Rousselle, Alexander Keller, Jan Nov\u00e1k",
+        "aff": "NVIDIA",
+        "sess": "Light transport: Sampling",
+        "doi": "https://doi.org/10.1145/3414685.3417804"
+    },
+    {
+        "ssid": "papers_437",
+        "psid": "sess129",
+        "status": "Technical Paper",
+        "title": "Screen-Space Blue-Noise Diffusion of Monte Carlo Sampling Error via Hierarchical Ordering of Pixels",
+        "authors": "Abdalla G. M. Ahmed, Peter Wonka",
+        "aff": "King Abdullah University of Science and Technology (KAUST)",
+        "sess": "Light transport: Sampling",
+        "doi": "https://doi.org/10.1145/3414685.3417881"
+    },
+    {
+        "ssid": "papers_308",
+        "psid": "sess129",
+        "status": "Technical Paper",
+        "title": "Unbiased Warped-Area Sampling for Differentiable Rendering",
+        "authors": "Sai Praveen Bangaru, Tzu-Mao Li, Fredo P. Durand",
+        "aff": "Massachusetts Institute of Technology",
+        "sess": "Light transport: Sampling",
+        "doi": "https://doi.org/10.1145/3414685.3417833"
+    },
+    {
+        "ssid": "papers_384",
+        "psid": "sess129",
+        "status": "Technical Paper",
+        "title": "Path Differential-Informed Stratified MCMC and Adaptive Forward Path Sampling",
+        "authors": "Tobias Zirr, Carsten Dachsbacher",
+        "aff": "Karlsruhe Institute of Technology (KIT)",
+        "sess": "Light transport: Sampling",
+        "doi": "https://doi.org/10.1145/3414685.3417856"
+    },
+    {
+        "ssid": "papers_162",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "Opening and Closing Surfaces",
+        "authors": "Silvia Sell\u00e1n, Jacob Kesten, Yan Sheng Ang, Alec Jacobson",
+        "aff": "National University of Singapore; University of Toronto; Rice University",
+        "sess": "Digital Geometry Processing",
+        "doi": "https://doi.org/10.1145/3414685.3417778"
+    },
+    {
+        "ssid": "papers_354",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "Nonlinear Spectral Geometry Processing via the TV Transform",
+        "authors": "Marco Fumero, Michael Moeller, Emanuele Rodol\u00e0",
+        "aff": "Sapienza University of Rome; University of Siegen",
+        "sess": "Digital Geometry Processing",
+        "doi": "https://doi.org/10.1145/3414685.3417849"
+    },
+    {
+        "ssid": "papers_316",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "Shape Approximation by Developable Wrapping",
+        "authors": "Alexandra Ion, Michael Rabinovich, Philipp Herholz, Olga Sorkine-Hornung",
+        "aff": "ETH Z\u00fcrich",
+        "sess": "Digital Geometry Processing",
+        "doi": "https://doi.org/10.1145/3414685.3417835"
+    },
+    {
+        "ssid": "papers_372",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "To cut or to fill: a global optimization approach to topological simplification",
+        "authors": "Dan Zeng, Erin Chambers, David Letscher, Tao Ju",
+        "aff": "Washington University in St. Louis; St. Louis University",
+        "sess": "Digital Geometry Processing",
+        "doi": "https://doi.org/10.1145/3414685.3417854"
+    },
+    {
+        "ssid": "papers_297",
+        "psid": "sess109",
+        "status": "Technical Paper",
+        "title": "Sparse Cholesky Updates for Interactive Mesh Parameterization",
+        "authors": "Philipp Herholz, Olga Sorkine-Hornung",
+        "aff": "ETH Z\u00fcrich",
+        "sess": "Digital Geometry Processing",
+        "doi": "https://doi.org/10.1145/3414685.3417828"
+    },
+    {
+        "ssid": "papers_338",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "Computational Design of Cold Bent Glass Fa\u00e7ades",
+        "authors": "Konstantinos Gavriil, Ruslan Guseinov, Jesus Perez, Davide Pellis, Paul Henderson, Florian Rist, Helmut Pottmann, Bernd Bickel",
+        "aff": "URJC Madrid; TU Wien; Institute of Science and Technology Austria; King Abdullah University of Science and Technology (KAUST)",
+        "sess": "Fabrication: Computational Design",
+        "doi": "https://doi.org/10.1145/3414685.3417843"
+    },
+    {
+        "ssid": "papers_339",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "Freeform quad-based kirigami",
+        "authors": "Caigui Jiang, Florian Rist, Helmut Pottmann, Johannes Wallner",
+        "aff": "KAUST; TU Graz",
+        "sess": "Fabrication: Computational Design",
+        "doi": "https://doi.org/10.1145/3414685.3417844"
+    },
+    {
+        "ssid": "papers_393",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "Weavecraft: An Interactive Design and Simulation Tool for 3D Weaving",
+        "authors": "Rundong Wu, Joy Xiaoji Zhang, Jonathan Leaf, Xinru Hua, Ante Qu, Claire Harvey, Emily Holtzman, Joy Ko, Brooks Hagan, Doug James, Fran\u00e7ois Guimbreti\u00e8re, Steve Marschner",
+        "aff": "Cornell University; Rhode Island School of Design; Stanford University; T.E.A.M. Inc.",
+        "sess": "Fabrication: Computational Design",
+        "doi": "https://doi.org/10.1145/3414685.3417865"
+    },
+    {
+        "ssid": "papers_185",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "Freely orientable microstructures for designing deformable 3D prints",
+        "authors": "Thibault Tricard, Vincet Tavernier, Cedric Zanni, Jon\u00e0s Mart\u00ednez, Pierre-Alexandre Hugron, Fabrice Neyret, Sylvain Lefebvre",
+        "aff": "University of Lorraine; INRIA; I.N.R.I.A. Nancy",
+        "sess": "Fabrication: Computational Design",
+        "doi": "https://doi.org/10.1145/3414685.3417790"
+    },
+    {
+        "ssid": "papers_386",
+        "psid": "sess118",
+        "status": "Technical Paper",
+        "title": "Appearance-Preserving Tactile Optimization",
+        "authors": "Chelsea Tymms, Siqi Wang, Denis Zorin",
+        "aff": "New York University",
+        "sess": "Fabrication: Computational Design",
+        "doi": "https://doi.org/10.1145/3414685.3417857"
+    },
+    {
+        "ssid": "papers_397",
+        "psid": "sess132",
+        "status": "Technical Paper",
+        "title": "Differentiable Vector Graphics Rasterization for Editing and Learning",
+        "authors": "Tzu-Mao Li, Mike Lukac, Micha\u00ebl Gharbi, Jonathan Ragan-Kelley",
+        "aff": "MIT CSAIL; Adobe Research",
+        "sess": "Differentiable Graphics",
+        "doi": "https://doi.org/10.1145/3414685.3417871"
+    },
+    {
+        "ssid": "papers_389",
+        "psid": "sess132",
+        "status": "Technical Paper",
+        "title": "Modular Primitives for High-Performance Differentiable Rendering",
+        "authors": "Samuli Laine, Janne Hellsten, Tero Karras, Yeongho Seol, Jaakko Lehtinen, Timo Aila",
+        "aff": "NVIDIA; Aalto University",
+        "sess": "Differentiable Graphics",
+        "doi": "https://doi.org/10.1145/3414685.3417861"
+    },
+    {
+        "ssid": "papers_252",
+        "psid": "sess132",
+        "status": "Technical Paper",
+        "title": "Differentiable Refraction-Tracing for Mesh Reconstruction of Transparent Objects",
+        "authors": "Jiahui Lyu, Bojian Wu, Dani Lischinski, Daniel Cohen-Or, Hui Huang",
+        "aff": "The Hebrew University of Jerusalem; Tel Aviv University; Alibaba Group; Shenzhen University",
+        "sess": "Differentiable Graphics",
+        "doi": "https://doi.org/10.1145/3414685.3417815"
+    },
+    {
+        "ssid": "papers_170",
+        "psid": "sess132",
+        "status": "Technical Paper",
+        "title": "MATch: Differentiable Material Graphs for Procedural Material Capture",
+        "authors": "Liang Shi, Beichen Li, Milo\u0161 Ha\u0161an, Kalyan Sunkavalli, Tamy Boubekeur, Radomir Mech, Wojciech Matusik",
+        "aff": "Adobe Inc.; MIT CSAIL",
+        "sess": "Differentiable Graphics",
+        "doi": "https://doi.org/10.1145/3414685.3417781"
+    },
+    {
+        "ssid": "papers_195",
+        "psid": "sess132",
+        "status": "Technical Paper",
+        "title": "Functional Optimization of Fluidic Devices with Differentiable Stokes Flow",
+        "authors": "Tao Du, Kui Wu, Andrew Spielberg, Wojciech Matusik, Bo Zhu, Eftychios Sifakis",
+        "aff": "Dartmouth College; University of Wisconsin Madison; MIT",
+        "sess": "Differentiable Graphics",
+        "doi": "https://doi.org/10.1145/3414685.3417795"
+    },
+    {
+        "ssid": "papers_206",
+        "psid": "sess127",
+        "status": "Technical Paper",
+        "title": "Surface-Only Ferrofluids",
+        "authors": "Libo Huang, Dominik L. Michels",
+        "aff": "KAUST",
+        "sess": "Animation: Fluids - Phenomenon",
+        "doi": "https://doi.org/10.1145/3414685.3417799"
+    },
+    {
+        "ssid": "papers_233",
+        "psid": "sess127",
+        "status": "Technical Paper",
+        "title": "A Moving Least Square Reproducing Kernel Particle Method for Unified Multiphase Continuum Simulation",
+        "authors": "Xiaosong Chen, Chenfeng Li, Gengchen Cao, Yuntao Jiang, Shi-Min Hu",
+        "aff": "Swansea University; Tsinghua University",
+        "sess": "Animation: Fluids - Phenomenon",
+        "doi": "https://doi.org/10.1145/3414685.3417809"
+    },
+    {
+        "ssid": "papers_379",
+        "psid": "sess127",
+        "status": "Technical Paper",
+        "title": "Simulation, Modeling and",
+        "authors": "Oscar Argudo, Eric Galin, Adrien Peytavie, Axel Paris, Eric Gu\u00e9rin",
+        "aff": "Univ Lyon, CNRS, LIRIS; Univ Lyon, INSA-Lyon, CNRS, LIRIS",
+        "sess": "Animation: Fluids - Phenomenon",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_392",
+        "psid": "sess127",
+        "status": "Technical Paper",
+        "title": "A Novel Discretization and Numerical Solver for Non-Fourier Diffusion",
+        "authors": "Tao Xue, Haozhe Su, Chengguizi Han, Chenfanfu Jiang, Mridul Aanjaneya",
+        "aff": "Rutgers University; University of Pennsylvania",
+        "sess": "Animation: Fluids - Phenomenon",
+        "doi": "https://doi.org/10.1145/3414685.3417863"
+    },
+    {
+        "ssid": "papers_209",
+        "psid": "sess127",
+        "status": "Technical Paper",
+        "title": "Stormscapes: Simulating Cloud Dynamics in the Now",
+        "authors": "Torsten H\u00e4drich, Mi\u0142osz Makowski, Wojtek Pa\u0142ubicki, Daniel T. Banuti, S\u00f6ren Pirk, Dominik L. Michels",
+        "aff": "UNM; Google AI; KAUST; UAM",
+        "sess": "Animation: Fluids - Phenomenon",
+        "doi": "https://doi.org/10.1145/3414685.3417801"
+    },
+    {
+        "ssid": "papers_261",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "Complementary Dynamics",
+        "authors": "Jiayi Eris Zhang, Seungbae Bang, David I.W. Levin, Alec Jacobson",
+        "aff": "University of Toronto",
+        "sess": "Animation: Pretty Solid Physics Research",
+        "doi": "https://doi.org/10.1145/3414685.3417819"
+    },
+    {
+        "ssid": "papers_108",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "P-Cloth: Interactive Cloth Simulation on Multi-GPU Systems using Dynamic Matrix Assembly and Pipelined Implicit Integrators",
+        "authors": "Cheng Li, Min Tang, Ruofeng Tong, Ming Cai, Jieyi Zhao, Dinesh Manocha",
+        "aff": "University of Texas Health Science Center at Houston; Zhejiang University; University of Maryland College Park",
+        "sess": "Animation: Pretty Solid Physics Research",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_362",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "Higher-Order Finite Elements for Embedded Simulation",
+        "authors": "Andreas Longva, Fabian L\u00f6schner, Tassilo Kugelstadt, Jos\u00e9 Antonio Fern\u00e1ndez-Fern\u00e1ndez, Jan Bender",
+        "aff": "RWTH Aachen University",
+        "sess": "Animation: Pretty Solid Physics Research",
+        "doi": "https://doi.org/10.1145/3414685.3417853"
+    },
+    {
+        "ssid": "papers_202",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "Monolith: A Monolithic Pressure-Viscosity-Contact Solver for Strong Two-Way Rigid-Rigid Rigid-Fluid Coupling",
+        "authors": "Tetsuya Takahashi, Christopher Batty",
+        "aff": "Adobe Inc.; University of Waterloo",
+        "sess": "Animation: Pretty Solid Physics Research",
+        "doi": "https://doi.org/10.1145/3414685.3417798"
+    },
+    {
+        "ssid": "papers_342",
+        "psid": "sess119",
+        "status": "Technical Paper",
+        "title": "An Implicit Updated Lagrangian Formulation for Liquids with Large Surface Energy",
+        "authors": "David A. B. Hyde, Steven W. Gagniere, Alan Marquez-Razon, Joseph Teran",
+        "aff": "University of California Los Angeles",
+        "sess": "Animation: Pretty Solid Physics Research",
+        "doi": "https://doi.org/10.1145/3414685.3417845"
+    },
+    {
+        "ssid": "papers_217",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "PIE: Portrait Image Embedding for Semantic Control",
+        "authors": "Ayush Tewari, Mohamed Elgharib, Malikarjun B R, Florian Bernard, Hans-Peter Seidel, Patrick P\u00e9rez, Michael Zollh\u00f6fer, Christian Theobalt",
+        "aff": "Stanford University; Valeo.ai; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Image Synthesis with Generative Models",
+        "doi": "https://doi.org/10.1145/3414685.3417803"
+    },
+    {
+        "ssid": "papers_200",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "Neural Crossbreed: Neural Based Image Metamorphosis",
+        "authors": "Sanghun Park, Kwanggyoon Seo, Junyong Noh",
+        "aff": "KAIST, Visual Media Lab",
+        "sess": "Image Synthesis with Generative Models",
+        "doi": "https://doi.org/10.1145/3414685.3417797"
+    },
+    {
+        "ssid": "papers_288",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "Face Disentanglement via Latent Space Mapping",
+        "authors": "Yotam Nitzan, Amit Bermano, Yangyan Li, Daniel Cohen-Or",
+        "aff": "Alibaba AI Labs; Tel Aviv University",
+        "sess": "Image Synthesis with Generative Models",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_398",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "Manga Filling Style Conversion with Screentone Variational Autoencoder",
+        "authors": "Minshan XIE, Chengze LI, Xueting LIU, Tien-Tsin WONG",
+        "aff": "The Chinese University of Hong Kong; Caritas Institute of Higher Education",
+        "sess": "Image Synthesis with Generative Models",
+        "doi": "https://doi.org/10.1145/3414685.3417873"
+    },
+    {
+        "ssid": "papers_254",
+        "psid": "sess115",
+        "status": "Technical Paper",
+        "title": "SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis",
+        "authors": "Noa Fish, Lilach Perry, Amit Bermano, Daniel Cohen-Or",
+        "aff": "Tel Aviv University",
+        "sess": "Image Synthesis with Generative Models",
+        "doi": "https://doi.org/10.1145/3414685.3417816"
+    },
+    {
+        "ssid": "papers_198",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "TAP-Net: Transport-and-Pack using Reinforcement Learning",
+        "authors": "Ruizhen Hu, Juzhan Xu, Bin Chen, Minglun Gong, Hao Zhang, Hui Huang",
+        "aff": "Simon Fraser University; University of Guelph; Shenzhen University",
+        "sess": "Learning to Move and Synthesize",
+        "doi": "https://doi.org/10.1145/3414685.3417796"
+    },
+    {
+        "ssid": "papers_182",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning",
+        "authors": "Hanqing Wang, Wei Liang, Lap-Fai Yu",
+        "aff": "Beijing Institute of Technology; George Mason University",
+        "sess": "Learning to Move and Synthesize",
+        "doi": "https://doi.org/10.1145/3414685.3417788"
+    },
+    {
+        "ssid": "papers_240",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis",
+        "authors": "R. Kenny Jones, Theresa Barton, Xianghao Xu, Kai Wang, Ellen Jiang, Paul Guerrero, Niloy J. Mitra, Daniel Ritchie",
+        "aff": "Brown University; University College London (UCL); Adobe Research",
+        "sess": "Learning to Move and Synthesize",
+        "doi": "https://doi.org/10.1145/3414685.3417812"
+    },
+    {
+        "ssid": "papers_411",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time",
+        "authors": "Soshi Shimada, Vladislav Golyanik, Weipeng Xu, Christian Theobalt",
+        "aff": "Saarland Informatics Campus; Facebook Reality Labs; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Learning to Move and Synthesize",
+        "doi": "https://doi.org/10.1145/3414685.3417877"
+    },
+    {
+        "ssid": "papers_317",
+        "psid": "sess111",
+        "status": "Technical Paper",
+        "title": "MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows",
+        "authors": "Gustav Eje Henter, Simon Alexanderson, Jonas Beskow",
+        "aff": "KTH Royal Institute of Technology",
+        "sess": "Learning to Move and Synthesize",
+        "doi": "https://doi.org/10.1145/3414685.3417836"
+    },
+    {
+        "ssid": "papers_270",
+        "psid": "sess125",
+        "status": "Technical Paper",
+        "title": "Glossy Probe Reprojection for Interactive Global Illumination",
+        "authors": "Simon Rodriguez, Thomas Leimkuhler, Siddhant Prakash, Chris Wyman, Peter Shirley, George Drettakis",
+        "aff": "NVIDIA; Universit\u00e9 C\u00f4te d'Azur; Institut national de recherche en informatique et en automatique (INRIA)",
+        "sess": "Light Transport: Methods",
+        "doi": "https://doi.org/10.1145/3414685.3417823"
+    },
+    {
+        "ssid": "papers_189",
+        "psid": "sess125",
+        "status": "Technical Paper",
+        "title": "Path Cuts: Efficient Rendering of Pure Specular Light Transport",
+        "authors": "Beibei Wang, Milo\u0161 Ha\u0161an, Ling-Qi Yan",
+        "aff": "University of California Santa Barbara; Adobe Research; Nanjing University of Science and Technology",
+        "sess": "Light Transport: Methods",
+        "doi": "https://doi.org/10.1145/3414685.3417792"
+    },
+    {
+        "ssid": "papers_239",
+        "psid": "sess125",
+        "status": "Technical Paper",
+        "title": "Slope-Space Integrals for Specular Next Event Estimation",
+        "authors": "Guillaume Loubet, Tizian Zeltner, Nicolas Holzschuch, Wenzel Jakob",
+        "aff": "Institut national de recherche en informatique et en automatique (INRIA); EPFL",
+        "sess": "Light Transport: Methods",
+        "doi": "https://doi.org/10.1145/3414685.3417811"
+    },
+    {
+        "ssid": "papers_268",
+        "psid": "sess125",
+        "status": "Technical Paper",
+        "title": "CPPM: Chi-squared Progressive Photon Mapping",
+        "authors": "Zehui Lin, Sheng Li, Xinlu Zeng, Congyi Zhang, Jinzhu Jia, Guoping Wang, Dinesh Manocha",
+        "aff": "Peking University; University of Maryland College Park; University of North Carolina at Chapel Hill (UNC)",
+        "sess": "Light Transport: Methods",
+        "doi": "https://doi.org/10.1145/3414685.3417822"
+    },
+    {
+        "ssid": "papers_193",
+        "psid": "sess125",
+        "status": "Technical Paper",
+        "title": "Path Tracing Estimators for Refractive Radiative Transfer",
+        "authors": "Adithya Pediredla, Yasin Karimi Chalmiani, Matteo Giuseppe Scopelliti, Maysamreza Chamanzar, Srinivasa Narasimhan, Ioannis Gkioulekas",
+        "aff": "Carnegie Mellon University",
+        "sess": "Light Transport: Methods",
+        "doi": "https://doi.org/10.1145/3414685.3417793"
+    },
+    {
+        "ssid": "papers_172",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces",
+        "authors": "Minhyuk Sung, Zhenyu Jiang, Panos Achlioptas, Niloy J. Mitra, Leonidas J. Guibas",
+        "aff": "University of Texas at Austin; Stanford University; University College London (UCL); Adobe Research",
+        "sess": "Shape Analysis",
+        "doi": "https://doi.org/10.1145/3414685.3417783"
+    },
+    {
+        "ssid": "papers_304",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "Discovering Pattern Structure Using Differentiable Compositing",
+        "authors": "Pradyumna Reddy, Paul Guerrero, Matt Fisher, Wilmot Li, Niloy J. Mitra",
+        "aff": "University College London (UCL); Adobe Research; UCL",
+        "sess": "Shape Analysis",
+        "doi": "https://doi.org/10.1145/3414685.3417830"
+    },
+    {
+        "ssid": "papers_221",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "MeshWalker: Deep Mesh Understanding by Random Walks",
+        "authors": "Alon Lahav, Ayellet Tal",
+        "aff": "Technion \u2013 Israel Institute of Technology",
+        "sess": "Shape Analysis",
+        "doi": "https://doi.org/10.1145/3414685.3417806"
+    },
+    {
+        "ssid": "papers_207",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "MapTree: Recovering Multiple Solutions in the Space of Maps",
+        "authors": "Jing Ren, Simone Melzi, Maks Ovsjanikov, Peter Wonka",
+        "aff": "KAUST; Ecole Polytechnique",
+        "sess": "Shape Analysis",
+        "doi": "https://doi.org/10.1145/3414685.3417800"
+    },
+    {
+        "ssid": "papers_183",
+        "psid": "sess114",
+        "status": "Technical Paper",
+        "title": "Chordal Decomposition for Spectral Coarsening",
+        "authors": "Honglin Chen, Hsueh-Ti Derek Liu, Alec Jacobson, David I.W. Levin",
+        "aff": "University of Toronto",
+        "sess": "Shape Analysis",
+        "doi": "https://doi.org/10.1145/3414685.3417789"
+    },
+    {
+        "ssid": "papers_145",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "SymmetryNet: Learning to Predict Reflectional and Rotational Symmetries of 3D Shapes from Single-View RGB-D Images",
+        "authors": "Yifei Shi, Junwen Huang, Hongjia Zhang, Xin Xu, Szymon Rusinkiewicz, Kai Xu",
+        "aff": "National University of Defense Technology (NUDT); Princeton University",
+        "sess": "Generation and Inference from Images",
+        "doi": "https://doi.org/10.1145/3414685.3417775"
+    },
+    {
+        "ssid": "papers_220",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "Monster Mash: A Single-view Approach to Casual 3D Modeling and Animation",
+        "authors": "Marek Dvoro\u017e\u0148\u00e1k, Daniel S\u00fdkora, Cassidy Curtis, Brian Curless, Olga Sorkine-Hornung, David Salesin",
+        "aff": "CTU in Prague, FEE; University of Washington; Google Research; ETH Z\u00fcrich",
+        "sess": "Generation and Inference from Images",
+        "doi": "https://doi.org/10.1145/3414685.3417805"
+    },
+    {
+        "ssid": "papers_255",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "Dynamic Facial Asset and Rig Generation from a Single Scan",
+        "authors": "Jiaman Li, Zhengfei Kuang, Yajie Zhao, Mingming He, Karl Bladin, Hao Li",
+        "aff": "Pinscreen, Inc.; University of Southern California; USC Institute for Creative Technologies",
+        "sess": "Generation and Inference from Images",
+        "doi": "https://doi.org/10.1145/3414685.3417817"
+    },
+    {
+        "ssid": "papers_133",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "iOrthoPredictor: Model-guided Deep Prediction of Teeth Alignment",
+        "authors": "Lingchen Yang, Zefeng Shi, Yiqian Wu, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng",
+        "aff": "City University of Hong Kong; State Key Laboratory of CAD & CG, Zhejiang University; Zhejiang University",
+        "sess": "Generation and Inference from Images",
+        "doi": "https://doi.org/10.1145/3414685.3417771"
+    },
+    {
+        "ssid": "papers_353",
+        "psid": "sess108",
+        "status": "Technical Paper",
+        "title": "Data-driven",
+        "authors": "Konrad Kapp, James Gain, Eric Gu\u00e9rin, Eric Galin, Adrien Peytavie",
+        "aff": "Institut National des Sciences Appliqu\u00e9es (INSA) de Lyon; Universit\u00e9 Lyon 1; University of Cape Town",
+        "sess": "Generation and Inference from Images",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_103",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "Layered Neural Rendering for Retiming People in Video",
+        "authors": "Erika Lu, Forrester Cole, Tali Dekel, Weidi Xie, Andrew Zisserman, David Salesin, William T. Freeman, Michael Rubinstein",
+        "aff": "University of Oxford; Google Research",
+        "sess": "Neural Rendering",
+        "doi": "https://doi.org/10.1145/3414685.3417760"
+    },
+    {
+        "ssid": "papers_295",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "X-Fields: Implicit Neural View-, Light- and Time-Image Interpolation",
+        "authors": "Mojtaba Bemana, Karol Myszkowski, Hans-Peter Seidel, Tobias Ritschel",
+        "aff": "University College London; MPI Informatik",
+        "sess": "Neural Rendering",
+        "doi": "https://doi.org/10.1145/3414685.3417827"
+    },
+    {
+        "ssid": "papers_124",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs",
+        "authors": "Duan Gao, Guojun Chen, Yue Dong, Pieter Peers, Kun Xu, Xin Tong",
+        "aff": "Microsoft Research Asia; College of William & Mary; BNRist, Tsinghua University",
+        "sess": "Neural Rendering",
+        "doi": "https://doi.org/10.1145/3414685.3417767"
+    },
+    {
+        "ssid": "papers_248",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "Deep Relightable Textures: Volumetric Performance Capture with Neural Rendering",
+        "authors": "Abhimitra Meka, Rohit Pandey, Christian Haene, Sergio Orts-Escolano, Peter Barnum, Philip Davidson, Daniel Erickson, Yinda Zhang, Jonathan Taylor, Sofien Bouaziz, Chloe Legendre, Wan-Chun Ma, Ryan Overbeck, Thabo Beeler, Paul Debevec, Shahram Izadi, Christian Theobalt, Christoph Rhemann, Sean Fanello",
+        "aff": "Google Inc.; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Neural Rendering",
+        "doi": "https://doi.org/10.1145/3414685.3417814"
+    },
+    {
+        "ssid": "papers_265",
+        "psid": "sess112",
+        "status": "Technical Paper",
+        "title": "Light Stage Super-Resolution: Continuous High-Frequency Relighting",
+        "authors": "Tiancheng Sun, Zexiang Xu, Xiuming Zhang, Sean Fanello, Christoph Rhemann, Paul Debevec, Yun-Ta Tsai, Jonathan T. Barron, Ravi Ramamoorthi",
+        "aff": "Massachusetts Institute of Technology; Google Inc.; Google Research; University of California San Diego",
+        "sess": "Neural Rendering",
+        "doi": "https://doi.org/10.1145/3414685.3417821"
+    },
+    {
+        "ssid": "papers_305",
+        "psid": "sess126",
+        "status": "Technical Paper",
+        "title": "RoboGrammar: Graph Grammar for Terrain-Optimized Robot Design",
+        "authors": "Allan Zhao, Jie Xu, Mina Konakovi\u0107-Lukovi\u0107, Josephine Hughes, Andrew Spielberg, Daniela Rus, Wojciech Matusik",
+        "aff": "Massachusetts Institute of Technology",
+        "sess": "Computational Robotics",
+        "doi": "https://doi.org/10.1145/3414685.3417831"
+    },
+    {
+        "ssid": "papers_396",
+        "psid": "sess126",
+        "status": "Technical Paper",
+        "title": "Learning to Manipulate Amorphous Materials",
+        "authors": "Yunbo Zhang, Wenhao Yu, C. Karen Liu, Charles C. Kemp, Greg Turk",
+        "aff": "Stanford University; Georgia Institute of Technology",
+        "sess": "Computational Robotics",
+        "doi": "https://doi.org/10.1145/3414685.3417868"
+    },
+    {
+        "ssid": "papers_123",
+        "psid": "sess126",
+        "status": "Technical Paper",
+        "title": "ADD: Analytically Differentiable Dynamics for Multi-Body Systems with Frictional Contact",
+        "authors": "Moritz Geilinger, David Hahn, Jonas Zehnder, Moritz B\u00e4cher, Bernhard Thomaszewski, Stelian Coros",
+        "aff": "ETH Z\u00fcrich; Disney Research; Universit\u00e9 de Montr\u00e9al",
+        "sess": "Computational Robotics",
+        "doi": "https://doi.org/10.1145/3414685.3417766"
+    },
+    {
+        "ssid": "papers_122",
+        "psid": "sess126",
+        "status": "Technical Paper",
+        "title": "A Harmonic Balance Approach for Designing Compliant Mechanical Systems with Nonlinear Periodic Motions",
+        "authors": "Pengbin Tang, Jonas Zehnder, Stelian Coros, Bernhard Thomaszewski",
+        "aff": "ETH Z\u00fcrich; Universit\u00e9 de Montr\u00e9al",
+        "sess": "Computational Robotics",
+        "doi": "https://doi.org/10.1145/3414685.3417765"
+    },
+    {
+        "ssid": "papers_188",
+        "psid": "sess126",
+        "status": "Technical Paper",
+        "title": "Offsite Aerial Path Planning for Efficient Urban Scene Reconstruction",
+        "authors": "Xiaohui Zhou, Ke Xie, Kai Huang, Yilin Liu, Yang Zhou, Minglun Gong, Hui Huang",
+        "aff": "University of Guelph; Shenzhen University",
+        "sess": "Computational Robotics",
+        "doi": "https://doi.org/10.1145/3414685.3417791"
+    },
+    {
+        "ssid": "papers_142",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "Imperceptible manipulation of lateral camera motion for improved virtual reality applications",
+        "authors": "Ana Serrano, Daniel Martin, Diego Gutierrez, Karol Myszkowski, Belen Masia",
+        "aff": "Universidad de Zaragoza; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "VR and Real-time Techniques",
+        "doi": "https://doi.org/10.1145/3414685.3417773"
+    },
+    {
+        "ssid": "papers_132",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "OmniPhotos: Casual 360\u00b0 VR Photography",
+        "authors": "Tobias Bertel, Mingze Yuan, Reuben Lindroos, Christian Richardt",
+        "aff": "University of Bath",
+        "sess": "VR and Real-time Techniques",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_262",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "Optimizing Depth Perception in Virtual and Augmented Reality through Gaze-contingent Stereo Rendering",
+        "authors": "Brooke Krajancich, Petr Kellnhofer, Gordon Wetzstein",
+        "aff": "Raxium; Stanford University",
+        "sess": "VR and Real-time Techniques",
+        "doi": "https://doi.org/10.1145/3414685.3417820"
+    },
+    {
+        "ssid": "papers_228",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "Egocentric Videoconferencing",
+        "authors": "Mohamed Elgharib, Mohit Mendiratta, Justus Thies, Matthias Niessner, Hans-Peter Seidel, Ayush Tewari, Vladislav Golyanik, Christian Theobalt",
+        "aff": "Technische Universit\u00e4t M\u00fcnchen (TUM); Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "VR and Real-time Techniques",
+        "doi": "https://doi.org/10.1145/3414685.3417808"
+    },
+    {
+        "ssid": "papers_403",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "Real-Time Rendering of Decorative Sound Textures for Soundscapes",
+        "authors": "Jinta Zheng, Shih-Hsuan Hung, Kyle Hiebel, Yue Zhang",
+        "aff": "Oregon State University",
+        "sess": "VR and Real-time Techniques",
+        "doi": "https://doi.org/10.1145/3414685.3417875"
+    },
+    {
+        "ssid": "papers_178",
+        "psid": "sess122",
+        "status": "Technical Paper",
+        "title": "QuickETC2: Fast ETC2 Compression using Luma Differences",
+        "authors": "Jae-Ho Nah",
+        "aff": "LG Electronics",
+        "sess": "VR and Real-time Techniques",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_129",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "Bijective Projection in a Shell",
+        "authors": "Zhongshi Jiang, Teseo Schneider, Denis Zorin, Daniele Panozzo",
+        "aff": "New York University",
+        "sess": "Meticulous Meshes",
+        "doi": "https://doi.org/10.1145/3414685.3417769"
+    },
+    {
+        "ssid": "papers_159",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "Conforming Weighted Delaunay Triangulations",
+        "authors": "Marc Alexa",
+        "aff": "TU Berlin",
+        "sess": "Meticulous Meshes",
+        "doi": "https://doi.org/10.1145/3414685.3417776"
+    },
+    {
+        "ssid": "papers_327",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "You Can Find Geodesic Paths in Triangle Meshes by Just Flipping Edges",
+        "authors": "Nicholas Sharp, Keenan Crane",
+        "aff": "Carnegie Mellon University",
+        "sess": "Meticulous Meshes",
+        "doi": "https://doi.org/10.1145/3414685.3417839"
+    },
+    {
+        "ssid": "papers_259",
+        "psid": "sess104",
+        "status": "Technical Paper",
+        "title": "Fast and Robust Mesh Arrangements using Floating-point Arithmetic",
+        "authors": "Gianmarco Cherchi, Marco Livesu, Riccardo Scateni, Marco Attene",
+        "aff": "University of Cagliari; CNR-IMATI: GENOVA",
+        "sess": "Meticulous Meshes",
+        "doi": "https://doi.org/10.1145/3414685.3417818"
+    },
+    {
+        "ssid": "papers_160",
+        "psid": "sess131",
+        "status": "Technical Paper",
+        "title": "A Practical Ply-Based Appearance Model of Woven Fabrics",
+        "authors": "Zahra Montazeri, Soren B. Gammelmark, Shuang Zhao, Henrik W. Jensen",
+        "aff": "University of California Irvine; Luxion Inc; University of California San Diego",
+        "sess": "Modeling and Capturing Appearance",
+        "doi": "https://doi.org/10.1145/3414685.3417777"
+    },
+    {
+        "ssid": "papers_333",
+        "psid": "sess131",
+        "status": "Technical Paper",
+        "title": "A Wave Optics Based Fiber Scattering Model",
+        "authors": "Mengqi Xia, Bruce Walter, Eric Michielssen, David Bindel, Steve Marschner",
+        "aff": "Cornell University; University of Michigan",
+        "sess": "Modeling and Capturing Appearance",
+        "doi": "https://doi.org/10.1145/3414685.3417841"
+    },
+    {
+        "ssid": "papers_171",
+        "psid": "sess131",
+        "status": "Technical Paper",
+        "title": "A General Framework for Pearlescent Appearance",
+        "authors": "Ib\u00f3n Guill\u00e9n, Julio Marco, Diego Gutierrez, Wenzel Jakob, Adrian Jarabo",
+        "aff": "Centro Universitario de la Defensa Zaragoza; Universidad de Zaragoza; EPFL; Universidad de Zaragoza - I3A",
+        "sess": "Modeling and Capturing Appearance",
+        "doi": ""
+    },
+    {
+        "ssid": "papers_166",
+        "psid": "sess131",
+        "status": "Technical Paper",
+        "title": "MaterialGAN: Reflectance Capture using a Generative SVBRDF Model",
+        "authors": "Yu Guo, Cameron Smith, Milos Hasan, Kalyan Sunkavalli, Shuang Zhao",
+        "aff": "University of California Irvine; Adobe Research",
+        "sess": "Modeling and Capturing Appearance",
+        "doi": "https://doi.org/10.1145/3414685.3417779"
+    },
+    {
+        "ssid": "papers_104",
+        "psid": "sess131",
+        "status": "Technical Paper",
+        "title": "Mixed Integer Ink Selection for Spectral Reproduction",
+        "authors": "Navid Ansari, Omid Alizadeh-Mousavi, Hans-Peter Seidel, Vahid Babaei",
+        "aff": "Depsys SA; Max-Planck-Institut f\u00fcr Informatik",
+        "sess": "Modeling and Capturing Appearance",
+        "doi": "https://doi.org/10.1145/3414685.3417761"
+    },
+    {
+        "ssid": "papers_113",
+        "psid": "sess133",
+        "status": "Technical Paper",
+        "title": "Mononizing Binocular Videos",
+        "authors": "Wenbo HU, Menghan XIA, Chi-Wing FU, Tien-Tsin WONG",
+        "aff": "The Chinese University of Hong Kong",
+        "sess": "Learning New Viewpoints",
+        "doi": "https://doi.org/10.1145/3414685.3417764"
+    },
+    {
+        "ssid": "papers_174",
+        "psid": "sess133",
+        "status": "Technical Paper",
+        "title": "Synthesizing Light Field From a Single Image with Variable MPI and Two Network Fusion",
+        "authors": "Qinbo Li, Nima Khademi Kalantari",
+        "aff": "Texas A&M University",
+        "sess": "Learning New Viewpoints",
+        "doi": "https://doi.org/10.1145/3414685.3417785"
+    },
+    {
+        "ssid": "papers_286",
+        "psid": "sess133",
+        "status": "Technical Paper",
+        "title": "Learned Feature Embeddings for Non-Line-of-Sight Imaging and Recognition",
+        "authors": "Wenzheng Chen, Fangyin Wei, Kyros Kutulakos, Szymon Rusinkiewicz, Felix Heide",
+        "aff": "University of Toronto; Princeton University",
+        "sess": "Learning New Viewpoints",
+        "doi": "https://doi.org/10.1145/3414685.3417825"
+    },
+    {
+        "ssid": "papers_175",
+        "psid": "sess133",
+        "status": "Technical Paper",
+        "title": "A Reduced-Precision Network for Image Reconstruction",
+        "authors": "Manu Mathew Thomas, Karthik Vaidyanathan, Gabor Liktor, Angus G. Forbes",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": "https://doi.org/10.1145/3414685.3417786"
+    },
+    {
+        "ssid": "pos_161",
+        "psid": "sess286",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_140",
+        "psid": "sess280",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_118",
+        "psid": "sess265",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_155",
+        "psid": "sess278",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_156",
+        "psid": "sess282",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_123",
+        "psid": "sess269",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_157",
+        "psid": "sess288",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_143",
+        "psid": "sess273",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_117",
+        "psid": "sess264",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_144",
+        "psid": "sess275",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_160",
+        "psid": "sess285",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_164",
+        "psid": "sess289",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_166",
+        "psid": "sess294",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_176",
+        "psid": "sess291",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_130",
+        "psid": "sess271",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_141",
+        "psid": "sess274",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_137",
+        "psid": "sess272",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_189",
+        "psid": "sess293",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_119",
+        "psid": "sess266",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_127",
+        "psid": "sess281",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_170",
+        "psid": "sess298",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_167",
+        "psid": "sess283",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_125",
+        "psid": "sess268",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_153",
+        "psid": "sess277",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_105",
+        "psid": "sess259",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_115",
+        "psid": "sess263",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_168",
+        "psid": "sess292",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_147",
+        "psid": "sess284",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_172",
+        "psid": "sess287",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_182",
+        "psid": "sess296",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_109",
+        "psid": "sess260",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_113",
+        "psid": "sess262",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_120",
+        "psid": "sess267",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_165",
+        "psid": "sess290",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_129",
+        "psid": "sess270",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_112",
+        "psid": "sess261",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_185",
+        "psid": "sess295",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_138",
+        "psid": "sess279",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    },
+    {
+        "ssid": "pos_150",
+        "psid": "sess276",
+        "status": "Poster",
+        "title": "Poster",
+        "authors": "",
+        "aff": "Intel Corporation; University of California Santa Cruz",
+        "sess": "Learning New Viewpoints",
+        "doi": ""
+    }
+]
