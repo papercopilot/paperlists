@@ -1,4 +1,4 @@
-# paperlists
+# Paper Lists
 
 ## ICLR
 [2024](https://raw.githubusercontent.com/Papercopilot/paperlists/main/iclr/iclr2024.json), 
