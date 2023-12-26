@@ -7666,13 +7666,8 @@
         "corr_rating_correctness": 0.0
     },
     {
-        "title": "Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation",
-        "status": "Journal",
-        "authors": "Jiawei Fan, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao"
-    },
-    {
         "id": "caUhYUVsLl",
-        "title": "Augmentation-free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation",
+        "title": "Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation",
         "track": "main",
         "status": "Poster",
         "keywords": "Knowledge distillation;semantic segmentation;contrastive learning",
@@ -7691,6 +7686,11 @@
         "presentation_avg": 2.5,
         "corr_rating_confidence": -0.816496580927726,
         "corr_rating_correctness": 0.5773502691896257
+    },
+    {
+        "title": "Augmentation-free Dense Contrastive Distillation for Efficient Semantic Segmentation",
+        "status": "Journal",
+        "authors": "Jiawei Fan, Chao Li, Xiaolong Liu, Meina Song, Anbang Yao"
     },
     {
         "id": "yGLokEhdh9",
