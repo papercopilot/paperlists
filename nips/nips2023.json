@@ -30657,26 +30657,9 @@
         "corr_rating_correctness": 0.0
     },
     {
-        "id": "JtF0ugNMv2",
         "title": "From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
-        "track": "main",
-        "status": "Poster",
-        "keywords": "Machine Learning;Combinatorial Optimization;Generative Modeling;Diffusion Model",
-        "authors": "Yang Li, Jinpei Guo, Runzhong Wang, Junchi Yan",
-        "rating": "6;6;6;7",
-        "confidence": "3;4;4;4",
-        "correctness": "3;3;3;3",
-        "technical_novelty": "2;3;3;3",
-        "empirical_novelty": "",
-        "presentation": "3;3;2;3",
-        "rating_avg": 6.25,
-        "confidence_avg": 3.75,
-        "correctness_avg": 3.0,
-        "technical_novelty_avg": 2.75,
-        "empirical_novelty_avg": 0,
-        "presentation_avg": 2.75,
-        "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0.0
+        "status": "Journal",
+        "authors": "Yang Li, Jinpei Guo, Runzhong Wang, Junchi Yan"
     },
     {
         "id": "3s6aE1LeiR",
@@ -42462,12 +42445,17 @@
         "corr_rating_correctness": 0.0
     },
     {
-        "id": "TNAGFUcSP7",
         "title": "Learning Rate Free Bayesian Inference in Constrained Domains",
+        "status": "Journal",
+        "authors": "Louis Sharrock, Lester Mackey, Christopher Nemeth"
+    },
+    {
+        "id": "TNAGFUcSP7",
+        "title": "Learning Rate Free Sampling in Constrained Domains",
         "track": "main",
         "status": "Poster",
-        "keywords": "Bayesian Inference;Particle Based Variational Inference;Sampling;Wasserstein Gradient Descent;Coin Betting;Constrained Domains",
-        "authors": "Louis Sharrock, Lester Mackey, Christopher Nemeth",
+        "keywords": "Sampling;Particle Based Variational Inference;Bayesian Inference;Wasserstein Gradient Descent;Coin Betting;Constrained Domains",
+        "authors": "",
         "rating": "6;7;7;8",
         "confidence": "1;3;3;3",
         "correctness": "3;3;3;3",
@@ -49050,12 +49038,17 @@
         "corr_rating_correctness": 0.7071067811865476
     },
     {
-        "id": "2D7ou48q0E",
         "title": "Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection",
+        "status": "Journal",
+        "authors": "Taehyeon Kim, Eric Lin, Junu Lee, Christian Lau, Vaikkunth Mugunthan"
+    },
+    {
+        "id": "2D7ou48q0E",
+        "title": "Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Federated Object Detection",
         "track": "main",
         "status": "Poster",
         "keywords": "Federated Learning;Semi-Supervised Learning;Object Detection",
-        "authors": "Taehyeon Kim, Eric Lin, Junu Lee, Christian Lau, Vaikkunth Mugunthan",
+        "authors": "",
         "rating": "5;5;5;6;6",
         "confidence": "4;5;3;4;4",
         "correctness": "2;3;3;3;3",
@@ -59377,7 +59370,7 @@
         "title": "ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design",
         "track": "Datasets & Benchmarks",
         "status": "Poster",
-        "keywords": "Protein fitness;Protein design;Mutation effects predictions;Benchmarks",
+        "keywords": "Protein fitness;Protein design;Mutation effects prediction;Benchmarks",
         "authors": "Pascal Notin, Aaron Kollasch, Daniel Ritter, Lood van Niekerk, Steffanie Paul, Han Spinner, Nathan Rollins, Ada Shaw, Rose Orenbuch, Ruben Weitzman, Jonathan Frazer, Mafalda Dias, Dinko Franceschi, Yarin Gal, Debora Marks",
         "rating": "2;6;6;7;9",
         "confidence": "4;3;2;3;4",
@@ -61719,7 +61712,7 @@
         "title": "Recurrent Hypernetworks are Surprisingly Strong in Meta-RL",
         "track": "main",
         "status": "Poster",
-        "keywords": "meta-RL;RL;reinforcement learning;memory;rnn;recurrent;hypernetwork;few-shot",
+        "keywords": "meta-RL;RL;reinforcement learning;memory;rnn;recurrent;hypernetwork;few-shot;in-context",
         "authors": "Jacob Beck, Risto Vuorio, Zheng Xiong, Shimon Whiteson",
         "rating": "4;5;6;6;7",
         "confidence": "3;3;3;1;4",
@@ -67931,7 +67924,7 @@
         "title": "SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models",
         "track": "main",
         "status": "Poster",
-        "keywords": "Large Language Model; Task Planning; Embodied AI; Robotics; Software Automation",
+        "keywords": "Large Language Model; Task Planning; Embodied AI; Robotics; Software Automation; Decision making",
         "authors": "Hongxin Li, Jingran Su, Yuntao Chen, Qing Li, ZHAO-XIANG ZHANG",
         "rating": "4;6;6;7",
         "confidence": "4;4;4;5",
@@ -71853,6 +71846,28 @@
         "corr_rating_correctness": 0
     },
     {
+        "id": "JtF0ugNMv2",
+        "title": "T2T: From Distribution Learning in Training to Gradient Search in Testing for Combinatorial Optimization",
+        "track": "main",
+        "status": "Poster",
+        "keywords": "Machine Learning;Combinatorial Optimization;Generative Modeling;Diffusion Model",
+        "authors": "",
+        "rating": "6;6;6;7",
+        "confidence": "3;4;4;4",
+        "correctness": "3;3;3;3",
+        "technical_novelty": "2;3;3;3",
+        "empirical_novelty": "",
+        "presentation": "3;3;2;3",
+        "rating_avg": 6.25,
+        "confidence_avg": 3.75,
+        "correctness_avg": 3.0,
+        "technical_novelty_avg": 2.75,
+        "empirical_novelty_avg": 0,
+        "presentation_avg": 2.75,
+        "corr_rating_confidence": 0.3333333333333333,
+        "corr_rating_correctness": 0.0
+    },
+    {
         "id": "ZXbgVm3PSt",
         "title": "TART: A plug-and-play Transformer module for task-agnostic reasoning",
         "track": "main",
@@ -73063,12 +73078,17 @@
         "corr_rating_correctness": 1.0
     },
     {
-        "id": "r30thTMcaM",
         "title": "The Cambridge Law Corpus: A Corpus for Legal AI Research",
+        "status": "Journal",
+        "authors": "Andreas \u00d6stling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, M\u00e5ns Magnusson, Felix Steffek"
+    },
+    {
+        "id": "r30thTMcaM",
+        "title": "The Cambridge Law Corpus: A Dataset for Legal AI Research",
         "track": "Datasets & Benchmarks",
         "status": "Poster",
         "keywords": "Law;AI;Corpus;Legal Research;dataset",
-        "authors": "Andreas \u00d6stling, Holli Sargeant, Huiyuan Xie, Ludwig Bull, Alexander Terenin, Leif Jonsson, M\u00e5ns Magnusson, Felix Steffek",
+        "authors": "",
         "rating": "4;5;6;7;9",
         "confidence": "3;4;5;3;5",
         "correctness": "",
