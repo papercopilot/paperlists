@@ -7578,6 +7578,28 @@
         "corr_rating_correctness": 0.5
     },
     {
+        "id": "ESEM1lNoeS",
+        "title": "AttrSeg: Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation",
+        "track": "main",
+        "status": "Poster",
+        "keywords": "Open-Vocabulary Semantic Segmentation;Attributes;Decomposition and Aggregation",
+        "authors": "",
+        "rating": "5;6;6;6",
+        "confidence": "4;4;4;4",
+        "correctness": "2;3;3;3",
+        "technical_novelty": "2;3;3;2",
+        "empirical_novelty": "",
+        "presentation": "2;3;3;3",
+        "rating_avg": 5.75,
+        "confidence_avg": 4.0,
+        "correctness_avg": 2.75,
+        "technical_novelty_avg": 2.5,
+        "empirical_novelty_avg": 0,
+        "presentation_avg": 2.75,
+        "corr_rating_confidence": 0.0,
+        "corr_rating_correctness": 1.0
+    },
+    {
         "id": "Og2HCj3V1I",
         "title": "Attribute Based Interpretable Evaluation Metrics for Generative Models",
         "track": "main",
@@ -54152,26 +54174,9 @@
         "corr_rating_correctness": -0.06019292654288467
     },
     {
-        "id": "ESEM1lNoeS",
         "title": "Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation",
-        "track": "main",
-        "status": "Poster",
-        "keywords": "Open-Vocabulary Semantic Segmentation;Attributes;Decomposition and Aggregation",
-        "authors": "Chaofan Ma, Yang Yuhuan, Chen Ju, Fei Zhang, Ya Zhang, Yanfeng Wang",
-        "rating": "5;6;6;6",
-        "confidence": "4;4;4;4",
-        "correctness": "2;3;3;3",
-        "technical_novelty": "2;3;3;2",
-        "empirical_novelty": "",
-        "presentation": "2;3;3;3",
-        "rating_avg": 5.75,
-        "confidence_avg": 4.0,
-        "correctness_avg": 2.75,
-        "technical_novelty_avg": 2.5,
-        "empirical_novelty_avg": 0,
-        "presentation_avg": 2.75,
-        "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 1.0
+        "status": "Journal",
+        "authors": "Chaofan Ma, Yang Yuhuan, Chen Ju, Fei Zhang, Ya Zhang, Yanfeng Wang"
     },
     {
         "id": "gFf0a0ZxJM",
