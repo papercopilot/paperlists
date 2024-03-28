@@ -4,7 +4,7 @@
         "psid": "sess120",
         "status": "Technical Paper",
         "title": "Hierarchical Neural Reconstruction for Path Guiding Using Hybrid Path and Photon Samples",
-        "authors": "Shilin Zhu, Zexiang Xu, Tiancheng Sun, Alexandr Kuznetsov, Mark Meyer, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi",
+        "author": "Shilin Zhu, Zexiang Xu, Tiancheng Sun, Alexandr Kuznetsov, Mark Meyer, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi",
         "aff": "",
         "sess": "Denoising and Guiding",
         "doi": "https://doi.org/10.1145/3450626.3459810"
@@ -14,7 +14,7 @@
         "psid": "sess120",
         "status": "Technical Paper",
         "title": "Real-time Neural Radiance Caching for Path Tracing",
-        "authors": "Thomas M\u00fcller, Fabrice Rousselle, Jan Nov\u00e1k, Alex Keller",
+        "author": "Thomas M\u00fcller, Fabrice Rousselle, Jan Nov\u00e1k, Alex Keller",
         "aff": "",
         "sess": "Denoising and Guiding",
         "doi": "https://doi.org/10.1145/3450626.3459812"
@@ -24,7 +24,7 @@
         "psid": "sess120",
         "status": "Technical Paper",
         "title": "Interactive Monte Carlo Denoising Using Affinity of Neural Features",
-        "authors": "Mustafa I\u015f\u0131k, Krishna Mullia, Matthew Fisher, Jonathan Eisenmann, Micha\u00ebl Gharbi",
+        "author": "Mustafa I\u015f\u0131k, Krishna Mullia, Matthew Fisher, Jonathan Eisenmann, Micha\u00ebl Gharbi",
         "aff": "",
         "sess": "Denoising and Guiding",
         "doi": "https://doi.org/10.1145/3450626.3459793"
@@ -34,7 +34,7 @@
         "psid": "sess120",
         "status": "Technical Paper",
         "title": "Weakly Supervised Contrastive Learning in Path Manifold for Monte Carlo Image Reconstruction",
-        "authors": "In-young Cho, Yuchi Huo, Sung-eui Yoon",
+        "author": "In-young Cho, Yuchi Huo, Sung-eui Yoon",
         "aff": "",
         "sess": "Denoising and Guiding",
         "doi": ""
@@ -44,7 +44,7 @@
         "psid": "sess146",
         "status": "Technical Paper",
         "title": "Bistable Auxetic Surface Structures",
-        "authors": "Tian Chen, Julian Panetta, Max Schaubelt, Mark Pauly",
+        "author": "Tian Chen, Julian Panetta, Max Schaubelt, Mark Pauly",
         "aff": "",
         "sess": "Deployables and Discrete Pieces",
         "doi": "https://doi.org/10.1145/3450626.3459940"
@@ -54,7 +54,7 @@
         "psid": "sess146",
         "status": "Technical Paper",
         "title": "Computational Inverse Design of Surface-based Inflatables",
-        "authors": "Julian Panetta, Florin Isvoranu, Tian Chen, Emmanuel Siefert, Benoit Roman, Mark Pauly",
+        "author": "Julian Panetta, Florin Isvoranu, Tian Chen, Emmanuel Siefert, Benoit Roman, Mark Pauly",
         "aff": "",
         "sess": "Deployables and Discrete Pieces",
         "doi": "https://doi.org/10.1145/3450626.3459789"
@@ -64,7 +64,7 @@
         "psid": "sess146",
         "status": "Technical Paper",
         "title": "Modeling and Fabrication With Specified Discrete Equivalence Classes",
-        "authors": "Zhong-Yuan Liu, Zhan Zhang, Di Zhang, Chunyang Ye, Ligang Liu, Xiao-Ming Fu",
+        "author": "Zhong-Yuan Liu, Zhan Zhang, Di Zhang, Chunyang Ye, Ligang Liu, Xiao-Ming Fu",
         "aff": "",
         "sess": "Deployables and Discrete Pieces",
         "doi": "https://doi.org/10.1145/3450626.3459843"
@@ -74,7 +74,7 @@
         "psid": "sess146",
         "status": "Technical Paper",
         "title": "Using Isometries for Computational Design and Fabrication",
-        "authors": "Caigui Jiang, Hui Wang, Victor Ceballos Inza, Felix Dellinger, Florian Rist, Johannes Wallner, Helmut Pottmann",
+        "author": "Caigui Jiang, Hui Wang, Victor Ceballos Inza, Felix Dellinger, Florian Rist, Johannes Wallner, Helmut Pottmann",
         "aff": "",
         "sess": "Deployables and Discrete Pieces",
         "doi": "https://doi.org/10.1145/3450626.3459839"
@@ -84,7 +84,7 @@
         "psid": "sess107",
         "status": "Technical Paper",
         "title": "Total Relighting: Learning to Relight Portraits for Background Replacement",
-        "authors": "Rohit Pandey, Sergio Orts Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, Sean Fanello",
+        "author": "Rohit Pandey, Sergio Orts Escolano, Chloe LeGendre, Christian Haene, Sofien Bouaziz, Christoph Rhemann, Paul Debevec, Sean Fanello",
         "aff": "",
         "sess": "Portrait Editing",
         "doi": "https://doi.org/10.1145/3450626.3459872"
@@ -94,7 +94,7 @@
         "psid": "sess107",
         "status": "Technical Paper",
         "title": "PhotoApp: Photorealistic Appearance Editing of Head Portraits",
-        "authors": "Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevalier, Mohamed Elgharib, Christian Theobalt",
+        "author": "Mallikarjun B R, Ayush Tewari, Abdallah Dib, Tim Weyrich, Bernd Bickel, Hans-Peter Seidel, Hanspeter Pfister, Wojciech Matusik, Louis Chevalier, Mohamed Elgharib, Christian Theobalt",
         "aff": "",
         "sess": "Portrait Editing",
         "doi": "https://doi.org/10.1145/3450626.3459765"
@@ -104,7 +104,7 @@
         "psid": "sess107",
         "status": "Technical Paper",
         "title": "Only a Matter of Style: Age Transformation Using a Style-based Regression Model",
-        "authors": "Yuval Alaluf, Or Patashnik, Daniel Cohen-Or",
+        "author": "Yuval Alaluf, Or Patashnik, Daniel Cohen-Or",
         "aff": "",
         "sess": "Portrait Editing",
         "doi": "https://doi.org/10.1145/3450626.3459805"
@@ -114,7 +114,7 @@
         "psid": "sess107",
         "status": "Technical Paper",
         "title": "Coarse-to-fine: Facial Structure Editing of Portrait Images via Latent Space Classifications",
-        "authors": "Yiqian Wu, Yongliang Yang, Qinjie Xiao, Xiaogang Jin",
+        "author": "Yiqian Wu, Yongliang Yang, Qinjie Xiao, Xiaogang Jin",
         "aff": "",
         "sess": "Portrait Editing",
         "doi": "https://doi.org/10.1145/3450626.3459814"
@@ -124,7 +124,7 @@
         "psid": "sess108",
         "status": "Technical Paper",
         "title": "A Perceptual Model for Eccentricity-dependent Spatio-temporal Flicker Fusion and Its Applications to Foveated Graphics",
-        "authors": "Brooke Krajancich, Petr Kellnhofer, Gordon Wetzstein",
+        "author": "Brooke Krajancich, Petr Kellnhofer, Gordon Wetzstein",
         "aff": "",
         "sess": "Perception and Displays",
         "doi": "https://doi.org/10.1145/3450626.3459784"
@@ -134,7 +134,7 @@
         "psid": "sess108",
         "status": "Technical Paper",
         "title": "Beyond Blur: Real-time Ventral Metamers for Foveated Rendering",
-        "authors": "David R. Walton, Rafael Kuffner dos Anjos, Sebastian Friston, David Swapp, Kaan Ak\u015fit, Anthony Steed, Tobias Ritschel",
+        "author": "David R. Walton, Rafael Kuffner dos Anjos, Sebastian Friston, David Swapp, Kaan Ak\u015fit, Anthony Steed, Tobias Ritschel",
         "aff": "",
         "sess": "Perception and Displays",
         "doi": "https://doi.org/10.1145/3450626.3459943"
@@ -144,7 +144,7 @@
         "psid": "sess108",
         "status": "Technical Paper",
         "title": "FovVideoVDP: A Visible Difference Predictor for Wide Field-of-view Video",
-        "authors": "Rafal Mantiuk, Gyorgy Denes, Alexandre Chapiro, Anton Kaplanyan, Gizem Rufo, Romain Bachy, Trisha Lian, Anjul Patney",
+        "author": "Rafal Mantiuk, Gyorgy Denes, Alexandre Chapiro, Anton Kaplanyan, Gizem Rufo, Romain Bachy, Trisha Lian, Anjul Patney",
         "aff": "",
         "sess": "Perception and Displays",
         "doi": "https://doi.org/10.1145/3450626.3459831"
@@ -154,7 +154,7 @@
         "psid": "sess132",
         "status": "Technical Paper",
         "title": "StrokeStrip: Joint Parameterization and Fitting of Stroke Clusters",
-        "authors": "Dave Pagurek van Mossel, Chenxi Liu, Nicholas Vining, Mikhail Bessmeltsev, Alla Sheffer",
+        "author": "Dave Pagurek van Mossel, Chenxi Liu, Nicholas Vining, Mikhail Bessmeltsev, Alla Sheffer",
         "aff": "",
         "sess": "Sketching",
         "doi": "https://doi.org/10.1145/3450626.3459777"
@@ -164,7 +164,7 @@
         "psid": "sess132",
         "status": "Technical Paper",
         "title": "General Virtual Sketching Framework for Vector Line Art",
-        "authors": "Haoran Mo, Edgar Simo-Serra, Chengying Gao, Changqing Zou, Ruomei Wang",
+        "author": "Haoran Mo, Edgar Simo-Serra, Chengying Gao, Changqing Zou, Ruomei Wang",
         "aff": "",
         "sess": "Sketching",
         "doi": "https://doi.org/10.1145/3450626.3459833"
@@ -174,7 +174,7 @@
         "psid": "sess132",
         "status": "Technical Paper",
         "title": "Tracing Versus Freehand for Evaluating Computer-Generated Drawings",
-        "authors": "Zeyu Wang, Sherry Qiu, Nicole Feng, Holly Rushmeier, Leonard McMillan, Julie Dorsey",
+        "author": "Zeyu Wang, Sherry Qiu, Nicole Feng, Holly Rushmeier, Leonard McMillan, Julie Dorsey",
         "aff": "",
         "sess": "Sketching",
         "doi": "https://doi.org/10.1145/3450626.3459819"
@@ -184,7 +184,7 @@
         "psid": "sess148",
         "status": "Technical Paper",
         "title": "Boundary-sampled Halfspaces: A New Representation for Constructive Solid Modeling",
-        "authors": "Xingyi Du, Qingnan Zhou, Nathan Carr, Tao Ju",
+        "author": "Xingyi Du, Qingnan Zhou, Nathan Carr, Tao Ju",
         "aff": "",
         "sess": "Volumetric Modeling and Reconstruction",
         "doi": "https://doi.org/10.1145/3450626.3459870"
@@ -194,7 +194,7 @@
         "psid": "sess148",
         "status": "Technical Paper",
         "title": "Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction From Human Design Sequences",
-        "authors": "Karl D.D. Willis, Yewen Pu, Jieliang Luo, Hang Chu, Tao Du, Joseph G. Lambourne, Armando Solar-Lezama, Wojciech Matusik",
+        "author": "Karl D.D. Willis, Yewen Pu, Jieliang Luo, Hang Chu, Tao Du, Joseph G. Lambourne, Armando Solar-Lezama, Wojciech Matusik",
         "aff": "",
         "sess": "Volumetric Modeling and Reconstruction",
         "doi": "https://doi.org/10.1145/3450626.3459818"
@@ -204,7 +204,7 @@
         "psid": "sess148",
         "status": "Technical Paper",
         "title": "Swept Volumes via Spacetime Numerical Continuation",
-        "authors": "Silvia Sell\u00e1n, Noam Aigerman, Alec Jacobson",
+        "author": "Silvia Sell\u00e1n, Noam Aigerman, Alec Jacobson",
         "aff": "",
         "sess": "Volumetric Modeling and Reconstruction",
         "doi": "https://doi.org/10.1145/3450626.3459780"
@@ -214,7 +214,7 @@
         "psid": "sess148",
         "status": "Technical Paper",
         "title": "ROSEFusion: Random Optimization for Online Dense Reconstruction Under Fast Camera Motion",
-        "authors": "Jiazhao Zhang, Chenyang Zhu, Lintao Zheng, Kai Xu",
+        "author": "Jiazhao Zhang, Chenyang Zhu, Lintao Zheng, Kai Xu",
         "aff": "",
         "sess": "Volumetric Modeling and Reconstruction",
         "doi": "https://doi.org/10.1145/3450626.3459676"
@@ -224,7 +224,7 @@
         "psid": "sess130",
         "status": "Technical Paper",
         "title": "Neural Complex Luminaires: Representation and Rendering",
-        "authors": "Junqiu Zhu, Yaoyi Bai, Zilin Xu, Steve Bako, Edgar Vel\u00e1zquez-Armend\u00e1riz, Lu Wang, Pradeep Sen, Milo\u0161 Ha\u0161an, Ling-Qi Yan",
+        "author": "Junqiu Zhu, Yaoyi Bai, Zilin Xu, Steve Bako, Edgar Vel\u00e1zquez-Armend\u00e1riz, Lu Wang, Pradeep Sen, Milo\u0161 Ha\u0161an, Ling-Qi Yan",
         "aff": "",
         "sess": "Neural Rendering",
         "doi": "https://doi.org/10.1145/3450626.3459798"
@@ -234,7 +234,7 @@
         "psid": "sess130",
         "status": "Technical Paper",
         "title": "ACORN: Adaptive Coordinate Networks for Neural Scene Representation",
-        "authors": "Julien N. P. Martel, David B. Lindell, Connor Zhizhen Lin, Eric Ryan Chan, Marco Monteiro, Gordon Wetzstein",
+        "author": "Julien N. P. Martel, David B. Lindell, Connor Zhizhen Lin, Eric Ryan Chan, Marco Monteiro, Gordon Wetzstein",
         "aff": "",
         "sess": "Neural Rendering",
         "doi": "https://doi.org/10.1145/3450626.3459785"
@@ -244,7 +244,7 @@
         "psid": "sess130",
         "status": "Technical Paper",
         "title": "Mixture of Volumetric Primitives for Efficient Neural Rendering",
-        "authors": "Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih",
+        "author": "Stephen Lombardi, Tomas Simon, Gabriel Schwartz, Michael Zollhoefer, Yaser Sheikh, Jason Saragih",
         "aff": "",
         "sess": "Neural Rendering",
         "doi": "https://doi.org/10.1145/3450626.3459863"
@@ -254,7 +254,7 @@
         "psid": "sess130",
         "status": "Technical Paper",
         "title": "Scalable Image-based Indoor Scene Rendering With Reflections",
-        "authors": "Jiamin Xu, Xiuchao Wu, Zihan Zhu, Weiwei Xu, Yin Yang, Hujun Bao, Qixing Huang",
+        "author": "Jiamin Xu, Xiuchao Wu, Zihan Zhu, Weiwei Xu, Yin Yang, Hujun Bao, Qixing Huang",
         "aff": "",
         "sess": "Neural Rendering",
         "doi": "https://doi.org/10.1145/3450626.3459849"
@@ -264,7 +264,7 @@
         "psid": "sess105",
         "status": "TOG Paper",
         "title": "Imaging With Local Speckle Intensity Correlations: Theory and Practice",
-        "authors": "Marina Alterman, Chen Bar, Ioannis Gkioulekas, Anat Levin",
+        "author": "Marina Alterman, Chen Bar, Ioannis Gkioulekas, Anat Levin",
         "aff": "",
         "sess": "Computational Light Transport",
         "doi": "https://doi.org/10.1145/3447392"
@@ -274,7 +274,7 @@
         "psid": "sess105",
         "status": "Technical Paper",
         "title": "Low-cost SPAD Sensing for Non-line-of-sight Tracking, Material Classification, and Depth Imaging",
-        "authors": "Clara Callenberg, Zheng Shi, Felix Heide, Matthias B. Hullin",
+        "author": "Clara Callenberg, Zheng Shi, Felix Heide, Matthias B. Hullin",
         "aff": "",
         "sess": "Computational Light Transport",
         "doi": ""
@@ -284,7 +284,7 @@
         "psid": "sess105",
         "status": "TOG Paper",
         "title": "Real-time Global Illumination Decomposition of Videos",
-        "authors": "Abhimitra Meka, Mohammad Shafiei, Michael Zollh\u00f6fer, Christian Richardt, Christian Theobalt",
+        "author": "Abhimitra Meka, Mohammad Shafiei, Michael Zollh\u00f6fer, Christian Richardt, Christian Theobalt",
         "aff": "",
         "sess": "Computational Light Transport",
         "doi": "https://doi.org/10.1145/3374753"
@@ -294,7 +294,7 @@
         "psid": "sess105",
         "status": "TOG Paper",
         "title": "Neural Light Transport for Relighting and View Synthesis",
-        "authors": "Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec\u200e, Jonathan T. Barron, Ravi Ramamoorthi, William Freeman",
+        "author": "Xiuming Zhang, Sean Fanello, Yun-Ta Tsai, Tiancheng Sun, Tianfan Xue, Rohit Pandey, Sergio Orts-Escolano, Philip Davidson, Christoph Rhemann, Paul Debevec\u200e, Jonathan T. Barron, Ravi Ramamoorthi, William Freeman",
         "aff": "",
         "sess": "Computational Light Transport",
         "doi": "https://doi.org/10.1145/3446328"
@@ -304,7 +304,7 @@
         "psid": "sess145",
         "status": "Technical Paper",
         "title": "Knitting 4D Garments With Elasticity Controlled for Body Motion",
-        "authors": "Zishun Liu, Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C. L. Wang",
+        "author": "Zishun Liu, Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C. L. Wang",
         "aff": "",
         "sess": "Knitting and Sewing",
         "doi": "https://doi.org/10.1145/3559400.3565585"
@@ -314,7 +314,7 @@
         "psid": "sess145",
         "status": "Technical Paper",
         "title": "Knit Sketching: from Cut and Sew Patterns to Machine-Knit Garments",
-        "authors": "Alexandre Kaspar, Kui Wu, Yiyue Luo, Liane Makatura, Wojciech Matusik",
+        "author": "Alexandre Kaspar, Kui Wu, Yiyue Luo, Liane Makatura, Wojciech Matusik",
         "aff": "",
         "sess": "Knitting and Sewing",
         "doi": ""
@@ -324,7 +324,7 @@
         "psid": "sess145",
         "status": "Technical Paper",
         "title": "KnitKit: A Flexible System for Machine Knitting of Customizable Textiles",
-        "authors": "Georges Nader, Yu Han Quek, Pei Zhi Chia, Oliver Weeger, Sai-Kit Yeung",
+        "author": "Georges Nader, Yu Han Quek, Pei Zhi Chia, Oliver Weeger, Sai-Kit Yeung",
         "aff": "",
         "sess": "Knitting and Sewing",
         "doi": "https://doi.org/10.1145/3450626.3459790"
@@ -334,7 +334,7 @@
         "psid": "sess145",
         "status": "Technical Paper",
         "title": "A Mathematical Foundation for Foundation Paper Pieceable Quilts",
-        "authors": "Mackenzie Leake, Gilbert Bernstein, Abe Davis, Maneesh Agrawala",
+        "author": "Mackenzie Leake, Gilbert Bernstein, Abe Davis, Maneesh Agrawala",
         "aff": "",
         "sess": "Knitting and Sewing",
         "doi": "https://doi.org/10.1145/3450626.3459853"
@@ -344,7 +344,7 @@
         "psid": "sess124",
         "status": "Technical Paper",
         "title": "Physical Validation of Simulators in Computer Graphics: A New Framework Dedicated to Slender Elastic Structures and Frictional Contact",
-        "authors": "Victor Romero, Micka\u00ebl Ly, Abdullah Haroon Rasheed, Rapha\u00ebl Charrondi\u00e8re, Arnaud Lazarus, S\u00e9bastien Neukirch, Florence Bertails-Descoubes",
+        "author": "Victor Romero, Micka\u00ebl Ly, Abdullah Haroon Rasheed, Rapha\u00ebl Charrondi\u00e8re, Arnaud Lazarus, S\u00e9bastien Neukirch, Florence Bertails-Descoubes",
         "aff": "",
         "sess": "Simulating Deformations 1",
         "doi": "https://doi.org/10.1145/3450626.3459931"
@@ -354,7 +354,7 @@
         "psid": "sess124",
         "status": "Technical Paper",
         "title": "DeepFormableTag: End-to-end Generation and Recognition of Deformable Fiducial Markers",
-        "authors": "Mustafa B. Yaldiz, Andreas Meuleman, Hyeonjoong Jang, Hyunho Ha, Min H. Kim",
+        "author": "Mustafa B. Yaldiz, Andreas Meuleman, Hyeonjoong Jang, Hyunho Ha, Min H. Kim",
         "aff": "",
         "sess": "Simulating Deformations 1",
         "doi": "https://doi.org/10.1145/3450626.3459762"
@@ -364,7 +364,7 @@
         "psid": "sess124",
         "status": "Technical Paper",
         "title": "High-order Differentiable Autoencoder for Nonlinear Model Reduction",
-        "authors": "Siyuan Shen, Yin Yang, Tianjia Shao, He Wang, Chenfanfu Jiang, Lei Lan, Kun Zhou",
+        "author": "Siyuan Shen, Yin Yang, Tianjia Shao, He Wang, Chenfanfu Jiang, Lei Lan, Kun Zhou",
         "aff": "",
         "sess": "Simulating Deformations 1",
         "doi": "https://doi.org/10.1145/3450626.3459754"
@@ -374,7 +374,7 @@
         "psid": "sess124",
         "status": "Technical Paper",
         "title": "The Shape Matching Element Method: Direct Animation of Curved Surface Models",
-        "authors": "Ty M. Trusty, Honglin Chen, David I.W. Levin",
+        "author": "Ty M. Trusty, Honglin Chen, David I.W. Levin",
         "aff": "",
         "sess": "Simulating Deformations 1",
         "doi": "https://doi.org/10.1145/3450626.3459772"
@@ -384,7 +384,7 @@
         "psid": "sess110",
         "status": "Technical Paper",
         "title": "Fast Median Filters Using Separable Sorting Networks",
-        "authors": "Andrew B. Adams",
+        "author": "Andrew B. Adams",
         "aff": "",
         "sess": "Computational Photography",
         "doi": "https://doi.org/10.1145/3450626.3459773"
@@ -394,7 +394,7 @@
         "psid": "sess110",
         "status": "TOG Paper",
         "title": "Dirty Pixels: Towards End-to-end Image Processing and Perception",
-        "authors": "Steven Diamond, Vincent Sitzmann, Frank Julca-Aguilar, Stephen Boyd, Gordon Wetzstein, Felix Heide",
+        "author": "Steven Diamond, Vincent Sitzmann, Frank Julca-Aguilar, Stephen Boyd, Gordon Wetzstein, Felix Heide",
         "aff": "",
         "sess": "Computational Photography",
         "doi": "https://doi.org/10.1145/3446918"
@@ -404,7 +404,7 @@
         "psid": "sess110",
         "status": "Technical Paper",
         "title": "End-to-end Complex Lens Design With Differentiable Ray Tracing",
-        "authors": "Qilin Sun, Congli Wang, Xiong Dun, Qiang Fu, Wolfgang Heidrich",
+        "author": "Qilin Sun, Congli Wang, Xiong Dun, Qiang Fu, Wolfgang Heidrich",
         "aff": "",
         "sess": "Computational Photography",
         "doi": ""
@@ -414,7 +414,7 @@
         "psid": "sess110",
         "status": "TOG Paper",
         "title": "Differentiable Compound Optics and Processing Pipeline Optimization for End-to-end Camera Design",
-        "authors": "Ethan Tseng, Ali Mosleh, Fahim Mannan, Karl St-Arnaud, Avinash Sharma, Yifan (Evan) Peng, Alexander Braun, Derek Nowrouzezahrai, Jean-Francois Lalonde, Felix Heide",
+        "author": "Ethan Tseng, Ali Mosleh, Fahim Mannan, Karl St-Arnaud, Avinash Sharma, Yifan (Evan) Peng, Alexander Braun, Derek Nowrouzezahrai, Jean-Francois Lalonde, Felix Heide",
         "aff": "",
         "sess": "Computational Photography",
         "doi": "https://doi.org/10.1145/3446791"
@@ -424,7 +424,7 @@
         "psid": "sess149",
         "status": "Technical Paper",
         "title": "Direct Delta Mush Skinning Compression With Continuous Examples",
-        "authors": "Binh Huy Le, Keven Villeneuve, Carlos Gonzalez-Ochoa",
+        "author": "Binh Huy Le, Keven Villeneuve, Carlos Gonzalez-Ochoa",
         "aff": "",
         "sess": "Deformation",
         "doi": "https://doi.org/10.1145/3450626.3459779"
@@ -434,7 +434,7 @@
         "psid": "sess149",
         "status": "Technical Paper",
         "title": "Fast Quasi-harmonic Weights for Geometric Data Interpolation",
-        "authors": "Yu Wang, Justin Solomon",
+        "author": "Yu Wang, Justin Solomon",
         "aff": "",
         "sess": "Deformation",
         "doi": "https://doi.org/10.1145/3450626.3459801"
@@ -444,7 +444,7 @@
         "psid": "sess149",
         "status": "Technical Paper",
         "title": "Real-time Locally Injective Volumetric Deformation",
-        "authors": "Wentao Liao, Renjie Chen, Yuchen Hua, Ligang Liu, Ofir Weber",
+        "author": "Wentao Liao, Renjie Chen, Yuchen Hua, Ligang Liu, Ofir Weber",
         "aff": "",
         "sess": "Deformation",
         "doi": "https://doi.org/10.1145/3450626.3459794"
@@ -454,7 +454,7 @@
         "psid": "sess149",
         "status": "Technical Paper",
         "title": "Guaranteed Globally Injective 3D Deformation Processing",
-        "authors": "Yu Fang, Minchen Li, Chenfanfu Jiang, Danny M. Kaufman",
+        "author": "Yu Fang, Minchen Li, Chenfanfu Jiang, Danny M. Kaufman",
         "aff": "",
         "sess": "Deformation",
         "doi": "https://doi.org/10.1145/3450626.3459757"
@@ -464,7 +464,7 @@
         "psid": "sess122",
         "status": "Technical Paper",
         "title": "Path-space Differentiable Rendering of Participating Media",
-        "authors": "Cheng Zhang, Zihan Yu, Shuang Zhao",
+        "author": "Cheng Zhang, Zihan Yu, Shuang Zhao",
         "aff": "",
         "sess": "Differentiable Rendering 1",
         "doi": "https://doi.org/10.1145/3450626.3459782"
@@ -474,7 +474,7 @@
         "psid": "sess122",
         "status": "Technical Paper",
         "title": "Antithetic Sampling for Monte Carlo Differentiable Rendering",
-        "authors": "Cheng Zhang, Zhao Dong, Michael Doggett, Shuang Zhao",
+        "author": "Cheng Zhang, Zhao Dong, Michael Doggett, Shuang Zhao",
         "aff": "",
         "sess": "Differentiable Rendering 1",
         "doi": "https://doi.org/10.1145/3450626.3459783"
@@ -484,7 +484,7 @@
         "psid": "sess122",
         "status": "Technical Paper",
         "title": "Monte Carlo Estimators for Differential Light Transport",
-        "authors": "Tizian Zeltner, S\u00e9bastien Speierer, Iliyan Georgiev, Wenzel Jakob",
+        "author": "Tizian Zeltner, S\u00e9bastien Speierer, Iliyan Georgiev, Wenzel Jakob",
         "aff": "",
         "sess": "Differentiable Rendering 1",
         "doi": "https://doi.org/10.1145/3450626.3459807"
@@ -494,7 +494,7 @@
         "psid": "sess136",
         "status": "Technical Paper",
         "title": "SANM: A Symbolic Asymptotic Numerical Solver With Applications in Mesh Deformation",
-        "authors": "Kai Jia",
+        "author": "Kai Jia",
         "aff": "",
         "sess": "Geometric Solvers",
         "doi": "https://doi.org/10.1145/3450626.3459755"
@@ -504,7 +504,7 @@
         "psid": "sess136",
         "status": "Technical Paper",
         "title": "A Surface Multigrid via Intrinsic Prolongation",
-        "authors": "Hsueh-Ti Derek Liu, Jiayi Eris Zhang, Mirela Ben-Chen, Alec Jacobson",
+        "author": "Hsueh-Ti Derek Liu, Jiayi Eris Zhang, Mirela Ben-Chen, Alec Jacobson",
         "aff": "",
         "sess": "Geometric Solvers",
         "doi": ""
@@ -514,7 +514,7 @@
         "psid": "sess136",
         "status": "Technical Paper",
         "title": "Multiscale Cholesky Preconditioning for Ill-conditioned Problems",
-        "authors": "Jiong Chen, Florian Sch\u00e4fer, Jin Huang, Mathieu Desbrun",
+        "author": "Jiong Chen, Florian Sch\u00e4fer, Jin Huang, Mathieu Desbrun",
         "aff": "",
         "sess": "Geometric Solvers",
         "doi": "https://doi.org/10.1145/3450626.3459851"
@@ -524,7 +524,7 @@
         "psid": "sess136",
         "status": "Technical Paper",
         "title": "WRAPD: Weighted Rotation-aware ADMM for Parameterization and Deformation",
-        "authors": "George E. Brown, Rahul Narain",
+        "author": "George E. Brown, Rahul Narain",
         "aff": "",
         "sess": "Geometric Solvers",
         "doi": "https://doi.org/10.1145/3450626.3459942"
@@ -534,7 +534,7 @@
         "psid": "sess114",
         "status": "Technical Paper",
         "title": "Neural Monocular 3D Human Motion Capture With Physical Awareness",
-        "authors": "Soshi Shimada, Vladislav Golyanik, Weipeng Xu, Patrick P\u00e9rez, Christian Theobalt",
+        "author": "Soshi Shimada, Vladislav Golyanik, Weipeng Xu, Patrick P\u00e9rez, Christian Theobalt",
         "aff": "",
         "sess": "Motion Capture",
         "doi": "https://doi.org/10.1145/3450626.3459825"
@@ -544,7 +544,7 @@
         "psid": "sess114",
         "status": "Technical Paper",
         "title": "MoCap-Solver: A Neural Solver for Optical Motion Capture Data",
-        "authors": "Kang Chen, Yupan Wang, Song-Hai Zhang, Sen-Zhe Xu, Weidong Zhang, Shi-Min Hu",
+        "author": "Kang Chen, Yupan Wang, Song-Hai Zhang, Sen-Zhe Xu, Weidong Zhang, Shi-Min Hu",
         "aff": "",
         "sess": "Motion Capture",
         "doi": "https://doi.org/10.1145/3450626.3459681"
@@ -554,7 +554,7 @@
         "psid": "sess114",
         "status": "Technical Paper",
         "title": "Capturing Detailed Deformations of Moving Human Bodies",
-        "authors": "He Chen, Hyojoon Park, Kutay Macit, Ladislav Kavan",
+        "author": "He Chen, Hyojoon Park, Kutay Macit, Ladislav Kavan",
         "aff": "",
         "sess": "Motion Capture",
         "doi": "https://doi.org/10.1145/3450626.3459792"
@@ -564,7 +564,7 @@
         "psid": "sess114",
         "status": "Technical Paper",
         "title": "TransPose: Real-time 3D Human Translation and Pose Estimation With Six Inertial Sensors",
-        "authors": "Xinyu Yi, Yuxiao Zhou, Feng Xu",
+        "author": "Xinyu Yi, Yuxiao Zhou, Feng Xu",
         "aff": "",
         "sess": "Motion Capture",
         "doi": "https://doi.org/10.1145/3450626.3459786"
@@ -574,7 +574,7 @@
         "psid": "sess133",
         "status": "Technical Paper",
         "title": "Real-time 3D Neural Facial Animation From Binocular Video",
-        "authors": "Chen Cao, Vasu Agrawal, Fernando De la Torre, Lele Chen, Jason Saragih, Tomas Simon, Yaser Sheikh",
+        "author": "Chen Cao, Vasu Agrawal, Fernando De la Torre, Lele Chen, Jason Saragih, Tomas Simon, Yaser Sheikh",
         "aff": "",
         "sess": "Face Animation",
         "doi": "https://doi.org/10.1145/3450626.3459806"
@@ -584,7 +584,7 @@
         "psid": "sess133",
         "status": "Technical Paper",
         "title": "Learning an Animatable Detailed 3D Face Model From In-the-wild Images",
-        "authors": "Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart",
+        "author": "Yao Feng, Haiwen Feng, Michael J. Black, Timo Bolkart",
         "aff": "",
         "sess": "Face Animation",
         "doi": "https://doi.org/10.1145/3450626.3459936"
@@ -594,7 +594,7 @@
         "psid": "sess133",
         "status": "Technical Paper",
         "title": "Deep Relightable Appearance Models for Animatable Faces",
-        "authors": "Sai Bi, Stephen Lombardi, Shunsuke Saito, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih",
+        "author": "Sai Bi, Stephen Lombardi, Shunsuke Saito, Tomas Simon, Shih-En Wei, Kevyn McPhail, Ravi Ramamoorthi, Yaser Sheikh, Jason Saragih",
         "aff": "",
         "sess": "Face Animation",
         "doi": "https://doi.org/10.1145/3450626.3459829"
@@ -604,7 +604,7 @@
         "psid": "sess133",
         "status": "Technical Paper",
         "title": "DeepFaceEditing: Deep Face Generation and Editing With Disentangled Geometry and Appearance Control",
-        "authors": "Shu-Yu Chen, Feng-Lin Liu, Yu-Kun Lai, Paul Rosin, Chun-Peng Li, Hongbo Fu, Lin Gao",
+        "author": "Shu-Yu Chen, Feng-Lin Liu, Yu-Kun Lai, Paul Rosin, Chun-Peng Li, Hongbo Fu, Lin Gao",
         "aff": "",
         "sess": "Face Animation",
         "doi": "https://doi.org/10.1145/3450626.3459760"
@@ -614,7 +614,7 @@
         "psid": "sess111",
         "status": "Technical Paper",
         "title": "Discovering Diverse Athletic Jumping Strategies",
-        "authors": "Zhiqi Yin, Zeshi Yang, Michiel van de Panne, KangKang Yin",
+        "author": "Zhiqi Yin, Zeshi Yang, Michiel van de Panne, KangKang Yin",
         "aff": "",
         "sess": "Learning for Character Animation",
         "doi": "https://doi.org/10.1145/3450626.3459817"
@@ -624,7 +624,7 @@
         "psid": "sess111",
         "status": "Technical Paper",
         "title": "Neural Animation Layering for Synthesizing Martial Arts Movements",
-        "authors": "Sebastian Starke, Yiwei Zhao, Fabio Zinno, Taku Komura",
+        "author": "Sebastian Starke, Yiwei Zhao, Fabio Zinno, Taku Komura",
         "aff": "",
         "sess": "Learning for Character Animation",
         "doi": "https://doi.org/10.1145/3450626.3459881"
@@ -634,7 +634,7 @@
         "psid": "sess111",
         "status": "Technical Paper",
         "title": "Learning a Family of Motor Skills From a Single Motion Clip",
-        "authors": "Seyoung Lee, Sunmin Lee, Yongwoo Lee, Jehee Lee",
+        "author": "Seyoung Lee, Sunmin Lee, Yongwoo Lee, Jehee Lee",
         "aff": "",
         "sess": "Learning for Character Animation",
         "doi": "https://doi.org/10.1145/3450626.3459774"
@@ -644,7 +644,7 @@
         "psid": "sess111",
         "status": "Technical Paper",
         "title": "Real-time Deep Dynamic Characters",
-        "authors": "Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt",
+        "author": "Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt",
         "aff": "",
         "sess": "Learning for Character Animation",
         "doi": "https://doi.org/10.1145/3450626.3459749"
@@ -654,7 +654,7 @@
         "psid": "sess104",
         "status": "Technical Paper",
         "title": "Dynamic Closest Color Warping to Sort and Compare Palettes",
-        "authors": "Suzi Kim, Sunghee Choi",
+        "author": "Suzi Kim, Sunghee Choi",
         "aff": "",
         "sess": "Style and Color in Images",
         "doi": "https://doi.org/10.1145/3450626.3459776"
@@ -664,7 +664,7 @@
         "psid": "sess104",
         "status": "TOG Paper",
         "title": "Selective Region-based Photo Color Adjustment for Graphic Designs",
-        "authors": "Nanxuan Zhao, Quanlong Zheng, Jing Liao, Ying Cao, Hanspeter Pfister, Rynson W.H. Lau",
+        "author": "Nanxuan Zhao, Quanlong Zheng, Jing Liao, Ying Cao, Hanspeter Pfister, Rynson W.H. Lau",
         "aff": "",
         "sess": "Style and Color in Images",
         "doi": "https://doi.org/10.1145/3447647"
@@ -674,7 +674,7 @@
         "psid": "sess104",
         "status": "TOG Paper",
         "title": "Learning Multimodal Affinities for Textual Editing in Images",
-        "authors": "Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor",
+        "author": "Or Perel, Oron Anschel, Omri Ben-Eliezer, Shai Mazor, Hadar Averbuch-Elor",
         "aff": "",
         "sess": "Style and Color in Images",
         "doi": "https://doi.org/10.1145/3451340"
@@ -684,7 +684,7 @@
         "psid": "sess104",
         "status": "Technical Paper",
         "title": "Seamless Manga Inpainting With Semantics Awareness",
-        "authors": "Minshan Xie, Menghan Xia, Xueting Liu, Chengze Li, Tien-Tsin Wong",
+        "author": "Minshan Xie, Menghan Xia, Xueting Liu, Chengze Li, Tien-Tsin Wong",
         "aff": "",
         "sess": "Style and Color in Images",
         "doi": "https://doi.org/10.1145/3450626.3459822"
@@ -694,7 +694,7 @@
         "psid": "sess119",
         "status": "Technical Paper",
         "title": "Kelvin Transformations for Simulations on Infinite Domains",
-        "authors": "Mohammad Sina Nabizadeh, Ravi Ramamoorthi, Albert Chern",
+        "author": "Mohammad Sina Nabizadeh, Ravi Ramamoorthi, Albert Chern",
         "aff": "",
         "sess": "Fluid Simulation 1",
         "doi": "https://doi.org/10.1145/3450626.3459809"
@@ -704,7 +704,7 @@
         "psid": "sess119",
         "status": "Technical Paper",
         "title": "Incompressible Flow Simulation on Vortex Segment Clouds",
-        "authors": "Shiying Xiong, Rui Tao, Yaorui Zhang, Fan Feng, Bo Zhu",
+        "author": "Shiying Xiong, Rui Tao, Yaorui Zhang, Fan Feng, Bo Zhu",
         "aff": "",
         "sess": "Fluid Simulation 1",
         "doi": "https://doi.org/10.1145/3450626.3459865"
@@ -714,7 +714,7 @@
         "psid": "sess119",
         "status": "Technical Paper",
         "title": "Clebsch Gauge Fluid",
-        "authors": "Shuqi Yang, Shiying Xiong, Yaorui Zhang, Fan Feng, Jinyuan Liu, Bo Zhu",
+        "author": "Shuqi Yang, Shiying Xiong, Yaorui Zhang, Fan Feng, Jinyuan Liu, Bo Zhu",
         "aff": "",
         "sess": "Fluid Simulation 1",
         "doi": "https://doi.org/10.1145/3450626.3459866"
@@ -724,7 +724,7 @@
         "psid": "sess119",
         "status": "Technical Paper",
         "title": "Learning Meaningful Controls for Fluids",
-        "authors": "Mengyu Chu, Nils Thuerey, Hans-Peter Seidel, Christian Theobalt, Rhaleb Zayer",
+        "author": "Mengyu Chu, Nils Thuerey, Hans-Peter Seidel, Christian Theobalt, Rhaleb Zayer",
         "aff": "",
         "sess": "Fluid Simulation 1",
         "doi": "https://doi.org/10.1145/3450626.3459845"
@@ -734,7 +734,7 @@
         "psid": "sess142",
         "status": "Technical Paper",
         "title": "Unconventional Patterns on Surfaces",
-        "authors": "Merel Meekes, Amir Vaxman",
+        "author": "Merel Meekes, Amir Vaxman",
         "aff": "",
         "sess": "Surfaces 1",
         "doi": "https://doi.org/10.1145/3450626.3459933"
@@ -744,7 +744,7 @@
         "psid": "sess142",
         "status": "Technical Paper",
         "title": "Foldover-free Maps in 50 Lines of Code",
-        "authors": "Vladimir Garanzha, Igor Kaporin, Liudmila Kudryavtseva, Fran\u00e7ois Protais, Nicolas Ray, Dmitry Sokolov",
+        "author": "Vladimir Garanzha, Igor Kaporin, Liudmila Kudryavtseva, Fran\u00e7ois Protais, Nicolas Ray, Dmitry Sokolov",
         "aff": "",
         "sess": "Surfaces 1",
         "doi": "https://doi.org/10.1145/3450626.3459847"
@@ -754,7 +754,7 @@
         "psid": "sess142",
         "status": "Technical Paper",
         "title": "Discrete Conformal Equivalence of Polyhedral Surfaces",
-        "authors": "Mark Gillespie, Boris Springborn, Keenan Crane",
+        "author": "Mark Gillespie, Boris Springborn, Keenan Crane",
         "aff": "",
         "sess": "Surfaces 1",
         "doi": "https://doi.org/10.1145/3450626.3459763"
@@ -764,7 +764,7 @@
         "psid": "sess141",
         "status": "Technical Paper",
         "title": "RXMesh: A GPU Mesh Data Structure",
-        "authors": "Ahmed Mahmoud, Serban D. Porumbescu, John D. Owens",
+        "author": "Ahmed Mahmoud, Serban D. Porumbescu, John D. Owens",
         "aff": "",
         "sess": "Structures and Scenery",
         "doi": "https://doi.org/10.1145/3450626.3459748"
@@ -774,7 +774,7 @@
         "psid": "sess141",
         "status": "TOG Paper",
         "title": "Self-similar Fractal Drawings Inspired by M.C. Escher's Print Square Limit",
-        "authors": "Peichang Ouyang, Kwok-Wai Chung, Alain Nicolas, Krzysztof Gdawiec",
+        "author": "Peichang Ouyang, Kwok-Wai Chung, Alain Nicolas, Krzysztof Gdawiec",
         "aff": "",
         "sess": "Structures and Scenery",
         "doi": ""
@@ -784,7 +784,7 @@
         "psid": "sess141",
         "status": "Technical Paper",
         "title": "",
-        "authors": "Pierre Ecormier-Nocca, Guillaume Cordonnier, Philippe Carrez, Anne-Marie Moigne, Pooran Memari, Bedrich Benes, Marie-Paule Cani",
+        "author": "Pierre Ecormier-Nocca, Guillaume Cordonnier, Philippe Carrez, Anne-Marie Moigne, Pooran Memari, Bedrich Benes, Marie-Paule Cani",
         "aff": "",
         "sess": "Structures and Scenery",
         "doi": ""
@@ -794,7 +794,7 @@
         "psid": "sess141",
         "status": "Technical Paper",
         "title": "Fast Linking Numbers for Topology Verification of Loopy Structures",
-        "authors": "Ante Qu, Doug L. James",
+        "author": "Ante Qu, Doug L. James",
         "aff": "",
         "sess": "Structures and Scenery",
         "doi": "https://doi.org/10.1145/3450626.3459778"
@@ -804,7 +804,7 @@
         "psid": "sess121",
         "status": "Technical Paper",
         "title": "Systematically Differentiating Parametric Discontinuities",
-        "authors": "Sai Praveen Bangaru, Jesse Michel, Kevin Mu, Gilbert Bernstein, Tzu-Mao Li, Jonathan Ragan-Kelley",
+        "author": "Sai Praveen Bangaru, Jesse Michel, Kevin Mu, Gilbert Bernstein, Tzu-Mao Li, Jonathan Ragan-Kelley",
         "aff": "",
         "sess": "Differentiable Rendering 2",
         "doi": "https://doi.org/10.1145/3450626.3459775"
@@ -814,7 +814,7 @@
         "psid": "sess121",
         "status": "Technical Paper",
         "title": "Path Replay Backpropagation: Differentiating Light Paths Using Constant Memory and Linear Time",
-        "authors": "Delio Vicini, S\u00e9bastien Speierer, Wenzel Jakob",
+        "author": "Delio Vicini, S\u00e9bastien Speierer, Wenzel Jakob",
         "aff": "",
         "sess": "Differentiable Rendering 2",
         "doi": "https://doi.org/10.1145/3450626.3459804"
@@ -824,7 +824,7 @@
         "psid": "sess121",
         "status": "TOG Paper",
         "title": "Vectorization for Fast, Analytic, and Differentiable Visibility",
-        "authors": "Yang Zhou, Lifan Wu, Ravi Ramamoorthi, Lingqi Yan",
+        "author": "Yang Zhou, Lifan Wu, Ravi Ramamoorthi, Lingqi Yan",
         "aff": "",
         "sess": "Differentiable Rendering 2",
         "doi": "https://doi.org/10.1145/3452097"
@@ -834,7 +834,7 @@
         "psid": "sess117",
         "status": "Technical Paper",
         "title": "Revisiting Integration in the Material Point Method: A Scheme for Easier Separation and Less Dissipation",
-        "authors": "Yun (Raymond) Fei, Qi Guo, Rundong Wu, Li Huang, Ming Gao",
+        "author": "Yun (Raymond) Fei, Qi Guo, Rundong Wu, Li Huang, Ming Gao",
         "aff": "",
         "sess": "Fluid Simulation 2",
         "doi": "https://doi.org/10.1145/3450626.3459678"
@@ -844,7 +844,7 @@
         "psid": "sess117",
         "status": "TOG Paper",
         "title": "Optimized Refinement for Spatially Adaptive SPH",
-        "authors": "Rene Winchenbach, Andreas Kolb",
+        "author": "Rene Winchenbach, Andreas Kolb",
         "aff": "",
         "sess": "Fluid Simulation 2",
         "doi": "https://doi.org/10.1145/3363555"
@@ -854,7 +854,7 @@
         "psid": "sess117",
         "status": "Technical Paper",
         "title": "Thin-film Smoothed Particle Hydrodynamics Fluid",
-        "authors": "Mengdi Wang, Yitong Deng, Xiangxin Kong, Aditya Prasad, Shiying Xiong, Bo Zhu",
+        "author": "Mengdi Wang, Yitong Deng, Xiangxin Kong, Aditya Prasad, Shiying Xiong, Bo Zhu",
         "aff": "",
         "sess": "Fluid Simulation 2",
         "doi": "https://doi.org/10.1145/3450626.3459864"
@@ -864,7 +864,7 @@
         "psid": "sess117",
         "status": "Technical Paper",
         "title": "A Momentum-conserving Implicit Material Point Method for Surface Tension With Contact Angles and Spatial Gradients",
-        "authors": "Jingyu Chen, Victoria Kala, Alan Marquez-Razon, Elias Gueidon, David Andrew B. Hyde, Joseph Teran",
+        "author": "Jingyu Chen, Victoria Kala, Alan Marquez-Razon, Elias Gueidon, David Andrew B. Hyde, Joseph Teran",
         "aff": "",
         "sess": "Fluid Simulation 2",
         "doi": "https://doi.org/10.1145/3450626.3459874"
@@ -874,7 +874,7 @@
         "psid": "sess143",
         "status": "Technical Paper",
         "title": "Constrained Willmore Surfaces",
-        "authors": "Yousuf Soliman, Albert Chern, Olga Diamanti, Felix Kn\u00f6ppel, Ulrich Pinkall, Peter Schr\u00f6der",
+        "author": "Yousuf Soliman, Albert Chern, Olga Diamanti, Felix Kn\u00f6ppel, Ulrich Pinkall, Peter Schr\u00f6der",
         "aff": "",
         "sess": "Surfaces 2",
         "doi": "https://doi.org/10.1145/3450626.3459759"
@@ -884,7 +884,7 @@
         "psid": "sess143",
         "status": "Technical Paper",
         "title": "Computing Minimal Surfaces With Differential Forms",
-        "authors": "Stephanie Wang, Albert Chern",
+        "author": "Stephanie Wang, Albert Chern",
         "aff": "",
         "sess": "Surfaces 2",
         "doi": "https://doi.org/10.1145/3450626.3459781"
@@ -894,7 +894,7 @@
         "psid": "sess143",
         "status": "Technical Paper",
         "title": "Computational Design of Weingarten Surfaces",
-        "authors": "Davide Pellis, Martin Killian, Helmut Pottmann, Mark Pauly",
+        "author": "Davide Pellis, Martin Killian, Helmut Pottmann, Mark Pauly",
         "aff": "",
         "sess": "Surfaces 2",
         "doi": "https://doi.org/10.1145/3450626.3459939"
@@ -904,7 +904,7 @@
         "psid": "sess106",
         "status": "Technical Paper",
         "title": "TryOnGAN: Body-aware Try-on via Layered Interpolation",
-        "authors": "Kathleen M. Lewis, Srivatsan Varadharajan, Ira Kemelmacher-Shlizerman",
+        "author": "Kathleen M. Lewis, Srivatsan Varadharajan, Ira Kemelmacher-Shlizerman",
         "aff": "",
         "sess": "Image Editing With GANs 1",
         "doi": "https://doi.org/10.1145/3450626.3459884"
@@ -914,7 +914,7 @@
         "psid": "sess106",
         "status": "Technical Paper",
         "title": "StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation",
-        "authors": "Wonjong Jang, Gwangjin Ju, Yucheol Jung, Jiaolong Yang, Xin Tong, Seungyong Lee",
+        "author": "Wonjong Jang, Gwangjin Ju, Yucheol Jung, Jiaolong Yang, Xin Tong, Seungyong Lee",
         "aff": "",
         "sess": "Image Editing With GANs 1",
         "doi": "https://doi.org/10.1145/3450626.3459860"
@@ -924,7 +924,7 @@
         "psid": "sess106",
         "status": "Technical Paper",
         "title": "AgileGAN: Stylizing Portraits by Inversion-consistent Transfer Learning",
-        "authors": "Guoxian Song, Linjie Luo, Jing Liu, Wan Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat Jen Cham",
+        "author": "Guoxian Song, Linjie Luo, Jing Liu, Wan Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat Jen Cham",
         "aff": "",
         "sess": "Image Editing With GANs 1",
         "doi": "https://doi.org/10.1145/3450626.3459771"
@@ -934,7 +934,7 @@
         "psid": "sess118",
         "status": "Technical Paper",
         "title": "Unified Particle System for Multiple-fluid Flow and Porous Material",
-        "authors": "Bo Ren, Ben Xu, Chenfeng Li",
+        "author": "Bo Ren, Ben Xu, Chenfeng Li",
         "aff": "",
         "sess": "Fluid Simulation 3",
         "doi": "https://doi.org/10.1145/3450626.3459764"
@@ -944,7 +944,7 @@
         "psid": "sess118",
         "status": "Technical Paper",
         "title": "A Unified Second-order Accurate in Time MPM Formulation for Simulating Viscoelastic Liquids With Phase Change",
-        "authors": "Haozhe Su, Tao Xue, Chengguizi Han, Chenfanfu Jiang, Mridul Aanjaneya",
+        "author": "Haozhe Su, Tao Xue, Chengguizi Han, Chenfanfu Jiang, Mridul Aanjaneya",
         "aff": "",
         "sess": "Fluid Simulation 3",
         "doi": "https://doi.org/10.1145/3450626.3459820"
@@ -954,7 +954,7 @@
         "psid": "sess118",
         "status": "Technical Paper",
         "title": "Solid-fluid Interaction With Surface-tension-dominant Contact",
-        "authors": "Liangwang Ruan, Jinyuan Liu, Bo Zhu, Shinjiro Sueda, Bin Wang, Baoquan Chen",
+        "author": "Liangwang Ruan, Jinyuan Liu, Bo Zhu, Shinjiro Sueda, Bin Wang, Baoquan Chen",
         "aff": "",
         "sess": "Fluid Simulation 3",
         "doi": "https://doi.org/10.1145/3450626.3459862"
@@ -964,7 +964,7 @@
         "psid": "sess112",
         "status": "TOG Paper",
         "title": "Single Depth View Based Real-time Reconstruction of Hand-object Interactions",
-        "authors": "Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu",
+        "author": "Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu",
         "aff": "",
         "sess": "Hands and Muscles",
         "doi": "https://doi.org/10.1145/3451341"
@@ -974,7 +974,7 @@
         "psid": "sess112",
         "status": "Technical Paper",
         "title": "ManipNet: Neural Manipulation Synthesis With a Hand-object Spatial Representation",
-        "authors": "He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura",
+        "author": "He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura",
         "aff": "",
         "sess": "Hands and Muscles",
         "doi": "https://doi.org/10.1145/3450626.3459830"
@@ -984,7 +984,7 @@
         "psid": "sess112",
         "status": "Technical Paper",
         "title": "Interactive Modelling of Volumetric Musculoskeletal Anatomy",
-        "authors": "Rinat Abdrashitov, Seungbae Bang, David Levin, Karan Singh, Alec Jacobson",
+        "author": "Rinat Abdrashitov, Seungbae Bang, David Levin, Karan Singh, Alec Jacobson",
         "aff": "",
         "sess": "Hands and Muscles",
         "doi": "https://doi.org/10.1145/3450626.3459769"
@@ -994,7 +994,7 @@
         "psid": "sess112",
         "status": "TOG Paper",
         "title": "Modeling of Personalized Anatomy Using Plastic Strains",
-        "authors": "Bohan Wang, George Matcuk, Jernej Barbic",
+        "author": "Bohan Wang, George Matcuk, Jernej Barbic",
         "aff": "",
         "sess": "Hands and Muscles",
         "doi": "https://doi.org/10.1145/3443703"
@@ -1004,7 +1004,7 @@
         "psid": "sess131",
         "status": "Technical Paper",
         "title": "Highlight-aware Two-stream Network for Single-image SVBRDF Acquisition",
-        "authors": "Jie Guo, Shuichang Lai, Chengzhi Tao, Yuelong Cai, Lei Wang, Yanwen Guo, Ling-Qi Yan",
+        "author": "Jie Guo, Shuichang Lai, Chengzhi Tao, Yuelong Cai, Lei Wang, Yanwen Guo, Ling-Qi Yan",
         "aff": "",
         "sess": "Appearance",
         "doi": "https://doi.org/10.1145/3450626.3459854"
@@ -1014,7 +1014,7 @@
         "psid": "sess131",
         "status": "Technical Paper",
         "title": "Free-form Scanning of Non-planar Appearance With Neural Trace Photography",
-        "authors": "Xiaohe Ma, Kaizhang Kang, Ruisheng Zhu, Hongzhi Wu, Kun Zhou",
+        "author": "Xiaohe Ma, Kaizhang Kang, Ruisheng Zhu, Hongzhi Wu, Kun Zhou",
         "aff": "",
         "sess": "Appearance",
         "doi": "https://doi.org/10.1145/3450626.3459679"
@@ -1024,7 +1024,7 @@
         "psid": "sess131",
         "status": "Technical Paper",
         "title": "The Effect of Shape and Illumination on Material Perception: Model and Applications",
-        "authors": "Ana Serrano, Bin Chen, Chao Wang, Michal Piovar\u010di, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski",
+        "author": "Ana Serrano, Bin Chen, Chao Wang, Michal Piovar\u010di, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski",
         "aff": "",
         "sess": "Appearance",
         "doi": "https://doi.org/10.1145/3450626.3459813"
@@ -1034,7 +1034,7 @@
         "psid": "sess147",
         "status": "Technical Paper",
         "title": "The Design Space of Plane Elastic Curves",
-        "authors": "Christian Hafner, Bernd Bickel",
+        "author": "Christian Hafner, Bernd Bickel",
         "aff": "",
         "sess": "Curves, Ribbons and Wires",
         "doi": "https://doi.org/10.1145/3450626.3459800"
@@ -1044,7 +1044,7 @@
         "psid": "sess147",
         "status": "Technical Paper",
         "title": "3D Weaving With Curved Ribbons",
-        "authors": "Yingying Ren, Julian Panetta, Tian Chen, Florin Isvoranu, Samuel Poincloux, Christopher Brandt, Alison Martin, Mark Pauly",
+        "author": "Yingying Ren, Julian Panetta, Tian Chen, Florin Isvoranu, Samuel Poincloux, Christopher Brandt, Alison Martin, Mark Pauly",
         "aff": "",
         "sess": "Curves, Ribbons and Wires",
         "doi": "https://doi.org/10.1145/3450626.3459788"
@@ -1054,7 +1054,7 @@
         "psid": "sess147",
         "status": "Technical Paper",
         "title": "WireRoom: Model-guided Explorative Design of Abstract Wire Art",
-        "authors": "Zhijin Yang, Pengfei Xu, Hongbo Fu, Hui Huang",
+        "author": "Zhijin Yang, Pengfei Xu, Hongbo Fu, Hui Huang",
         "aff": "",
         "sess": "Curves, Ribbons and Wires",
         "doi": "https://doi.org/10.1145/3450626.3459796"
@@ -1064,7 +1064,7 @@
         "psid": "sess147",
         "status": "TOG Paper",
         "title": "Mid-air Drawing of Curves on 3D Surfaces in Virtual Reality",
-        "authors": "Rahul Arora, Karan Singh",
+        "author": "Rahul Arora, Karan Singh",
         "aff": "",
         "sess": "Curves, Ribbons and Wires",
         "doi": "https://doi.org/10.1145/3459090"
@@ -1074,7 +1074,7 @@
         "psid": "sess128",
         "status": "Technical Paper",
         "title": "Learning Active Quasistatic Physics-based Models From Data",
-        "authors": "Sangeetha Grama Srinivasan, Qisi Wang, Junior Rojas, Gergely Klar, Ladislav Kavan, Eftychios Sifakis",
+        "author": "Sangeetha Grama Srinivasan, Qisi Wang, Junior Rojas, Gergely Klar, Ladislav Kavan, Eftychios Sifakis",
         "aff": "",
         "sess": "Learning for Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459883"
@@ -1084,7 +1084,7 @@
         "psid": "sess128",
         "status": "Technical Paper",
         "title": "Learning Skeletal Articulations With Neural Blend Shapes",
-        "authors": "Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen",
+        "author": "Peizhuo Li, Kfir Aberman, Rana Hanocka, Libin Liu, Olga Sorkine-Hornung, Baoquan Chen",
         "aff": "",
         "sess": "Learning for Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459852"
@@ -1094,7 +1094,7 @@
         "psid": "sess128",
         "status": "Technical Paper",
         "title": "Learning Contact Corrections for Handle-based Subspace Dynamics",
-        "authors": "Cristian Romero, Dan Casas, Jes\u00fas P\u00e9rez, Miguel A. Otaduy",
+        "author": "Cristian Romero, Dan Casas, Jes\u00fas P\u00e9rez, Miguel A. Otaduy",
         "aff": "",
         "sess": "Learning for Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459875"
@@ -1104,7 +1104,7 @@
         "psid": "sess128",
         "status": "Technical Paper",
         "title": "DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation",
-        "authors": "Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert K. Katzschmann, Wojciech Matusik",
+        "author": "Pingchuan Ma, Tao Du, John Z. Zhang, Kui Wu, Andrew Spielberg, Robert K. Katzschmann, Wojciech Matusik",
         "aff": "",
         "sess": "Learning for Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459832"
@@ -1114,7 +1114,7 @@
         "psid": "sess103",
         "status": "Technical Paper",
         "title": "Designing an Encoder for StyleGAN Image Manipulation",
-        "authors": "Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or",
+        "author": "Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or",
         "aff": "",
         "sess": "Image Editing with GANs 2",
         "doi": "https://doi.org/10.1145/3450626.3459838"
@@ -1124,7 +1124,7 @@
         "psid": "sess103",
         "status": "Technical Paper",
         "title": "SWAGAN: A Style-based Wavelet-driven Generative Model",
-        "authors": "Rinon Gal, Dana Cohen Hochberg, Amit Bermano, Daniel Cohen-Or",
+        "author": "Rinon Gal, Dana Cohen Hochberg, Amit Bermano, Daniel Cohen-Or",
         "aff": "",
         "sess": "Image Editing with GANs 2",
         "doi": "https://doi.org/10.1145/3450626.3459836"
@@ -1134,7 +1134,7 @@
         "psid": "sess103",
         "status": "TOG Paper",
         "title": "StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images Using Conditional Continuous Normalizing Flows",
-        "authors": "Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka",
+        "author": "Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka",
         "aff": "",
         "sess": "Image Editing with GANs 2",
         "doi": "https://doi.org/10.1145/3447648"
@@ -1144,7 +1144,7 @@
         "psid": "sess123",
         "status": "Technical Paper",
         "title": "A Fitted Radiance and Attenuation Model for Realistic Atmospheres",
-        "authors": "Alexander Wilkie, Petr Vevoda, Tom Bashford-Rogers, Luk\u00e1\u0161 Ho\u0161ek, Tom\u00e1\u0161 Iser, Monika Kol\u00e1\u0159ov\u00e1, Tobias Rittig, Jaroslav K\u0159iv\u00e1nek",
+        "author": "Alexander Wilkie, Petr Vevoda, Tom Bashford-Rogers, Luk\u00e1\u0161 Ho\u0161ek, Tom\u00e1\u0161 Iser, Monika Kol\u00e1\u0159ov\u00e1, Tobias Rittig, Jaroslav K\u0159iv\u00e1nek",
         "aff": "",
         "sess": "Transmittance",
         "doi": "https://doi.org/10.1145/3450626.3459758"
@@ -1154,7 +1154,7 @@
         "psid": "sess123",
         "status": "Technical Paper",
         "title": "A Non-exponential Transmittance Model for Volumetric Scene Representations",
-        "authors": "Delio Vicini, Wenzel Jakob, Anton Kaplanyan",
+        "author": "Delio Vicini, Wenzel Jakob, Anton Kaplanyan",
         "aff": "",
         "sess": "Transmittance",
         "doi": "https://doi.org/10.1145/3450626.3459815"
@@ -1164,7 +1164,7 @@
         "psid": "sess123",
         "status": "Technical Paper",
         "title": "An Unbiased Ray-marching Transmittance Estimator",
-        "authors": "Markus Kettunen, Eugene d'Eon, Jacopo Pantaleoni, Jan Nov\u00e1k",
+        "author": "Markus Kettunen, Eugene d'Eon, Jacopo Pantaleoni, Jan Nov\u00e1k",
         "aff": "",
         "sess": "Transmittance",
         "doi": "https://doi.org/10.1145/3450626.3459937"
@@ -1174,7 +1174,7 @@
         "psid": "sess135",
         "status": "TOG Paper",
         "title": "GPU Accelerated Path Tracing of Massive Scenes",
-        "authors": "Milan Jaros, Lubomir Riha, Petr Strakos, Matej Spetko",
+        "author": "Milan Jaros, Lubomir Riha, Petr Strakos, Matej Spetko",
         "aff": "",
         "sess": "Real-Time  Rendering",
         "doi": "https://doi.org/10.1145/3447807"
@@ -1184,7 +1184,7 @@
         "psid": "sess135",
         "status": "TOG Paper",
         "title": "Temporally Adaptive Shading Reuse for Real-time Rendering and Virtual Reality",
-        "authors": "Joerg H. Mueller, Thomas Neff, Philip Voglreiter, Markus Steinberger, Dieter Schmalstieg",
+        "author": "Joerg H. Mueller, Thomas Neff, Philip Voglreiter, Markus Steinberger, Dieter Schmalstieg",
         "aff": "",
         "sess": "Real-Time  Rendering",
         "doi": "https://doi.org/10.1145/3446790"
@@ -1194,7 +1194,7 @@
         "psid": "sess135",
         "status": "Technical Paper",
         "title": "Fast Diffraction Pathfinding for Dynamic Sound Propagation",
-        "authors": "Carl Schissler, Gregor M\u00fcckl, Paul Calamia",
+        "author": "Carl Schissler, Gregor M\u00fcckl, Paul Calamia",
         "aff": "",
         "sess": "Real-Time  Rendering",
         "doi": "https://doi.org/10.1145/3450626.3459751"
@@ -1204,7 +1204,7 @@
         "psid": "sess134",
         "status": "Technical Paper",
         "title": "A Generic Framework for Physical Light Transport",
-        "authors": "Shlomi Steinberg, Lingqi Yan",
+        "author": "Shlomi Steinberg, Lingqi Yan",
         "aff": "",
         "sess": "Rendering Theory",
         "doi": "https://doi.org/10.1145/3450626.3459791"
@@ -1214,7 +1214,7 @@
         "psid": "sess134",
         "status": "Technical Paper",
         "title": "BRDF Importance Sampling for Polygonal Lights",
-        "authors": "Christoph Peters",
+        "author": "Christoph Peters",
         "aff": "",
         "sess": "Rendering Theory",
         "doi": "https://doi.org/10.1145/3450626.3459672"
@@ -1224,7 +1224,7 @@
         "psid": "sess134",
         "status": "Technical Paper",
         "title": "Optimizing Dyadic Nets",
-        "authors": "Abdalla G. M. Ahmed, Peter Wonka",
+        "author": "Abdalla G. M. Ahmed, Peter Wonka",
         "aff": "",
         "sess": "Rendering Theory",
         "doi": "https://doi.org/10.1145/3450626.3459880"
@@ -1234,7 +1234,7 @@
         "psid": "sess134",
         "status": "TOG Paper",
         "title": "Primary-space Adaptive Control Variates Using Piecewise-polynomial Approximations",
-        "authors": "Miguel Crespo, Adrian Jarabo, Adolfo Mu\u00f1oz",
+        "author": "Miguel Crespo, Adrian Jarabo, Adolfo Mu\u00f1oz",
         "aff": "",
         "sess": "Rendering Theory",
         "doi": "https://doi.org/10.1145/3450627"
@@ -1244,7 +1244,7 @@
         "psid": "sess102",
         "status": "TOG Paper",
         "title": "3D Morphable Face Models \u2014 Past, Present, and Future",
-        "authors": "Bernhard Egger, William Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollhoefer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami Romdhani, Christian Theobalt, Volker Blanz, Thomas Vetter",
+        "author": "Bernhard Egger, William Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollhoefer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami Romdhani, Christian Theobalt, Volker Blanz, Thomas Vetter",
         "aff": "",
         "sess": "Video Editing 1",
         "doi": ""
@@ -1254,7 +1254,7 @@
         "psid": "sess102",
         "status": "Technical Paper",
         "title": "Endless Loops: Detecting and Animating Periodic Patterns in Still Images",
-        "authors": "Tavi Halperin, Hanit Hakim, Orestis Vantzos, Gershon Hochman, Netai Benaim, Lior Sassy, Michael Kupchik, Ofir Bibi, Ohad Fried",
+        "author": "Tavi Halperin, Hanit Hakim, Orestis Vantzos, Gershon Hochman, Netai Benaim, Lior Sassy, Michael Kupchik, Ofir Bibi, Ohad Fried",
         "aff": "",
         "sess": "Video Editing 1",
         "doi": "https://doi.org/10.1145/3450626.3459935"
@@ -1264,7 +1264,7 @@
         "psid": "sess102",
         "status": "TOG Paper",
         "title": "Vid2Player: Controllable Video Sprites That Behave and Appear Like Professional Tennis Players",
-        "authors": "Haotian Zhang, Cristobal Sciutto, Maneesh Agrawala, Kayvon Fatahalian",
+        "author": "Haotian Zhang, Cristobal Sciutto, Maneesh Agrawala, Kayvon Fatahalian",
         "aff": "",
         "sess": "Video Editing 1",
         "doi": "https://doi.org/10.1145/3448978"
@@ -1274,7 +1274,7 @@
         "psid": "sess102",
         "status": "TOG Paper",
         "title": "Iterative Text-based Editing of Talking-heads Using Neural Retargeting",
-        "authors": "Xinwei Yao, Ohad Fried, Kayvon Fatahalian, Maneesh Agrawala",
+        "author": "Xinwei Yao, Ohad Fried, Kayvon Fatahalian, Maneesh Agrawala",
         "aff": "",
         "sess": "Video Editing 1",
         "doi": "https://doi.org/10.1145/3449063"
@@ -1284,7 +1284,7 @@
         "psid": "sess113",
         "status": "Technical Paper",
         "title": "Driving-signal Aware Full-body Avatars",
-        "authors": "Timur Bagautdinov, Chenglei Wu, Tomas Simon, Takaaki Shiratori, Shih-En Wei, Fabian Andres Prada, Weipeng Xu, Yaser Sheikh, Jason Saragih",
+        "author": "Timur Bagautdinov, Chenglei Wu, Tomas Simon, Takaaki Shiratori, Shih-En Wei, Fabian Andres Prada, Weipeng Xu, Yaser Sheikh, Jason Saragih",
         "aff": "",
         "sess": "Human Animation",
         "doi": "https://doi.org/10.1145/3450626.3459850"
@@ -1294,7 +1294,7 @@
         "psid": "sess113",
         "status": "TOG Paper",
         "title": "PanoMan: Sparse Localized Components Based Model for Full Human Motions",
-        "authors": "Yupan Wang, Guiqing Li, Huiqian Zhang, Xinyi Zou, Yuxin Liu, Yongwei Nie",
+        "author": "Yupan Wang, Guiqing Li, Huiqian Zhang, Xinyi Zou, Yuxin Liu, Yongwei Nie",
         "aff": "",
         "sess": "Human Animation",
         "doi": ""
@@ -1304,7 +1304,7 @@
         "psid": "sess113",
         "status": "TOG Paper",
         "title": "A Conversational Agent Framework With Multi-modal Personality Expression",
-        "authors": "Sinan Sonlu, Ugur Gudukbay, Funda Durupinar",
+        "author": "Sinan Sonlu, Ugur Gudukbay, Funda Durupinar",
         "aff": "",
         "sess": "Human Animation",
         "doi": "https://doi.org/10.1145/3439795"
@@ -1314,7 +1314,7 @@
         "psid": "sess115",
         "status": "Technical Paper",
         "title": "AMP: Adversarial Motion Priors for Stylized Physics-based Character Control",
-        "authors": "Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa",
+        "author": "Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa",
         "aff": "",
         "sess": "Character Control",
         "doi": "https://doi.org/10.1145/3450626.3459670"
@@ -1324,7 +1324,7 @@
         "psid": "sess115",
         "status": "Technical Paper",
         "title": "ChoreoMaster: Choreography-oriented Music-driven Dance Synthesis",
-        "authors": "Kang Chen, Zhipeng Tan, Jin Lei, Song-Hai Zhang, Yuan-Chen Guo, Weidong Zhang, Shi-Min Hu",
+        "author": "Kang Chen, Zhipeng Tan, Jin Lei, Song-Hai Zhang, Yuan-Chen Guo, Weidong Zhang, Shi-Min Hu",
         "aff": "",
         "sess": "Character Control",
         "doi": "https://doi.org/10.1145/3450626.3459932"
@@ -1334,7 +1334,7 @@
         "psid": "sess115",
         "status": "Technical Paper",
         "title": "Control Strategies for Physically Simulated Characters Performing Two-player Competitive Sports",
-        "authors": "Jungdam Won, Deepak Gopinath, Jessica Hodgins",
+        "author": "Jungdam Won, Deepak Gopinath, Jessica Hodgins",
         "aff": "",
         "sess": "Character Control",
         "doi": "https://doi.org/10.1145/3450626.3459761"
@@ -1344,7 +1344,7 @@
         "psid": "sess115",
         "status": "Technical Paper",
         "title": "Learning Time-critical Responses for Interactive Character Control",
-        "authors": "Kyungho Lee, Sehee Min, Sunmin Lee, Jehee Lee",
+        "author": "Kyungho Lee, Sehee Min, Sunmin Lee, Jehee Lee",
         "aff": "",
         "sess": "Character Control",
         "doi": "https://doi.org/10.1145/3450626.3459826"
@@ -1354,7 +1354,7 @@
         "psid": "sess109",
         "status": "Technical Paper",
         "title": "Consistent Depth of Moving Objects in Video",
-        "authors": "Zhoutong Zhang, Forrester Cole, Tali Dekel, Richard Tucker, William T. Freeman",
+        "author": "Zhoutong Zhang, Forrester Cole, Tali Dekel, Richard Tucker, William T. Freeman",
         "aff": "",
         "sess": "Video Editing 2",
         "doi": "https://doi.org/10.1145/3450626.3459871"
@@ -1364,7 +1364,7 @@
         "psid": "sess109",
         "status": "TOG Paper",
         "title": "Recurrent Video Deblurring With Blur-invariant Motion Estimation and Pixel Volumes",
-        "authors": "Hyeongseok Son, Junyong Lee, Jonghyeop Lee, Sunghyun Cho, Seungyong Lee",
+        "author": "Hyeongseok Son, Junyong Lee, Jonghyeop Lee, Sunghyun Cho, Seungyong Lee",
         "aff": "",
         "sess": "Video Editing 2",
         "doi": "https://doi.org/10.1145/3453720"
@@ -1374,7 +1374,7 @@
         "psid": "sess109",
         "status": "Technical Paper",
         "title": "Editable Free-viewpoint Video using a Layered Neural Representation",
-        "authors": "Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu",
+        "author": "Jiakai Zhang, Xinhang Liu, Xinyi Ye, Fuqiang Zhao, Yanshun Zhang, Minye Wu, Yingliang Zhang, Lan Xu, Jingyi Yu",
         "aff": "",
         "sess": "Video Editing 2",
         "doi": "https://doi.org/10.1145/3450626.3459756"
@@ -1384,7 +1384,7 @@
         "psid": "sess109",
         "status": "Technical Paper",
         "title": "Video Recoloring via Spatial-temporal Geometric Palettes",
-        "authors": "Zheng-Jun Du, Kai-Xiang Lei, Kun Xu, Jianchao Tan, Yotam Gingold",
+        "author": "Zheng-Jun Du, Kai-Xiang Lei, Kun Xu, Jianchao Tan, Yotam Gingold",
         "aff": "",
         "sess": "Video Editing 2",
         "doi": "https://doi.org/10.1145/3450626.3459675"
@@ -1394,7 +1394,7 @@
         "psid": "sess140",
         "status": "Technical Paper",
         "title": "SP-GAN: Sphere-guided 3D Shape Generation and Manipulation",
-        "authors": "Ruihui Li, Xianzhi Li, Ka-Hei Hui, Chi-Wing Fu",
+        "author": "Ruihui Li, Xianzhi Li, Ka-Hei Hui, Chi-Wing Fu",
         "aff": "",
         "sess": "Shape Generation",
         "doi": "https://doi.org/10.1145/3450626.3459766"
@@ -1404,7 +1404,7 @@
         "psid": "sess140",
         "status": "Technical Paper",
         "title": "Unsupervised Learning for Cuboid Shape Abstraction via Joint Segmentation From Point Clouds",
-        "authors": "Kaizhi Yang, Xuejin Chen",
+        "author": "Kaizhi Yang, Xuejin Chen",
         "aff": "",
         "sess": "Shape Generation",
         "doi": "https://doi.org/10.1145/3450626.3459873"
@@ -1414,7 +1414,7 @@
         "psid": "sess140",
         "status": "Technical Paper",
         "title": "ShapeMOD: Macro Operation Discovery for 3D Shape Programs",
-        "authors": "R. Kenny Jones, David Charatan, Paul Guerrero, Niloy Mitra, Daniel Ritchie",
+        "author": "R. Kenny Jones, David Charatan, Paul Guerrero, Niloy Mitra, Daniel Ritchie",
         "aff": "",
         "sess": "Shape Generation",
         "doi": "https://doi.org/10.1145/3450626.3459821"
@@ -1424,7 +1424,7 @@
         "psid": "sess139",
         "status": "Technical Paper",
         "title": "Guaranteed-Quality Higher-Order Triangular Meshing of 2D Domains",
-        "authors": "Manish Mandad, Marcel Campen",
+        "author": "Manish Mandad, Marcel Campen",
         "aff": "",
         "sess": "Meshing",
         "doi": "https://doi.org/10.1145/3450626.3459673"
@@ -1434,7 +1434,7 @@
         "psid": "sess139",
         "status": "Technical Paper",
         "title": "Reliable Feature-line Driven Quad-remeshing",
-        "authors": "Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini",
+        "author": "Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini",
         "aff": "",
         "sess": "Meshing",
         "doi": "https://doi.org/10.1145/3450626.3459941"
@@ -1444,7 +1444,7 @@
         "psid": "sess139",
         "status": "Technical Paper",
         "title": "PH-CPF: Planar Hexagonal Meshing Using Coordinate Power Fields",
-        "authors": "Kacper Pluta, Michal Edelstein, Amir Vaxman, Mirela Ben Chen",
+        "author": "Kacper Pluta, Michal Edelstein, Amir Vaxman, Mirela Ben Chen",
         "aff": "",
         "sess": "Meshing",
         "doi": "https://doi.org/10.1145/3450626.3459770"
@@ -1454,7 +1454,7 @@
         "psid": "sess139",
         "status": "Technical Paper",
         "title": "Bijective and Coarse High-order Tetrahedral Meshes",
-        "authors": "Zhongshi Jiang, Ziyi Zhang, Yixin Hu, Teseo Schneider, Denis Zorin, Daniele Panozzo",
+        "author": "Zhongshi Jiang, Ziyi Zhang, Yixin Hu, Teseo Schneider, Denis Zorin, Daniele Panozzo",
         "aff": "",
         "sess": "Meshing",
         "doi": "https://doi.org/10.1145/3450626.3459840"
@@ -1464,7 +1464,7 @@
         "psid": "sess126",
         "status": "Technical Paper",
         "title": "Medial IPC: Accelerated Incremental Potential Contact With Medial Elastics",
-        "authors": "Lei Lan, Yin Yang, Danny Kaufman, Junfeng Yao, Minchen Li, Chenfanfu Jiang",
+        "author": "Lei Lan, Yin Yang, Danny Kaufman, Junfeng Yao, Minchen Li, Chenfanfu Jiang",
         "aff": "",
         "sess": "Simulating Deformations 2",
         "doi": "https://doi.org/10.1145/3450626.3459753"
@@ -1474,7 +1474,7 @@
         "psid": "sess126",
         "status": "TOG Paper",
         "title": "Frictional Contact on Smooth Elastic Solids",
-        "authors": "Egor Larionov, Ye Fan, Dinesh K. Pai",
+        "author": "Egor Larionov, Ye Fan, Dinesh K. Pai",
         "aff": "",
         "sess": "Simulating Deformations 2",
         "doi": "https://doi.org/10.1145/3446663"
@@ -1484,7 +1484,7 @@
         "psid": "sess126",
         "status": "Technical Paper",
         "title": "A Time-independent Deformer for Elastic Contacts",
-        "authors": "Camille Brunel, Pierre B\u00e9nard, Ga\u00ebl Guennebaud",
+        "author": "Camille Brunel, Pierre B\u00e9nard, Ga\u00ebl Guennebaud",
         "aff": "",
         "sess": "Simulating Deformations 2",
         "doi": "https://doi.org/10.1145/3450626.3459879"
@@ -1494,7 +1494,7 @@
         "psid": "sess126",
         "status": "Technical Paper",
         "title": "Constrained Projective Dynamics: Real-time Simulation of Deformable Objects With Energy-momentum Conservation",
-        "authors": "Min Hyung Kee, Kiwon Um, WooSeok Jeong, JungHyun Han",
+        "author": "Min Hyung Kee, Kiwon Um, WooSeok Jeong, JungHyun Han",
         "aff": "",
         "sess": "Simulating Deformations 2",
         "doi": "https://doi.org/10.1145/3450626.3459878"
@@ -1504,7 +1504,7 @@
         "psid": "sess116",
         "status": "TOG Paper",
         "title": "Dynamic Upsampling of Smoke Through Dictionary-based Learning",
-        "authors": "Kai Bai, Wei Li, Mathieu Desbrun, Xiaopei Liu",
+        "author": "Kai Bai, Wei Li, Mathieu Desbrun, Xiaopei Liu",
         "aff": "",
         "sess": "Smoke and Fire Simulation",
         "doi": "https://doi.org/10.1145/3412360"
@@ -1514,7 +1514,7 @@
         "psid": "sess116",
         "status": "Technical Paper",
         "title": "Stream-guided Smoke Simulations",
-        "authors": "Syuhei Sato, Yoshinori Dobashi, Theodore Kim",
+        "author": "Syuhei Sato, Yoshinori Dobashi, Theodore Kim",
         "aff": "",
         "sess": "Smoke and Fire Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459846"
@@ -1524,7 +1524,7 @@
         "psid": "sess116",
         "status": "Technical Paper",
         "title": "Volumetric Appearance Stylization With Stylizing Kernel Prediction Network",
-        "authors": "Jie Guo, Mengtian Li, Zijing Zong, Yuntao Liu, Jingwu He, Yanwen Guo, Ling-Qi Yan",
+        "author": "Jie Guo, Mengtian Li, Zijing Zong, Yuntao Liu, Jingwu He, Yanwen Guo, Ling-Qi Yan",
         "aff": "",
         "sess": "Smoke and Fire Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459799"
@@ -1534,7 +1534,7 @@
         "psid": "sess116",
         "status": "Technical Paper",
         "title": "Fire in Paradise: Mesoscale Simulation of Wildfires",
-        "authors": "Torsten H\u00e4drich, Daniel T. Banuti, Wojtek Palubicki, S\u00f6ren Pirk, Dominik L. Michels",
+        "author": "Torsten H\u00e4drich, Daniel T. Banuti, Wojtek Palubicki, S\u00f6ren Pirk, Dominik L. Michels",
         "aff": "",
         "sess": "Smoke and Fire Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459954"
@@ -1544,7 +1544,7 @@
         "psid": "sess138",
         "status": "Technical Paper",
         "title": "Neural Scene Graph Rendering",
-        "authors": "Jonathan Granskog, Till Schnabel, Fabrice Rousselle, Jan Nov\u00e1k",
+        "author": "Jonathan Granskog, Till Schnabel, Fabrice Rousselle, Jan Nov\u00e1k",
         "aff": "",
         "sess": "Geometry Learning",
         "doi": "https://doi.org/10.1145/3450626.3459848"
@@ -1554,7 +1554,7 @@
         "psid": "sess138",
         "status": "Technical Paper",
         "title": "Orienting Point Clouds With Dipole Propagation",
-        "authors": "Gal Metzer, Rana Hanocka, Denis Zorin, Raja Giryes, Daniele Panozzo, Daniel Cohen-Or",
+        "author": "Gal Metzer, Rana Hanocka, Denis Zorin, Raja Giryes, Daniele Panozzo, Daniel Cohen-Or",
         "aff": "",
         "sess": "Geometry Learning",
         "doi": "https://doi.org/10.1145/3450626.3459835"
@@ -1564,7 +1564,7 @@
         "psid": "sess138",
         "status": "Technical Paper",
         "title": "HodgeNet: Learning Spectral Geometry on Triangle Meshes",
-        "authors": "Dmitriy Smirnov, Justin Solomon",
+        "author": "Dmitriy Smirnov, Justin Solomon",
         "aff": "",
         "sess": "Geometry Learning",
         "doi": "https://doi.org/10.1145/3450626.3459797"
@@ -1574,7 +1574,7 @@
         "psid": "sess138",
         "status": "Technical Paper",
         "title": "Eliminating Topological Errors in Neural Network Rotation Estimation Using Self-selecting Ensembles",
-        "authors": "Sitao Xiang",
+        "author": "Sitao Xiang",
         "aff": "",
         "sess": "Geometry Learning",
         "doi": "https://doi.org/10.1145/3450626.3459882"
@@ -1584,7 +1584,7 @@
         "psid": "sess125",
         "status": "TOG Paper",
         "title": "A Safe and Fast Repulsion Method for GPU-based Cloth Self Collisions",
-        "authors": "Longhua Wu, Botao Wu, Yin Yang, Huamin Wang",
+        "author": "Longhua Wu, Botao Wu, Yin Yang, Huamin Wang",
         "aff": "",
         "sess": "Cloth Simulation",
         "doi": "https://doi.org/10.1145/3430025"
@@ -1594,7 +1594,7 @@
         "psid": "sess125",
         "status": "Technical Paper",
         "title": "Mechanics-aware Deformation of Yarn Pattern Geometry",
-        "authors": "Georg Sperl, Rahul Narain, Chris Wojtan",
+        "author": "Georg Sperl, Rahul Narain, Chris Wojtan",
         "aff": "",
         "sess": "Cloth Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459816"
@@ -1604,7 +1604,7 @@
         "psid": "sess125",
         "status": "Technical Paper",
         "title": "GPU-based Simulation of Cloth Wrinkles at Submillimeter Levels",
-        "authors": "Huamin Wang",
+        "author": "Huamin Wang",
         "aff": "",
         "sess": "Cloth Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459787"
@@ -1614,7 +1614,7 @@
         "psid": "sess125",
         "status": "Technical Paper",
         "title": "Codimensional Incremental Potential Contact",
-        "authors": "Minchen Li, Danny M. Kaufman, Chenfanfu Jiang",
+        "author": "Minchen Li, Danny M. Kaufman, Chenfanfu Jiang",
         "aff": "",
         "sess": "Cloth Simulation",
         "doi": "https://doi.org/10.1145/3450626.3459767"
@@ -1624,7 +1624,7 @@
         "psid": "sess137",
         "status": "Technical Paper",
         "title": "Pareto Gamuts: Exploring Optimal Designs Across Varying Contexts",
-        "authors": "Liane Makatura, Minghao Guo, Adriana Schulz, Justin Solomon, Wojciech Matusik",
+        "author": "Liane Makatura, Minghao Guo, Adriana Schulz, Justin Solomon, Wojciech Matusik",
         "aff": "",
         "sess": "Design Exploration",
         "doi": "https://doi.org/10.1145/3450626.3459750"
@@ -1634,7 +1634,7 @@
         "psid": "sess137",
         "status": "Technical Paper",
         "title": "Optimizing UI Layouts for Deformable Face-rig Manipulation",
-        "authors": "Joonho Kim, Karan Singh",
+        "author": "Joonho Kim, Karan Singh",
         "aff": "",
         "sess": "Design Exploration",
         "doi": "https://doi.org/10.1145/3450626.3459842"
@@ -1644,7 +1644,7 @@
         "psid": "sess137",
         "status": "Technical Paper",
         "title": "DAG Amendment for Inverse Control of Parametric Shapes",
-        "authors": "\u00c9lie Michel, Tamy Boubekeur",
+        "author": "\u00c9lie Michel, Tamy Boubekeur",
         "aff": "",
         "sess": "Design Exploration",
         "doi": "https://doi.org/10.1145/3450626.3459823"
@@ -1654,7 +1654,7 @@
         "psid": "sess137",
         "status": "Technical Paper",
         "title": "Designing Actuation Systems for Animatronic Figures via Globally Optimal Discrete Search",
-        "authors": "Simon Huber, Roi Poranne, Stelian Coros",
+        "author": "Simon Huber, Roi Poranne, Stelian Coros",
         "aff": "",
         "sess": "Design Exploration",
         "doi": "https://doi.org/10.1145/3450626.3459867"
@@ -1664,7 +1664,7 @@
         "psid": "sess129",
         "status": "Technical Paper",
         "title": "NeuMIP: Multi-resolution Neural Materials",
-        "authors": "Alexandr Kuznetsov, Krishna Mullia, Zexiang Xu, Milo\u0161 Ha\u0161an, Ravi Ramamoorthi",
+        "author": "Alexandr Kuznetsov, Krishna Mullia, Zexiang Xu, Milo\u0161 Ha\u0161an, Ravi Ramamoorthi",
         "aff": "",
         "sess": "Layered Materials",
         "doi": "https://doi.org/10.1145/3450626.3459795"
@@ -1674,7 +1674,7 @@
         "psid": "sess129",
         "status": "Technical Paper",
         "title": "An Inverse Method for the Exploration of Layered Material Appearance",
-        "authors": "M\u00e9gane Bati, Pascal Barla, Romain Pacanowski",
+        "author": "M\u00e9gane Bati, Pascal Barla, Romain Pacanowski",
         "aff": "",
         "sess": "Layered Materials",
         "doi": "https://doi.org/10.1145/3450626.3459857"
@@ -1684,7 +1684,7 @@
         "psid": "sess129",
         "status": "Technical Paper",
         "title": "Transfer Matrix Based Layered Materials Rendering",
-        "authors": "Jo\u00ebl Randrianandrasana, Patrick Callet, Laurent Lucas",
+        "author": "Jo\u00ebl Randrianandrasana, Patrick Callet, Laurent Lucas",
         "aff": "",
         "sess": "Layered Materials",
         "doi": "https://doi.org/10.1145/3450626.3459859"
@@ -1694,7 +1694,7 @@
         "psid": "sess144",
         "status": "Technical Paper",
         "title": "A Gradient-based Framework for 3D Print Appearance Optimization",
-        "authors": "Thomas Klaus Nindel, Tom\u00e1\u0161 Iser, Tobias Rittig, Alexander Wilkie, Jaroslav K\u0159iv\u00e1nek",
+        "author": "Thomas Klaus Nindel, Tom\u00e1\u0161 Iser, Tobias Rittig, Alexander Wilkie, Jaroslav K\u0159iv\u00e1nek",
         "aff": "",
         "sess": "Printing Machining and More",
         "doi": "https://doi.org/10.1145/3450626.3459844"
@@ -1704,7 +1704,7 @@
         "psid": "sess144",
         "status": "Technical Paper",
         "title": "Displaced Signed Distance Fields for Additive Manufacturing",
-        "authors": "Alan Brunton, Lubna Abu Rmaileh",
+        "author": "Alan Brunton, Lubna Abu Rmaileh",
         "aff": "",
         "sess": "Printing Machining and More",
         "doi": "https://doi.org/10.1145/3450626.3459827"
@@ -1714,7 +1714,7 @@
         "psid": "sess144",
         "status": "Technical Paper",
         "title": "Geometry and Tool Motion Planning for Curvature Adapted CNC Machining",
-        "authors": "Michael Barton, Michal Bizzarri, Florian Rist, Oleksii Sliusarenko, Helmut Pottmann",
+        "author": "Michael Barton, Michal Bizzarri, Florian Rist, Oleksii Sliusarenko, Helmut Pottmann",
         "aff": "",
         "sess": "Printing Machining and More",
         "doi": "https://doi.org/10.1145/3450626.3459837"
@@ -1724,7 +1724,7 @@
         "psid": "sess144",
         "status": "Technical Paper",
         "title": "MOCCA: Modeling and Optimizing Cone-joints for Complex Assemblies",
-        "authors": "Ziqi Wang, Peng Song, Mark Pauly",
+        "author": "Ziqi Wang, Peng Song, Mark Pauly",
         "aff": "",
         "sess": "Printing Machining and More",
         "doi": "https://doi.org/10.1145/3450626.3459680"
@@ -1734,7 +1734,7 @@
         "psid": "sess127",
         "status": "Technical Paper",
         "title": "QuanTaichi: A Compiler for Quantized Simulations",
-        "authors": "Yuanming Hu, Jiafeng Liu, Xuanda Yang, Mingkuan Xu, Ye Kuang, Weiwei Xu, Qiang Dai, William T. Freeman, Fredo Durand",
+        "author": "Yuanming Hu, Jiafeng Liu, Xuanda Yang, Mingkuan Xu, Ye Kuang, Weiwei Xu, Qiang Dai, William T. Freeman, Fredo Durand",
         "aff": "",
         "sess": "Simulation Solvers",
         "doi": "https://doi.org/10.1145/3450626.3459671"
@@ -1744,7 +1744,7 @@
         "psid": "sess127",
         "status": "TOG Paper",
         "title": "Thallo - Scheduling for High-performance Large-scale Non-linear Least-squares Solvers",
-        "authors": "Michael Mara, Felix Heide, Michael Zollhoefer, Matthias Nie\u00dfner, Pat Hanrahan",
+        "author": "Michael Mara, Felix Heide, Michael Zollhoefer, Matthias Nie\u00dfner, Pat Hanrahan",
         "aff": "",
         "sess": "Simulation Solvers",
         "doi": ""
@@ -1754,7 +1754,7 @@
         "psid": "sess127",
         "status": "TOG Paper",
         "title": "SIERE: A Hybrid Semi-implicit Exponential Integrator for Efficiently Simulating Stiff Deformable Objects",
-        "authors": "Yu Ju Chen, Seung Heon Sheen, Uri Ascher, Dinesh K. Pai",
+        "author": "Yu Ju Chen, Seung Heon Sheen, Uri Ascher, Dinesh K. Pai",
         "aff": "",
         "sess": "Simulation Solvers",
         "doi": "https://doi.org/10.1145/3410527"
@@ -1764,7 +1764,7 @@
         "psid": "sess127",
         "status": "Technical Paper",
         "title": "Intersection-free Rigid Body Dynamics",
-        "authors": "Zachary Ferguson, Minchen Li, Teseo Schneider, Francisca Gil-Ureta, Timothy Langlois, Chenfanfu Jiang, Denis Zorin, Danny M. Kaufman, Daniele Panozzo",
+        "author": "Zachary Ferguson, Minchen Li, Teseo Schneider, Francisca Gil-Ureta, Timothy Langlois, Chenfanfu Jiang, Denis Zorin, Danny M. Kaufman, Daniele Panozzo",
         "aff": "",
         "sess": "Simulation Solvers",
         "doi": "https://doi.org/10.1145/3450626.3459802"
@@ -1774,7 +1774,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Animated Futurist Sculpting as 4D Implicit Shapes Immersed in 3D",
-        "authors": "Pablo Vielma, Ergun Akleman",
+        "author": "Pablo Vielma, Ergun Akleman",
         "aff": "",
         "sess": "Art & Design",
         "doi": ""
@@ -1784,7 +1784,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Caricature Creation With Conformal Mapping in Complex Domain",
-        "authors": "Ergun Akleman, Tevfik Akgun",
+        "author": "Ergun Akleman, Tevfik Akgun",
         "aff": "",
         "sess": "Art & Design",
         "doi": "https://doi.org/10.1145/3450618.3469149"
@@ -1794,7 +1794,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Dynamic Projection Mapping for Silkworms",
-        "authors": "Mayu Arano, Yuki Morimoto",
+        "author": "Mayu Arano, Yuki Morimoto",
         "aff": "",
         "sess": "Art & Design",
         "doi": "https://doi.org/10.1145/3450618.3469153"
@@ -1804,7 +1804,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Goshuin 2.0: Construction of the World's Largest Goshuin Dataset and Automatic Generation System of Goshuin by Neural Style Transfer",
-        "authors": "Shuma Shimizu, Tatsuya Minagawa, James Harry Morris, Xanat Vargas Meza, Yoichi Ochiai",
+        "author": "Shuma Shimizu, Tatsuya Minagawa, James Harry Morris, Xanat Vargas Meza, Yoichi Ochiai",
         "aff": "",
         "sess": "Art & Design",
         "doi": ""
@@ -1814,7 +1814,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Integrating Abstract Expressionism With 3D Lighting Within the Light-in-space Movement",
-        "authors": "Ashley Cornall, Rehan Zia",
+        "author": "Ashley Cornall, Rehan Zia",
         "aff": "",
         "sess": "Art & Design",
         "doi": "https://doi.org/10.1145/3450618.3469172"
@@ -1824,7 +1824,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Interactive DPM for Thin Plants With the Latency Measurement",
-        "authors": "Tomoki Sueyoshi, Yuki Morimoto",
+        "author": "Tomoki Sueyoshi, Yuki Morimoto",
         "aff": "",
         "sess": "Art & Design",
         "doi": "https://doi.org/10.1145/3450618.3469151"
@@ -1834,7 +1834,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "Procedural Real-Time Live Drawing Animation",
-        "authors": "Alain Lioret, Sofiane Ben Embareck, Julien Boutet, F\u00e9lix Cantet",
+        "author": "Alain Lioret, Sofiane Ben Embareck, Julien Boutet, F\u00e9lix Cantet",
         "aff": "",
         "sess": "Art & Design",
         "doi": ""
@@ -1844,7 +1844,7 @@
         "psid": "sess248",
         "status": "Poster",
         "title": "WhiteStone: A Tangible Interactive Device for Revitalizing Qiang Language and Culture",
-        "authors": "Rao Xu, Lingze Wu, Qin Wu",
+        "author": "Rao Xu, Lingze Wu, Qin Wu",
         "aff": "",
         "sess": "Art & Design",
         "doi": "https://doi.org/10.1145/3450618.3469159"
@@ -1854,7 +1854,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "A Hybrid 2D-3D Tangible Interface for Virtual Reality",
-        "authors": "Li Zhang, Weiping He, Huidong Bai, Jun He, Yiyue Qiao, Mark Billinghurst",
+        "author": "Li Zhang, Weiping He, Huidong Bai, Jun He, Yiyue Qiao, Mark Billinghurst",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469166"
@@ -1864,7 +1864,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "An Examination of View-settings for Long Texts in VR Reading",
-        "authors": "Seina Kobayashi, Kei Kanari, Mie Sato",
+        "author": "Seina Kobayashi, Kei Kanari, Mie Sato",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469164"
@@ -1874,7 +1874,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "Applying Virtual Reality for Systematic Gaze Pattern Evaluation in Simulated Retinitis Pigmentosa Patients",
-        "authors": "Alexander Neugebauer, Katarina Stingl, Iliya Ivanov, Siegfried Wahl",
+        "author": "Alexander Neugebauer, Katarina Stingl, Iliya Ivanov, Siegfried Wahl",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469178"
@@ -1884,7 +1884,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "Feedback of Rotational Sensation Experienced by Body for Immersive Telepresence",
-        "authors": "Vibol Yem, Tsubasa Morita, Tomohiro Amemiya, Michiteru Kitazaki, Yasushi Ikei",
+        "author": "Vibol Yem, Tsubasa Morita, Tomohiro Amemiya, Michiteru Kitazaki, Yasushi Ikei",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469154"
@@ -1894,7 +1894,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "Holo-Box: Level-of-detail Glanceable Interfaces for Augmented Reality",
-        "authors": "Grigoris Daskalogrigorakis, Ann McNamara, Katerina Mania",
+        "author": "Grigoris Daskalogrigorakis, Ann McNamara, Katerina Mania",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469175"
@@ -1904,7 +1904,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "Pockets: User-assigned Menus Based on Physical Buttons for Virtual Environments",
-        "authors": "Aubrey Simonson",
+        "author": "Aubrey Simonson",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": "https://doi.org/10.1145/3450618.3469174"
@@ -1914,7 +1914,7 @@
         "psid": "sess246",
         "status": "Poster",
         "title": "PushToSki \u2014 An Indoor Ski Training System Using Haptic Feedback",
-        "authors": "Jana Hoffard, Takuto Nakamura, Erwin Wu, Hideki Koike",
+        "author": "Jana Hoffard, Takuto Nakamura, Erwin Wu, Hideki Koike",
         "aff": "",
         "sess": "Augmented & Virtual Realities",
         "doi": ""
@@ -1924,7 +1924,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Adaptive Radiometric Compensation on Deforming Surfaces",
-        "authors": "Kazuma Yoshimura, Naoki Hashimoto",
+        "author": "Kazuma Yoshimura, Naoki Hashimoto",
         "aff": "",
         "sess": "Displays",
         "doi": "https://doi.org/10.1145/3450618.3469150"
@@ -1934,7 +1934,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Enabling Reflective and Refractive Depth Representation in Computer-generated Holography",
-        "authors": "Aaron Demolder, Alfred Newman, Tom Durrant, Hammadi Nait-Charif, Valery Adzhiev, Andrzej Kaczorowski",
+        "author": "Aaron Demolder, Alfred Newman, Tom Durrant, Hammadi Nait-Charif, Valery Adzhiev, Andrzej Kaczorowski",
         "aff": "",
         "sess": "Displays",
         "doi": ""
@@ -1944,7 +1944,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Light Field Projection for Tangible Projection Mapping",
-        "authors": "Taichi Watanabe, Naoki Hashimoto",
+        "author": "Taichi Watanabe, Naoki Hashimoto",
         "aff": "",
         "sess": "Displays",
         "doi": ""
@@ -1954,7 +1954,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Omnidirectional display that presents information to the ambient environment with optical transparency",
-        "authors": "Nakamura Toshikatsu, Ryusuke Miyazaki, Kouga Yoshida, Toshiki Sato",
+        "author": "Nakamura Toshikatsu, Ryusuke Miyazaki, Kouga Yoshida, Toshiki Sato",
         "aff": "",
         "sess": "Displays",
         "doi": "https://doi.org/10.1145/3450618.3469139"
@@ -1964,7 +1964,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Real-time Projection of Lip Animation Onto Face Masks Using OmniProcam",
-        "authors": "Luna Takagi, Toshiki Sato, Shio Miyafuji, Hideki Koike",
+        "author": "Luna Takagi, Toshiki Sato, Shio Miyafuji, Hideki Koike",
         "aff": "",
         "sess": "Displays",
         "doi": "https://doi.org/10.1145/3450618.3469171"
@@ -1974,7 +1974,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "TeraFoils: Design and Rapid Fabrication Techniques for Binary Holographic Structures in the Terahertz Region",
-        "authors": "Kenta Yamamoto, Kosaku Namikawa, Yoichi Ochiai",
+        "author": "Kenta Yamamoto, Kosaku Namikawa, Yoichi Ochiai",
         "aff": "",
         "sess": "Displays",
         "doi": "https://doi.org/10.1145/3450618.3469157"
@@ -1984,7 +1984,7 @@
         "psid": "sess247",
         "status": "Poster",
         "title": "Wide Angular Range Dynamic Projection Mapping Method Applied to the Projection on a Flying Drone",
-        "authors": "Shino Higuchi, Hiromasa Oku",
+        "author": "Shino Higuchi, Hiromasa Oku",
         "aff": "",
         "sess": "Displays",
         "doi": ""
@@ -1994,7 +1994,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "Cross Sample Similarity for Stable Training of GAN",
-        "authors": "Jung Eun Lee, Seungkyu Lee",
+        "author": "Jung Eun Lee, Seungkyu Lee",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469169"
@@ -2004,7 +2004,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "PanoSynthVR: View Synthesis From a Single Input Panorama With Multi-cylinder Images",
-        "authors": "Richa Gadgil, Reesa John, Stefanie Zollmann, Jonathan Ventura",
+        "author": "Richa Gadgil, Reesa John, Stefanie Zollmann, Jonathan Ventura",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469144"
@@ -2014,7 +2014,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "Real-time Sports Video Analysis for Video Content Viewing With Haptic Information",
-        "authors": "Masaki Takahashi, Makiko Azuma, Takuya Handa, Taichi Ishiwatari, Masanori Sano, Yuko Yamanouchi",
+        "author": "Masaki Takahashi, Makiko Azuma, Takuya Handa, Taichi Ishiwatari, Masanori Sano, Yuko Yamanouchi",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469135"
@@ -2024,7 +2024,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "Screenshots From Screen Photography",
-        "authors": "Lvmin Zhang, Chengze Li",
+        "author": "Lvmin Zhang, Chengze Li",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469136"
@@ -2034,7 +2034,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "Silent Speech and Emotion Recognition From Vocal Tract Shape Dynamics in Real-time MRI",
-        "authors": "Laxmi Pandey, Ahmed Sabbir Arif",
+        "author": "Laxmi Pandey, Ahmed Sabbir Arif",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469176"
@@ -2044,7 +2044,7 @@
         "psid": "sess249",
         "status": "Poster",
         "title": "View Synthesis in Casually Captured Scenes Using a Cylindrical Neural Radiance Field With Exposure Compensation",
-        "authors": "Wesley Khademi, Jonathan Ventura",
+        "author": "Wesley Khademi, Jonathan Ventura",
         "aff": "",
         "sess": "Image Processing & Computer Vision",
         "doi": "https://doi.org/10.1145/3450618.3469147"
@@ -2054,7 +2054,7 @@
         "psid": "sess252",
         "status": "Poster",
         "title": "Creating Crowd Characters Through Procedural Deformation",
-        "authors": "Nathan Lindig",
+        "author": "Nathan Lindig",
         "aff": "",
         "sess": "Modeling & Geometry",
         "doi": "https://doi.org/10.1145/3450618.3469138"
@@ -2064,7 +2064,7 @@
         "psid": "sess252",
         "status": "Poster",
         "title": "Developable Surface Segmentation for CAD Models",
-        "authors": "Zheng Zeng, Xiaohong Jia, Liyong Shen, Pengbo Bo",
+        "author": "Zheng Zeng, Xiaohong Jia, Liyong Shen, Pengbo Bo",
         "aff": "",
         "sess": "Modeling & Geometry",
         "doi": "https://doi.org/10.1145/3450618.3469167"
@@ -2074,7 +2074,7 @@
         "psid": "sess252",
         "status": "Poster",
         "title": "OpenMfx: An API for Cross-software Non-destructible Mesh Effects",
-        "authors": "\u00c9lie Michel",
+        "author": "\u00c9lie Michel",
         "aff": "",
         "sess": "Modeling & Geometry",
         "doi": "https://doi.org/10.1145/3450618.3469168"
@@ -2084,7 +2084,7 @@
         "psid": "sess252",
         "status": "Poster",
         "title": "Quantum Nodes: Quantum Computing Applied to 3D Modeling",
-        "authors": "F\u00e9lix Olart, Elo\u00efse Tassin, Laurine Capdeville, Luc Pinguet, Th\u00e9o Gautier, Alain Lioret",
+        "author": "F\u00e9lix Olart, Elo\u00efse Tassin, Laurine Capdeville, Luc Pinguet, Th\u00e9o Gautier, Alain Lioret",
         "aff": "",
         "sess": "Modeling & Geometry",
         "doi": "https://doi.org/10.1145/3450618.3469155"
@@ -2094,7 +2094,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Foveated Monte-Carlo Denoising",
-        "authors": "Nicholas Milef, Nima Kalantari",
+        "author": "Nicholas Milef, Nima Kalantari",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469140"
@@ -2104,7 +2104,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Global Illumination-Aware Color Remapping with Fidelity for Texture Values",
-        "authors": "Kohei Doi, Yuki Morimoto, Reiji Tsuruno",
+        "author": "Kohei Doi, Yuki Morimoto, Reiji Tsuruno",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469165"
@@ -2114,7 +2114,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Multi-scale Computational Visualization of Angle-dependent and Roughness-sensitive Plasmonic Structural Coloration",
-        "authors": "Wei Sen Loi, Kenneth Chau",
+        "author": "Wei Sen Loi, Kenneth Chau",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469179"
@@ -2124,7 +2124,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Non-photorealistic Ray Tracing With Paint and Toon Shading",
-        "authors": "Nicholas Moon, Megan Reddy, Luther Tychonievich",
+        "author": "Nicholas Moon, Megan Reddy, Luther Tychonievich",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469173"
@@ -2134,7 +2134,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Procedural Shading for Rendering the Appearance of Feathers",
-        "authors": "Jessica Baron, Daljit Singh Dhillon, Eric Patterson",
+        "author": "Jessica Baron, Daljit Singh Dhillon, Eric Patterson",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469161"
@@ -2144,7 +2144,7 @@
         "psid": "sess250",
         "status": "Poster",
         "title": "Reflectance Estimation for Free-viewpoint Video",
-        "authors": "George Ash, Juraj Tomori, Mike Pelton, Charles Dupont",
+        "author": "George Ash, Juraj Tomori, Mike Pelton, Charles Dupont",
         "aff": "",
         "sess": "Rendering",
         "doi": "https://doi.org/10.1145/3450618.3469146"
@@ -2154,7 +2154,7 @@
         "psid": "sess254",
         "status": "Poster",
         "title": "GPGPU Accelerated Flow Diagrams",
-        "authors": "Daniel Bird, Stephen Laycock",
+        "author": "Daniel Bird, Stephen Laycock",
         "aff": "",
         "sess": "Scientific Visualization",
         "doi": "https://doi.org/10.1145/3450618.3469143"
@@ -2164,7 +2164,7 @@
         "psid": "sess251",
         "status": "Poster",
         "title": "Bowing-Net: Motion Generation for String Instruments Based on Bowing Information",
-        "authors": "Asuka Hirata, Keitaro Tanaka, Ryo Shimamura, Shigeo Morishima",
+        "author": "Asuka Hirata, Keitaro Tanaka, Ryo Shimamura, Shigeo Morishima",
         "aff": "",
         "sess": "Simulation & Animation",
         "doi": "https://doi.org/10.1145/3450618.3469170"
@@ -2174,7 +2174,7 @@
         "psid": "sess251",
         "status": "Poster",
         "title": "Scalable Visual Simulation of Ductile and Brittle Fracture",
-        "authors": "Avirup Mandal, Parag Chaudhuri, Subhasis Chaudhuri",
+        "author": "Avirup Mandal, Parag Chaudhuri, Subhasis Chaudhuri",
         "aff": "",
         "sess": "Simulation & Animation",
         "doi": "https://doi.org/10.1145/3450618.3469152"
@@ -2184,7 +2184,7 @@
         "psid": "sess251",
         "status": "Poster",
         "title": "Text-based Motion Synthesis With a Hierarchical Two-stream RNN",
-        "authors": "Anindita Ghosh, Noshaba Cheema, Cennet Oguz, Christian Theobalt, Philipp Slusallek",
+        "author": "Anindita Ghosh, Noshaba Cheema, Cennet Oguz, Christian Theobalt, Philipp Slusallek",
         "aff": "",
         "sess": "Simulation & Animation",
         "doi": "https://doi.org/10.1145/3450618.3469163"
@@ -2194,7 +2194,7 @@
         "psid": "sess251",
         "status": "Poster",
         "title": "Why You Walk Like That: Inferring Body Conditions From Single Gait Cycle",
-        "authors": "Sehee Min, Jehee Lee",
+        "author": "Sehee Min, Jehee Lee",
         "aff": "",
         "sess": "Simulation & Animation",
         "doi": "https://doi.org/10.1145/3450618.3469162"
@@ -2204,7 +2204,7 @@
         "psid": "sess253",
         "status": "Poster",
         "title": "A Suggestive Interface for Designing Dance Formations",
-        "authors": "Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, Xi Yang, Takeo Igarashi",
+        "author": "Koki Endo, Seung-Tak Noh, Kazutaka Nakashima, Xi Yang, Takeo Igarashi",
         "aff": "",
         "sess": "User Interfaces & Systems",
         "doi": "https://doi.org/10.1145/3450618.3469156"
@@ -2214,7 +2214,7 @@
         "psid": "sess253",
         "status": "Poster",
         "title": "Balanced Glass Design: A Flavor Perception Changing System by Controlling the Center of Gravity",
-        "authors": "Masaharu Hirose, Masahiko Inami",
+        "author": "Masaharu Hirose, Masahiko Inami",
         "aff": "",
         "sess": "User Interfaces & Systems",
         "doi": ""
