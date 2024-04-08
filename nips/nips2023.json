@@ -27377,6 +27377,28 @@
         "video": "https://nips.cc/virtual/2023/poster/72261"
     },
     {
+        "id": "FTh5Rd3urw",
+        "title": "PI-FL: Personalized and Incentivized Federated Learning",
+        "track": "main",
+        "status": "Reject",
+        "keywords": "Federated Learning;Personalized Federated Learning;Incentivized Federated Learning;Client Autonomy",
+        "author": "",
+        "rating": "4;4;5;7",
+        "confidence": "2;4;4;4",
+        "correctness": "3;2;2;3",
+        "technical_novelty": "3;3;3;3",
+        "empirical_novelty": "",
+        "presentation": "3;3;2;3",
+        "rating_avg": 5.0,
+        "confidence_avg": 3.5,
+        "correctness_avg": 2.5,
+        "technical_novelty_avg": 3.0,
+        "empirical_novelty_avg": 0,
+        "presentation_avg": 2.75,
+        "corr_rating_confidence": 0.4714045207910316,
+        "corr_rating_correctness": 0.40824829046386296
+    },
+    {
         "id": "FUnEkOkodU",
         "title": "Token-Scaled Logit Distillation for Ternary Weight Generative Language Models",
         "track": "main",
