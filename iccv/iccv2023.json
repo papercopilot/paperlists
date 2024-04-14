@@ -312,6 +312,19 @@
         "arxiv": "2303.15651"
     },
     {
+        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
+        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "A 5-Point Minimal Solver for Event Camera Relative Motion Estimation",
         "status": "Poster",
         "site": "",
@@ -622,6 +635,16 @@
         "aff": "Seoul National University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Jeon_A_Unified_Framework_for_Robustness_on_Diverse_Sampling_Errors_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "A step towards understanding why classification helps regression",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Pintea_A_step_towards_understanding_why_classification_helps_regression_ICCV_2023_paper.html",
+        "author": "Silvia L. Pintea, Yancong Lin, Jouke Dijkstra, Jan C. van Gemert",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pintea_A_step_towards_understanding_why_classification_helps_regression_ICCV_2023_paper.pdf",
+        "aff": "Computer Vision Lab, Delft University of Technology; Division of Image Processing (LKEB), Leiden University Medical Center; Intelligent Vehicles Group, Delft University of Technology",
+        "project": "",
+        "github": "",
+        "arxiv": "2308.10603"
     },
     {
         "title": "A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis",
@@ -1051,6 +1074,14 @@
         "aff": "SECE, Shenzhen Graduate School, Peking University; Tencent AI Lab",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "AdaptGuard: Defending Against Universal Attacks for Model Adaptation",
+        "session": "Transfer, low-shot, continual, long-tail learning 2",
+        "author": "Lijun Sheng, Jian Liang, Ran He, Zilei Wang, Tieniu Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": "6912"
     },
     {
         "title": "Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios",
@@ -2000,6 +2031,14 @@
         "aff": "School of Informatics, Xiamen University; Tsinghua Shenzhen International Graduate School, Tsinghua University; Department of ECE, Northeastern University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Li_BEV-DG_Cross-Modal_Learning_under_Birds-Eye_View_for_Domain_Generalization_of_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "BEVBert: Multimodal Map Pre-training for Language-guided Navigation",
+        "session": "Vision and language 1",
+        "author": "Dong An, Yuankai Qi, Yangguang Li, Yan Huang, Liang Wang, Tieniu Tan, Jing Shao",
+        "status": "Poster",
+        "track": "main",
+        "pid": "1519"
     },
     {
         "title": "BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images",
@@ -4914,6 +4953,19 @@
         "arxiv": ""
     },
     {
+        "title": "DCPB: Deformable Convolution Based on the Poincar\u00e9 Ball for Top-view Fisheye Cameras",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_DCPB_Deformable_Convolution_Based_on_the_Poincare_Ball_for_Top-view_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Xuan Wei, Zhidan Ran, Xiaobo Lu",
+        "aff": "School of Automation, Southeast University",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Wei_DCPB_Deformable_Convolution_Based_on_the_Poincare_Ball_for_Top-view_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders",
         "status": "Poster",
         "site": "",
@@ -5821,6 +5873,19 @@
         "author": "Ping Wang, Lishun Wang, Xin Yuan",
         "aff": "Zhejiang University; School of Engineering, Westlake University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Deep_Optics_for_Video_Snapshot_Compressive_Imaging_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Deep Video Demoir\u00e9ing via Compact Invertible Dyadic Decomposition",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Quan_Deep_Video_Demoireing_via_Compact_Invertible_Dyadic_Decomposition_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Yuhui Quan, Haoran Huang, Shengfeng He, Ruotao Xu",
+        "aff": "This ICCV paper is the Open Access version, provided by the Computer Vision Foundation.",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Deep_Video_Demoireing_via_Compact_Invertible_Dyadic_Decomposition_ICCV_2023_paper.html",
         "arxiv": ""
     },
     {
@@ -9152,6 +9217,19 @@
         "arxiv": ""
     },
     {
+        "title": "Feature Proliferation \u0097 the \u0093Cancer\u0094 in StyleGAN and its Treatments",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "https://github.com/",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Feature_Proliferation_--_the_Cancer_in_StyleGAN_and_its_Treatments_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Shuang Song, Yuanbang Liang, Jing Wu, Yu-Kun Lai, Yipeng Qin",
+        "aff": "Cardiff University",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Song_Feature_Proliferation_--_the_Cancer_in_StyleGAN_and_its_Treatments_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models",
         "status": "Poster",
         "site": "",
@@ -9917,6 +9995,14 @@
         "aff": "Tsinghua University; Microsoft Research Asia",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Xiang_GRAM-HD_3D-Consistent_Image_Generation_at_High_Resolution_with_Generative_Radiance_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images",
+        "session": "Image and video synthesis 1",
+        "author": "Tianxiang Ma, Bingchuan Li, Qian He, Jing Dong, Tieniu Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": "1998"
     },
     {
         "title": "GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers",
@@ -11128,6 +11214,16 @@
         "arxiv": "2209.15304"
     },
     {
+        "title": "Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.html",
+        "author": "Xin Feng, Yifeng Xu, Guangming Lu, Wenjie Pei",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.pdf",
+        "aff": "Harbin Institute of Technology, Shenzhen",
+        "project": "",
+        "github": "https://github.com/xyfJASON/HCL",
+        "arxiv": "2308.14061"
+    },
+    {
         "title": "Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models",
         "status": "Poster",
         "site": "",
@@ -12140,6 +12236,14 @@
         "aff": "Brown University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Ganeshan_Improving_Unsupervised_Visual_Program_Inference_with_Code_Rewriting_Families_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "Improving Zero-Shot Generalization for CLIP with Synthesized Prompts",
+        "session": "Vision and language 1",
+        "author": "Zhengbo Wang, Jian Liang, Ran He, Nan Xu, Zilei Wang, Tieniu Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": "9372"
     },
     {
         "title": "In-Style: Bridging Text and Uncurated Videos with Style Transfer for Text-Video Retrieval",
@@ -14963,6 +15067,14 @@
         "arxiv": "2212.04673"
     },
     {
+        "title": "MSRA-SR: Image Super-resolution Transformer with Multi-scale Shared Representation Acquisition",
+        "session": "Low-level and physics-based vision",
+        "author": "Xiaoqiang Zhou, Huaibo Huang, Ran He, Zilei Wang, Jie Hu, Tieniu Tan",
+        "status": "Poster",
+        "track": "main",
+        "pid": "1531"
+    },
+    {
         "title": "MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree",
         "status": "Poster",
         "site": "",
@@ -17017,6 +17129,16 @@
         "arxiv": "2212.13563"
     },
     {
+        "title": "Noise2Info: Noisy Image to Information of Noise for Self-Supervised Image Denoising",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.html",
+        "author": "Jiachuan Wang, Shimin Di, Lei Chen, Charles Wang Wai Ng",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.pdf",
+        "aff": "The Hong Kong University of Science and Technology, Hong Kong SAR, China",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "Non-Coaxial Event-Guided Motion Deblurring with Spatial Alignment",
         "status": "Poster",
         "site": "",
@@ -18200,6 +18322,19 @@
         "arxiv": "2211.11727"
     },
     {
+        "title": "Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird\u0092s-Eye View",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "https://github.com/NVlabs/ParametricBEV",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Parametric_Depth_Based_Feature_Representation_Learning_for_Object_Detection_and_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Jiayu Yang, Enze Xie, Miaomiao Liu, Jose M. Alvarez",
+        "aff": "Australian National University; The University of Hong Kong; NVIDIA",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Parametric_Depth_Based_Feature_Representation_Learning_for_Object_Detection_and_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Parametric Information Maximization for Generalized Category Discovery",
         "status": "Poster",
         "site": "",
@@ -18588,6 +18723,19 @@
         "aff": "Beijing University of Posts and Telecommunications; CRIPAC&MAIS, Institute of Automation, Chinese Academy of Sciences",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Li_Pluralistic_Aging_Diffusion_Autoencoder_ICCV_2023_paper.html",
         "arxiv": "2303.11086"
+    },
+    {
+        "title": "Poincar\u00e9 ResNet",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/van_Spengler_Poincare_ResNet_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Max van Spengler, Erwin Berkhout, Pascal Mettes",
+        "aff": "VIS Lab, Informatics Institute, University of Amsterdam; Department of Oral Radiology, Academic Center for Dentistry, University of Amsterdam & VU Amsterdam",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/van_Spengler_Poincare_ResNet_ICCV_2023_paper.html",
+        "arxiv": "2303.14027"
     },
     {
         "title": "Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos",
@@ -19227,6 +19375,19 @@
         "arxiv": ""
     },
     {
+        "title": "Protoype-based Dataset Comparison",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "https://github.com/",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/van_Noord_Protoype-based_Dataset_Comparison_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Nanne van Noord",
+        "aff": "University of Amsterdam",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/van_Noord_Protoype-based_Dataset_Comparison_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery",
         "status": "Poster",
         "site": "",
@@ -19290,6 +19451,19 @@
         "aff": "University of Science and Technology of China, China; Hefei Institute of Physical Science, Chinese Academy of Sciences, China; Nanyang Technological University, Singapore",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/He_Pyramid_Dual_Domain_Injection_Network_for_Pan-sharpening_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "P\u00d8DA: Prompt-driven Zero-shot Domain Adaptation",
+        "status": "Poster",
+        "site": "",
+        "project": "https://astra-vision.github.io/PODA",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick P\u00e9rez, Raoul de Charette",
+        "aff": "Inria; Valeo.ai",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.html",
+        "arxiv": "2212.03241"
     },
     {
         "title": "Q-Diffusion: Quantizing Diffusion Models",
@@ -20644,6 +20818,16 @@
         "arxiv": "2308.10110"
     },
     {
+        "title": "Robust Monocular Depth Estimation under Challenging Conditions",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html",
+        "author": "Stefano Gasperini, Nils Morbitzer, HyunJun Jung, Nassir Navab, Federico Tombari",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.pdf",
+        "aff": "Technical University of Munich; VisualAIs; Google",
+        "project": "https://md4all.github.io.",
+        "github": "",
+        "arxiv": "2308.09711"
+    },
+    {
         "title": "Robust Object Modeling for Visual Tracking",
         "status": "Poster",
         "site": "",
@@ -20850,6 +21034,16 @@
         "aff": "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; School of Mathematics Science, University of Chinese Academy of Sciences; MoE Key Lab of Data Engineering and Knowledge Engineering, Renmin University of China",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html",
         "arxiv": ""
+    },
+    {
+        "title": "SAGA: Spectral Adversarial Geometric Attack on 3D Meshes",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Stolik_SAGA_Spectral_Adversarial_Geometric_Attack_on_3D_Meshes_ICCV_2023_paper.html",
+        "author": "Tomer Stolik, Itai Lang, Shai Avidan",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Stolik_SAGA_Spectral_Adversarial_Geometric_Attack_on_3D_Meshes_ICCV_2023_paper.pdf",
+        "aff": "Tel Aviv University",
+        "project": "",
+        "github": "https://github.com/StolikTomer/SAGA",
+        "arxiv": "2211.13775"
     },
     {
         "title": "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation",
@@ -22578,6 +22772,16 @@
         "author": "Rundong Luo, Wenjing Wang, Wenhan Yang, Jiaying Liu",
         "aff": "Wangxuan Institute of Computer Technology, Peking University; School of EECS, Peking University; School of CS, Peking University; Peng Cheng Laboratory",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Similarity_Min-Max_Zero-Shot_Day-Night_Domain_Adaptation_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Simoun: Synergizing Interactive Motion-appearance Understanding for Vision-based Reinforcement Learning",
+        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Simoun_Synergizing_Interactive_Motion-appearance_Understanding_for_Vision-based_Reinforcement_Learning_ICCV_2023_paper.html",
+        "author": "Yangru Huang, Peixi Peng, Yifan Zhao, Yunpeng Zhai, Haoran Xu, Yonghong Tian",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Simoun_Synergizing_Interactive_Motion-appearance_Understanding_for_Vision-based_Reinforcement_Learning_ICCV_2023_paper.pdf",
+        "aff": "Actor",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -25116,6 +25320,19 @@
         "arxiv": ""
     },
     {
+        "title": "Towards Viewpoint Robustness in Bird\u0092s Eye View Segmentation",
+        "status": "Poster",
+        "site": "",
+        "project": "https://nvlabs.github.io/viewpoint-robustness",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Klinghoffer_Towards_Viewpoint_Robustness_in_Birds_Eye_View_Segmentation_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Tzofi Klinghoffer, Jonah Philion, Wenzheng Chen, Or Litany, Zan Gojcic, Jungseock Joo, Ramesh Raskar, Sanja Fidler, Jose M. Alvarez",
+        "aff": "MIT; NVIDIA; University of Toronto; Vector Institute; UCLA",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Klinghoffer_Towards_Viewpoint_Robustness_in_Birds_Eye_View_Segmentation_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Towards Viewpoint-Invariant Visual Recognition via Adversarial Training",
         "status": "Poster",
         "site": "",
@@ -25867,6 +26084,19 @@
         "author": "Kunchang Li, Yali Wang, Yinan He, Yizhuo Li, Yi Wang, Limin Wang, Yu Qiao",
         "aff": "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Shanghai AI Laboratory; The University of Hong Kong; State Key Laboratory for Novel Software Technology, Nanjing University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Li_UniFormerV2_Unlocking_the_Potential_of_Image_ViTs_for_Video_Understanding_ICCV_2023_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird\u0092s-Eye-View",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Qin_UniFusion_Unified_Multi-View_Fusion_Transformer_for_Spatial-Temporal_Representation_in_Birds-Eye-View_ICCV_2023_paper.pdf",
+        "youtube": "",
+        "author": "Zequn Qin, Jingyu Chen, Chao Chen, Xiaozhi Chen, Xi Li",
+        "aff": "College of Computer Science & Technology, Zhejiang University; DJI; Shanghai Institute for Advanced Study of Zhejiang University; Zhejiang-Singapore Innovation and AI Joint Research Lab, Hangzhou",
+        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Qin_UniFusion_Unified_Multi-View_Fusion_Transformer_for_Spatial-Temporal_Representation_in_Birds-Eye-View_ICCV_2023_paper.html",
         "arxiv": ""
     },
     {
@@ -27818,390 +28048,5 @@
         "aff": "Purdue University; University of California San Diego; San Diego State University",
         "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Ghodsi_zPROBE_Zero_Peek_Robustness_Checks_for_Federated_Learning_ICCV_2023_paper.html",
         "arxiv": "2206.12100"
-    },
-    {
-        "title": "A step towards understanding why classification helps regression",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Pintea_A_step_towards_understanding_why_classification_helps_regression_ICCV_2023_paper.html",
-        "author": "Silvia L. Pintea, Yancong Lin, Jouke Dijkstra, Jan C. van Gemert",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Pintea_A_step_towards_understanding_why_classification_helps_regression_ICCV_2023_paper.pdf",
-        "aff": "Computer Vision Lab, Delft University of Technology; Division of Image Processing (LKEB), Leiden University Medical Center; Intelligent Vehicles Group, Delft University of Technology",
-        "project": "",
-        "github": "",
-        "arxiv": "2308.10603"
-    },
-    {
-        "title": "DCPB: Deformable Convolution Based on the Poincar\u00e9 Ball for Top-view Fisheye Cameras",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_DCPB_Deformable_Convolution_Based_on_the_Poincare_Ball_for_Top-view_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Xuan Wei, Zhidan Ran, Xiaobo Lu",
-        "aff": "School of Automation, Southeast University",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Wei_DCPB_Deformable_Convolution_Based_on_the_Poincare_Ball_for_Top-view_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Deep Video Demoir\u00e9ing via Compact Invertible Dyadic Decomposition",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Quan_Deep_Video_Demoireing_via_Compact_Invertible_Dyadic_Decomposition_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Yuhui Quan, Haoran Huang, Shengfeng He, Ruotao Xu",
-        "aff": "This ICCV paper is the Open Access version, provided by the Computer Vision Foundation.",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Quan_Deep_Video_Demoireing_via_Compact_Invertible_Dyadic_Decomposition_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Feature Proliferation \u0097 the \u0093Cancer\u0094 in StyleGAN and its Treatments",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "https://github.com/",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Feature_Proliferation_--_the_Cancer_in_StyleGAN_and_its_Treatments_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Shuang Song, Yuanbang Liang, Jing Wu, Yu-Kun Lai, Yipeng Qin",
-        "aff": "Cardiff University",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Song_Feature_Proliferation_--_the_Cancer_in_StyleGAN_and_its_Treatments_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.html",
-        "author": "Xin Feng, Yifeng Xu, Guangming Lu, Wenjie Pei",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Hierarchical_Contrastive_Learning_for_Pattern-Generalizable_Image_Corruption_Detection_ICCV_2023_paper.pdf",
-        "aff": "Harbin Institute of Technology, Shenzhen",
-        "project": "",
-        "github": "https://github.com/xyfJASON/HCL",
-        "arxiv": "2308.14061"
-    },
-    {
-        "title": "Noise2Info: Noisy Image to Information of Noise for Self-Supervised Image Denoising",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.html",
-        "author": "Jiachuan Wang, Shimin Di, Lei Chen, Charles Wang Wai Ng",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Noise2Info_Noisy_Image_to_Information_of_Noise_for_Self-Supervised_Image_ICCV_2023_paper.pdf",
-        "aff": "The Hong Kong University of Science and Technology, Hong Kong SAR, China",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "P\u00d8DA: Prompt-driven Zero-shot Domain Adaptation",
-        "status": "Poster",
-        "site": "",
-        "project": "https://astra-vision.github.io/PODA",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick P\u00e9rez, Raoul de Charette",
-        "aff": "Inria; Valeo.ai",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.html",
-        "arxiv": "2212.03241"
-    },
-    {
-        "title": "Parametric Depth Based Feature Representation Learning for Object Detection and Segmentation in Bird\u0092s-Eye View",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "https://github.com/NVlabs/ParametricBEV",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Parametric_Depth_Based_Feature_Representation_Learning_for_Object_Detection_and_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jiayu Yang, Enze Xie, Miaomiao Liu, Jose M. Alvarez",
-        "aff": "Australian National University; The University of Hong Kong; NVIDIA",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Parametric_Depth_Based_Feature_Representation_Learning_for_Object_Detection_and_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Poincar\u00e9 ResNet",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/van_Spengler_Poincare_ResNet_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Max van Spengler, Erwin Berkhout, Pascal Mettes",
-        "aff": "VIS Lab, Informatics Institute, University of Amsterdam; Department of Oral Radiology, Academic Center for Dentistry, University of Amsterdam & VU Amsterdam",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/van_Spengler_Poincare_ResNet_ICCV_2023_paper.html",
-        "arxiv": "2303.14027"
-    },
-    {
-        "title": "Protoype-based Dataset Comparison",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "https://github.com/",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/van_Noord_Protoype-based_Dataset_Comparison_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Nanne van Noord",
-        "aff": "University of Amsterdam",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/van_Noord_Protoype-based_Dataset_Comparison_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Robust Monocular Depth Estimation under Challenging Conditions",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.html",
-        "author": "Stefano Gasperini, Nils Morbitzer, HyunJun Jung, Nassir Navab, Federico Tombari",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Gasperini_Robust_Monocular_Depth_Estimation_under_Challenging_Conditions_ICCV_2023_paper.pdf",
-        "aff": "Technical University of Munich; VisualAIs; Google",
-        "project": "https://md4all.github.io.",
-        "github": "",
-        "arxiv": "2308.09711"
-    },
-    {
-        "title": "SAGA: Spectral Adversarial Geometric Attack on 3D Meshes",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Stolik_SAGA_Spectral_Adversarial_Geometric_Attack_on_3D_Meshes_ICCV_2023_paper.html",
-        "author": "Tomer Stolik, Itai Lang, Shai Avidan",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Stolik_SAGA_Spectral_Adversarial_Geometric_Attack_on_3D_Meshes_ICCV_2023_paper.pdf",
-        "aff": "Tel Aviv University",
-        "project": "",
-        "github": "https://github.com/StolikTomer/SAGA",
-        "arxiv": "2211.13775"
-    },
-    {
-        "title": "Simoun: Synergizing Interactive Motion-appearance Understanding for Vision-based Reinforcement Learning",
-        "site": "https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Simoun_Synergizing_Interactive_Motion-appearance_Understanding_for_Vision-based_Reinforcement_Learning_ICCV_2023_paper.html",
-        "author": "Yangru Huang, Peixi Peng, Yifan Zhao, Yunpeng Zhai, Haoran Xu, Yonghong Tian",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Simoun_Synergizing_Interactive_Motion-appearance_Understanding_for_Vision-based_Reinforcement_Learning_ICCV_2023_paper.pdf",
-        "aff": "Actor",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Towards Viewpoint Robustness in Bird\u0092s Eye View Segmentation",
-        "status": "Poster",
-        "site": "",
-        "project": "https://nvlabs.github.io/viewpoint-robustness",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Klinghoffer_Towards_Viewpoint_Robustness_in_Birds_Eye_View_Segmentation_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Tzofi Klinghoffer, Jonah Philion, Wenzheng Chen, Or Litany, Zan Gojcic, Jungseock Joo, Ramesh Raskar, Sanja Fidler, Jose M. Alvarez",
-        "aff": "MIT; NVIDIA; University of Toronto; Vector Institute; UCLA",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Klinghoffer_Towards_Viewpoint_Robustness_in_Birds_Eye_View_Segmentation_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "UniFusion: Unified Multi-View Fusion Transformer for Spatial-Temporal Representation in Bird\u0092s-Eye-View",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Qin_UniFusion_Unified_Multi-View_Fusion_Transformer_for_Spatial-Temporal_Representation_in_Birds-Eye-View_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Zequn Qin, Jingyu Chen, Chao Chen, Xiaozhi Chen, Xi Li",
-        "aff": "College of Computer Science & Technology, Zhejiang University; DJI; Shanghai Institute for Advanced Study of Zhejiang University; Zhejiang-Singapore Innovation and AI Joint Research Lab, Hangzhou",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Qin_UniFusion_Unified_Multi-View_Fusion_Transformer_for_Spatial-Temporal_Representation_in_Birds-Eye-View_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "?-Adaptive Decoupled Prototype for Few-Shot Object Detection",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "https://openaccess.thecvf.com/content/ICCV2023/papers/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.pdf",
-        "youtube": "",
-        "author": "Jinhao Du, Shan Zhang, Qiang Chen, Haifeng Le, Yanpeng Sun, Yao Ni, Jian Wang, Bin He, Jingdong Wang",
-        "aff": "Baidu VIS; Australian National University; Beijing Union University; Nanjing University of Science And Technology",
-        "oa": "https://openaccess.thecvf.com/content/ICCV2023/html/Du_s-Adaptive_Decoupled_Prototype_for_Few-Shot_Object_Detection_ICCV_2023_paper.html",
-        "arxiv": ""
     }
 ]
