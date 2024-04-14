@@ -936,6 +936,16 @@
         "arxiv": ""
     },
     {
+        "title": "Align, Attend and Locate: Chest X-Ray Diagnosis via Contrast Induced Attention Network With Limited Supervision",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Align_Attend_and_Locate_Chest_X-Ray_Diagnosis_via_Contrast_Induced_ICCV_2019_paper.html",
+        "author": "Jingyu Liu,  Gangming Zhao,  Yu Fei,  Ming Zhang,  Yizhou Wang,  Yizhou Yu",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Align_Attend_and_Locate_Chest_X-Ray_Diagnosis_via_Contrast_Induced_ICCV_2019_paper.pdf",
+        "aff": "Fei; Ming Zhang; Yizhou Wang",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment",
         "status": "Poster",
         "site": "",
@@ -959,6 +969,16 @@
         "author": "Linlin Yang, Shile Li, Dongheui Lee, Angela Yao",
         "aff": "Equal contribution; University of Bonn, Germany; Technical University of Munich, Germany; German Aerospace Center, Germany",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "An Alarm System for Segmentation Algorithm Based on Shape Model",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_An_Alarm_System_for_Segmentation_Algorithm_Based_on_Shape_Model_ICCV_2019_paper.html",
+        "author": "Fengze Liu,  Yingda Xia,  Dong Yang,  Alan L. Yuille,  Daguang Xu",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_An_Alarm_System_for_Segmentation_Algorithm_Based_on_Shape_Model_ICCV_2019_paper.pdf",
+        "aff": "Johns Hopkins University; NVIDIA Corporation",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -1391,6 +1411,19 @@
         "arxiv": ""
     },
     {
+        "title": "Bae-Net: Branched Autoencoder for Shape Co-Segmentation",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "https://github.com/czq142857/BAE-NET",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Zhiqin Chen, Kangxue Yin, Matthew Fisher, Siddhartha Chaudhuri, Hao Zhang",
+        "aff": "Simon Fraser University; Adobe Research; IIT Bombay",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations",
         "status": "Poster",
         "site": "",
@@ -1752,6 +1785,16 @@
         "author": "David Novotny, Nikhila Ravi, Benjamin Graham, Natalia Neverova, Andrea Vedaldi",
         "aff": "",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Novotny_C3DPO_Canonical_3D_Pose_Networks_for_Non-Rigid_Structure_From_Motion_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.html",
+        "author": "Gang Xu,  Zhigang Song,  Zhuo Sun,  Calvin Ku,  Zhe Yang,  Cancheng Liu,  Shuhao Wang,  Jianpeng Ma,  Wei Xu",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf",
+        "aff": "Zhigang Song; Zhuo Sun; Calvin Ku; Zhe Yang",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -2233,6 +2276,16 @@
         "author": "Jinghua Wang, Jianmin Jiang",
         "aff": "Research Institute for Future Media Computing, College of Computer Science & Software Engineering, Shenzhen University, Shenzhen, China",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Conditional_Coupled_Generative_Adversarial_Networks_for_Zero-Shot_Domain_Adaptation_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples With Applications to Neuroimaging",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Hwang_Conditional_Recurrent_Flow_Conditional_Generation_of_Longitudinal_Samples_With_Applications_ICCV_2019_paper.html",
+        "author": "Seong Jae Hwang,  Zirui Tao,  Won Hwa Kim,  Vikas Singh",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Hwang_Conditional_Recurrent_Flow_Conditional_Generation_of_Longitudinal_Samples_With_Applications_ICCV_2019_paper.pdf",
+        "aff": "Univ. of Wisconsin-Madison",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -2779,6 +2832,16 @@
         "author": "Jerry Liu, Shenlong Wang, Raquel Urtasun",
         "aff": "Uber ATG",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_DSIC_Deep_Stereo_Image_Compression_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_DUAL-GLOW_Conditional_Flow-Based_Generative_Model_for_Modality_Transfer_ICCV_2019_paper.html",
+        "author": "Haoliang Sun,  Ronak Mehta,  Hao H. Zhou,  Zhichun Huang,  Sterling C. Johnson,  Vivek Prabhakaran,  Vikas Singh",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_DUAL-GLOW_Conditional_Flow-Based_Generative_Model_for_Modality_Transfer_ICCV_2019_paper.pdf",
+        "aff": "",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -3614,6 +3677,16 @@
         "arxiv": ""
     },
     {
+        "title": "Dilated Convolutional Neural Networks for Sequential Manifold-Valued Data",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zhen_Dilated_Convolutional_Neural_Networks_for_Sequential_Manifold-Valued_Data_ICCV_2019_paper.html",
+        "author": "Xingjian Zhen,  Rudrasis Chakraborty,  Nicholas Vogt,  Barbara B. Bendlin,  Vikas Singh",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhen_Dilated_Convolutional_Neural_Networks_for_Sequential_Manifold-Valued_Data_ICCV_2019_paper.pdf",
+        "aff": "University of Wisconsin Madison\u2021University of California, Berkeley",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "DiscoNet: Shapes Learning on Disconnected Manifolds for 3D Editing",
         "status": "Poster",
         "site": "",
@@ -4443,6 +4516,19 @@
         "author": "Carlos Esteves, Yinshuang Xu, Christine Allen-Blanchette, Kostas Daniilidis",
         "aff": "GRASP Laboratory, University of Pennsylvania",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Esteves_Equivariant_Multi-View_Networks_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Escaping Plato\u00e2\u0080\u0099s Cave: 3D Shape From Adversarial Rendering",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Henzler_Escaping_Platos_Cave_3D_Shape_From_Adversarial_Rendering_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Philipp Henzler, Niloy J. Mitra, Tobias Ritschel",
+        "aff": "",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Henzler_Escaping_Platos_Cave_3D_Shape_From_Adversarial_Rendering_ICCV_2019_paper.html",
         "arxiv": ""
     },
     {
@@ -5395,6 +5481,16 @@
         "arxiv": ""
     },
     {
+        "title": "GLAMpoints: Greedily Learned Accurate Match Points",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Truong_GLAMpoints_Greedily_Learned_Accurate_Match_Points_ICCV_2019_paper.html",
+        "author": "Prune Truong,  Stefanos Apostolopoulos,  Agata Mosinska,  Samuel Stucky,  Carlos Ciller,  Sandro De Zanet",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Truong_GLAMpoints_Greedily_Learned_Accurate_Match_Points_ICCV_2019_paper.pdf",
+        "aff": "RetinAI Medical AG, Switzerland; ETH Zurich, Switzerland",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "GLoSH: Global-Local Spherical Harmonics for Intrinsic Image Decomposition",
         "status": "Oral",
         "site": "",
@@ -5746,6 +5842,19 @@
         "arxiv": ""
     },
     {
+        "title": "Gravity as a Reference for Estimating a Person\u00e2\u0080\u0099s Height From Video",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Bieler_Gravity_as_a_Reference_for_Estimating_a_Persons_Height_From_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Didier Bieler, Semih G\u00c3\u00bcnel, Pascal Fua, Helge Rhodin",
+        "aff": "EPFL, Lausanne, Switzerland; UBC, Vancouver, Canada",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Bieler_Gravity_as_a_Reference_for_Estimating_a_Persons_Height_From_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing",
         "status": "Poster",
         "site": "",
@@ -6058,6 +6167,16 @@
         "arxiv": ""
     },
     {
+        "title": "HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.html",
+        "author": "Lyndon Chan,  Mahdi S. Hosseini,  Corwyn Rowsell,  Konstantinos N. Plataniotis,  Savvas Damaskinos",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf",
+        "aff": "The Edward S. Rogers Sr. Department of Electrical & Computer Engineering, University of Toronto; Division of Pathology, St. Michaels Hospital, Toronto, ON, M; N; X",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "Holistic++ Scene Understanding: Single-View 3D Holistic Scene Parsing and Human Pose Estimation With Human-Object Interaction and Physical Commonsense",
         "status": "Poster",
         "site": "",
@@ -6253,6 +6372,19 @@
         "arxiv": ""
     },
     {
+        "title": "Image Aesthetic Assessment Based on Pairwise Comparison \u00c2\u00ad A Unified Approach to Score Regression, Binary Classification, and Personalization",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Jun-Tae Lee, Chang-Su Kim",
+        "aff": "School of Electrical Engineering, Korea University, Seoul, Korea",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Image Generation From Small Datasets via Batch Statistics Adaptation",
         "status": "Poster",
         "site": "",
@@ -6380,6 +6512,19 @@
         "author": "Chufeng Tang, Lu Sheng, Zhaoxiang Zhang, Xiaolin Hu",
         "aff": "State Key Laboratory of Intelligent Technology and Systems, Institute for Arti\ufb01cial Intelligence, Department of Computer Science and Technology, Beijing National Research Center for Information Science and Technology, Tsinghua University; College of Software, Beihang University; Institute of Automation, Chinese Academy of Sciences",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Tang_Improving_Pedestrian_Attribute_Recognition_With_Weakly-Supervised_Multi-Scale_Attribute-Specific_Localization_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "InGAN: Capturing and Retargeting the \u00e2\u0080\u009cDNA\u00e2\u0080\u009d of a Natural Image",
+        "status": "Oral",
+        "site": "",
+        "project": "http://www.wisdom.weizmann.ac.il/",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Assaf Shocher, Shai Bagon, Phillip Isola, Michal Irani",
+        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.html",
         "arxiv": ""
     },
     {
@@ -6562,6 +6707,16 @@
         "author": "Xueyang Fu, Zheng-Jun Zha, Feng Wu, Xinghao Ding, John Paisley",
         "aff": "School of Information Science and Technology, University of Science and Technology of China, China; School of Informatics, Xiamen University, China; Department of Electrical Engineering & Data Science Institute, Columbia University, USA",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Joint Acne Image Grading and Counting via Label Distribution Learning",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Joint_Acne_Image_Grading_and_Counting_via_Label_Distribution_Learning_ICCV_2019_paper.html",
+        "author": "Xiaoping Wu,  Ni Wen,  Jie Liang,  Yu-Kun Lai,  Dongyu She,  Ming-Ming Cheng,  Jufeng Yang",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Joint_Acne_Image_Grading_and_Counting_via_Label_Distribution_Learning_ICCV_2019_paper.pdf",
+        "aff": "College of Computer Science, Nankai University; Beijing Tsinghua Changgung Hospital; School of Computer Science and Informatics, Cardiff University",
+        "project": "",
+        "github": "https://github.com/xpwu95/ldl",
         "arxiv": ""
     },
     {
@@ -8203,6 +8358,19 @@
         "arxiv": ""
     },
     {
+        "title": "Mop Moir\u00c3\u00a9 Patterns Using MopNet",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Mop_Moire_Patterns_Using_MopNet_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Bin He, Ce Wang, Boxin Shi, Ling-Yu Duan",
+        "aff": "National Engineering Lab for Video Technology, Peking University, Beijing, China; The Peng Cheng Laboratory, Shenzhen, China",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/He_Mop_Moire_Patterns_Using_MopNet_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Motion Guided Attention for Video Salient Object Detection",
         "status": "Poster",
         "site": "",
@@ -8330,6 +8498,16 @@
         "author": "Peng Gao, Haoxuan You, Zhanpeng Zhang, Xiaogang Wang, Hongsheng Li",
         "aff": "CUHK-SenseTime Joint Lab, The Chinese University of Hong Kong; SenseTime Research; Tsinghua University",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_Multi-Modality_Latent_Interaction_Network_for_Visual_Question_Answering_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Multi-Stage Pathological Image Classification Using Semantic Segmentation",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Takahama_Multi-Stage_Pathological_Image_Classification_Using_Semantic_Segmentation_ICCV_2019_paper.html",
+        "author": "Shusuke Takahama,  Yusuke Kurose,  Yusuke Mukuta,  Hiroyuki Abe,  Masashi Fukayama,  Akihiko Yoshizawa,  Masanobu Kitagawa,  Tatsuya Harada",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Takahama_Multi-Stage_Pathological_Image_Classification_Using_Semantic_Segmentation_ICCV_2019_paper.pdf",
+        "aff": "The University of Tokyo; RIKEN; The Japanese Society of Pathology; Kyoto University; Tokyo Medical and Dental University; Research Center for Medical Bigdata, National Institute of Informatics",
+        "project": "",
+        "github": "",
         "arxiv": ""
     },
     {
@@ -8551,6 +8729,19 @@
         "author": "Tanmay Gupta, Alexander Schwing, Derek Hoiem",
         "aff": "University of Illinois Urbana-Champaign",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Gupta_No-Frills_Human-Object_Interaction_Detection_Factorization_Layout_Encodings_and_Training_Techniques_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Nocaps: Novel Object Captioning at Scale",
+        "status": "Poster",
+        "site": "",
+        "project": "https://nocaps.org",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson",
+        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
         "arxiv": ""
     },
     {
@@ -9555,6 +9746,16 @@
         "arxiv": ""
     },
     {
+        "title": "Prior-Aware Neural Network for Partially-Supervised Multi-Organ Segmentation",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_Prior-Aware_Neural_Network_for_Partially-Supervised_Multi-Organ_Segmentation_ICCV_2019_paper.html",
+        "author": "Yuyin Zhou,  Zhe Li,  Song Bai,  Chong Wang,  Xinlei Chen,  Mei Han,  Elliot Fishman,  Alan L. Yuille",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Prior-Aware_Neural_Network_for_Partially-Supervised_Multi-Organ_Segmentation_ICCV_2019_paper.pdf",
+        "aff": "Johns Hopkins University; Google Research; University of Oxford; ByteDance Inc.; Facebook; PAII Inc.; The Johns Hopkins Medical Institute",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "Privacy Preserving Image Queries for Camera Localization",
         "status": "Oral",
         "site": "",
@@ -10280,6 +10481,19 @@
         "author": "Yan Huang, Qiang Wu, JingSong Xu, Yi Zhong",
         "aff": "School of Electrical and Data Engineering, University of Technology Sydney, Australia",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_SBSGAN_Suppression_of_Inter-Domain_Background_Shift_for_Person_Re-Identification_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "SC-FEGAN: Face Editing Generative Adversarial Network With User\u00e2\u0080\u0099s Sketch and Color",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Youngjoo Jo, Jongyoul Park",
+        "aff": "ETRI",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.html",
         "arxiv": ""
     },
     {
@@ -11011,6 +11225,16 @@
         "arxiv": ""
     },
     {
+        "title": "Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.html",
+        "author": "Jiahua Dong,  Yang Cong,  Gan Sun,  Dongdong Hou",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf",
+        "aff": "State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, 110016, China.\u2021; Institutes for Robotics and Intelligent Manufacturing, Chinese Academy of Sciences, Shenyang, 110016, China.; University of Chinese Academy of Sciences, Beijing, 100049, China.",
+        "project": "",
+        "github": "",
+        "arxiv": ""
+    },
+    {
         "title": "SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences",
         "status": "Oral",
         "site": "",
@@ -11372,6 +11596,19 @@
         "author": "Haiyong Jiang, Jianfei Cai, Jianmin Zheng",
         "aff": "Nanyang Technological University, Singapore; Faculty of Information Technology, Monash University",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "SkyScapes \u00c2\u00ad Fine-Grained Semantic Understanding of Aerial Scenes",
+        "status": "Poster",
+        "site": "",
+        "project": "https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760",
+        "github": "",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Seyed Majid Azimi, Corentin Henry, Lars Sommer, Arne Schumann, Eleonora Vig",
+        "aff": "German Aerospace Center (DLR), Wessling, Germany; Fraunhofer IOSB, Karlsruhe, Germany",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.html",
         "arxiv": ""
     },
     {
@@ -12168,6 +12405,19 @@
         "arxiv": ""
     },
     {
+        "title": "Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture From Images \u00e2\u0080\u009cIn the Wild\u00e2\u0080\u009d",
+        "status": "Poster",
+        "site": "",
+        "project": "",
+        "github": "https://github.com/silviazuffi/smalst",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zuffi_Three-D_Safari_Learning_to_Estimate_Zebra_Pose_Shape_and_Texture_ICCV_2019_paper.pdf",
+        "youtube": "",
+        "author": "Silvia Zuffi, Angjoo Kanazawa, Tanya Berger-Wolf, Michael J. Black",
+        "aff": "IMATI-CNR, Milan, Italy; University of California, Berkeley; University of Illinois at Chicago; Max Planck Institute for Intelligent Systems, T \u00a8ubingen, Germany",
+        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zuffi_Three-D_Safari_Learning_to_Estimate_Zebra_Pose_Shape_and_Texture_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
         "title": "Through-Wall Human Mesh Recovery Using Radio Signals",
         "status": "Poster",
         "site": "",
@@ -12815,6 +13065,16 @@
         "author": "James Thewlis, Samuel Albanie, Hakan Bilen, Andrea Vedaldi",
         "aff": "VGG, University of Oxford",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Thewlis_Unsupervised_Learning_of_Landmarks_by_Descriptor_Vector_Exchange_ICCV_2019_paper.html",
+        "arxiv": ""
+    },
+    {
+        "title": "Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network",
+        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Gur_Unsupervised_Microvascular_Image_Segmentation_Using_an_Active_Contours_Mimicking_Neural_ICCV_2019_paper.html",
+        "author": "Shir Gur,  Lior Wolf,  Lior Golgher,  Pablo Blinder",
+        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Gur_Unsupervised_Microvascular_Image_Segmentation_Using_an_Active_Contours_Mimicking_Neural_ICCV_2019_paper.pdf",
+        "aff": "The School of Computer Sceince, Tel Aviv University; Facebook AI Research; School of Neurobiology, Biochemistry & Biophysics, Tel Aviv University; Sagol School of Neuroscience, Tel-Aviv University",
+        "project": "",
+        "github": "https://github.com/shirgur/UMIS",
         "arxiv": ""
     },
     {
@@ -13673,373 +13933,6 @@
         "author": "Bin Yan, Haojie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang",
         "aff": "School of Information and Communication Engineering, Dalian University of Technology, China; China Science IntelliCloud Technology Co., Ltd.,\u2020Equal Contribution",
         "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Yan_Skimming-Perusal_Tracking_A_Framework_for_Real-Time_and_Robust_Long-Term_Tracking_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Align, Attend and Locate: Chest X-Ray Diagnosis via Contrast Induced Attention Network With Limited Supervision",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Align_Attend_and_Locate_Chest_X-Ray_Diagnosis_via_Contrast_Induced_ICCV_2019_paper.html",
-        "author": "Jingyu Liu,  Gangming Zhao,  Yu Fei,  Ming Zhang,  Yizhou Wang,  Yizhou Yu",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Align_Attend_and_Locate_Chest_X-Ray_Diagnosis_via_Contrast_Induced_ICCV_2019_paper.pdf",
-        "aff": "Fei; Ming Zhang; Yizhou Wang",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "An Alarm System for Segmentation Algorithm Based on Shape Model",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_An_Alarm_System_for_Segmentation_Algorithm_Based_on_Shape_Model_ICCV_2019_paper.html",
-        "author": "Fengze Liu,  Yingda Xia,  Dong Yang,  Alan L. Yuille,  Daguang Xu",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_An_Alarm_System_for_Segmentation_Algorithm_Based_on_Shape_Model_ICCV_2019_paper.pdf",
-        "aff": "Johns Hopkins University; NVIDIA Corporation",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Bae-Net: Branched Autoencoder for Shape Co-Segmentation",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "https://github.com/czq142857/BAE-NET",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Zhiqin Chen, Kangxue Yin, Matthew Fisher, Siddhartha Chaudhuri, Hao Zhang",
-        "aff": "Simon Fraser University; Adobe Research; IIT Bombay",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Chen_BAE-NET_Branched_Autoencoder_for_Shape_Co-Segmentation_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.html",
-        "author": "Gang Xu,  Zhigang Song,  Zhuo Sun,  Calvin Ku,  Zhe Yang,  Cancheng Liu,  Shuhao Wang,  Jianpeng Ma,  Wei Xu",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf",
-        "aff": "Zhigang Song; Zhuo Sun; Calvin Ku; Zhe Yang",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples With Applications to Neuroimaging",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Hwang_Conditional_Recurrent_Flow_Conditional_Generation_of_Longitudinal_Samples_With_Applications_ICCV_2019_paper.html",
-        "author": "Seong Jae Hwang,  Zirui Tao,  Won Hwa Kim,  Vikas Singh",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Hwang_Conditional_Recurrent_Flow_Conditional_Generation_of_Longitudinal_Samples_With_Applications_ICCV_2019_paper.pdf",
-        "aff": "Univ. of Wisconsin-Madison",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "DUAL-GLOW: Conditional Flow-Based Generative Model for Modality Transfer",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_DUAL-GLOW_Conditional_Flow-Based_Generative_Model_for_Modality_Transfer_ICCV_2019_paper.html",
-        "author": "Haoliang Sun,  Ronak Mehta,  Hao H. Zhou,  Zhichun Huang,  Sterling C. Johnson,  Vivek Prabhakaran,  Vikas Singh",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_DUAL-GLOW_Conditional_Flow-Based_Generative_Model_for_Modality_Transfer_ICCV_2019_paper.pdf",
-        "aff": "",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Dilated Convolutional Neural Networks for Sequential Manifold-Valued Data",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zhen_Dilated_Convolutional_Neural_Networks_for_Sequential_Manifold-Valued_Data_ICCV_2019_paper.html",
-        "author": "Xingjian Zhen,  Rudrasis Chakraborty,  Nicholas Vogt,  Barbara B. Bendlin,  Vikas Singh",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhen_Dilated_Convolutional_Neural_Networks_for_Sequential_Manifold-Valued_Data_ICCV_2019_paper.pdf",
-        "aff": "University of Wisconsin Madison\u2021University of California, Berkeley",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Escaping Plato\u00e2\u0080\u0099s Cave: 3D Shape From Adversarial Rendering",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Henzler_Escaping_Platos_Cave_3D_Shape_From_Adversarial_Rendering_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Philipp Henzler, Niloy J. Mitra, Tobias Ritschel",
-        "aff": "",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Henzler_Escaping_Platos_Cave_3D_Shape_From_Adversarial_Rendering_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "GLAMpoints: Greedily Learned Accurate Match Points",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Truong_GLAMpoints_Greedily_Learned_Accurate_Match_Points_ICCV_2019_paper.html",
-        "author": "Prune Truong,  Stefanos Apostolopoulos,  Agata Mosinska,  Samuel Stucky,  Carlos Ciller,  Sandro De Zanet",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Truong_GLAMpoints_Greedily_Learned_Accurate_Match_Points_ICCV_2019_paper.pdf",
-        "aff": "RetinAI Medical AG, Switzerland; ETH Zurich, Switzerland",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Gravity as a Reference for Estimating a Person\u00e2\u0080\u0099s Height From Video",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Bieler_Gravity_as_a_Reference_for_Estimating_a_Persons_Height_From_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Didier Bieler, Semih G\u00c3\u00bcnel, Pascal Fua, Helge Rhodin",
-        "aff": "EPFL, Lausanne, Switzerland; UBC, Vancouver, Canada",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Bieler_Gravity_as_a_Reference_for_Estimating_a_Persons_Height_From_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.html",
-        "author": "Lyndon Chan,  Mahdi S. Hosseini,  Corwyn Rowsell,  Konstantinos N. Plataniotis,  Savvas Damaskinos",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf",
-        "aff": "The Edward S. Rogers Sr. Department of Electrical & Computer Engineering, University of Toronto; Division of Pathology, St. Michaels Hospital, Toronto, ON, M; N; X",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Image Aesthetic Assessment Based on Pairwise Comparison \u00c2\u00ad A Unified Approach to Score Regression, Binary Classification, and Personalization",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Jun-Tae Lee, Chang-Su Kim",
-        "aff": "School of Electrical Engineering, Korea University, Seoul, Korea",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Lee_Image_Aesthetic_Assessment_Based_on_Pairwise_Comparison__A_Unified_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "InGAN: Capturing and Retargeting the \u00e2\u0080\u009cDNA\u00e2\u0080\u009d of a Natural Image",
-        "status": "Oral",
-        "site": "",
-        "project": "http://www.wisdom.weizmann.ac.il/",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Assaf Shocher, Shai Bagon, Phillip Isola, Michal Irani",
-        "aff": "Dept. of Computer Science and Applied Math, The Weizmann Institute of Science",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Joint Acne Image Grading and Counting via Label Distribution Learning",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Joint_Acne_Image_Grading_and_Counting_via_Label_Distribution_Learning_ICCV_2019_paper.html",
-        "author": "Xiaoping Wu,  Ni Wen,  Jie Liang,  Yu-Kun Lai,  Dongyu She,  Ming-Ming Cheng,  Jufeng Yang",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Joint_Acne_Image_Grading_and_Counting_via_Label_Distribution_Learning_ICCV_2019_paper.pdf",
-        "aff": "College of Computer Science, Nankai University; Beijing Tsinghua Changgung Hospital; School of Computer Science and Informatics, Cardiff University",
-        "project": "",
-        "github": "https://github.com/xpwu95/ldl",
-        "arxiv": ""
-    },
-    {
-        "title": "Mop Moir\u00c3\u00a9 Patterns Using MopNet",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Mop_Moire_Patterns_Using_MopNet_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Bin He, Ce Wang, Boxin Shi, Ling-Yu Duan",
-        "aff": "National Engineering Lab for Video Technology, Peking University, Beijing, China; The Peng Cheng Laboratory, Shenzhen, China",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/He_Mop_Moire_Patterns_Using_MopNet_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Multi-Stage Pathological Image Classification Using Semantic Segmentation",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Takahama_Multi-Stage_Pathological_Image_Classification_Using_Semantic_Segmentation_ICCV_2019_paper.html",
-        "author": "Shusuke Takahama,  Yusuke Kurose,  Yusuke Mukuta,  Hiroyuki Abe,  Masashi Fukayama,  Akihiko Yoshizawa,  Masanobu Kitagawa,  Tatsuya Harada",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Takahama_Multi-Stage_Pathological_Image_Classification_Using_Semantic_Segmentation_ICCV_2019_paper.pdf",
-        "aff": "The University of Tokyo; RIKEN; The Japanese Society of Pathology; Kyoto University; Tokyo Medical and Dental University; Research Center for Medical Bigdata, National Institute of Informatics",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "Prior-Aware Neural Network for Partially-Supervised Multi-Organ Segmentation",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_Prior-Aware_Neural_Network_for_Partially-Supervised_Multi-Organ_Segmentation_ICCV_2019_paper.html",
-        "author": "Yuyin Zhou,  Zhe Li,  Song Bai,  Chong Wang,  Xinlei Chen,  Mei Han,  Elliot Fishman,  Alan L. Yuille",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Prior-Aware_Neural_Network_for_Partially-Supervised_Multi-Organ_Segmentation_ICCV_2019_paper.pdf",
-        "aff": "Johns Hopkins University; Google Research; University of Oxford; ByteDance Inc.; Facebook; PAII Inc.; The Johns Hopkins Medical Institute",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "SC-FEGAN: Face Editing Generative Adversarial Network With User\u00e2\u0080\u0099s Sketch and Color",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Youngjoo Jo, Jongyoul Park",
-        "aff": "ETRI",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.html",
-        "author": "Jiahua Dong,  Yang Cong,  Gan Sun,  Dongdong Hou",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Semantic-Transferable_Weakly-Supervised_Endoscopic_Lesions_Segmentation_ICCV_2019_paper.pdf",
-        "aff": "State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, 110016, China.\u2021; Institutes for Robotics and Intelligent Manufacturing, Chinese Academy of Sciences, Shenyang, 110016, China.; University of Chinese Academy of Sciences, Beijing, 100049, China.",
-        "project": "",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "SkyScapes \u00c2\u00ad Fine-Grained Semantic Understanding of Aerial Scenes",
-        "status": "Poster",
-        "site": "",
-        "project": "https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760",
-        "github": "",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Seyed Majid Azimi, Corentin Henry, Lars Sommer, Arne Schumann, Eleonora Vig",
-        "aff": "German Aerospace Center (DLR), Wessling, Germany; Fraunhofer IOSB, Karlsruhe, Germany",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture From Images \u00e2\u0080\u009cIn the Wild\u00e2\u0080\u009d",
-        "status": "Poster",
-        "site": "",
-        "project": "",
-        "github": "https://github.com/silviazuffi/smalst",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Zuffi_Three-D_Safari_Learning_to_Estimate_Zebra_Pose_Shape_and_Texture_ICCV_2019_paper.pdf",
-        "youtube": "",
-        "author": "Silvia Zuffi, Angjoo Kanazawa, Tanya Berger-Wolf, Michael J. Black",
-        "aff": "IMATI-CNR, Milan, Italy; University of California, Berkeley; University of Illinois at Chicago; Max Planck Institute for Intelligent Systems, T \u00a8ubingen, Germany",
-        "oa": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zuffi_Three-D_Safari_Learning_to_Estimate_Zebra_Pose_Shape_and_Texture_ICCV_2019_paper.html",
-        "arxiv": ""
-    },
-    {
-        "title": "Unsupervised Microvascular Image Segmentation Using an Active Contours Mimicking Neural Network",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Gur_Unsupervised_Microvascular_Image_Segmentation_Using_an_Active_Contours_Mimicking_Neural_ICCV_2019_paper.html",
-        "author": "Shir Gur,  Lior Wolf,  Lior Golgher,  Pablo Blinder",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Gur_Unsupervised_Microvascular_Image_Segmentation_Using_an_Active_Contours_Mimicking_Neural_ICCV_2019_paper.pdf",
-        "aff": "The School of Computer Sceince, Tel Aviv University; Facebook AI Research; School of Neurobiology, Biochemistry & Biophysics, Tel Aviv University; Sagol School of Neuroscience, Tel-Aviv University",
-        "project": "",
-        "github": "https://github.com/shirgur/UMIS",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
-        "arxiv": ""
-    },
-    {
-        "title": "nocaps: novel object captioning at scale",
-        "site": "http://openaccess.thecvf.com/content_ICCV_2019/html/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.html",
-        "author": "Harsh Agrawal,  Karan Desai,  Yufei Wang,  Xinlei Chen,  Rishabh Jain,  Mark Johnson,  Dhruv Batra,  Devi Parikh,  Stefan Lee,  Peter Anderson",
-        "pdf": "http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf",
-        "aff": "Georgia Institute of Technology; Macquarie University; Facebook AI Research; University of Michigan; Oregon State University",
-        "project": "https://nocaps.org",
-        "github": "",
         "arxiv": ""
     }
 ]
