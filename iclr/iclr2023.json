@@ -3881,6 +3881,18 @@
         "video": "https://iclr.cc/virtual/2023/poster/10964"
     },
     {
+        "title": "Universal Approximation Theorems for Differentiable Geometric Deep Learning",
+        "author": "Anastasis Kratsios, L\u00e9onie Papon",
+        "status": "poster",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2023/poster/12790",
+        "id": "12790",
+        "poster": "/media/PosterPDFs/ICLR%202023/12790.png?t=1682869504.1952987",
+        "openreview": "",
+        "slides": "https://iclr.cc/virtual/2023/poster/12790",
+        "video": "https://iclr.cc/virtual/2023/poster/12790"
+    },
+    {
         "id": "13rQhx37o3u",
         "title": "DeepTime: Deep Time-index Meta-learning for Non-stationary Time-series Forecasting",
         "track": "main",
@@ -116829,28 +116841,6 @@
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
         "corr_rating_correctness": 0.0
-    },
-    {
-        "id": "zzL_5WoI3I",
-        "title": "An Adaptive Entropy-Regularization Framework for Multi-Agent Reinforcement Learning",
-        "track": "main",
-        "status": "Reject",
-        "keywords": "Multi-Agent Reinforcement Learning;Entropy Regularization;Exploration-Exploitation Tradeoff",
-        "author": "",
-        "rating": "3;6;8",
-        "confidence": "4;3;4",
-        "correctness": "2;4;4",
-        "technical_novelty": "2;3;4",
-        "empirical_novelty": "2;2;3",
-        "presentation": "",
-        "rating_avg": 5.666666666666667,
-        "confidence_avg": 3.6666666666666665,
-        "correctness_avg": 3.3333333333333335,
-        "technical_novelty_avg": 3.0,
-        "empirical_novelty_avg": 2.3333333333333335,
-        "presentation_avg": 0,
-        "corr_rating_confidence": -0.1147078669352809,
-        "corr_rating_correctness": 0.9176629354822472
     },
     {
         "id": "zzL_5WoI3I",
