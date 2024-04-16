@@ -2458,6 +2458,14 @@
         "id": "17582"
     },
     {
+        "title": "Learning to Reject for Balanced Error and Beyond",
+        "author": "Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Neha Gupta, Sanjiv Kumar",
+        "status": "Spotlight",
+        "track": "main",
+        "site": "https://iclr.cc/virtual/2024/poster/17611",
+        "id": "17611"
+    },
+    {
         "title": "Addressing Catastrophic Forgetting and Loss of Plasticity in Neural Networks",
         "author": "Mohamed Elsayed, A. Rupam Mahmood",
         "status": "Poster",
@@ -34918,7 +34926,7 @@
         "title": "SpaCE: The Spatial Confounding Environment",
         "track": "main",
         "status": "Poster",
-        "keywords": "causal inference;datasets;benchmarks;spatial confounding;public health",
+        "keywords": "benchmarks;spatial confounding;graph neural networks;semi-synthetic data;causal inference",
         "author": "Mauricio Tec, Ana Trisovic, Michelle Audirac, Sophie Woodward, Jie Hu, Naeem Khoshnevis, Francesca Dominici",
         "rating": "6;6;8",
         "confidence": "3;4;3",
@@ -81999,7 +82007,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "time series forecasting;large language models;model reprogramming",
-        "author": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, james zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen",
+        "author": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen",
         "rating": "3;8;8;8;8",
         "confidence": "5;4;3;4;4",
         "correctness": "2;4;2;3;3",
@@ -100315,7 +100323,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "Multi-Objective Reinforcement Learning;Lexicographic Task Priorities;Constrained RL;Transfer RL",
-        "author": "Finn Rietz, Erik Schaffernicht, Stefan Heinrich, Johannes Stork",
+        "author": "Finn Rietz, Erik Schaffernicht, Stefan Heinrich, Johannes A. Stork",
         "rating": "5;6;6",
         "confidence": "4;3;4",
         "correctness": "3;3;3",
@@ -148272,11 +148280,11 @@
     },
     {
         "id": "ta26LtNq2r",
-        "title": "Learning to Reject for Balanced Error and Beyond",
+        "title": "Learning to Reject Meets Long-tail Learning",
         "track": "main",
         "status": "Spotlight",
         "keywords": "Learning to reject;balanced error;evaluation metrics;selective classification;plug-in approach;long-tail learning;class imbalance;non-decomposable metrics",
-        "author": "Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Neha Gupta, Sanjiv Kumar",
+        "author": "",
         "rating": "8;8;8;8",
         "confidence": "3;3;4;4",
         "correctness": "3;4;4;3",
@@ -148290,8 +148298,7 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 3.5,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0.0,
-        "site": "https://iclr.cc/virtual/2024/poster/17611"
+        "corr_rating_correctness": 0.0
     },
     {
         "id": "ta2ctBXj1J",
@@ -162919,7 +162926,7 @@
         "title": "Chain of Log-Concave Markov Chains",
         "track": "main",
         "status": "Poster",
-        "keywords": "Langevin diffusion;log-concave distribution;kernel smoothing",
+        "keywords": "Markov chain Monte Carlo;Langevin MCMC;log-concave distributions;kernel smoothing",
         "author": "Saeed Saremi, Ji Won Park, Francis Bach",
         "rating": "6;6;8;8",
         "confidence": "3;4;3;3",
