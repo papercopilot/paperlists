@@ -8045,6 +8045,20 @@
         "video": "https://nips.cc/virtual/2022/poster/52953"
     },
     {
+        "title": "tntorch: Tensor Network Learning with PyTorch",
+        "author": "Mikhail Usvyatsov, Rafael Ballester-Ripoll, Konrad Schindler",
+        "status": "Journal",
+        "track": "Journal",
+        "site": "https://nips.cc/virtual/2022/poster/56129",
+        "id": "56129",
+        "proceeding": "",
+        "pdf": "",
+        "openreview": "",
+        "poster": "/media/PosterPDFs/NeurIPS%202022/56129.png?t=1668812540.162295",
+        "slides": "https://nips.cc/virtual/2022/poster/56129",
+        "video": "https://nips.cc/virtual/2022/poster/56129"
+    },
+    {
         "id": "56gbQGXlnYv",
         "title": "Ontologue: Declarative Benchmark Construction for Ontological Multi-Label Classification",
         "track": "Datasets & Benchmarks",
@@ -85384,28 +85398,6 @@
         "poster": "/media/PosterPDFs/NeurIPS%202022/53362.png?t=1672035482.073591",
         "slides": "https://nips.cc/virtual/2022/poster/53362",
         "video": "https://nips.cc/virtual/2022/poster/53362"
-    },
-    {
-        "id": "ztcfHweENtU",
-        "title": "Distributive Justice as the Foundational Premise of Fair ML: Unification, Extension, and Interpretation of Group Fairness Metrics",
-        "track": "main",
-        "status": "Reject",
-        "keywords": "algorithmic decision making;group fairness;distributive justice;welfare;egalitarianism;maximin;prioritarianism;sufficientarianism",
-        "author": "",
-        "rating": "4;6;6",
-        "confidence": "4;3;3",
-        "correctness": "3;4;2",
-        "technical_novelty": "2;3;2",
-        "empirical_novelty": "",
-        "presentation": "3;3;3",
-        "rating_avg": 5.333333333333333,
-        "confidence_avg": 3.3333333333333335,
-        "correctness_avg": 3.0,
-        "technical_novelty_avg": 2.3333333333333335,
-        "empirical_novelty_avg": 0,
-        "presentation_avg": 3.0,
-        "corr_rating_confidence": -0.9999999999999998,
-        "corr_rating_correctness": 0.0
     },
     {
         "id": "ztcfHweENtU",
