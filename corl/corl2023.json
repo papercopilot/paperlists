@@ -6,6 +6,7 @@
         "status": "Poster",
         "keywords": "system identification;dynamics learning;contact-rich manipulation",
         "author": "",
+        "aff": "GRASP Laboratory, University of Pennsylvania",
         "rating": "6;6;6;6",
         "confidence": "4;4;3;2",
         "correctness": "",
@@ -19,7 +20,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/continuous-contact-nets/home",
+        "github": ""
     },
     {
         "id": "-HFJuX1uqs",
@@ -28,6 +31,7 @@
         "status": "Poster",
         "keywords": "Learning from Demonstrations;Manipulation;Transformers",
         "author": "",
+        "aff": "Machine Learning Department, School of Computer Science, Carnegie Mellon University; Robotics Institute, School of Computer Science, Carnegie Mellon University",
         "rating": "6;6;6;10",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -41,7 +45,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://act3d.github.io/",
+        "github": "https://act3d.github.io/"
     },
     {
         "id": "-K7-1WvKO3F",
@@ -50,6 +56,7 @@
         "status": "Oral",
         "keywords": "visual navigation;multi-task learning;planning;generalization",
         "author": "",
+        "aff": "UC Berkeley",
         "rating": "4;6;6;10",
         "confidence": "3;4;4;3",
         "correctness": "",
@@ -63,7 +70,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.2294157338705618,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "general-navigation-models.github.io",
+        "github": "https://github.com/general-navigation-models"
     },
     {
         "id": "09UL1dCqf2n",
@@ -72,6 +81,7 @@
         "status": "Poster",
         "keywords": "POMDP;Online planning;Guided Search;Preference-based learning",
         "author": "",
+        "aff": "",
         "rating": "6;6;6;10",
         "confidence": "4;3;3;5",
         "correctness": "",
@@ -85,7 +95,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8703882797784891,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "0I3su3mkuL",
@@ -94,6 +106,7 @@
         "status": "Poster",
         "keywords": "Reinforcement Learning;Offline RL;Transformers;Q-Learning;Robotic Manipulation",
         "author": "",
+        "aff": "Google DeepMind",
         "rating": "6;6;6;10",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -107,7 +120,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "http://qtransformer.github.io",
+        "github": "https://github.com/qtransformer"
     },
     {
         "id": "0bZaUfELuW",
@@ -116,6 +131,7 @@
         "status": "Poster",
         "keywords": "Instruction Following;Representation Learning;Manipulation",
         "author": "",
+        "aff": "University of California Berkeley; Microsoft Research",
         "rating": "4;10;10",
         "confidence": "5;4;4",
         "correctness": "",
@@ -129,7 +145,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://rail-berkeley.github.io/grif/",
+        "github": ""
     },
     {
         "id": "0hPkttoGAf",
@@ -138,6 +156,7 @@
         "status": "Oral",
         "keywords": "3D Manipulation;Multi-View;Transformer",
         "author": "",
+        "aff": "NVIDIA",
         "rating": "6;6;10",
         "confidence": "4;4;4",
         "correctness": "",
@@ -151,7 +170,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://robotic-view-transformer.github.io/"
     },
     {
         "id": "0hQMcWfjG9",
@@ -160,6 +181,7 @@
         "status": "Poster",
         "keywords": "Differentiable Filters;Sensor Fusion;Multimodal Learning",
         "author": "",
+        "aff": "Interactive Robotics Lab, Arizona State University; Kyushu Institute of Technology",
         "rating": "6;6;6",
         "confidence": "3;4;3",
         "correctness": "",
@@ -173,7 +195,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "alpha-mdf.github.io",
+        "github": "github.com/ir-lab/alpha-MDF"
     },
     {
         "id": "0mRSANSzEK",
@@ -182,6 +206,7 @@
         "status": "Poster",
         "keywords": "Offline policy learning;positive unlabeled learning;behavioural cloning",
         "author": "",
+        "aff": "Dublin City University; University College Dublin; University College London; MPI for Intelligent Systems",
         "rating": "6;6;10;10",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -195,7 +220,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/offline-policy-learning-pubc",
+        "github": ""
     },
     {
         "id": "0o2JgvlzMUc",
@@ -204,6 +231,7 @@
         "status": "Poster",
         "keywords": "Learning-Aware Safety Analysis;Active Information Gathering;Adversarial Reinforcement Learning",
         "author": "",
+        "aff": "Princeton University; Carnegie Mellon University",
         "rating": "6;6;6",
         "confidence": "5;4;3",
         "correctness": "",
@@ -217,7 +245,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "2Qrd-Yw4YmF",
@@ -226,6 +256,7 @@
         "status": "Poster",
         "keywords": "Dexterous Manipulation;Reinforcement Learning;Long-Horizon Manipulation",
         "author": "",
+        "aff": "Stanford University",
         "rating": "4;6;10;10",
         "confidence": "5;4;5;4",
         "correctness": "",
@@ -239,7 +270,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.19245008972987526,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sequential-dexterity.github.io",
+        "github": "https://github.com/sequential-dexterity"
     },
     {
         "id": "2qKBwyLnln",
@@ -248,6 +281,7 @@
         "status": "Poster",
         "keywords": "robot transfer learning;policy stitching",
         "author": "",
+        "aff": "Air Force Research Laboratory; Duke University",
         "rating": "4;6;6;10",
         "confidence": "3;4;4;4",
         "correctness": "",
@@ -261,7 +295,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.6622661785325219,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "http://generalroboticslab.com/PolicyStitching",
+        "github": ""
     },
     {
         "id": "32c8pl84_uD",
@@ -270,6 +306,7 @@
         "status": "Poster",
         "keywords": "Sim2Real;Policy Evaluation;Robot Validation",
         "author": "",
+        "aff": "Department of Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Illinois, United States; Department of Computer Science, University of Illinois Urbana-Champaign, Illinois, United States",
         "rating": "4;6;6;6",
         "confidence": "3;2;4;4",
         "correctness": "",
@@ -283,7 +320,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.17407765595569782,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "3gh9hf3R6x",
@@ -292,6 +331,7 @@
         "status": "Oral",
         "keywords": "Robot Learning;Self-supervised;Sensorimotor;Pre-training",
         "author": "",
+        "aff": "",
         "rating": "6;6;10;10",
         "confidence": "5;3;3;4",
         "correctness": "",
@@ -305,7 +345,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.30151134457776363,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "3uwj8QZROL",
@@ -313,7 +355,8 @@
         "track": "main",
         "status": "Poster",
         "keywords": "skill learning;language;diffusion",
-        "author": "",
+        "author": "Huy Ha, Pete Florence, Shuran Song",
+        "aff": "Google DeepMind; Columbia University",
         "rating": "4;4;10",
         "confidence": "4;3;5",
         "correctness": "",
@@ -327,7 +370,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8660254037844387,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "44FPaVRWkbl",
@@ -336,6 +381,7 @@
         "status": "Poster",
         "keywords": "Temporal Modeling;3D Object Detection",
         "author": "",
+        "aff": "Shanghai AI Laboratory, The Hong Kong University of Science and Technology; Shanghai AI Laboratory; The Chinese University of Hong Kong",
         "rating": "4;6;6;6",
         "confidence": "3;3;4;3",
         "correctness": "",
@@ -349,7 +395,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/OpenRobotLab/DORT"
     },
     {
         "id": "48qUHKUEdBf",
@@ -358,6 +406,7 @@
         "status": "Poster",
         "keywords": "Unseen Object Instance Segmentation;Unsupervised Multi Object Tracking;Zero-shot;Discrete Frames",
         "author": "",
+        "aff": "NVIDIA; University of Washington; University of Washington and NVIDIA",
         "rating": "4;6;6",
         "confidence": "2;3;4",
         "correctness": "",
@@ -371,7 +420,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8660254037844385,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "4ZK8ODNyFXx",
@@ -380,6 +431,7 @@
         "status": "Oral",
         "keywords": "Language-based planning;uncertainty estimation;conformal prediction",
         "author": "",
+        "aff": "Princeton University, Google DeepMind; Google DeepMind; Princeton University",
         "rating": "6;6;10;10",
         "confidence": "4;5;5;4",
         "correctness": "",
@@ -393,7 +445,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robot-help.github.io",
+        "github": ""
     },
     {
         "id": "4uFVn6WHyzo",
@@ -402,6 +456,7 @@
         "status": "Poster",
         "keywords": "robotics;adversarial attacks;simulation",
         "author": "",
+        "aff": "University of Toronto, Vector Institute, UofT Robotics Institute; University of Toronto, Vector Institute; Carnegie Mellon University; University of Toronto; Stanford University",
         "rating": "6;6;6;10",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -415,7 +470,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "4x2RUQ99sGz",
@@ -424,6 +481,7 @@
         "status": "Poster",
         "keywords": "Online Adaptation;Optimization;Behavior prediction",
         "author": "",
+        "aff": "Robotics Institute, Carnegie Mellon University",
         "rating": "4;4;4;10",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -437,7 +495,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "5JMGq83yf1N",
@@ -446,6 +506,7 @@
         "status": "Poster",
         "keywords": "Planning as inference;Variational inference;Nonparametric learning",
         "author": "",
+        "aff": "NVIDIA; University of Michigan; NVIDIA, University of Sydney; NVIDIA, University of Utah",
         "rating": "6;6;6;10",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -459,7 +520,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "69y5fzvaAT",
@@ -468,6 +531,7 @@
         "status": "Oral",
         "keywords": "Deformable Object Manipulation;Long-horizon Planning;Model Learning;Tool Usage",
         "author": "",
+        "aff": "Stanford University; Stanford University, UIUC",
         "rating": "6;6;10;10",
         "confidence": "5;4;4;3",
         "correctness": "",
@@ -481,7 +545,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.7071067811865475,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://hshi74.github.io/robocook",
+        "github": "https://github.com/hshi74/robocook"
     },
     {
         "id": "6Um8P8Fvyhl",
@@ -490,6 +556,7 @@
         "status": "Poster",
         "keywords": "offline RL;online fine-tuning;model-learning;robot learning",
         "author": "",
+        "aff": "Stanford University; Intel AI Labs",
         "rating": "4;6;6;6",
         "confidence": "3;4;3;3",
         "correctness": "",
@@ -503,7 +570,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/mo2o/",
+        "github": ""
     },
     {
         "id": "6a4sECAMCA",
@@ -512,6 +581,7 @@
         "status": "Poster",
         "keywords": "Global-scale Autonomous Driving;Imitation Learning;Transformer",
         "author": "",
+        "aff": "Boston University",
         "rating": "4;6;6;6;6",
         "confidence": "4;4;4;5;3",
         "correctness": "",
@@ -525,7 +595,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "6kSohKYYTn0",
@@ -534,6 +606,7 @@
         "status": "Oral",
         "keywords": "Interpretability;Disentangled Representation;Neural Policy",
         "author": "",
+        "aff": "Massachusetts Institute of Technology (MIT)",
         "rating": "6;6;6;10",
         "confidence": "2;3;4;2",
         "correctness": "",
@@ -547,7 +620,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5222329678670935,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "6zGpfOBImD",
@@ -556,6 +631,7 @@
         "status": "Poster",
         "keywords": "Object manipulation;Multi-task learning;Pick and place",
         "author": "",
+        "aff": "NVIDIA; University of Washington; University of Washington, NVIDIA",
         "rating": "4;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -569,7 +645,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "770xKAHeFS",
@@ -578,6 +656,7 @@
         "status": "Oral",
         "keywords": "Neural SDE;Physics-Informed Learning;Data-Driven Modeling;Dynamical Systems;Control;Model-Based Reinforcement Learning",
         "author": "",
+        "aff": "Center for Autonomy, The University of Texas at Austin",
         "rating": "6;6;6;10",
         "confidence": "4;4;3;5",
         "correctness": "",
@@ -591,7 +670,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.816496580927726,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://tinyurl.com/29xr5vya",
+        "github": ""
     },
     {
         "id": "7CtUcT_OHmC",
@@ -600,6 +681,7 @@
         "status": "Poster",
         "keywords": "human-robot collaboration;reward learning;human-robot interaction",
         "author": "",
+        "aff": "Robotics Institute, Carnegie Mellon University United States",
         "rating": "4;6;6;6",
         "confidence": "3;3;4;3",
         "correctness": "",
@@ -613,7 +695,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "7Pkzm2FgUmq",
@@ -622,6 +706,7 @@
         "status": "Poster",
         "keywords": "learning from demonstration;language-based robotics",
         "author": "",
+        "aff": "Meta; SUNY Binghamton; Carnegie Mellon",
         "rating": "4;6;6;6",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -635,7 +720,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robotslap.github.io",
+        "github": "https://github.com/robotslap"
     },
     {
         "id": "7TYeO2XVqI",
@@ -644,6 +731,7 @@
         "status": "Poster",
         "keywords": "Large language model (LLM);Quadrupedal robots;Locomotion",
         "author": "",
+        "aff": "Google DeepMind; The University of Tokyo",
         "rating": "6;6;6;6",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -657,7 +745,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://saytap.github.io",
+        "github": "https://github.com/saytap"
     },
     {
         "id": "86aMPJn6hX9F",
@@ -666,6 +756,7 @@
         "status": "Oral",
         "keywords": "Bimanual Manipulation;Learning from Demonstrations;Deformable Object Manipulation",
         "author": "",
+        "aff": "Stanford University, Stanford, CA",
         "rating": "6;6;10;10",
         "confidence": "3;4;3;4",
         "correctness": "",
@@ -679,7 +770,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://tinyurl.com/stabilizetoact",
+        "github": ""
     },
     {
         "id": "8L6pHd9aS6w",
@@ -688,6 +781,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Representation Learning;Cross-Embodiements",
         "author": "",
+        "aff": "1. Department of Computer Science, Columbia University; 1. Department of Computer Science, Columbia University; 2. J.P. Morgan AI Research; 3. School of Computer Science, Carnegie Mellon University (emeritus)",
         "rating": "6;6;10",
         "confidence": "4;3;4",
         "correctness": "",
@@ -701,7 +795,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "8asqEWO479I",
@@ -710,6 +806,7 @@
         "status": "Poster",
         "keywords": "Deformable Object Manipulation;Model-building;Self-supervision",
         "author": "",
+        "aff": "University of Illinois at Urbana-Champaign",
         "rating": "4;6;10;10",
         "confidence": "3;3;4;4",
         "correctness": "",
@@ -723,7 +820,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9622504486493761,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/pushpastgreen/",
+        "github": ""
     },
     {
         "id": "8scj3Y0RLq",
@@ -732,6 +831,7 @@
         "status": "Poster",
         "keywords": "Stable Dynamical Systems;Reactive Motion Policies;Learning from Demonstrations;Task Parametrization;Task Generalization",
         "author": "",
+        "aff": "University of Pennsylvania",
         "rating": "4;10;10",
         "confidence": "2;4;4",
         "correctness": "",
@@ -745,7 +845,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/elastic-ds",
+        "github": ""
     },
     {
         "id": "8yTS_nAILxt",
@@ -754,6 +856,7 @@
         "status": "Poster",
         "keywords": "Large Language Model;Explainable AI;Task Planning",
         "author": "",
+        "aff": "Columbia University, New York, NY, United States",
         "rating": "4;6;6;10",
         "confidence": "5;4;3;3",
         "correctness": "",
@@ -767,7 +870,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.7608859102526822,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robot-reflect.github.io/",
+        "github": ""
     },
     {
         "id": "93qz1k6_6h",
@@ -776,6 +881,7 @@
         "status": "Poster",
         "keywords": "Functional Grasping;Sim2real",
         "author": "",
+        "aff": "Carnegie Mellon University",
         "rating": "6;6;6;10",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -789,7 +895,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://dexfunc.github.io/"
     },
     {
         "id": "9GRE34K0SB",
@@ -798,6 +906,7 @@
         "status": "Poster",
         "keywords": "Contact-rich manipulation;sim-to-real transfer",
         "author": "",
+        "aff": "Toyota Research Institute; Princeton University",
         "rating": "6;6;6;6",
         "confidence": "5;3;3;4",
         "correctness": "",
@@ -811,7 +920,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://irom-lab.github.io/AdaptSim/",
+        "github": ""
     },
     {
         "id": "9SM6l0HyY_",
@@ -820,6 +931,7 @@
         "status": "Poster",
         "keywords": "robot manipulation;imitation learning;object-centric representations",
         "author": "",
+        "aff": "The University of Texas at Austin, Sony AI; The University of Texas at Austin",
         "rating": "6;6;6;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -833,7 +945,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://ut-austin-rpl.github.io/GROOT",
+        "github": ""
     },
     {
         "id": "9_8LF30mOC",
@@ -842,6 +956,7 @@
         "status": "Oral",
         "keywords": "Manipulation;Large Language Models;Model-based Planning",
         "author": "",
+        "aff": "Stanford University; Stanford University, University of Illinois Urbana-Champaign",
         "rating": "6;6;10",
         "confidence": "3;4;4",
         "correctness": "",
@@ -855,7 +970,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://voxposer.github.io",
+        "github": ""
     },
     {
         "id": "9al6taqfTzr",
@@ -864,6 +981,7 @@
         "status": "Poster",
         "keywords": "",
         "author": "",
+        "aff": "Robotics at Google",
         "rating": "6;6;6;10",
         "confidence": "5;4;5;5",
         "correctness": "",
@@ -877,7 +995,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robot-moo.github.io/",
+        "github": ""
     },
     {
         "id": "9bK38pUBzU",
@@ -886,6 +1006,7 @@
         "status": "Poster",
         "keywords": "Robotic Manipulation;Path Planning;Collision Avoidance;Learned Collision Function",
         "author": "",
+        "aff": "University of California, Berkeley; Dyson Robot Learning Lab",
         "rating": "6;6;10",
         "confidence": "3;4;3",
         "correctness": "",
@@ -899,7 +1020,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://amberxie88.github.io/lapp/",
+        "github": ""
     },
     {
         "id": "9cTEQWMo1BF",
@@ -908,6 +1031,7 @@
         "status": "Poster",
         "keywords": "Auto-labelling;Offboard Perception;Trajectory Refinement;Transformer",
         "author": "",
+        "aff": "Waabi, University of Toronto; Waabi; University of Toronto",
         "rating": "6;6;6",
         "confidence": "4;4;2",
         "correctness": "",
@@ -921,7 +1045,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://waabi.ai/labelformer/",
+        "github": ""
     },
     {
         "id": "AIgm8ZE_DlD",
@@ -930,6 +1056,7 @@
         "status": "Poster",
         "keywords": "Representation Learning;Robotic Manipulation",
         "author": "",
+        "aff": "Tsinghua University, Shanghai Artificial Intelligence Laboratory, Shanghai Qi Zhi Institute; Shanghai Jiao Tong University",
         "rating": "4;4;6;10",
         "confidence": "3;3;4;3",
         "correctness": "",
@@ -943,7 +1070,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "semantic-geometric-representation.github.io",
+        "github": ""
     },
     {
         "id": "ANJuNDFdvP",
@@ -952,6 +1081,7 @@
         "status": "Poster",
         "keywords": "Deformable Object Manipulation;Bimanual Manipulation;Garment Folding",
         "author": "",
+        "aff": "Shanghai Jiao Tong University, Shanghai AI Laboratory, Pujiang Lab; Shanghai Jiao Tong University; University of New Hampshire",
         "rating": "4;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -965,7 +1095,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://unifolding.robotflow.ai",
+        "github": ""
     },
     {
         "id": "AnDDMQgM7-",
@@ -974,6 +1106,7 @@
         "status": "Poster",
         "keywords": "Partial Observability;Equivariant Learning;Symmetry",
         "author": "",
+        "aff": "Khoury College of Computer Sciences, Northeastern University, Boston, MA, United States",
         "rating": "6;6;6;6",
         "confidence": "3;3;3;4",
         "correctness": "",
@@ -987,7 +1120,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/equi-rl-pomdp",
+        "github": ""
     },
     {
         "id": "ApxLUk8U-l",
@@ -996,6 +1131,7 @@
         "status": "Poster",
         "keywords": "reinforcement learning;autonomous;reset-free;manipulation",
         "author": "",
+        "aff": "Stanford University",
         "rating": "4;6;6",
         "confidence": "4;4;4",
         "correctness": "",
@@ -1009,7 +1145,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://architsharma97.github.io/self-improving-robots/",
+        "github": "https://github.com/architsharma97/self-improving-robots"
     },
     {
         "id": "AyRr_i028w",
@@ -1018,6 +1156,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Reinforcement Learning;Diffusion;Cold Diffusion;Planning;Safety",
         "author": "",
+        "aff": "Northwestern University; Yale University; Toyota Technological Institute at Chicago; Toyota Technological Institute",
         "rating": "4;6;6;6",
         "confidence": "3;4;4;4",
         "correctness": "",
@@ -1031,7 +1170,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "B7PnAw4ze0l",
@@ -1040,6 +1181,7 @@
         "status": "Poster",
         "keywords": "tactile perception;needle threading",
         "author": "",
+        "aff": "Shanghai Jiao Tong University",
         "rating": "4;6;6;10",
         "confidence": "5;3;4;5",
         "correctness": "",
@@ -1053,7 +1195,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.20751433915982243,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/tac-needlethreading",
+        "github": ""
     },
     {
         "id": "BimpCf1rT7",
@@ -1062,6 +1206,7 @@
         "status": "Poster",
         "keywords": "Diffusion Models;Constraint Satisfaction Problems;Task and Motion Planning",
         "author": "",
+        "aff": "Stanford University; Massachusetts Institute of Technology",
         "rating": "6;10;10",
         "confidence": "2;4;5",
         "correctness": "",
@@ -1075,7 +1220,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9449111825230679,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://diffusion-ccsp.github.io/",
+        "github": ""
     },
     {
         "id": "BzjLaVvr955",
@@ -1084,6 +1231,7 @@
         "status": "Poster",
         "keywords": "Normalizing Flows;Out-of-Distribution Detection;Robotic Introspection",
         "author": "",
+        "aff": "Institute of Robotics and Mechatronics, German Aerospace Center (DLR); Department of Informatics, Technical University of Munich (TUM)",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -1097,7 +1245,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/DLR-RM"
     },
     {
         "id": "C5MQUlzhVjQ",
@@ -1106,6 +1256,7 @@
         "status": "Oral",
         "keywords": "Scenario Generation;Human-Robot Interaction;Quality Diversity",
         "author": "",
+        "aff": "University of Southern California, Los Angeles, CA",
         "rating": "6;6;10;10",
         "confidence": "2;3;4;3",
         "correctness": "",
@@ -1119,7 +1270,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.7071067811865475,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "CnKf9TyYtf2",
@@ -1128,6 +1281,7 @@
         "status": "Poster",
         "keywords": "Few-Shot Imitation Learning;Graph Neural Networks",
         "author": "",
+        "aff": "The Robot Learning Lab, Imperial College London, United Kingdom",
         "rating": "6;6;10;10",
         "confidence": "2;4;4;4",
         "correctness": "",
@@ -1141,7 +1295,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://www.robot-learning.uk/implicit-graph-alignment",
+        "github": ""
     },
     {
         "id": "D0X97ODIYK",
@@ -1150,6 +1306,7 @@
         "status": "Poster",
         "keywords": "Rearrangement Planning;Robot Manipulation;Graph Attention",
         "author": "",
+        "aff": "Department of Computer Science, Purdue University, West Lafayette, IN 47907, United States",
         "rating": "4;6;6;6",
         "confidence": "3;3;5;4",
         "correctness": "",
@@ -1163,7 +1320,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5222329678670935,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://manavkulshrestha.github.io/scl",
+        "github": "https://github.com/manavkulshrestha"
     },
     {
         "id": "DYPOvNot5F",
@@ -1172,6 +1331,7 @@
         "status": "Oral",
         "keywords": "Learning from Demonstration;model-based robot learning;differentiable physics-based simulation and rendering",
         "author": "",
+        "aff": "University of Queensland; Shanghai Jiaotong University; National University of Singapore; USTC; Nanjing University; Zhejiang University; UC Berkeley",
         "rating": "4;6;6;6",
         "confidence": "3;3;4;4",
         "correctness": "",
@@ -1185,7 +1345,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/diff-lfd",
+        "github": ""
     },
     {
         "id": "E2vL12SwO1",
@@ -1194,6 +1356,7 @@
         "status": "Oral",
         "keywords": "Robot Co-design;Pre-training;Reinforcement Learning;Modular Soft Robots",
         "author": "",
+        "aff": "Tencent AI Lab; Tsinghua University",
         "rating": "6;6;6;10",
         "confidence": "4;3;5;4",
         "correctness": "",
@@ -1207,7 +1370,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "ES_TOp4YJeD",
@@ -1216,6 +1381,7 @@
         "status": "Poster",
         "keywords": "Monocular depth estimation;Camera perception;Distillation",
         "author": "",
+        "aff": "ExploAI; ZongmuTech; Fudan University",
         "rating": "4;6;6",
         "confidence": "3;5;4",
         "correctness": "",
@@ -1229,7 +1395,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8660254037844385,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "EXQ0eXtX3OW",
@@ -1238,6 +1406,7 @@
         "status": "Poster",
         "keywords": "Tactile;Dexterity;Manipulation",
         "author": "",
+        "aff": "New York University; Meta",
         "rating": "1;6;10;10",
         "confidence": "4;4;5;5",
         "correctness": "",
@@ -1251,7 +1420,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8784585919193317,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "tactile-dexterity.github.io",
+        "github": ""
     },
     {
         "id": "EvuAJ0wD98",
@@ -1260,6 +1431,7 @@
         "status": "Oral",
         "keywords": "Autonomous Driving;Multi-agent Reinforcement Learning;Representation Learning",
         "author": "",
+        "aff": "University of Texas at Austin; University of Maryland",
         "rating": "6;6;10",
         "confidence": "4;4;3",
         "correctness": "",
@@ -1273,7 +1445,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "Eyb4e3GBuuR",
@@ -1282,6 +1456,7 @@
         "status": "Poster",
         "keywords": "Trajectory Prediction;Multi-Agent Interaction;Game-Theoretic Motion Planning;Energy-based Model;Optimal Control;Autonomous Vehicles",
         "author": "",
+        "aff": "TU Dortmund University; ZF Friedrichshafen AG, Artificial Intelligence Lab",
         "rating": "6;6;6",
         "confidence": "3;3;3",
         "correctness": "",
@@ -1295,7 +1470,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/rst-tu-dortmund/diff_epo_planner"
     },
     {
         "id": "FRKBdXhkQE0",
@@ -1304,6 +1481,7 @@
         "status": "Poster",
         "keywords": "reinforcement learning;offroad driving;vision-based navigation",
         "author": "",
+        "aff": "UC Berkeley",
         "rating": "6;6;6;10",
         "confidence": "4;3;5;3",
         "correctness": "",
@@ -1317,7 +1495,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5222329678670935,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/fastrlap",
+        "github": ""
     },
     {
         "id": "FefFLN5FvIM",
@@ -1326,6 +1506,7 @@
         "status": "Poster",
         "keywords": "Manipulation;tactile control;high-resolution tactile sensors",
         "author": "",
+        "aff": "Department of Robotics, University of Michigan, Ann Arbor, MI 48109, United States",
         "rating": "6;6;6",
         "confidence": "4;4;5",
         "correctness": "",
@@ -1339,7 +1520,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://www.mmintlab.com/tactile-vad",
+        "github": ""
     },
     {
         "id": "Ffn8Z4Q-zU",
@@ -1348,6 +1531,7 @@
         "status": "Poster",
         "keywords": "Planning with Gestures;Human-Robot Interaction;LLM Reasoning",
         "author": "",
+        "aff": "Google Deepmind; Computer Science Department, Stanford University, Stanford, CA, USA",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -1361,7 +1545,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "tinyurl.com/giraf23",
+        "github": ""
     },
     {
         "id": "G_FEL3OkiR",
@@ -1370,6 +1556,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Task and Motion Planning;Teleoperation",
         "author": "",
+        "aff": "NVIDIA; NVIDIA, Georgia Institute of Technology",
         "rating": "6;6;6;10",
         "confidence": "5;3;4;4",
         "correctness": "",
@@ -1383,7 +1570,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://hitltamp.github.io",
+        "github": "https://github.com/hitltamp"
     },
     {
         "id": "GsM2qJTAg-",
@@ -1392,6 +1581,7 @@
         "status": "Poster",
         "keywords": "Gaussian process regression;random features;motion primitives",
         "author": "",
+        "aff": "MaLGa Center \u2013 DIBRIS \u2013 Universit `a di Genova, Genoa, Italy; Institut de Rob `otica i Inform `atica Industrial, CSIC \u2013 UPC, Barcelona, Spain",
         "rating": "4;6;6;6",
         "confidence": "5;4;1;4",
         "correctness": "",
@@ -1405,7 +1595,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896258,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "HCWoFkGe8L4",
@@ -1414,6 +1606,7 @@
         "status": "Poster",
         "keywords": "monocular 3D object detection;autonomous driving",
         "author": "",
+        "aff": "National Taiwan University, Taiwan",
         "rating": "6;6;6",
         "confidence": "5;5;5",
         "correctness": "",
@@ -1427,7 +1620,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "HDYMjiukjn",
@@ -1436,6 +1631,7 @@
         "status": "Poster",
         "keywords": "high-dimensional control;bi-manual dexterity",
         "author": "",
+        "aff": "Stanford University; Google DeepMind; Simon Fraser University; UC Berkeley",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;5",
         "correctness": "",
@@ -1449,7 +1645,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://kzakka.com/robopianist/"
     },
     {
         "id": "HEIRj51lcS",
@@ -1458,6 +1656,7 @@
         "status": "Poster",
         "keywords": "vision-based manipulation;multi-robot generalization",
         "author": "",
+        "aff": "Stanford University",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;5",
         "correctness": "",
@@ -1471,7 +1670,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/polybot-multirobot",
+        "github": ""
     },
     {
         "id": "HYka22IcV6",
@@ -1480,6 +1681,7 @@
         "status": "Poster",
         "keywords": "Regret;Online;Learning;Convex;Optimization;Obstacle",
         "author": "",
+        "aff": "Intelligent Robot Motion (IRoM) Lab, Princeton University; Department of Computer Science, Princeton University",
         "rating": "4;6;6",
         "confidence": "4;4;3",
         "correctness": "",
@@ -1493,7 +1695,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.49999999999999983,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "HtJE9ly5dT",
@@ -1502,6 +1706,7 @@
         "status": "Poster",
         "keywords": "Manipulation Planning;Diffusion Models;Task and Motion Planning",
         "author": "",
+        "aff": "Georgia Institute of Technology",
         "rating": "6;6;6",
         "confidence": "4;4;3",
         "correctness": "",
@@ -1515,7 +1720,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://generative-skill-chaining.github.io/",
+        "github": ""
     },
     {
         "id": "IM8zOC94HF",
@@ -1524,6 +1731,7 @@
         "status": "Poster",
         "keywords": "Model-Based Reinforcement Learning;Offline Reinforcement Learning;Planning under Uncertainty;Diffusion;Score Matching",
         "author": "",
+        "aff": "CSAIL, MIT, Cambridge, MA 02139; University of Washington, Seattle, WA 98195; Toyota Research Institute, Los Altos, CA 94022",
         "rating": "6;6;6;10",
         "confidence": "4;4;2;3",
         "correctness": "",
@@ -1537,7 +1745,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.17407765595569782,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/score-guided-planning/home",
+        "github": ""
     },
     {
         "id": "Id4b5SY1Y8",
@@ -1546,6 +1756,7 @@
         "status": "Poster",
         "keywords": "Robot Collision;Collision Distance;Machine Learning",
         "author": "",
+        "aff": "Seoul National University",
         "rating": "1;6;6;6",
         "confidence": "5;4;4;4",
         "correctness": "",
@@ -1559,7 +1770,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/kjh6526/PairwiseNet"
     },
     {
         "id": "IeKC9khX5jD",
@@ -1568,6 +1781,7 @@
         "status": "Poster",
         "keywords": "Grasp Synthesis;Neural SDF;Next-Best-View Planning",
         "author": "",
+        "aff": "",
         "rating": "4;6;6;6",
         "confidence": "3;4;5;4",
         "correctness": "",
@@ -1581,7 +1795,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.816496580927726,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "JdpleC92J4",
@@ -1590,6 +1806,7 @@
         "status": "Poster",
         "keywords": "Demonstration collection;Imitation learning;Augmented reality;Manipulating personalized objects;Dataset collection;Behavior Cloning",
         "author": "",
+        "aff": "University of Washington; University of Washington, Allen Institute for Artificial Intelligence; University of Washington, NVIDIA",
         "rating": "6;6;6;10",
         "confidence": "4;4;5;4",
         "correctness": "",
@@ -1603,7 +1820,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "www.ar2d2.site",
+        "github": ""
     },
     {
         "id": "JkFeyEC6VXV",
@@ -1612,6 +1831,7 @@
         "status": "Oral",
         "keywords": "Model-Based Reinforcement Learning;Real-World Robotics",
         "author": "",
+        "aff": "University of California San Diego; University of California San Diego, Tsinghua University",
         "rating": "6;6;10;10",
         "confidence": "4;3;3;3",
         "correctness": "",
@@ -1625,7 +1845,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://yunhaifeng.com/FOWM",
+        "github": ""
     },
     {
         "id": "K8cGp8rVLIP",
@@ -1634,6 +1856,7 @@
         "status": "Poster",
         "keywords": "Deformable Object Manipulation;Manipulation Planning",
         "author": "",
+        "aff": "Georgia Institute of Technology",
         "rating": "6;6;6;6",
         "confidence": "3;3;3;3",
         "correctness": "",
@@ -1647,7 +1870,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/nfd-corl23/",
+        "github": ""
     },
     {
         "id": "MF_cS7TCYk",
@@ -1656,6 +1881,7 @@
         "status": "Poster",
         "keywords": "trajectory prediction;rule-based planning",
         "author": "",
+        "aff": "Stanford University; NVIDIA Research",
         "rating": "6;6;6",
         "confidence": "3;5;4",
         "correctness": "",
@@ -1669,7 +1895,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "MnANx01rV2w",
@@ -1678,6 +1906,7 @@
         "status": "Poster",
         "keywords": "Jumping;Legged Locomotion;Reinforcement Learning",
         "author": "",
+        "aff": "University of Washington; Carnegie Mellon University; Google Deepmind",
         "rating": "4;6;6",
         "confidence": "4;5;5",
         "correctness": "",
@@ -1691,7 +1920,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9999999999999997,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://7th-conference-on-robot-learning-coral-2023.squarespace.com/",
+        "github": ""
     },
     {
         "id": "N3VbFUpwaa",
@@ -1700,6 +1931,7 @@
         "status": "Poster",
         "keywords": "Heterogeneity;Multi-Robot Teaming;Generalization",
         "author": "",
+        "aff": "University of Texas at Austin; Georgia Institute of Technology",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -1713,7 +1945,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/cap-comm",
+        "github": ""
     },
     {
         "id": "Nii0_rRJwN",
@@ -1722,6 +1956,7 @@
         "status": "Poster",
         "keywords": "Contact-rich Manipulation;Visual-language guided policies",
         "author": "",
+        "aff": "Robotics Department, University of Michigan; Google Deepmind",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -1735,7 +1970,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://www.mmintlab.com/calamari",
+        "github": ""
     },
     {
         "id": "PK2debCKaG",
@@ -1744,6 +1981,7 @@
         "status": "Poster",
         "keywords": "Self-driving;Content generation;Large language model",
         "author": "",
+        "aff": "NVIDIA; UT Austin",
         "rating": "6;6;6;10",
         "confidence": "3;4;3;3",
         "correctness": "",
@@ -1757,7 +1995,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://ariostgx.github.io/lctgen",
+        "github": "https://github.com/ariostgx/lctgen"
     },
     {
         "id": "PalhNjBJqv",
@@ -1766,6 +2006,7 @@
         "status": "Poster",
         "keywords": "Soft robots;Non-parametric modelling;Optimal control",
         "author": "",
+        "aff": "School of Informatics, University of Edinburgh, UK; Department of Computer Science, University College London, UK",
         "rating": "6;6;6",
         "confidence": "3;4;4",
         "correctness": "",
@@ -1779,7 +2020,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "PsV65r0itpo",
@@ -1788,6 +2031,7 @@
         "status": "Poster",
         "keywords": "navigation;language models;planning;semantics",
         "author": "",
+        "aff": "University of Warsaw; Google DeepMind; UC Berkeley, Google DeepMind; UC Berkeley",
         "rating": "4;6;6;10",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -1801,7 +2045,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.13245323570650439,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "sites.google.com/view/lfg-nav/",
+        "github": ""
     },
     {
         "id": "PwqiqaaEzJ",
@@ -1810,6 +2056,7 @@
         "status": "Poster",
         "keywords": "Multimodal Learning;Task Specification;Manipulation",
         "author": "",
+        "aff": "The University of Texas at Austin",
         "rating": "6;6;6",
         "confidence": "3;4;4",
         "correctness": "",
@@ -1823,7 +2070,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://ut-austin-rpl.github.io/MUTEX/",
+        "github": "https://github.com/ut-austin-rpl/MUTEX"
     },
     {
         "id": "Pwsm7d0iWJD",
@@ -1832,6 +2081,7 @@
         "status": "Poster",
         "keywords": "Imitation learning;Safe learning;Motion planning;Dynamical system;Semidefinite programming;Robotic manipulation",
         "author": "",
+        "aff": "School of Computer Science, McGill University; Department of Electrical and Computer Engineering, McGill University",
         "rating": "6;6;6;6",
         "confidence": "5;5;5;5",
         "correctness": "",
@@ -1845,7 +2095,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "Q8BGLiWn2X",
@@ -1854,6 +2106,7 @@
         "status": "Poster",
         "keywords": "Robot learning;Robotic manipulation;Visuomotor representations",
         "author": "",
+        "aff": "Stanford University, gwthomas@stanford.edu. Work done partly while at Microsoft Research.; Microsoft Research, akolobov@microsoft.com; dexman.ai, mihai@dexman.ai. Work done partly while at Microsoft Research.; Microsoft Research, chinganc@microsoft.com; Microsoft Research, vivineet@microsoft.com; Microsoft Research, riloynd@microsoft.com; Microsoft Research, fevieira@microsoft.com",
         "rating": "4;4;10;10",
         "confidence": "5;3;4;4",
         "correctness": "",
@@ -1867,7 +2120,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "Q9ezhChqnL",
@@ -1876,6 +2131,7 @@
         "status": "Poster",
         "keywords": "Self-Driving;Coverage;Testing",
         "author": "",
+        "aff": "Waabi, University of Toronto; University of Toronto",
         "rating": "4;6;6;6",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -1889,7 +2145,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "QG_ERxtDAP-",
@@ -1898,6 +2156,7 @@
         "status": "Poster",
         "keywords": "Curiosity;Reinforcement Learning;Wheeled-Legged Robots",
         "author": "",
+        "aff": "Robotic Systems Lab, ETH Zurich, Switzerland",
         "rating": "6;6;6;6",
         "confidence": "5;4;4;4",
         "correctness": "",
@@ -1911,7 +2170,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://youtu.be/Qob2kldLuw",
+        "github": ""
     },
     {
         "id": "QNPuJZyhFE",
@@ -1920,6 +2181,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Task and Motion Planning;Transformers",
         "author": "",
+        "aff": "NVIDIA; Carnegie Mellon University",
         "rating": "4;6;6;6",
         "confidence": "4;3;4;3",
         "correctness": "",
@@ -1933,7 +2195,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://mihdalal.github.io/optimus/",
+        "github": "https://github.com/mihdalal/optimus"
     },
     {
         "id": "RN00jfIV-X",
@@ -1942,6 +2206,7 @@
         "status": "Poster",
         "keywords": "In-Hand Object Rotation;Tactile Sensing;Reinforcement Learning;Sim2Real;Transformer;Visuotactile Manipulation",
         "author": "",
+        "aff": "Meta AI, CMU; TU Dresden, The Centre for Tactile Internet with Human-in-the-Loop (CeTI); UC Berkeley, Meta AI; Meta AI; UC Berkeley",
         "rating": "4;6;6;10",
         "confidence": "5;4;3;3",
         "correctness": "",
@@ -1955,7 +2220,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.7608859102526822,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://haozhi.io/rotateit/",
+        "github": ""
     },
     {
         "id": "RQ_7yVV8vA",
@@ -1964,6 +2231,7 @@
         "status": "Poster",
         "keywords": "Locomotion;Vision;Navigation;Reinforcement Learning",
         "author": "",
+        "aff": "Improbable AI Lab, Massachusetts Institute of Technology",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;5",
         "correctness": "",
@@ -1977,7 +2245,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://gmargo11.github.io/active-sensing-loco",
+        "github": "https://github.com/gmargo11/active-sensing-loco"
     },
     {
         "id": "RaNAaxZfKi8",
@@ -1986,6 +2256,7 @@
         "status": "Poster",
         "keywords": "3D manipulation;imitation learning;shape warping",
         "author": "",
+        "aff": "Brown University; Northeastern University; University of Amsterdam; Google DeepMind; Microsoft Research",
         "rating": "6;6;6;10",
         "confidence": "5;5;3;3",
         "correctness": "",
@@ -1999,7 +2270,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://shapewarping.github.io",
+        "github": ""
     },
     {
         "id": "Rb0nGIt_kh5",
@@ -2008,6 +2281,7 @@
         "status": "Oral",
         "keywords": "Neural Fields;Foundation Models;Scene Understanding;Robot Manipulation",
         "author": "",
+        "aff": "MIT CSAIL; MIT CSAIL, Institute for Artificial Intelligence and Fundamental Interactions",
         "rating": "6;6;10;10",
         "confidence": "3;4;4;5",
         "correctness": "",
@@ -2021,7 +2295,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.7071067811865475,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://f3rm.csail.mit.edu",
+        "github": ""
     },
     {
         "id": "RcZMI8MSyE",
@@ -2030,6 +2306,7 @@
         "status": "Poster",
         "keywords": "large language models;in-context learning;language for robotics",
         "author": "",
+        "aff": "Stanford University; Google DeepMind",
         "rating": "4;4;6;10",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -2043,7 +2320,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.40824829046386296,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://general-pattern-machines.github.io",
+        "github": "https://github.com/general-pattern-machines"
     },
     {
         "id": "SgTPdyehXMA",
@@ -2052,6 +2331,7 @@
         "status": "Oral",
         "keywords": "Large language model (LLM);Low-level skill learning;Legged locomotion;Dexterous manipulation",
         "author": "",
+        "aff": "Google DeepMind",
         "rating": "4;6;6",
         "confidence": "3;4;4",
         "correctness": "",
@@ -2065,7 +2345,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9999999999999998,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://language-to-reward.github.io/",
+        "github": ""
     },
     {
         "id": "TWgoGdubPN",
@@ -2074,6 +2356,7 @@
         "status": "Poster",
         "keywords": "Model-based Reinforcement Learning;Feedback Control;Quadrupedal Locomotion",
         "author": "",
+        "aff": "Aerospace Engineering, University of Texas at Austin; Oden Institute, University of Texas at Austin",
         "rating": "6;6;10;10",
         "confidence": "3;3;3;4",
         "correctness": "",
@@ -2087,7 +2370,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/CLeARoboticsLab/LearningWithSimpleModels.jl"
     },
     {
         "id": "TgJ8vJUVUBR",
@@ -2096,6 +2381,7 @@
         "status": "Poster",
         "keywords": "autonomous driving;multi-agent reinforcement learning;counterfactual reasoning",
         "author": "",
+        "aff": "Alibaba DAMO Academy, University of Hong Kong China; Netease Fuxi Robotics China; Huzhou Institute of Zhejiang University, Zhejiang University China; Autonomous Driving Lab, Alibaba DAMO Academy China; College of Control Science and Engineering, Zhejiang University China",
         "rating": "4;4;6;10",
         "confidence": "4;3;3;5",
         "correctness": "",
@@ -2109,7 +2395,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.7385489458759963,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "Tka2U40pHz0",
@@ -2118,6 +2406,7 @@
         "status": "Poster",
         "keywords": "Legged Robotics;Bayesian Optimization;Controller Tuning;Locomotion;Machine Learning;Safe Learning",
         "author": "",
+        "aff": "ETH Z\u00fcrich",
         "rating": "4;6;6;6",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -2131,7 +2420,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "UVARkqnsDd",
@@ -2140,6 +2431,7 @@
         "status": "Poster",
         "keywords": "Map Construction;Multi-view Perception;Long-range Perception",
         "author": "",
+        "aff": "Electronic Information School, Wuhan University; School of Geodesy and Geomatics, Wuhan University",
         "rating": "4;6;6;6",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -2153,7 +2445,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/jingy1yu/ScalableMap"
     },
     {
         "id": "UZpWSDA3tZJ",
@@ -2162,6 +2456,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Learning from Demonstration;Assistive Robotics",
         "author": "",
+        "aff": "Oregon State University; University of Washington",
         "rating": "6;6;6;6",
         "confidence": "4;4;2;4",
         "correctness": "",
@@ -2175,7 +2470,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "VH6WIPF4Sj",
@@ -2184,6 +2481,7 @@
         "status": "Oral",
         "keywords": "Robotic Manipulation;Model Learning;Graph-Based Neural Dynamics;Multi-Object Interactions",
         "author": "",
+        "aff": "University of Illinois, Urbana-Champaign",
         "rating": "6;6;6;10",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -2197,7 +2495,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "VLihM67Wdi6",
@@ -2206,6 +2506,7 @@
         "status": "Poster",
         "keywords": "Vision-based Navigation;Representation Learning;Learning from Experience",
         "author": "",
+        "aff": "Cornell University, Ithaca, NY, USA; Army Research Laboratory, Austin, TX, USA; The University of Texas at Austin, Austin, TX, USA; Sony AI, North America",
         "rating": "4;6;6;10",
         "confidence": "5;4;4;4",
         "correctness": "",
@@ -2219,7 +2520,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.6622661785325219,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://hareshkarnan.github.io/sterling/",
+        "github": ""
     },
     {
         "id": "VscdYkKgwdH",
@@ -2228,6 +2531,7 @@
         "status": "Poster",
         "keywords": "Distributed control;Control barrier functions;Graph neural networks",
         "author": "",
+        "aff": "Department of Aeronautics and Astronautics, Massachusetts Institute of Technology",
         "rating": "4;6;6;6;6",
         "confidence": "4;4;4;2;5",
         "correctness": "",
@@ -2241,7 +2545,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.1020620726159658,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://mit-realm.github.io/gcbf-website/",
+        "github": ""
     },
     {
         "id": "VtJqMs9ig20",
@@ -2250,6 +2556,7 @@
         "status": "Poster",
         "keywords": "Safety-Critical Scenario Generation;Adversarial Training;End-to-End Driving",
         "author": "",
+        "aff": "The University of Edinburgh; UCLA; Tsinghua University",
         "rating": "6;6;6;10",
         "confidence": "3;3;3;4",
         "correctness": "",
@@ -2263,7 +2570,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://metadriverse.github.io/cat"
     },
     {
         "id": "VtUZ4VGPns",
@@ -2272,6 +2581,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Fleet Learning;Energy-Based Models",
         "author": "",
+        "aff": "Siemens Research Lab; AUTOLab at UC Berkeley",
         "rating": "6;6;10",
         "confidence": "3;5;4",
         "correctness": "",
@@ -2285,7 +2595,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "W0zgY2mBTA8",
@@ -2294,6 +2606,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Imitation Learning;Transformers;Diffusion Models",
         "author": "",
+        "aff": "School of Computer Science, Carnegie Mellon University",
         "rating": "4;6;6",
         "confidence": "4;4;4",
         "correctness": "",
@@ -2307,7 +2620,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "chained-diffuser.github.io",
+        "github": "https://github.com/chained-diffuser/chained-diffuser.github.io"
     },
     {
         "id": "W5SrUCN0yUa",
@@ -2316,6 +2631,7 @@
         "status": "Poster",
         "keywords": "Inverse Reinforcement Learning;Bayesian Inference;Robustness",
         "author": "",
+        "aff": "Texas A&M University; University of Minnesota; University of Wisconsin",
         "rating": "4;6;6;6",
         "confidence": "3;4;3;5",
         "correctness": "",
@@ -2329,7 +2645,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5222329678670935,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/rw422scarlet/bmirl_tf"
     },
     {
         "id": "W7eg2NqFJ60",
@@ -2338,6 +2656,7 @@
         "status": "Poster",
         "keywords": "Assistive Robot;Autonomous Navigation;Interaction Modeling",
         "author": "",
+        "aff": "Georgia Institute of Technology; Google DeepMind",
         "rating": "4;6;10",
         "confidence": "4;3;4",
         "correctness": "",
@@ -2351,7 +2670,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.18898223650461363,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "W8MjsxHrDpL",
@@ -2360,6 +2681,7 @@
         "status": "Poster",
         "keywords": "Learning Abstractions;Mobile Manipulation",
         "author": "",
+        "aff": "University of the Witwatersrand; Brown University",
         "rating": "6;6;6;6",
         "confidence": "4;2;4;3",
         "correctness": "",
@@ -2373,7 +2695,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "WGSR7HDuHu",
@@ -2382,6 +2706,7 @@
         "status": "Poster",
         "keywords": "Imitation from Observation;Learning from Demonstration",
         "author": "",
+        "aff": "Robotic Embedded Systems Laboratory, University of Southern California; Robotic Embedded Systems Laboratory, University of Southern California; Amazon Scholar",
         "rating": "6;6;6;6",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -2395,7 +2720,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "An overview is on this website (URL not provided in the text)",
+        "github": ""
     },
     {
         "id": "WWiKBdcpNd",
@@ -2404,6 +2731,7 @@
         "status": "Oral",
         "keywords": "state estimation;deformable manipulation",
         "author": "",
+        "aff": "Toyota Research Institute; University of California, Berkeley; Carnegie Mellon University",
         "rating": "6;10;10",
         "confidence": "3;5;4",
         "correctness": "",
@@ -2417,7 +2745,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8660254037844385,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/cable-tracing",
+        "github": ""
     },
     {
         "id": "WmF-fagWdD",
@@ -2426,6 +2756,7 @@
         "status": "Poster",
         "keywords": "skill discovery;causal learning;manipulation",
         "author": "",
+        "aff": "The Robotics Institute, Carnegie Mellon University",
         "rating": "6;6;6;6",
         "confidence": "4;3;4;2",
         "correctness": "",
@@ -2439,7 +2770,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "WuBv9-IGDUA",
@@ -2448,6 +2781,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Learning for manipulation",
         "author": "",
+        "aff": "Robotics Institute, Carnegie Mellon University",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;5",
         "correctness": "",
@@ -2461,7 +2795,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9271726499455306,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "X0cmlTh1Vl",
@@ -2470,6 +2806,7 @@
         "status": "Poster",
         "keywords": "imitation learning;waypoints;long-horizon",
         "author": "",
+        "aff": "Department of Computer Science, Stanford University",
         "rating": "4;6;6",
         "confidence": "5;5;4",
         "correctness": "",
@@ -2483,7 +2820,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.4999999999999999,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://lucys0.github.io/awe/",
+        "github": "https://github.com/lucys0/awe"
     },
     {
         "id": "X7okQlJz9M",
@@ -2492,6 +2831,7 @@
         "status": "Poster",
         "keywords": "seeing-eye robot;robotic guide dog;human-robot interaction;quadruped locomotion",
         "author": "",
+        "aff": "Binghamton University",
         "rating": "4;6;6;10;10",
         "confidence": "5;4;4;5;5",
         "correctness": "",
@@ -2505,7 +2845,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.408248290463863,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://bu-air-lab.github.io/guide_dog/",
+        "github": ""
     },
     {
         "id": "XEw-cnNsr6",
@@ -2514,6 +2856,7 @@
         "status": "Oral",
         "keywords": "Quadrotor;Reinforcement Learning;Adaptive Control",
         "author": "",
+        "aff": "University of Washington; Carnegie Mellon University",
         "rating": "6;6;10;10",
         "confidence": "4;4;5;5",
         "correctness": "",
@@ -2527,7 +2870,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/deep-adaptive-traj-tracking",
+        "github": "https://github.com/KevinHuang8/DATT"
     },
     {
         "id": "XMQgwiJ7KSX",
@@ -2536,6 +2881,7 @@
         "status": "Poster",
         "keywords": "vision-language models;robot manipulation;generalization",
         "author": "",
+        "aff": "",
         "rating": "6;6;6;6",
         "confidence": "5;3;4;5",
         "correctness": "",
@@ -2549,7 +2895,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "XsWGVbPfB4Z",
@@ -2558,6 +2906,7 @@
         "status": "Poster",
         "keywords": "Panoptic Segmentation;Sensor Fusion;Temporal Reasoning;Autonomous Driving",
         "author": "",
+        "aff": "Waabi, University of Toronto, RWTH Aachen University; Waabi, University of Toronto; University of Toronto",
         "rating": "4;6;6;10",
         "confidence": "5;5;4;5",
         "correctness": "",
@@ -2571,7 +2920,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.13245323570650439,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://waabi.ai/4dformer",
+        "github": ""
     },
     {
         "id": "ZFjgfJb_5c",
@@ -2580,6 +2931,7 @@
         "status": "Poster",
         "keywords": "task and motion planning;lifelong learning;generative models",
         "author": "",
+        "aff": "MIT CSAIL",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -2593,7 +2945,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "_A15qsPswaK",
@@ -2602,6 +2956,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Robotics;Manipulation",
         "author": "",
+        "aff": "Stanford University, Stanford CA",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -2615,7 +2970,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://tinyurl.com/3mc6793z",
+        "github": ""
     },
     {
         "id": "_DYsYC9smK",
@@ -2624,6 +2981,7 @@
         "status": "Poster",
         "keywords": "Suction Grasping;Manipulation;Deep Learning;Vision",
         "author": "",
+        "aff": "The University of Washington",
         "rating": "6;6;6;6",
         "confidence": "5;4;3;5",
         "correctness": "",
@@ -2637,7 +2995,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/dynamo-grasp",
+        "github": "https://github.com/dynamo-grasp/dynamo-grasp"
     },
     {
         "id": "_gZLyRGGuo",
@@ -2646,6 +3006,7 @@
         "status": "Poster",
         "keywords": "Learning for TAMP;Abstraction Learning;Long-horizon Problems",
         "author": "",
+        "aff": "Meta AI; MIT CSAIL",
         "rating": "6;6;10;10",
         "confidence": "5;3;4;2",
         "correctness": "",
@@ -2659,7 +3020,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.4472135954999579,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "_xFJuqBId8c",
@@ -2668,6 +3031,7 @@
         "status": "Poster",
         "keywords": "Object Rearrangement;Multi-modality;Manipulation;Point Clouds;Relations;Diffusion",
         "author": "",
+        "aff": "Massachusetts Institute of Technology, Improbable AI Lab; NVIDIA; Massachusetts Institute of Technology",
         "rating": "6;6;6;6;10",
         "confidence": "3;3;2;4;2",
         "correctness": "",
@@ -2681,7 +3045,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5345224838248488,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://anthonysimeonov.github.io/rpdiff-multi-modal",
+        "github": "https://github.com/anthonysimeonov/rpdiff-multi-modal"
     },
     {
         "id": "a0mFRgadGO",
@@ -2690,6 +3056,7 @@
         "status": "Oral",
         "keywords": "Reinforcement Learning;Skill Learning;Large Language Models",
         "author": "",
+        "aff": "Google AI; KAIST; National Taiwan University; University of Southern California",
         "rating": "6;6;10",
         "confidence": "3;4;4",
         "correctness": "",
@@ -2703,7 +3070,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "http://clvrai.com/boss",
+        "github": ""
     },
     {
         "id": "afF8RGcBBP",
@@ -2712,6 +3081,7 @@
         "status": "Poster",
         "keywords": "Diffusion Models;Learning from Play;Language-Driven Robotics",
         "author": "",
+        "aff": "Carnegie Mellon University",
         "rating": "4;6;6;6",
         "confidence": "5;3;4;4",
         "correctness": "",
@@ -2725,7 +3095,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.816496580927726,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://play-fusion.github.io",
+        "github": "https://github.com/play-fusion"
     },
     {
         "id": "b-cto-fetlz",
@@ -2734,6 +3106,7 @@
         "status": "Poster",
         "keywords": "benchmark;mobile manipulation;sim2real",
         "author": "",
+        "aff": "FAIR, Meta AI; FAIR, Meta AI, Carnegie Mellon; Georgia Tech; Georgia Tech, FAIR, Meta AI; Carnegie Mellon; Simon Fraser",
         "rating": "6;6;6;6",
         "confidence": "3;4;4;4",
         "correctness": "",
@@ -2747,7 +3120,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://ovmm.github.io/",
+        "github": "https://github.com/ovmm"
     },
     {
         "id": "b1tl3aOt2R2",
@@ -2756,6 +3131,7 @@
         "status": "Oral",
         "keywords": "Robotic Manipulation;Neural Radiance Field;Behavior Cloning",
         "author": "",
+        "aff": "University of Hong Kong; UC San Diego; AWS AI, Amazon; Shanghai Jiao Tong University",
         "rating": "6;6;6;10",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -2769,7 +3145,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "yanjieze.com/GNFactor",
+        "github": ""
     },
     {
         "id": "bIvIUNH9VQ",
@@ -2778,6 +3156,7 @@
         "status": "Oral",
         "keywords": "Adversarial Attacks;Multi-Agent Reinforcement Learning",
         "author": "",
+        "aff": "Georgia Institute of Technology, Atlanta, GA, USA",
         "rating": "10;10;10;10",
         "confidence": "2;4;3;4",
         "correctness": "",
@@ -2791,7 +3170,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "cjEI5qXoT0",
@@ -2800,6 +3181,7 @@
         "status": "Poster",
         "keywords": "Open-Vocabulary Semantic;Scene Graph;Object Grounding",
         "author": "",
+        "aff": "Rutgers University; Drexel University",
         "rating": "6;6;6",
         "confidence": "5;4;3",
         "correctness": "",
@@ -2813,7 +3195,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/changhaonan/OVSG"
     },
     {
         "id": "ckeT8cMz_A",
@@ -2822,6 +3206,7 @@
         "status": "Poster",
         "keywords": "Dexterous Manipulation;Reinforcement Learning;Sample-Efficient RL",
         "author": "",
+        "aff": "University of Washington; Meta AI Research; UC Berkeley",
         "rating": "6;6;6;6",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -2835,7 +3220,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/reboot-dexterous",
+        "github": ""
     },
     {
         "id": "dIgCPoy8E3",
@@ -2844,6 +3231,7 @@
         "status": "Poster",
         "keywords": "3D object detection;Model Generalization;Autonomous Driving",
         "author": "",
+        "aff": "Shanghai Qi Zhi Institute, UC San Diego; Shanghai AI Lab, IIIS, Tsinghua University; IIIS, Tsinghua University; University of Southern California",
         "rating": "4;4;6;10",
         "confidence": "3;3;4;4",
         "correctness": "",
@@ -2857,7 +3245,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.8164965809277259,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "dgwvY3H8PAS",
@@ -2866,6 +3256,7 @@
         "status": "Poster",
         "keywords": "Bimanual Dexterous Manipulation;Sim-to-Real Transfer",
         "author": "",
+        "aff": "UC San Diego; Peking University",
         "rating": "6;10;10;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -2879,7 +3270,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://binghao-huang.github.io/dynamic_handover/",
+        "github": ""
     },
     {
         "id": "diOr96f65N",
@@ -2888,6 +3281,7 @@
         "status": "Poster",
         "keywords": "assistive robots;safety;human-robot interaction;adversarial robustness",
         "author": "",
+        "aff": "University of Utah; University of California Berkeley; Carnegie Mellon University",
         "rating": "4;6;6;10",
         "confidence": "5;4;2;3",
         "correctness": "",
@@ -2901,7 +3295,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5129891760425771,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://ood-human.github.io",
+        "github": "https://github.com/ood-human"
     },
     {
         "id": "dk-2R1f_LR",
@@ -2910,6 +3306,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Manipulation",
         "author": "",
+        "aff": "NVIDIA; NVIDIA, The University of Texas at Austin; The University of Texas at Austin",
         "rating": "4;6;6;6",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -2923,7 +3320,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://mimicgen.github.io",
+        "github": "https://github.com/mimicgen"
     },
     {
         "id": "dxOaNO8bge",
@@ -2932,6 +3331,7 @@
         "status": "Poster",
         "keywords": "Command Following;Multimodal Representation;Reinforcement Learning;Human-in-the-Loop",
         "author": "",
+        "aff": "University of Illinois at Urbana-Champaign",
         "rating": "4;6;6;6;10",
         "confidence": "3;3;4;4;3",
         "correctness": "",
@@ -2945,7 +3345,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.16666666666666663,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "eE3fsO5Mi2",
@@ -2954,6 +3356,7 @@
         "status": "Poster",
         "keywords": "Reconnaissance;Adversarial Search;Multi-robot;Active Learning",
         "author": "",
+        "aff": "Carnegie Mellon University",
         "rating": "4;6;6;6",
         "confidence": "4;4;2;4",
         "correctness": "",
@@ -2967,7 +3370,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "efaE7iJ2GJv",
@@ -2976,6 +3381,7 @@
         "status": "Poster",
         "keywords": "Robotic manipulation;3D point clouds;language-guided policy",
         "author": "",
+        "aff": "Inria, Ecole normale sup\u00e9rieure, CNRS, PSL Research University",
         "rating": "6;6;6;6",
         "confidence": "3;4;3;3",
         "correctness": "",
@@ -2989,7 +3395,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://www.di.ens.fr/willow/research/polarnet/",
+        "github": ""
     },
     {
         "id": "eyykI3UIHa",
@@ -2998,6 +3406,7 @@
         "status": "Poster",
         "keywords": "Brain-Robot Interface;Human-Robot Interaction",
         "author": "",
+        "aff": "Department of Computer Science, Stanford University; Institute for Human-Centered AI (HAI), Stanford University; Department of Computer Science, Stanford University; Department of Mechanical Engineering, Stanford University; Department of Psychology, Stanford University",
         "rating": "4;6;6;6",
         "confidence": "3;3;4;4",
         "correctness": "",
@@ -3011,7 +3420,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://noir-corl.github.io/",
+        "github": ""
     },
     {
         "id": "f55MlAT1Lu",
@@ -3020,6 +3431,7 @@
         "status": "Poster",
         "keywords": "Datasets;Manipulation;Imitation Learning;Offline Reinforcement Learning",
         "author": "",
+        "aff": "Google DeepMind; Stanford; CMU; UC Berkeley",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;5",
         "correctness": "",
@@ -3033,7 +3445,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.9271726499455306,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://rail-berkeley.github.io/bridgedata/",
+        "github": ""
     },
     {
         "id": "fNLBmtyBiC",
@@ -3042,6 +3456,7 @@
         "status": "Poster",
         "keywords": "Automatic design tools;root-cause failure analysis;optimization-as-inference",
         "author": "",
+        "aff": "Department of Aeronautics and Astronautics, MIT United States",
         "rating": "1;6;6;6",
         "confidence": "4;3;4;3",
         "correctness": "",
@@ -3055,7 +3470,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://mit-realm.github.io/breaking-things/",
+        "github": ""
     },
     {
         "id": "fSmkKmWM5Ry",
@@ -3064,6 +3481,7 @@
         "status": "Poster",
         "keywords": "Environment Prediction;Probabilistic Inference;Robot Learning",
         "author": "",
+        "aff": "Department of Mechanical Engineering, Temple University United States",
         "rating": "4;6;6;6",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -3077,7 +3495,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/TempleRAIL/SOGMP"
     },
     {
         "id": "fa7FzDjhzs9",
@@ -3086,6 +3506,7 @@
         "status": "Oral",
         "keywords": "Action Representation;Reinforcement Learning with 3D Vision;Non-prehensile Manipulation",
         "author": "",
+        "aff": "Robotics Institute, Carnegie Mellon University; Meta AI",
         "rating": "6;10;10;10",
         "confidence": "5;4;5;4",
         "correctness": "",
@@ -3099,7 +3520,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://hacman-2023.github.io",
+        "github": ""
     },
     {
         "id": "flyQ0v8cgC",
@@ -3108,6 +3531,7 @@
         "status": "Oral",
         "keywords": "Continual Learning;Symmetry;Manipulation",
         "author": "",
+        "aff": "R&D, Toyota Motor North America; Carnegie Mellon University",
         "rating": "10;10;10;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -3121,7 +3545,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/rl-covers/",
+        "github": ""
     },
     {
         "id": "fvXFBCHVGn",
@@ -3130,6 +3556,7 @@
         "status": "Poster",
         "keywords": "Multi-Agent;Reinforcement Learning;Sim-to-Real Transfer;Autonomous Racing",
         "author": "",
+        "aff": "Toyota Research Institute; MIT LIDS; Not specified; UofT RI; MIT CSAIL",
         "rating": "6;6;6;10",
         "confidence": "4;4;5;5",
         "correctness": "",
@@ -3143,7 +3570,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/dynmutr/home",
+        "github": ""
     },
     {
         "id": "fviZhMCr62",
@@ -3152,6 +3581,7 @@
         "status": "Poster",
         "keywords": "Natural language;navigation;contextual navigation",
         "author": "",
+        "aff": "Department of Computer Science, University of Colorado Boulder; Department of Computer Science, University of Colorado Boulder, United States",
         "rating": "4;6;6;6",
         "confidence": "5;4;3;4",
         "correctness": "",
@@ -3165,7 +3595,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.816496580927726,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "gFXVysXh48K",
@@ -3174,6 +3606,7 @@
         "status": "Poster",
         "keywords": "Contact-rich Manipulation;Compliance Control",
         "author": "",
+        "aff": "Department of Mechanical Engineering, University of California at Berkeley, United States",
         "rating": "4;6;6;10",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -3187,7 +3620,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/admitlearn",
+        "github": ""
     },
     {
         "id": "gVBvtRqU1_",
@@ -3196,6 +3631,7 @@
         "status": "Poster",
         "keywords": "Open-Vocabulary;3D Instance Retrieval",
         "author": "",
+        "aff": "Rutgers University",
         "rating": "6;6;6;6",
         "confidence": "4;4;5;4",
         "correctness": "",
@@ -3209,7 +3645,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/shiyoung77/OVIR-3D"
     },
     {
         "id": "g_PPHV_GkX",
@@ -3218,6 +3656,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Robot Learning and Planning",
         "author": "",
+        "aff": "Technion \u2014 Israel Institute of Technology, Haifa, Israel",
         "rating": "4;6;6;10",
         "confidence": "4;4;3;3",
         "correctness": "",
@@ -3231,7 +3670,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.6882472016116854,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "gdkKi_F55h",
@@ -3240,6 +3681,7 @@
         "status": "Poster",
         "keywords": "",
         "author": "",
+        "aff": "Bosch Center for Artificial Intelligence; Autonomous Learning Robots, KIT",
         "rating": "6;6;6;10",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -3253,7 +3695,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "h-geaPzuJu",
@@ -3262,6 +3706,7 @@
         "status": "Poster",
         "keywords": "Learning from Heterogeneous Demonstration;Network Distillation;Offline Imitation Learning",
         "author": "",
+        "aff": "School of Interactive Computing, Georgia Institute of Technology; Jet Propulsion Laboratory, California Institute of Technology",
         "rating": "4;6;6;6",
         "confidence": "3;4;3;3",
         "correctness": "",
@@ -3275,7 +3720,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "h8halpbqB-",
@@ -3284,6 +3731,7 @@
         "status": "Poster",
         "keywords": "contact perception;manipulation;vision-based",
         "author": "",
+        "aff": "GRASP Laboratory, University of Pennsylvania, USA",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -3297,7 +3745,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/im2contact/home",
+        "github": ""
     },
     {
         "id": "hRZ1YjDZmTo",
@@ -3306,6 +3756,7 @@
         "status": "Oral",
         "keywords": "Imitation Learning;Learning from Human;Long-Horizon Manipulation",
         "author": "",
+        "aff": "Caltech; Georgia Tech; NVIDIA; UT Austin; Stanford",
         "rating": "6;10;10;10",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -3319,7 +3770,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://mimic-play.github.io"
     },
     {
         "id": "i84V7i6KEMd",
@@ -3328,6 +3781,7 @@
         "status": "Poster",
         "keywords": "human-in-the-loop learning;preference-based RL;RLHF",
         "author": "",
+        "aff": "Apple, California, USA",
         "rating": "6;6;6;6",
         "confidence": "3;4;4;4",
         "correctness": "",
@@ -3341,7 +3795,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/apple/ml-reed"
     },
     {
         "id": "ihqTtzS83VS",
@@ -3350,6 +3806,7 @@
         "status": "Poster",
         "keywords": "Contact Modeling and Manipulation;Task and Motion Planning",
         "author": "",
+        "aff": "Massachusetts Institute of Technology",
         "rating": "4;6;6;10",
         "confidence": "2;3;3;3",
         "correctness": "",
@@ -3363,7 +3820,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.6622661785325219,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://concepts-ai.com/p/mechanisms",
+        "github": ""
     },
     {
         "id": "j2AQ-WJ_ze",
@@ -3372,6 +3831,7 @@
         "status": "Poster",
         "keywords": "Language-Guided Robot Grasping;Referring Grasp Synthesis;Visual Grounding",
         "author": "",
+        "aff": "University of Groningen; University College London; University of Edinburgh",
         "rating": "6;6;10",
         "confidence": "4;4;5",
         "correctness": "",
@@ -3385,7 +3845,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "k-Fg8JDQmc",
@@ -3394,6 +3856,7 @@
         "status": "Oral",
         "keywords": "NeRF;Natural Language;Grasping;Semantics",
         "author": "",
+        "aff": "UC Berkeley",
         "rating": "4;6;10;10",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -3407,7 +3870,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5555555555555555,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "lerftogo.github.io",
+        "github": "https://github.com/lerftogo"
     },
     {
         "id": "kOm3jWX8YN",
@@ -3416,6 +3881,7 @@
         "status": "Poster",
         "keywords": "Imitation Learning;Preference Learning;Manipulation",
         "author": "",
+        "aff": "Georgia Institute of Technology",
         "rating": "4;6;6;6",
         "confidence": "3;4;4;3",
         "correctness": "",
@@ -3429,7 +3895,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "kSXh83gWWy",
@@ -3438,6 +3906,7 @@
         "status": "Poster",
         "keywords": "deep reinforcement learning;mapless navigation;context-aware decision-making",
         "author": "",
+        "aff": "National University of Singapore",
         "rating": "4;6;6;6",
         "confidence": "4;4;3;4",
         "correctness": "",
@@ -3451,7 +3920,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "keAPCON4jHC",
@@ -3460,6 +3931,7 @@
         "status": "Poster",
         "keywords": "Reinforcement Learning;Robustness;Continuous Control;Robotics",
         "author": "",
+        "aff": "Neurorobotics Lab, University of Freiburg; Center for AI Fundamentals, University of Manchester",
         "rating": "6;6;6;6",
         "confidence": "3;3;3;3",
         "correctness": "",
@@ -3473,7 +3945,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "low-53sFqn",
@@ -3482,6 +3956,7 @@
         "status": "Poster",
         "keywords": "Active Learning;Cloud Robotics;Robotic Perception",
         "author": "",
+        "aff": "Department of Electrical and Computer Engineering (ECE), The University of Texas at Austin, Austin, TX",
         "rating": "6;6;6",
         "confidence": "2;3;4",
         "correctness": "",
@@ -3495,7 +3970,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "mTZcxs2O7k",
@@ -3504,6 +3981,7 @@
         "status": "Poster",
         "keywords": "Sensor Fusion;Extrinsic Calibration;Differentiable Optimization",
         "author": "",
+        "aff": "University of Oxford",
         "rating": "6;6;6",
         "confidence": "4;4;3",
         "correctness": "",
@@ -3517,7 +3995,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "n9lew97SAn",
@@ -3526,6 +4006,7 @@
         "status": "Poster",
         "keywords": "Offline Reinforcement Learning;Discretization;Robot Skill Learning",
         "author": "",
+        "aff": "University of California, Berkeley",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -3539,7 +4020,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "saqrl.github.io",
+        "github": ""
     },
     {
         "id": "nKWQnYkkwX",
@@ -3548,6 +4031,7 @@
         "status": "Oral",
         "keywords": "Traffic Simulation;Multi-Agent Diffusion;Large Language Model",
         "author": "",
+        "aff": "NVIDIA Research, Georgia Tech; NVIDIA Research, Stanford University; NVIDIA Research; Columbia University",
         "rating": "4;6;10;10",
         "confidence": "2;3;4;4",
         "correctness": "",
@@ -3561,7 +4045,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.986440050415621,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "nNsZxc2cmO",
@@ -3570,6 +4056,7 @@
         "status": "Poster",
         "keywords": "object disambiguation;instruction following;language interaction;visual navigation",
         "author": "",
+        "aff": "Stanford University; Georgia Institute of Technology; Google DeepMind",
         "rating": "6;6;6;6",
         "confidence": "4;4;5;4",
         "correctness": "",
@@ -3583,7 +4070,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "nyY6UgXYyfF",
@@ -3592,6 +4081,7 @@
         "status": "Poster",
         "keywords": "closed-loop simulation;adversarial robustness;self-driving",
         "author": "",
+        "aff": "Waabi, University of Toronto; Waabi, University of Toronto, Brown University",
         "rating": "4;4;6;10",
         "confidence": "4;3;1;3",
         "correctness": "",
@@ -3605,7 +4095,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.18731716231633877,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://waabi.ai/adv3d/",
+        "github": ""
     },
     {
         "id": "o-K3HVUeEw",
@@ -3614,6 +4106,7 @@
         "status": "Poster",
         "keywords": "Manipulation;Part Decomposition;Diffusion Model",
         "author": "",
+        "aff": "Stanford; MIT; NVIDIA, Georgia Tech; NVIDIA, University of Utah",
         "rating": "1;6;6;6",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -3627,7 +4120,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://cpmcorl2023.github.io/",
+        "github": "https://github.com/cpmcorl2023"
     },
     {
         "id": "o2wNSCTkq0",
@@ -3636,6 +4131,7 @@
         "status": "Poster",
         "keywords": "Deformable Manipulation;Dexterous Manipulation",
         "author": "",
+        "aff": "Stanford University, United States",
         "rating": "6;6;10",
         "confidence": "4;5;4",
         "correctness": "",
@@ -3649,7 +4145,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.4999999999999999,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "o82EXEK5hu6",
@@ -3658,6 +4156,7 @@
         "status": "Poster",
         "keywords": "Motion Planning;Autonomous Driving;Data-driven Simulation",
         "author": "",
+        "aff": "University of T\u00fcbingen, T\u00fcbingen AI Center; University of T\u00fcbingen, Robert Bosch GmbH",
         "rating": "4;4;10;10",
         "confidence": "4;3;4;3",
         "correctness": "",
@@ -3671,7 +4170,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/autonomousvision/tuplan_garage"
     },
     {
         "id": "oqOfLP6bJy",
@@ -3680,6 +4181,7 @@
         "status": "Poster",
         "keywords": "reinforcement learning;robotics;metaworld;unsupervised learning;contrastive learning;noise-contrastive estimation;generative model",
         "author": "",
+        "aff": "Princeton University; Google DeepMind; Apple",
         "rating": "6;6;6;10",
         "confidence": "2;3;3;4",
         "correctness": "",
@@ -3693,7 +4195,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.816496580927726,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "oyWkrG-LD5",
@@ -3702,6 +4206,7 @@
         "status": "Poster",
         "keywords": "Multi-Embodiment;Dexterous Grasping;Graph Neural Networks",
         "author": "",
+        "aff": "University of Toronto, Georgia Institute of Technology; Google DeepMind; University of Toronto",
         "rating": "6;6;6;6",
         "confidence": "5;3;5;3",
         "correctness": "",
@@ -3715,7 +4220,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "http://geo-match.github.io",
+        "github": "https://github.com/geo-match"
     },
     {
         "id": "pLCQkMojXI",
@@ -3724,6 +4231,7 @@
         "status": "Oral",
         "keywords": "robotic assembly;pose estimation;3D perception",
         "author": "",
+        "aff": "Google Deepmind; Columbia University",
         "rating": "6;6;6;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -3737,7 +4245,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://general-part-assembly.github.io/",
+        "github": ""
     },
     {
         "id": "psLlVbTFBua",
@@ -3746,6 +4256,7 @@
         "status": "Poster",
         "keywords": "Articulated objects manipulation;representation learning",
         "author": "",
+        "aff": "Robotics Institute, School of Computer Science, Carnegie Mellon University, United States",
         "rating": "6;6;6;6",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -3759,7 +4270,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://anonymized-website.com",
+        "github": ""
     },
     {
         "id": "psyvs5wdAV",
@@ -3768,6 +4281,7 @@
         "status": "Poster",
         "keywords": "Movement primitives;Manifold;LfD;Equivariance",
         "author": "",
+        "aff": "Seoul National University; Korea Institute for Advanced Study (KIAS)",
         "rating": "6;10;10;10",
         "confidence": "3;4;3;5",
         "correctness": "",
@@ -3781,7 +4295,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5222329678670935,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/dlsfldl/EMMP-public"
     },
     {
         "id": "pw-OTIYrGa",
@@ -3790,6 +4306,7 @@
         "status": "Oral",
         "keywords": "Koopman Operator;Dexterous Manipulation",
         "author": "",
+        "aff": "Georgia Institute of Technology",
         "rating": "6;6;10",
         "confidence": "4;3;3",
         "correctness": "",
@@ -3803,7 +4320,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/kodex-corl",
+        "github": ""
     },
     {
         "id": "q0VAoefCI2",
@@ -3812,6 +4331,7 @@
         "status": "Oral",
         "keywords": "Learning and control;Koopman-based control;Represention learning",
         "author": "",
+        "aff": "Simon Fraser University; University of Melbourne",
         "rating": "6;6;6;10",
         "confidence": "3;5;3;3",
         "correctness": "",
@@ -3825,7 +4345,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "Code and videos are available here.",
+        "github": ""
     },
     {
         "id": "qVc7NWYTRZ6",
@@ -3834,6 +4356,7 @@
         "status": "Poster",
         "keywords": "Visual Representation Learning;Datasets;Manipulation",
         "author": "",
+        "aff": "CMU; FAIR at Meta",
         "rating": "4;6;6;6",
         "confidence": "3;4;4;4",
         "correctness": "",
@@ -3847,7 +4370,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://data4robotics.github.io",
+        "github": ""
     },
     {
         "id": "rOCWUmMBSnH",
@@ -3856,6 +4381,7 @@
         "status": "Poster",
         "keywords": "Reinforcement Learning;Robotic Control;Stability",
         "author": "",
+        "aff": "Tsinghua University, Shanghai Artificial Intelligence Laboratory, Shanghai Qi Zhi Institute; City University of Hong Kong; Covenant University; Tsinghua University",
         "rating": "6;6;6",
         "confidence": "3;3;3",
         "correctness": "",
@@ -3869,7 +4395,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "rPye6EZxmI",
@@ -3878,6 +4406,7 @@
         "status": "Poster",
         "keywords": "Soft Robotics;Reinforcement Learning;Sim-to-Real Transfer;Dynamics and Control",
         "author": "",
+        "aff": "Stanford University",
         "rating": "6;6;10",
         "confidence": "3;4;4",
         "correctness": "",
@@ -3891,7 +4420,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/rl-soft-robot",
+        "github": ""
     },
     {
         "id": "rYZBdBytxBx",
@@ -3900,6 +4431,7 @@
         "status": "Poster",
         "keywords": "Human-Object Interaction;Human-Robot Collaboration;Human Intention",
         "author": "",
+        "aff": "Technische Universit \u00a8at Wien (TU Wien), Autonomous Systems Lab; Technische Universit \u00a8at Wien (TU Wien), Autonomous Systems Lab; Institute of Robotics and Mechatronics (DLR), German Aerospace Center",
         "rating": "4;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -3913,7 +4445,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.3333333333333333,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://evm7.github.io/HOI4ABOT"
     },
     {
         "id": "rpWi4SYGXj",
@@ -3922,6 +4456,7 @@
         "status": "Poster",
         "keywords": "language grounding;temporal reasoning;robot navigation;formal methods",
         "author": "",
+        "aff": "Department of Computer Science, Princeton University, United States; Department of Computer Science, Brown University, United States",
         "rating": "4;6;10;10",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -3935,7 +4470,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.19245008972987526,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://lang2ltl.github.io/",
+        "github": "https://github.com/Lang2LTL"
     },
     {
         "id": "rvh0vkwKUM",
@@ -3944,6 +4481,7 @@
         "status": "Poster",
         "keywords": "Proactive Robot Assistance;User Routine Understanding;Interactive Clarification;Robot Learning",
         "author": "",
+        "aff": "Georgia Institute of Technology",
         "rating": "4;6;10",
         "confidence": "3;2;4",
         "correctness": "",
@@ -3957,7 +4495,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.6546536707079772,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "rxlokRzNWRq",
@@ -3966,6 +4506,7 @@
         "status": "Poster",
         "keywords": "Collaborative Manipulation;Forecasting;Model Predictive Control",
         "author": "",
+        "aff": "Cornell University",
         "rating": "4;6;6;6",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -3979,7 +4520,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://portal-cornell.github.io/manicast/",
+        "github": "https://github.com/portal-cornell/manicast"
     },
     {
         "id": "sLhk0keeiseH",
@@ -3988,6 +4531,7 @@
         "status": "Poster",
         "keywords": "Dynamic manipulation;Self supervised learning;Audio",
         "author": "",
+        "aff": "New York University",
         "rating": "6;6;6;6",
         "confidence": "4;3;3;3",
         "correctness": "",
@@ -4001,7 +4545,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://aurl-anon.github.io/",
+        "github": ""
     },
     {
         "id": "uJqxFjF1xWp",
@@ -4010,6 +4556,7 @@
         "status": "Poster",
         "keywords": "Multi-Agent Perception;Multi-Modal Fusion;Vehicle-to-Everything (V2X) Application",
         "author": "",
+        "aff": "School of Computer Science and Technology, Harbin Institute of Technology, China",
         "rating": "6;6;6;6",
         "confidence": "3;3;1;4",
         "correctness": "",
@@ -4023,7 +4570,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/byzhaoAI/BM2CP"
     },
     {
         "id": "uo937r5eTE",
@@ -4032,6 +4581,7 @@
         "status": "Oral",
         "keywords": "Agile Locomotion;End-to-End Vision-Based Control;Sim-to-Real",
         "author": "",
+        "aff": "Shanghai Qi Zhi, project co-lead; CMU; ShanghaiTech; Tsinghua; Stanford, project co-lead; Stanford",
         "rating": "6;10;10;10",
         "confidence": "4;5;5;5",
         "correctness": "",
@@ -4045,7 +4595,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 1.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robot-parkour.github.io",
+        "github": ""
     },
     {
         "id": "veGdf4L4Xz",
@@ -4054,6 +4606,7 @@
         "status": "Poster",
         "keywords": "Semantic Manipulation;Language Grounding;Keypoint Perception",
         "author": "",
+        "aff": "Stanford University",
         "rating": "6;6;6",
         "confidence": "4;4;3",
         "correctness": "",
@@ -4067,7 +4620,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://tinyurl.com/kite-site",
+        "github": ""
     },
     {
         "id": "vsEWu6mMUhB",
@@ -4076,6 +4631,7 @@
         "status": "Poster",
         "keywords": "Vision and Language Models in Robotics;Mechanical Search;Object search",
         "author": "",
+        "aff": "AUTOLab at the University of California, Berkeley; Google Brain",
         "rating": "4;6;6;10",
         "confidence": "4;5;4;4",
         "correctness": "",
@@ -4089,7 +4645,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.13245323570650439,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "Not provided",
+        "github": "Not provided"
     },
     {
         "id": "w5ONmpgnfG",
@@ -4098,6 +4656,7 @@
         "status": "Poster",
         "keywords": "One-Shot Imitation Learning;Unseen Object Pose Estimation;Robot Manipulation",
         "author": "",
+        "aff": "The Robot Learning Lab, Imperial College London",
         "rating": "6;6;6;6",
         "confidence": "3;3;5;4",
         "correctness": "",
@@ -4111,7 +4670,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "www.robot-learning.uk/pose-estimation-perspective",
+        "github": ""
     },
     {
         "id": "wH23nZpVTF6",
@@ -4120,6 +4681,7 @@
         "status": "Poster",
         "keywords": "Dexterous Manipulation;Reinforcement Learning;Learning from Videos",
         "author": "",
+        "aff": "Carnegie Mellon University",
         "rating": "6;6;6",
         "confidence": "3;3;4",
         "correctness": "",
@@ -4133,7 +4695,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://dexterous-finetuning.github.io",
+        "github": ""
     },
     {
         "id": "wMpOMO0Ss7a",
@@ -4142,6 +4706,7 @@
         "status": "Oral",
         "keywords": "robot task planning;large language models;semantic search;LLM-based planning;3D scene graphs",
         "author": "",
+        "aff": "CSIRO Data61 Robotics and Autonomous Systems Group; University of Adelaide; QUT Centre for Robotics, Queensland University of Technology",
         "rating": "10;10;10;10",
         "confidence": "4;4;5;4",
         "correctness": "",
@@ -4155,7 +4720,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "http://sayplan.github.io",
+        "github": "https://github.com/sayplan"
     },
     {
         "id": "xJ7XL5Wt8iN",
@@ -4164,6 +4731,7 @@
         "status": "Poster",
         "keywords": "Offline Reinforcement Learning;Intrinsic Rewards;Learning Skills",
         "author": "",
+        "aff": "Westlake University; Zhejiang University, Westlake University",
         "rating": "4;6;10;10",
         "confidence": "5;3;4;2",
         "correctness": "",
@@ -4177,7 +4745,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.6024640760767093,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "xQx1O7WXSA",
@@ -4186,6 +4756,7 @@
         "status": "Oral",
         "keywords": "model-based reinforcement learning;planning;robot manipulation",
         "author": "",
+        "aff": "KTH Royal Institute of Technology, Sweden",
         "rating": "6;6;10;10",
         "confidence": "4;4;4;4",
         "correctness": "",
@@ -4199,7 +4770,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "xgrZkRHliXR",
@@ -4208,6 +4781,7 @@
         "status": "Poster",
         "keywords": "tool use;manipulation;design",
         "author": "",
+        "aff": "Department of Computer Science, Stanford University, United States",
         "rating": "4;6;6;10",
         "confidence": "5;5;4;5",
         "correctness": "",
@@ -4221,7 +4795,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.13245323570650439,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://robotic-tool-design.github.io/",
+        "github": ""
     },
     {
         "id": "yGkqN4hqrJ",
@@ -4230,6 +4806,7 @@
         "status": "Poster",
         "keywords": "robotic learning;fine-tuning;generative models",
         "author": "",
+        "aff": "Department of Electrical and Computer Engineering, Technion - Israel Institute of Technology, Haifa, Israel",
         "rating": "4;6;6;6",
         "confidence": "4;3;3;4",
         "correctness": "",
@@ -4243,7 +4820,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "yHlUVHWnBN",
@@ -4252,6 +4831,7 @@
         "status": "Poster",
         "keywords": "Food Manipulation;Robot Scooping;Active Perception",
         "author": "",
+        "aff": "National Yang Ming Chiao Tung University; NVIDIA",
         "rating": "6;6;10;10",
         "confidence": "4;5;4;5",
         "correctness": "",
@@ -4265,7 +4845,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "ycy47ZX0Oc",
@@ -4274,6 +4856,7 @@
         "status": "Poster",
         "keywords": "Mechanical search;Object rearrangement;Prehensile and Non-prehensile manipulation",
         "author": "",
+        "aff": "Korea Institute For Advanced Study; Seoul National University",
         "rating": "4;6;6;10",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -4287,7 +4870,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.9271726499455306,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": "https://github.com/seungyeon-k/Search-for-Grasp-public"
     },
     {
         "id": "yobahDU4HPP",
@@ -4296,6 +4881,7 @@
         "status": "Poster",
         "keywords": "Traf\ufb01c simulation;Imitation learning;Reinforcement learning",
         "author": "",
+        "aff": "Waabi University of Toronto",
         "rating": "4;6;6;6",
         "confidence": "4;5;3;4",
         "correctness": "",
@@ -4309,7 +4895,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "z3D__-nc9y",
@@ -4318,6 +4906,7 @@
         "status": "Poster",
         "keywords": "reset-free reinforcement learning;learning from human feedback",
         "author": "",
+        "aff": "Massachusetts Institute of Technology; University of Washington",
         "rating": "6;6;6;6",
         "confidence": "4;4;4;3",
         "correctness": "",
@@ -4331,7 +4920,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.0,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://guided-exploration-autonomous-rl.github.io/GEAR/",
+        "github": ""
     },
     {
         "id": "zUiH8UUYDo",
@@ -4340,6 +4931,7 @@
         "status": "Poster",
         "keywords": "Gaussian Process;Vehicle Dynamics;Autonomous Vehicle;Deep Kernel Learning",
         "author": "",
+        "aff": "Department of Electrical and Computer Engineering, University of Virginia United States; Department of Computer Science, University of Virginia United States",
         "rating": "1;6;6;6",
         "confidence": "5;3;5;3",
         "correctness": "",
@@ -4353,7 +4945,9 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": -0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "",
+        "github": ""
     },
     {
         "id": "zvl2LuLTtgr",
@@ -4362,6 +4956,7 @@
         "status": "Poster",
         "keywords": "sim-to-real gap;reinforcement learning;causal discovery",
         "author": "",
+        "aff": "Bosch Center for Artificial Intelligence; Carnegie Mellon University",
         "rating": "6;6;10;10",
         "confidence": "4;3;4;4",
         "correctness": "",
@@ -4375,6 +4970,8 @@
         "empirical_novelty_avg": 0,
         "presentation_avg": 0,
         "corr_rating_confidence": 0.5773502691896257,
-        "corr_rating_correctness": 0
+        "corr_rating_correctness": 0,
+        "project": "https://sites.google.com/view/sim2real-compass",
+        "github": ""
     }
 ]
