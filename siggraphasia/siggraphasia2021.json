@@ -1,55 +1,5 @@
 [
     {
-        "ssid": "papers_437",
-        "psid": "sess110",
-        "status": "Technical Paper",
-        "title": "Transflower: probabilistic autoregressive dance generation with multimodal attention",
-        "author": "Guillermo Valle-P\u00e9rez, Gustav Eje Henter, Jonas Beskow, Andre Holzapfel, Pierre-Yves Oudeyer, Simon Alexanderson",
-        "aff": "Inria, Ensta ParisTech, University of Bordeaux; Division of Media Technology and Interaction Design, KTH Royal Institute of Technology; Division of Speech, Music and Hearing, KTH Royal Institute of Technology",
-        "sess": "Character Simulation",
-        "doi": "https://doi.org/10.1145/3478513.3480570"
-    },
-    {
-        "ssid": "papers_228",
-        "psid": "sess110",
-        "status": "Technical Paper",
-        "title": "Motion Recommendation for Online Character Control",
-        "author": "Kyungmin Cho, Chaelin Kim, JungJin Park, Joonkyu Park, Junyong Noh",
-        "aff": "Visual Media Lab, KAIST",
-        "sess": "Character Simulation",
-        "doi": "https://doi.org/10.1145/3478513.3480512"
-    },
-    {
-        "ssid": "papers_268",
-        "psid": "sess110",
-        "status": "Technical Paper",
-        "title": "SuperTrack: Motion Tracking for Physically Simulated Characters using Supervised Learning",
-        "author": "Levi Fussell, Kevin Bergamin, Daniel Holden",
-        "aff": "University of Edinburgh; Ubisoft Divertissements",
-        "sess": "Character Simulation",
-        "doi": "https://doi.org/10.1145/3478513.3480527"
-    },
-    {
-        "ssid": "papers_134",
-        "psid": "sess110",
-        "status": "Technical Paper",
-        "title": "PBNS: Physically Based Neural Simulation for Unsupervised Garment Pose Space Deformation",
-        "author": "Hugo Bertiche, Meysam Madadi, Sergio Escalera",
-        "aff": "Computer Vision Center, UAB; Universitat de Barcelona",
-        "sess": "Character Simulation",
-        "doi": "https://doi.org/10.1145/3478513.3480479"
-    },
-    {
-        "ssid": "papers_334",
-        "psid": "sess110",
-        "status": "Technical Paper",
-        "title": "Modeling Clothing as a Separate Layer for an Animatable Human Avatar",
-        "author": "Donglai Xiang, Fabian Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu",
-        "aff": "Facebook AI Research; Facebook Reality Labs Research; Carnegie Mellon University",
-        "sess": "Character Simulation",
-        "doi": "https://doi.org/10.1145/3478513.3480545"
-    },
-    {
         "ssid": "papers_173",
         "psid": "sess109",
         "status": "Technical Paper",
@@ -918,5 +868,55 @@
         "aff": "University of Maryland, College Park",
         "sess": "Light Interactions and Differentiable Rendering",
         "doi": ""
+    },
+    {
+        "ssid": "papers_334",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Modeling Clothing as a Separate Layer for an Animatable Human Avatar",
+        "author": "Donglai Xiang, Fabian Prada, Timur Bagautdinov, Weipeng Xu, Yuan Dong, He Wen, Jessica Hodgins, Chenglei Wu",
+        "aff": "Facebook AI Research; Facebook Reality Labs Research; Carnegie Mellon University",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480545"
+    },
+    {
+        "ssid": "papers_228",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Motion Recommendation for Online Character Control",
+        "author": "Kyungmin Cho, Chaelin Kim, JungJin Park, Joonkyu Park, Junyong Noh",
+        "aff": "Visual Media Lab, KAIST",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480512"
+    },
+    {
+        "ssid": "papers_134",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "PBNS: Physically Based Neural Simulation for Unsupervised Garment Pose Space Deformation",
+        "author": "Hugo Bertiche, Meysam Madadi, Sergio Escalera",
+        "aff": "Computer Vision Center, UAB; Universitat de Barcelona",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480479"
+    },
+    {
+        "ssid": "papers_268",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "SuperTrack: Motion Tracking for Physically Simulated Characters using Supervised Learning",
+        "author": "Levi Fussell, Kevin Bergamin, Daniel Holden",
+        "aff": "University of Edinburgh; Ubisoft Divertissements",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480527"
+    },
+    {
+        "ssid": "papers_437",
+        "psid": "sess110",
+        "status": "Technical Paper",
+        "title": "Transflower: probabilistic autoregressive dance generation with multimodal attention",
+        "author": "Guillermo Valle-P\u00e9rez, Gustav Eje Henter, Jonas Beskow, Andre Holzapfel, Pierre-Yves Oudeyer, Simon Alexanderson",
+        "aff": "Inria, Ensta ParisTech, University of Bordeaux; Division of Media Technology and Interaction Design, KTH Royal Institute of Technology; Division of Speech, Music and Hearing, KTH Royal Institute of Technology",
+        "sess": "Character Simulation",
+        "doi": "https://doi.org/10.1145/3478513.3480570"
     }
 ]
