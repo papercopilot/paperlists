@@ -2,30 +2,44 @@
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Computational Stereo Camera System With Programmable Control Loop",
-        "author": "Simon Heinzle, Pierre Greisen, David Gallup, Christine Chen, Daniel Saner, Aljoscha Smolic, Andreas Peter Burg, Wojciech Matusik, Markus Gross",
-        "doi": "https://doi.org/10.1145/2010324.1964989"
+        "title": "A Comprehensive Theory of Volumetric Radiance Estimation Using Photon Points and Beams",
+        "author": "Wojciech Jarosz, Derek Nowrouzezahrai, Iman Sadeghi, Henrik Wann Jensen",
+        "doi": "https://doi.org/10.1145/1899404.1899409"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "HDR-VDP-2: A Calibrated Visual Metrics for Visibility and Quality Predictions in All Luminance Conditions",
-        "author": "Rafal Mantiuk, Kil Joong Kim, Allan Rempel, Wolfgang Heidrich",
-        "doi": ""
+        "title": "A Geometric Study of V-Style Pop-Ups: Theories and Algorithms",
+        "author": "Xianying Li, Tao Ju, Yan Gu, Shimin Hu",
+        "doi": "https://doi.org/10.1145/2010324.1964993"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Exploration of Continuous Variability in Collections of 3D Shapes",
-        "author": "Maks Ovsjanikov, Wilmot Li, Leonidas Guibas, Niloy J. Mitra",
-        "doi": "https://doi.org/10.1145/2010324.1964928"
+        "title": "A Nonsmooth Newton Solver for Capturing Exact Coulomb Friction in Fiber Assemblies",
+        "author": "Florence Bertails-Descoubes, Florent Cadoux, Gilles Daviet, Vincent Acary",
+        "doi": "https://doi.org/10.1145/1899404.1899410"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Image and Video Upscaling From Local Self-Examples",
-        "author": "Gilad Feedman, Raanan Fattal",
-        "doi": "https://doi.org/10.1145/1944846.1944852"
+        "title": "A PML-Based Nonreflective Boundary for Free Surface Fluid Animation",
+        "author": "Andreas S\u00f6derstr\u00f6m, Matts Karlsson, Ken Museth",
+        "doi": "https://doi.org/10.1145/1857907.1857912"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "A Perceptual Model for Disparity",
+        "author": "Piotr Didyk, Tobias Ritschel, Elmar Eisemann, Karol Myszkowski, Hans-Peter Seidel",
+        "doi": "https://doi.org/10.1145/1964921.1964991"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "A Programmable System for Artistic Volumetric Lighting",
+        "author": "Derek Nowrouzezahrai, Jared Johnson, Andrew Selle, Dylan Lacewell, Michael Kaschalk, Wojciech Jarosz",
+        "doi": "https://doi.org/10.1145/1964921.1964924"
     },
     {
         "status": "Technical Paper",
@@ -37,30 +51,51 @@
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Converting 3D Furniture Models to Fabricatable Parts and Connectors",
-        "author": "Manfred Lau, Akira Ohgawara, Jun Mitani, Takeo Igarashi",
-        "doi": "https://doi.org/10.1145/2010324.1964980"
+        "title": "A Versatile HDR Video Production System",
+        "author": "Michael D. Tocci, Chris Kiser, Nora Tocci, Pradeep Sen",
+        "doi": "https://doi.org/10.1145/2010324.1964936"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Contributing Vertices-Based Minkowski Sum of a Nonconvex--Convex Pair of Polyhedra",
-        "author": "Hichem Barki, Florence Denis, Florent Dupont",
-        "doi": "https://doi.org/10.1145/1899404.1899407"
+        "title": "An Efficient Scheme for Curve and Surface Construction Based on a Set of Interpolatory Basis Functions",
+        "author": "Renjiang Zhang, Weiyin Ma",
+        "doi": "https://doi.org/10.1145/1944846.1944850"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "High-Quality Spatio-Temporal Rendering Using Semi-Analytical Visibility",
-        "author": "\u2022 A novel spatio-temporal anti-aliasing algorithm with essentially noise-free results. Visibility is solved for along line samples in screen space and in time., Carl Johan Gribel, Rasmus Barringer, Tomas Akenine-M\u00f6ller",
-        "doi": "https://doi.org/10.1145/2010324.1964949"
+        "title": "Animating Fire With Sound",
+        "author": "Jeffrey Chadwick, Doug James",
+        "doi": "https://doi.org/10.1145/2010324.1964979"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Clipless Dual-Space Bounds for Faster Stochastic Rasterization",
-        "author": "Samuli Laine, Timo Aila, Tero Karras, Jaakko Lehtinen",
-        "doi": "https://doi.org/10.1145/1964921.1965001"
+        "title": "Antialiasing Recovery",
+        "author": "Lei Yang, Pedro Sander, Jason Lawrence, Hugues Hoppe",
+        "doi": "https://doi.org/10.1145/1966394.1966401"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Articulated Swimming Creatures",
+        "author": "Jie Tan, Yuting Gu, Greg Turk, Karen Liu",
+        "doi": "https://doi.org/10.1145/1964921.1964953"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Biharmonic Distance",
+        "author": "Yaron Lipman, Raif Rustamov, Thomas Funkhouser",
+        "doi": "https://doi.org/10.1145/1805964.1805971"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Blended Intrinsic Maps",
+        "author": "Vladimir Kim, Yaron Lipman, Thomas Funkhouser",
+        "doi": "https://doi.org/10.1145/2010324.1964974"
     },
     {
         "status": "Technical Paper",
@@ -79,681 +114,9 @@
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Interactive Editing of Massive Imagery Made Simple: Turning Atlanta Into Atlantis",
-        "author": "Brian Summa, Giorgio Scorzelli, Ming Jiang, Peer-Timo Bremer, Valerio Pascucci",
-        "doi": "https://doi.org/10.1145/1944846.1944847"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Antialiasing Recovery",
-        "author": "Lei Yang, Pedro Sander, Jason Lawrence, Hugues Hoppe",
-        "doi": "https://doi.org/10.1145/1966394.1966401"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Interactive and Anisotropic Geometry Processing Using the Screened Poisson Equation",
-        "author": "Michael Kazhdan, Ming Chuang",
-        "doi": "https://doi.org/10.1145/1964921.1964952"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "GlobFit: Consistently Fitting Primitives by Discovering Global Relations",
-        "author": "Yangyan Li, Xiaokun Wu, Yiorgos Chrysanthou, Andrei Sharf, Daniel Cohen-Or, Niloy J. Mitra",
-        "doi": "https://doi.org/10.1145/2010324.1964947"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Making Burr Puzzles From 3D Models",
-        "author": "Shiqing Xin, Chi-Fu Lai, Chi-Wing Fu, Tien-Tsin Wong, Ying He, Daniel Cohen-Or",
-        "doi": "https://doi.org/10.1145/1964921.1964992"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Real-Time Eulerian Water Simulation Using a Restricted Tall Cell Grid",
-        "author": "Nuttapong Chentanez, Matthias M\u00fcller-Fischer",
-        "doi": "https://doi.org/10.1145/2010324.1964977"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Sensitive Couture for Interactive Garment Modeling and Editing",
-        "author": "Nobuyuki Umetani, Danny M. Kaufman, Takeo Igarashi, Eitan Grinspun",
-        "doi": "https://doi.org/10.1145/2010324.1964985"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Leveraging Motion Capture and 3D Scanning for High-Fidelity Facial Performance Acquisition",
-        "author": "Haoda Huang, Jinxiang Chai, Xin Tong, Hsiang-Tao Wu",
-        "doi": "https://doi.org/10.1145/1964921.1964969"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Data-Driven Elastic Models for Cloth: Modeling and Measurement",
-        "author": "Huamin Wang, James O'Brien, Ravi Ramamoorthi",
-        "doi": "https://doi.org/10.1145/1964921.1964966"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "ShadowDraw: Real-Time User Guidance for Freehand Drawing",
-        "author": "Yong Jae Lee, C. Zitnick, Michael Cohen",
-        "doi": "https://doi.org/10.1145/2010324.1964922"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Circular Arc Structures",
-        "author": "Pengbo Bo, Helmut Pottmann, Martin Kilian, Wenping Wang, Johannes Wallner",
-        "doi": "https://doi.org/10.1145/1964921.1964996"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Eulerian Solid Simulation With Contact",
-        "author": "David I.W. Levin, Joshua Litven, Garrett L. Jones, Shinjiro Sueda, Dinesh K. Pai",
-        "doi": "https://doi.org/10.1145/2010324.1964931"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Color Compatibility From Large Datasets",
-        "author": "Peter O'Donovan, Aaron Hertzmann, Aseem Agarwala",
-        "doi": "https://doi.org/10.1145/1964921.1964958"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Physically Valid Statistical Models for Human Motion Generation",
-        "author": "Xiaolin Wei, Jianyuan Min, Jinxiang Chai",
-        "doi": "https://doi.org/10.1145/1966394.1966398"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
         "title": "Building Volumetric Appearance Models of Fabric Using Micro CT Imaging",
         "author": "Shuang Zhao, Wenzel Jakob, Steve Marschner, Kavita Bala",
         "doi": "https://doi.org/10.1145/1964921.1964939"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Space-Time Planning With Parameterized Locomotion Controllers",
-        "author": "Sergey Levine, Yongjoon Lee, Vladlen Koltun, Zoran Popovi\u0107",
-        "doi": "https://doi.org/10.1145/1966394.1966402"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Expression Flow for 3D-Aware Face Component Transfer",
-        "author": "Fei Yang, Jue Wang, Eli Shechtman, Lubomir Bourdev, Dimitri Metaxas",
-        "doi": "https://doi.org/10.1145/1964921.1964955"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Versatile HDR Video Production System",
-        "author": "Michael D. Tocci, Chris Kiser, Nora Tocci, Pradeep Sen",
-        "doi": "https://doi.org/10.1145/2010324.1964936"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Characterizing Structural Relationships in Scenes Using Graph Kernels",
-        "author": "Matthew Fisher, Manolis Savva, Pat Hanrahan",
-        "doi": "https://doi.org/10.1145/1964921.1964929"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Scalable and Coherent Video Resizing With Per-Frame Optimization",
-        "author": "Yu-Shuen Wang, Jen-Hung Hsiao, Olga Sorkine, Tong-Yee Lee",
-        "doi": "https://doi.org/10.1145/1964921.1964983"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Comprehensive Theory of Volumetric Radiance Estimation Using Photon Points and Beams",
-        "author": "Wojciech Jarosz, Derek Nowrouzezahrai, Iman Sadeghi, Henrik Wann Jensen",
-        "doi": "https://doi.org/10.1145/1899404.1899409"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Make it Home: Automatic Optimization of Furniture Arrangement",
-        "author": "Lap-Fai Yu, Sai-Kit Yeung, Chi-Keung Tang, Demetri Terzopoulos, Tony F. Chan, Stanley Osher",
-        "doi": "https://doi.org/10.1145/2010324.1964981"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "MeshFlow: Interactive Visualization of Mesh Construction Sequences",
-        "author": "Jonathan Denning, William Kerr, Fabio Pellacini",
-        "doi": "https://doi.org/10.1145/1964921.1964961"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Frequency Analysis and Sheared Filtering for Shadow Light Fields of Complex Occluders",
-        "author": "Kevin Egan, Florian Hecht, Fr\u00e9do Durand, Ravi Ramamoorthi",
-        "doi": "https://doi.org/10.1145/1944846.1944849"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Highlighted Depth-of-Field Photography: Shining Light on Focus",
-        "author": "Jaewon Kim, Roarke Horstmeyer, Ig-Jae Kim, Ramesh Raskar",
-        "doi": "https://doi.org/10.1145/1966394.1966403"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Decoupled Sampling for Graphics Pipelines",
-        "author": "Jonathan Ragan-Kelley, Jaakko Lehtinen, Jiawen Chen, Michael Doggett, Fr\u00e9do Durand",
-        "doi": "https://doi.org/10.1145/1966394.1966396"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Efficient Maximal Poisson-Disk Sampling",
-        "author": "Mohamed Ebeida, Anjul Patney, Scott Mitchell, Andrew Davidson, Patrick Knupp, John Owens",
-        "doi": "https://doi.org/10.1145/1964921.1964944"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Blended Intrinsic Maps",
-        "author": "Vladimir Kim, Yaron Lipman, Thomas Funkhouser",
-        "doi": "https://doi.org/10.1145/2010324.1964974"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Geodesic Image and Video Editing",
-        "author": "Antonio Criminisi, Toby Sharp, Carsten Rother, Patrick Perez, Andrew Fitzgibbon",
-        "doi": "https://doi.org/10.1145/1857907.1857910"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Local Laplacian Filters: Edge-Aware Image Processing With a Laplacian Pyramid",
-        "author": "Sylvain Paris, Sam Hasinoff, Jan Kautz",
-        "doi": "https://doi.org/10.1145/2010324.1964963"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "DINUS: Double Insertion, Non-Uniform, Stationary Subdivision Surfaces",
-        "author": "Kerstin M\u00fcller, Christoph Fuenfzig, Lars Reusche, Dianne Hansford, Gerald Farin, Hans Hagen",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Global Registration of Dynamic Range Scans for Articulated Model Reconstruction",
-        "author": "Will Chang, Matthias Zwicker",
-        "doi": "https://doi.org/10.1145/1966394.1966405"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Geometric Study of V-Style Pop-Ups: Theories and Algorithms",
-        "author": "Xianying Li, Tao Ju, Yan Gu, Shimin Hu",
-        "doi": "https://doi.org/10.1145/2010324.1964993"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Two-Scale Particle Simulation",
-        "author": "Barbara Solenthaler, Markus Gross",
-        "doi": "https://doi.org/10.1145/1964921.1964976"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Real-Time Large-Deformation Substructuring",
-        "author": "Jernej Barbi\u010d, Yili Zhao",
-        "doi": "https://doi.org/10.1145/2010324.1964986"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "High-Quality Passive Facial Performance Capture Using Anchor Frames",
-        "author": "Thabo Beeler, Fabian Hahn, Derek Bradley, Bernd Bickel, Paul Beardsley, Craig Gotsman, Robert W. Sumner, Markus Gross",
-        "doi": "https://doi.org/10.1145/2010324.1964970"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Frame-Based Elastic Models",
-        "author": "Benjamin Gilles, Guillaume Bousquet, Fran\u00e7ois Faure, Dinesh Pai",
-        "doi": "https://doi.org/10.1145/1944846.1944855"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "OverCoat: An Implicit Canvas for 3D Painting",
-        "author": "Johannes Schmid, Martin Sebastian Senn, Markus Gross, Robert Sumner",
-        "doi": "https://doi.org/10.1145/1964921.1964923"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Discrete Laplacians on General Polygonal Meshes",
-        "author": "Marc Alexa, Max Wardetzky",
-        "doi": "https://doi.org/10.1145/2010324.1964997"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Efficient Elasticity for Character Skinning With Contact and Collisions",
-        "author": "Aleka McAdams, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf, Joseph Teran, Eftychios Sifakis",
-        "doi": "https://doi.org/10.1145/1964921.1964932"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Edge-Aware Color Appearance",
-        "author": "Min H. Kim, Tobias Ritschel, Jan Kautz",
-        "doi": "https://doi.org/10.1145/1944846.1944853"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Motion Capture From Body-Mounted Cameras",
-        "author": "Takaaki Shiratori, Hyun Soo Park, Leonid Sigal, Yaser Sheikh, Jessica Hodgins",
-        "doi": "https://doi.org/10.1145/2010324.1964926"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Pocket Reflectometry",
-        "author": "Peiran Ren, Jiaping Wang, John Snyder, Xin Tong, Baining Guo",
-        "doi": "https://doi.org/10.1145/1964921.1964940"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Articulated Swimming Creatures",
-        "author": "Jie Tan, Yuting Gu, Greg Turk, Karen Liu",
-        "doi": "https://doi.org/10.1145/1964921.1964953"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Image-Guided Weathering: A New Approach Applied to Flow Phenomena",
-        "author": "Carles Bosch, Pierre-Yves Laffont, Holly Rushmeier, Julie Dorsey, George Drettakis",
-        "doi": "https://doi.org/10.1145/1966394.1966399"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Perceptually Based Tone Mapping for Low Light Conditions",
-        "author": "Adam Kirk, James O'Brien",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Probabilistic Reasoning for Assembly-Based 3D Modeling",
-        "author": "Siddhartha Chaudhuri, Evangelos Kalogerakis, Leonidas Guibas, Vladlen Koltun",
-        "doi": "https://doi.org/10.1145/1964921.1964930"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Subspace Video Stabilization",
-        "author": "Feng Liu, Michael Gleicher, Jue Wang, Hailin Jin, Aseem Agarwala",
-        "doi": "https://doi.org/10.1145/1899404.1899408"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Progressive Photon Mapping: A Probabilistic Approach",
-        "author": "Claude Knaus, Matthias Zwicker",
-        "doi": "https://doi.org/10.1145/1966394.1966404"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Interactive Furniture Layout Using Interior Design Guidelines",
-        "author": "Paul Merrell, Eric Schkufza, Zeyang Li, Maneesh Agrawala, Vladlen Koltun",
-        "doi": "https://doi.org/10.1145/1964921.1964982"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "LR: Compact Connectivity Representation for Triangle Meshes",
-        "author": "Topraj Gurung, Mark Luffel, Peter Lindstrom, Jarek Rossignac",
-        "doi": "https://doi.org/10.1145/1964921.1964962"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Temporal Light Field Reconstruction for Rendering Distribution Effects",
-        "author": "Jaakko Lehtinen, Timo Aila, Jiawen Chen, Samuli Laine, Fr\u00e9do Durand",
-        "doi": "https://doi.org/10.1145/2010324.1964950"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Layered 3D: Tomographic Image Synthesis for Attenuation-Based Light Field and High Dynamic Range Displays",
-        "author": "Gordon Wetzstein, Douglas Lanman, Wolfgang Heidrich, Ramesh Raskar",
-        "doi": "https://doi.org/10.1145/1964921.1964990"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Spark: Modular, Composable Shaders for Graphics Hardware",
-        "author": "Tim Foley, Pat Hanrahan",
-        "doi": "https://doi.org/10.1145/2010324.1965002"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Differential Domain Analysis for Non-Uniform Sampling",
-        "author": "Li-Yi Wei, Rui Wang",
-        "doi": "https://doi.org/10.1145/1964921.1964945"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Biharmonic Distance",
-        "author": "Yaron Lipman, Raif Rustamov, Thomas Funkhouser",
-        "doi": "https://doi.org/10.1145/1805964.1805971"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Matting and Compositing of Transparent and Refractive Objects",
-        "author": "Sai-Kit Yeung, Chi-Keung Tang, Michael Brown, Sing Bing Kang",
-        "doi": "https://doi.org/10.1145/1899404.1899406"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Domain Transform for Edge-Aware Image and Video Processing",
-        "author": "Eduardo S.L. Gastal, Manuel M. Oliveira",
-        "doi": "https://doi.org/10.1145/2010324.1964964"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "An Efficient Scheme for Curve and Surface Construction Based on a Set of Interpolatory Basis Functions",
-        "author": "Renjiang Zhang, Weiyin Ma",
-        "doi": "https://doi.org/10.1145/1944846.1944850"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Texture-Lobes for Tree Modeling",
-        "author": "Yotam Livny, Soeren Pirk, Zhanglin Cheng, Feilong Yan, Oliver Deussen, Daniel Cohen-Or, Baoquan Chen",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Depixelizing Pixel Art",
-        "author": "Johannes Kopf, Dani Lischinski",
-        "doi": "https://doi.org/10.1145/2010324.1964994"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A PML-Based Nonreflective Boundary for Free Surface Fluid Animation",
-        "author": "Andreas S\u00f6derstr\u00f6m, Matts Karlsson, Ken Museth",
-        "doi": "https://doi.org/10.1145/1857907.1857912"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Solid Simulation With Oriented Particles",
-        "author": "Matthias M\u00fcller-Fischer, Nuttapong Chentanez",
-        "doi": "https://doi.org/10.1145/2010324.1964987"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Interactive Region-Based Linear 3D Face Models",
-        "author": "J. Rafael Tena, Fernando De la Torre, Iain Matthews",
-        "doi": "https://doi.org/10.1145/1964921.1964971"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Example-Based Elastic Materials",
-        "author": "Sebastian Martin, Bernhard Thomaszewski, Eitan Grinspun, Markus Gross",
-        "doi": "https://doi.org/10.1145/2010324.1964967"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Programmable System for Artistic Volumetric Lighting",
-        "author": "Derek Nowrouzezahrai, Jared Johnson, Andrew Selle, Dylan Lacewell, Michael Kaschalk, Wojciech Jarosz",
-        "doi": "https://doi.org/10.1145/1964921.1964924"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "HOT: Hodge-Optimized Triangulations",
-        "author": "Patrick Mullen, Pooran Memari, Fernando De Goes, Mathieu Desbrun",
-        "doi": "https://doi.org/10.1145/1964921.1964998"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Toward High-Quality Modal Contact Sound",
-        "author": "Changxi Zheng, Doug James",
-        "doi": "https://doi.org/10.1145/2010324.1964933"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Example-Based Image Color and Tone Style Enhancement",
-        "author": "Baoyuan Wang, Yizhou Yu, Ying-Qing Xu",
-        "doi": "https://doi.org/10.1145/2010324.1964959"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Motion Reconstruction Using Sparse Accelerometer Data",
-        "author": "Jochen Tautges, Arno Zinke, Bj\u00f6rn Kr\u00fcger, Jan Baumann, Andreas Weber, Thomas Helten, Meinard M\u00fcller, Hans-Peter Seidel, Bernd Eberhardt",
-        "doi": "https://doi.org/10.1145/1966394.1966397"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Microgeometry Capture Using an Elastomeric Sensor",
-        "author": "Micah Johnson, Forrester Cole, Alvin Raj, Edward Adelson",
-        "doi": "https://doi.org/10.1145/2010324.1964941"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Locomotion Skills for Simulated Quadrupeds",
-        "author": "Stelian Coros, Andrej Karpathy, Ben Jones, Lionel Reveret, Michiel van de Panne",
-        "doi": "https://doi.org/10.1145/2010324.1964954"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Exploring Photobios",
-        "author": "Ira Kemelmacher-Shlizerman, Eli Shechtman, Rahul Garg, Steven M. Seitz",
-        "doi": "https://doi.org/10.1145/2010324.1964956"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Illumination Decomposition for Material Recoloring With Consistent Interreflections",
-        "author": "Robert Carroll, Ravi Ramamoorthi, Maneesh Agrawala",
-        "doi": "https://doi.org/10.1145/1964921.1964938"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Shape Google: Geometric Words and Expressions for Invariant Shape Retrieval",
-        "author": "Michael Bronstein, Alexander Bronstein, Leonidas Guibas, Maks Ovsjanikov",
-        "doi": "https://doi.org/10.1145/1899404.1899405"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Tonal Stabilization of Video",
-        "author": "Zeev Farbman, Dani Lischinski",
-        "doi": "https://doi.org/10.1145/2010324.1964984"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Cache-Oblivious Ray Reordering",
-        "author": "Bochang Moon, Yongyoung Byun, Tae-Joon Kim, Pio Claudio, Hye-sun Kim, Yun-ji Ban, Seung Woo Nam, Sung-eui Yoon",
-        "doi": "https://doi.org/10.1145/1805964.1805972"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Interactive Architectural Modeling With Procedural Extrusions",
-        "author": "Tom Kelly, Peter Wonka",
-        "doi": "https://doi.org/10.1145/1944846.1944854"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "On the Velocity of an Implicit Surface",
-        "author": "Jos Stam, Ryan Schmidt",
-        "doi": "https://doi.org/10.1145/1966394.1966400"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "The Area Perspective Transform: A Homogeneous Transform for Efficient In-Volume Queries",
-        "author": "Warren Hunt, Gregory Johnson",
-        "doi": "https://doi.org/10.1145/1944846.1944848"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Perceptual Model for Disparity",
-        "author": "Piotr Didyk, Tobias Ritschel, Elmar Eisemann, Karol Myszkowski, Hans-Peter Seidel",
-        "doi": "https://doi.org/10.1145/1964921.1964991"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Physically Based Real-Time Lens Flare Rendering",
-        "author": "Matthias Hullin, Elmar Eisemann, Hans-Peter Seidel, Sungkil Lee",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Filtering Solid Gabor Noise",
-        "author": "Ares Lagae, George Drettakis",
-        "doi": "https://doi.org/10.1145/2010324.1964946"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Photo-Inspired Model-Driven 3D Object Modeling",
-        "author": "Kai Xu, Hanlin Zheng, Richard (Hao) Zhang, Daniel Cohen-Or, Ligang Liu, Yueshan Xiong",
-        "doi": "https://doi.org/10.1145/2010324.1964975"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Nonlinear Revision Control for Images",
-        "author": "Hsiang-Ting Chen, Li-Yi Wei, Chun-Fa Chang",
-        "doi": "https://doi.org/10.1145/2010324.1965000"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Non-Rigid Dense Correspondence With Applications for Image Enhancement",
-        "author": "Yoav Hacohen, Eli Shechtman, Dan Goldman, Dani Lischinski",
-        "doi": "https://doi.org/10.1145/2010324.1964965"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "\u21131-Sparse Reconstruction of Sharp Point Set Surfaces",
-        "author": "Haim Avron, Andrei Sharf, Chen Greif, Daniel Cohen-Or",
-        "doi": "https://doi.org/10.1145/1857907.1857911"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Digital Micrography",
-        "author": "Ron Maharik, Mikhail Bessmeltsev, Alla Sheffer, Ariel Shamir, Nathan Carr",
-        "doi": "https://doi.org/10.1145/2010324.1964995"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Guide Shapes for High-Resolution Naturalistic Liquid Simulation",
-        "author": "Michael Nielsen, Robert Bridson",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Physics-Inspired Upsampling for Cloth Simulation in Games",
-        "author": "Ladislav Kavan, Daniel Gerszewski, Adam Bargteil, Peter-Pike Sloan",
-        "doi": "https://doi.org/10.1145/1964921.1964988"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Real-Time Performance-Based Facial Animation",
-        "author": "Thibaut Weise, Sofien Bouaziz, Hao Li, Mark Pauly",
-        "doi": ""
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Sparse Meshless Models of Complex Deformable Solids",
-        "author": "Fran\u00e7ois Faure, Benjamin Gilles, Guillaume Bousquet, Dinesh K. Pai",
-        "doi": "https://doi.org/10.1145/2010324.1964968"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Coherent Noise for Non-Photorealistic Rendering",
-        "author": "Michael Kass, Davide Pesare",
-        "doi": "https://doi.org/10.1145/2010324.1964925"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Spin Transformations of Discrete Surfaces",
-        "author": "Keenan Crane, Ulrich Pinkall, Peter Schr\u00f6der",
-        "doi": "https://doi.org/10.1145/2010324.1964999"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "A Nonsmooth Newton Solver for Capturing Exact Coulomb Friction in Fiber Assemblies",
-        "author": "Florence Bertails-Descoubes, Florent Cadoux, Gilles Daviet, Vincent Acary",
-        "doi": "https://doi.org/10.1145/1899404.1899410"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Switchable Primaries Using Shiftable Layers of Color Filter Arrays",
-        "author": "Behzad Sajadi, Aditi Majumder, Kazuhiro Hiwada, Atsuto Maki, Ramesh Raskar",
-        "doi": "https://doi.org/10.1145/1964921.1964960"
-    },
-    {
-        "status": "Technical Paper",
-        "sess": "Drawing, Painting and Stylization",
-        "title": "Video-Based Characters: Creating New Human Performances From a Multi-View Video Database",
-        "author": "Feng Xu, Yebin Liu, Carsten Stoll, James Tompkin, Gaurav Bharaj, QiongHai Dai, Hans-Peter Seidel, Jan Kautz, Christian Theobalt",
-        "doi": "https://doi.org/10.1145/2010324.1964927"
     },
     {
         "status": "Technical Paper",
@@ -765,30 +128,51 @@
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Discrete Element Textures",
-        "author": "Chongyang Ma, Li-Yi Wei, Xin Tong",
-        "doi": "https://doi.org/10.1145/2010324.1964957"
+        "title": "Cache-Oblivious Ray Reordering",
+        "author": "Bochang Moon, Yongyoung Byun, Tae-Joon Kim, Pio Claudio, Hye-sun Kim, Yun-ji Ban, Seung Woo Nam, Sung-eui Yoon",
+        "doi": "https://doi.org/10.1145/1805964.1805972"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Metropolis Procedural Modeling",
-        "author": "Jerry Talton, Yu Lou, Steve Lesser, Jared Duke, Radomir Mech, Vladlen Koltun",
-        "doi": "https://doi.org/10.1145/1944846.1944851"
+        "title": "Character Animation in Two-Player Adversarial Games",
+        "author": "Kevin Wample, Erik Andersen, Evan Herbst, Yongjoon Lee, Zoran Popovi\u0107",
+        "doi": "https://doi.org/10.1145/1805964.1805970"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Animating Fire With Sound",
-        "author": "Jeffrey Chadwick, Doug James",
-        "doi": "https://doi.org/10.1145/2010324.1964979"
+        "title": "Characterizing Structural Relationships in Scenes Using Graph Kernels",
+        "author": "Matthew Fisher, Manolis Savva, Pat Hanrahan",
+        "doi": "https://doi.org/10.1145/1964921.1964929"
     },
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Large-Scale Dynamic Simulation of Highly Constrained Strands",
-        "author": "Shinjiro Sueda, Garrett L. Jones, David I. W. Levin, Dinesh K. Pai",
-        "doi": "https://doi.org/10.1145/2010324.1964934"
+        "title": "Circular Arc Structures",
+        "author": "Pengbo Bo, Helmut Pottmann, Martin Kilian, Wenping Wang, Johannes Wallner",
+        "doi": "https://doi.org/10.1145/1964921.1964996"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Clipless Dual-Space Bounds for Faster Stochastic Rasterization",
+        "author": "Samuli Laine, Timo Aila, Tero Karras, Jaakko Lehtinen",
+        "doi": "https://doi.org/10.1145/1964921.1965001"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Coherent Noise for Non-Photorealistic Rendering",
+        "author": "Michael Kass, Davide Pesare",
+        "doi": "https://doi.org/10.1145/2010324.1964925"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Color Compatibility From Large Datasets",
+        "author": "Peter O'Donovan, Aaron Hertzmann, Aseem Agarwala",
+        "doi": "https://doi.org/10.1145/1964921.1964958"
     },
     {
         "status": "Technical Paper",
@@ -800,8 +184,624 @@
     {
         "status": "Technical Paper",
         "sess": "Drawing, Painting and Stylization",
-        "title": "Character Animation in Two-Player Adversarial Games",
-        "author": "Kevin Wample, Erik Andersen, Evan Herbst, Yongjoon Lee, Zoran Popovi\u0107",
-        "doi": "https://doi.org/10.1145/1805964.1805970"
+        "title": "Computational Stereo Camera System With Programmable Control Loop",
+        "author": "Simon Heinzle, Pierre Greisen, David Gallup, Christine Chen, Daniel Saner, Aljoscha Smolic, Andreas Peter Burg, Wojciech Matusik, Markus Gross",
+        "doi": "https://doi.org/10.1145/2010324.1964989"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Contributing Vertices-Based Minkowski Sum of a Nonconvex--Convex Pair of Polyhedra",
+        "author": "Hichem Barki, Florence Denis, Florent Dupont",
+        "doi": "https://doi.org/10.1145/1899404.1899407"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Converting 3D Furniture Models to Fabricatable Parts and Connectors",
+        "author": "Manfred Lau, Akira Ohgawara, Jun Mitani, Takeo Igarashi",
+        "doi": "https://doi.org/10.1145/2010324.1964980"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "DINUS: Double Insertion, Non-Uniform, Stationary Subdivision Surfaces",
+        "author": "Kerstin M\u00fcller, Christoph Fuenfzig, Lars Reusche, Dianne Hansford, Gerald Farin, Hans Hagen",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Data-Driven Elastic Models for Cloth: Modeling and Measurement",
+        "author": "Huamin Wang, James O'Brien, Ravi Ramamoorthi",
+        "doi": "https://doi.org/10.1145/1964921.1964966"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Decoupled Sampling for Graphics Pipelines",
+        "author": "Jonathan Ragan-Kelley, Jaakko Lehtinen, Jiawen Chen, Michael Doggett, Fr\u00e9do Durand",
+        "doi": "https://doi.org/10.1145/1966394.1966396"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Depixelizing Pixel Art",
+        "author": "Johannes Kopf, Dani Lischinski",
+        "doi": "https://doi.org/10.1145/2010324.1964994"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Differential Domain Analysis for Non-Uniform Sampling",
+        "author": "Li-Yi Wei, Rui Wang",
+        "doi": "https://doi.org/10.1145/1964921.1964945"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Digital Micrography",
+        "author": "Ron Maharik, Mikhail Bessmeltsev, Alla Sheffer, Ariel Shamir, Nathan Carr",
+        "doi": "https://doi.org/10.1145/2010324.1964995"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Discrete Element Textures",
+        "author": "Chongyang Ma, Li-Yi Wei, Xin Tong",
+        "doi": "https://doi.org/10.1145/2010324.1964957"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Discrete Laplacians on General Polygonal Meshes",
+        "author": "Marc Alexa, Max Wardetzky",
+        "doi": "https://doi.org/10.1145/2010324.1964997"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Domain Transform for Edge-Aware Image and Video Processing",
+        "author": "Eduardo S.L. Gastal, Manuel M. Oliveira",
+        "doi": "https://doi.org/10.1145/2010324.1964964"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Edge-Aware Color Appearance",
+        "author": "Min H. Kim, Tobias Ritschel, Jan Kautz",
+        "doi": "https://doi.org/10.1145/1944846.1944853"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Efficient Elasticity for Character Skinning With Contact and Collisions",
+        "author": "Aleka McAdams, Yongning Zhu, Andrew Selle, Mark Empey, Rasmus Tamstorf, Joseph Teran, Eftychios Sifakis",
+        "doi": "https://doi.org/10.1145/1964921.1964932"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Efficient Maximal Poisson-Disk Sampling",
+        "author": "Mohamed Ebeida, Anjul Patney, Scott Mitchell, Andrew Davidson, Patrick Knupp, John Owens",
+        "doi": "https://doi.org/10.1145/1964921.1964944"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Eulerian Solid Simulation With Contact",
+        "author": "David I.W. Levin, Joshua Litven, Garrett L. Jones, Shinjiro Sueda, Dinesh K. Pai",
+        "doi": "https://doi.org/10.1145/2010324.1964931"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Example-Based Elastic Materials",
+        "author": "Sebastian Martin, Bernhard Thomaszewski, Eitan Grinspun, Markus Gross",
+        "doi": "https://doi.org/10.1145/2010324.1964967"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Example-Based Image Color and Tone Style Enhancement",
+        "author": "Baoyuan Wang, Yizhou Yu, Ying-Qing Xu",
+        "doi": "https://doi.org/10.1145/2010324.1964959"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Exploration of Continuous Variability in Collections of 3D Shapes",
+        "author": "Maks Ovsjanikov, Wilmot Li, Leonidas Guibas, Niloy J. Mitra",
+        "doi": "https://doi.org/10.1145/2010324.1964928"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Exploring Photobios",
+        "author": "Ira Kemelmacher-Shlizerman, Eli Shechtman, Rahul Garg, Steven M. Seitz",
+        "doi": "https://doi.org/10.1145/2010324.1964956"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Expression Flow for 3D-Aware Face Component Transfer",
+        "author": "Fei Yang, Jue Wang, Eli Shechtman, Lubomir Bourdev, Dimitri Metaxas",
+        "doi": "https://doi.org/10.1145/1964921.1964955"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Filtering Solid Gabor Noise",
+        "author": "Ares Lagae, George Drettakis",
+        "doi": "https://doi.org/10.1145/2010324.1964946"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Frame-Based Elastic Models",
+        "author": "Benjamin Gilles, Guillaume Bousquet, Fran\u00e7ois Faure, Dinesh Pai",
+        "doi": "https://doi.org/10.1145/1944846.1944855"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Frequency Analysis and Sheared Filtering for Shadow Light Fields of Complex Occluders",
+        "author": "Kevin Egan, Florian Hecht, Fr\u00e9do Durand, Ravi Ramamoorthi",
+        "doi": "https://doi.org/10.1145/1944846.1944849"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Geodesic Image and Video Editing",
+        "author": "Antonio Criminisi, Toby Sharp, Carsten Rother, Patrick Perez, Andrew Fitzgibbon",
+        "doi": "https://doi.org/10.1145/1857907.1857910"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "GlobFit: Consistently Fitting Primitives by Discovering Global Relations",
+        "author": "Yangyan Li, Xiaokun Wu, Yiorgos Chrysanthou, Andrei Sharf, Daniel Cohen-Or, Niloy J. Mitra",
+        "doi": "https://doi.org/10.1145/2010324.1964947"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Global Registration of Dynamic Range Scans for Articulated Model Reconstruction",
+        "author": "Will Chang, Matthias Zwicker",
+        "doi": "https://doi.org/10.1145/1966394.1966405"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Guide Shapes for High-Resolution Naturalistic Liquid Simulation",
+        "author": "Michael Nielsen, Robert Bridson",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "HDR-VDP-2: A Calibrated Visual Metrics for Visibility and Quality Predictions in All Luminance Conditions",
+        "author": "Rafal Mantiuk, Kil Joong Kim, Allan Rempel, Wolfgang Heidrich",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "HOT: Hodge-Optimized Triangulations",
+        "author": "Patrick Mullen, Pooran Memari, Fernando De Goes, Mathieu Desbrun",
+        "doi": "https://doi.org/10.1145/1964921.1964998"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "High-Quality Passive Facial Performance Capture Using Anchor Frames",
+        "author": "Thabo Beeler, Fabian Hahn, Derek Bradley, Bernd Bickel, Paul Beardsley, Craig Gotsman, Robert W. Sumner, Markus Gross",
+        "doi": "https://doi.org/10.1145/2010324.1964970"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "High-Quality Spatio-Temporal Rendering Using Semi-Analytical Visibility",
+        "author": "\u2022 A novel spatio-temporal anti-aliasing algorithm with essentially noise-free results. Visibility is solved for along line samples in screen space and in time., Carl Johan Gribel, Rasmus Barringer, Tomas Akenine-M\u00f6ller",
+        "doi": "https://doi.org/10.1145/2010324.1964949"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Highlighted Depth-of-Field Photography: Shining Light on Focus",
+        "author": "Jaewon Kim, Roarke Horstmeyer, Ig-Jae Kim, Ramesh Raskar",
+        "doi": "https://doi.org/10.1145/1966394.1966403"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Illumination Decomposition for Material Recoloring With Consistent Interreflections",
+        "author": "Robert Carroll, Ravi Ramamoorthi, Maneesh Agrawala",
+        "doi": "https://doi.org/10.1145/1964921.1964938"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Image and Video Upscaling From Local Self-Examples",
+        "author": "Gilad Feedman, Raanan Fattal",
+        "doi": "https://doi.org/10.1145/1944846.1944852"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Image-Guided Weathering: A New Approach Applied to Flow Phenomena",
+        "author": "Carles Bosch, Pierre-Yves Laffont, Holly Rushmeier, Julie Dorsey, George Drettakis",
+        "doi": "https://doi.org/10.1145/1966394.1966399"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Interactive Architectural Modeling With Procedural Extrusions",
+        "author": "Tom Kelly, Peter Wonka",
+        "doi": "https://doi.org/10.1145/1944846.1944854"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Interactive Editing of Massive Imagery Made Simple: Turning Atlanta Into Atlantis",
+        "author": "Brian Summa, Giorgio Scorzelli, Ming Jiang, Peer-Timo Bremer, Valerio Pascucci",
+        "doi": "https://doi.org/10.1145/1944846.1944847"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Interactive Furniture Layout Using Interior Design Guidelines",
+        "author": "Paul Merrell, Eric Schkufza, Zeyang Li, Maneesh Agrawala, Vladlen Koltun",
+        "doi": "https://doi.org/10.1145/1964921.1964982"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Interactive Region-Based Linear 3D Face Models",
+        "author": "J. Rafael Tena, Fernando De la Torre, Iain Matthews",
+        "doi": "https://doi.org/10.1145/1964921.1964971"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Interactive and Anisotropic Geometry Processing Using the Screened Poisson Equation",
+        "author": "Michael Kazhdan, Ming Chuang",
+        "doi": "https://doi.org/10.1145/1964921.1964952"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "LR: Compact Connectivity Representation for Triangle Meshes",
+        "author": "Topraj Gurung, Mark Luffel, Peter Lindstrom, Jarek Rossignac",
+        "doi": "https://doi.org/10.1145/1964921.1964962"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Large-Scale Dynamic Simulation of Highly Constrained Strands",
+        "author": "Shinjiro Sueda, Garrett L. Jones, David I. W. Levin, Dinesh K. Pai",
+        "doi": "https://doi.org/10.1145/2010324.1964934"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Layered 3D: Tomographic Image Synthesis for Attenuation-Based Light Field and High Dynamic Range Displays",
+        "author": "Gordon Wetzstein, Douglas Lanman, Wolfgang Heidrich, Ramesh Raskar",
+        "doi": "https://doi.org/10.1145/1964921.1964990"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Leveraging Motion Capture and 3D Scanning for High-Fidelity Facial Performance Acquisition",
+        "author": "Haoda Huang, Jinxiang Chai, Xin Tong, Hsiang-Tao Wu",
+        "doi": "https://doi.org/10.1145/1964921.1964969"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Local Laplacian Filters: Edge-Aware Image Processing With a Laplacian Pyramid",
+        "author": "Sylvain Paris, Sam Hasinoff, Jan Kautz",
+        "doi": "https://doi.org/10.1145/2010324.1964963"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Locomotion Skills for Simulated Quadrupeds",
+        "author": "Stelian Coros, Andrej Karpathy, Ben Jones, Lionel Reveret, Michiel van de Panne",
+        "doi": "https://doi.org/10.1145/2010324.1964954"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Make it Home: Automatic Optimization of Furniture Arrangement",
+        "author": "Lap-Fai Yu, Sai-Kit Yeung, Chi-Keung Tang, Demetri Terzopoulos, Tony F. Chan, Stanley Osher",
+        "doi": "https://doi.org/10.1145/2010324.1964981"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Making Burr Puzzles From 3D Models",
+        "author": "Shiqing Xin, Chi-Fu Lai, Chi-Wing Fu, Tien-Tsin Wong, Ying He, Daniel Cohen-Or",
+        "doi": "https://doi.org/10.1145/1964921.1964992"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Matting and Compositing of Transparent and Refractive Objects",
+        "author": "Sai-Kit Yeung, Chi-Keung Tang, Michael Brown, Sing Bing Kang",
+        "doi": "https://doi.org/10.1145/1899404.1899406"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "MeshFlow: Interactive Visualization of Mesh Construction Sequences",
+        "author": "Jonathan Denning, William Kerr, Fabio Pellacini",
+        "doi": "https://doi.org/10.1145/1964921.1964961"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Metropolis Procedural Modeling",
+        "author": "Jerry Talton, Yu Lou, Steve Lesser, Jared Duke, Radomir Mech, Vladlen Koltun",
+        "doi": "https://doi.org/10.1145/1944846.1944851"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Microgeometry Capture Using an Elastomeric Sensor",
+        "author": "Micah Johnson, Forrester Cole, Alvin Raj, Edward Adelson",
+        "doi": "https://doi.org/10.1145/2010324.1964941"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Motion Capture From Body-Mounted Cameras",
+        "author": "Takaaki Shiratori, Hyun Soo Park, Leonid Sigal, Yaser Sheikh, Jessica Hodgins",
+        "doi": "https://doi.org/10.1145/2010324.1964926"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Motion Reconstruction Using Sparse Accelerometer Data",
+        "author": "Jochen Tautges, Arno Zinke, Bj\u00f6rn Kr\u00fcger, Jan Baumann, Andreas Weber, Thomas Helten, Meinard M\u00fcller, Hans-Peter Seidel, Bernd Eberhardt",
+        "doi": "https://doi.org/10.1145/1966394.1966397"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Non-Rigid Dense Correspondence With Applications for Image Enhancement",
+        "author": "Yoav Hacohen, Eli Shechtman, Dan Goldman, Dani Lischinski",
+        "doi": "https://doi.org/10.1145/2010324.1964965"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Nonlinear Revision Control for Images",
+        "author": "Hsiang-Ting Chen, Li-Yi Wei, Chun-Fa Chang",
+        "doi": "https://doi.org/10.1145/2010324.1965000"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "On the Velocity of an Implicit Surface",
+        "author": "Jos Stam, Ryan Schmidt",
+        "doi": "https://doi.org/10.1145/1966394.1966400"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "OverCoat: An Implicit Canvas for 3D Painting",
+        "author": "Johannes Schmid, Martin Sebastian Senn, Markus Gross, Robert Sumner",
+        "doi": "https://doi.org/10.1145/1964921.1964923"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Perceptually Based Tone Mapping for Low Light Conditions",
+        "author": "Adam Kirk, James O'Brien",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Photo-Inspired Model-Driven 3D Object Modeling",
+        "author": "Kai Xu, Hanlin Zheng, Richard (Hao) Zhang, Daniel Cohen-Or, Ligang Liu, Yueshan Xiong",
+        "doi": "https://doi.org/10.1145/2010324.1964975"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Physically Based Real-Time Lens Flare Rendering",
+        "author": "Matthias Hullin, Elmar Eisemann, Hans-Peter Seidel, Sungkil Lee",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Physically Valid Statistical Models for Human Motion Generation",
+        "author": "Xiaolin Wei, Jianyuan Min, Jinxiang Chai",
+        "doi": "https://doi.org/10.1145/1966394.1966398"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Physics-Inspired Upsampling for Cloth Simulation in Games",
+        "author": "Ladislav Kavan, Daniel Gerszewski, Adam Bargteil, Peter-Pike Sloan",
+        "doi": "https://doi.org/10.1145/1964921.1964988"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Pocket Reflectometry",
+        "author": "Peiran Ren, Jiaping Wang, John Snyder, Xin Tong, Baining Guo",
+        "doi": "https://doi.org/10.1145/1964921.1964940"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Probabilistic Reasoning for Assembly-Based 3D Modeling",
+        "author": "Siddhartha Chaudhuri, Evangelos Kalogerakis, Leonidas Guibas, Vladlen Koltun",
+        "doi": "https://doi.org/10.1145/1964921.1964930"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Progressive Photon Mapping: A Probabilistic Approach",
+        "author": "Claude Knaus, Matthias Zwicker",
+        "doi": "https://doi.org/10.1145/1966394.1966404"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Real-Time Eulerian Water Simulation Using a Restricted Tall Cell Grid",
+        "author": "Nuttapong Chentanez, Matthias M\u00fcller-Fischer",
+        "doi": "https://doi.org/10.1145/2010324.1964977"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Real-Time Large-Deformation Substructuring",
+        "author": "Jernej Barbi\u010d, Yili Zhao",
+        "doi": "https://doi.org/10.1145/2010324.1964986"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Real-Time Performance-Based Facial Animation",
+        "author": "Thibaut Weise, Sofien Bouaziz, Hao Li, Mark Pauly",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Scalable and Coherent Video Resizing With Per-Frame Optimization",
+        "author": "Yu-Shuen Wang, Jen-Hung Hsiao, Olga Sorkine, Tong-Yee Lee",
+        "doi": "https://doi.org/10.1145/1964921.1964983"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Sensitive Couture for Interactive Garment Modeling and Editing",
+        "author": "Nobuyuki Umetani, Danny M. Kaufman, Takeo Igarashi, Eitan Grinspun",
+        "doi": "https://doi.org/10.1145/2010324.1964985"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "ShadowDraw: Real-Time User Guidance for Freehand Drawing",
+        "author": "Yong Jae Lee, C. Zitnick, Michael Cohen",
+        "doi": "https://doi.org/10.1145/2010324.1964922"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Shape Google: Geometric Words and Expressions for Invariant Shape Retrieval",
+        "author": "Michael Bronstein, Alexander Bronstein, Leonidas Guibas, Maks Ovsjanikov",
+        "doi": "https://doi.org/10.1145/1899404.1899405"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Solid Simulation With Oriented Particles",
+        "author": "Matthias M\u00fcller-Fischer, Nuttapong Chentanez",
+        "doi": "https://doi.org/10.1145/2010324.1964987"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Space-Time Planning With Parameterized Locomotion Controllers",
+        "author": "Sergey Levine, Yongjoon Lee, Vladlen Koltun, Zoran Popovi\u0107",
+        "doi": "https://doi.org/10.1145/1966394.1966402"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Spark: Modular, Composable Shaders for Graphics Hardware",
+        "author": "Tim Foley, Pat Hanrahan",
+        "doi": "https://doi.org/10.1145/2010324.1965002"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Sparse Meshless Models of Complex Deformable Solids",
+        "author": "Fran\u00e7ois Faure, Benjamin Gilles, Guillaume Bousquet, Dinesh K. Pai",
+        "doi": "https://doi.org/10.1145/2010324.1964968"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Spin Transformations of Discrete Surfaces",
+        "author": "Keenan Crane, Ulrich Pinkall, Peter Schr\u00f6der",
+        "doi": "https://doi.org/10.1145/2010324.1964999"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Subspace Video Stabilization",
+        "author": "Feng Liu, Michael Gleicher, Jue Wang, Hailin Jin, Aseem Agarwala",
+        "doi": "https://doi.org/10.1145/1899404.1899408"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Switchable Primaries Using Shiftable Layers of Color Filter Arrays",
+        "author": "Behzad Sajadi, Aditi Majumder, Kazuhiro Hiwada, Atsuto Maki, Ramesh Raskar",
+        "doi": "https://doi.org/10.1145/1964921.1964960"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Temporal Light Field Reconstruction for Rendering Distribution Effects",
+        "author": "Jaakko Lehtinen, Timo Aila, Jiawen Chen, Samuli Laine, Fr\u00e9do Durand",
+        "doi": "https://doi.org/10.1145/2010324.1964950"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Texture-Lobes for Tree Modeling",
+        "author": "Yotam Livny, Soeren Pirk, Zhanglin Cheng, Feilong Yan, Oliver Deussen, Daniel Cohen-Or, Baoquan Chen",
+        "doi": ""
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "The Area Perspective Transform: A Homogeneous Transform for Efficient In-Volume Queries",
+        "author": "Warren Hunt, Gregory Johnson",
+        "doi": "https://doi.org/10.1145/1944846.1944848"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Tonal Stabilization of Video",
+        "author": "Zeev Farbman, Dani Lischinski",
+        "doi": "https://doi.org/10.1145/2010324.1964984"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Toward High-Quality Modal Contact Sound",
+        "author": "Changxi Zheng, Doug James",
+        "doi": "https://doi.org/10.1145/2010324.1964933"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Two-Scale Particle Simulation",
+        "author": "Barbara Solenthaler, Markus Gross",
+        "doi": "https://doi.org/10.1145/1964921.1964976"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "Video-Based Characters: Creating New Human Performances From a Multi-View Video Database",
+        "author": "Feng Xu, Yebin Liu, Carsten Stoll, James Tompkin, Gaurav Bharaj, QiongHai Dai, Hans-Peter Seidel, Jan Kautz, Christian Theobalt",
+        "doi": "https://doi.org/10.1145/2010324.1964927"
+    },
+    {
+        "status": "Technical Paper",
+        "sess": "Drawing, Painting and Stylization",
+        "title": "\u21131-Sparse Reconstruction of Sharp Point Set Surfaces",
+        "author": "Haim Avron, Andrei Sharf, Chen Greif, Daniel Cohen-Or",
+        "doi": "https://doi.org/10.1145/1857907.1857911"
     }
 ]
