@@ -1,6 +1,7 @@
 [
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Computational Cameras & Displays",
         "title": "3DTV at Home: Eulerian-Lagrangian Stereo-to-Multiview Conversion",
         "author": "Petr Kellnhofer, Piotr Didyk, Szu-Po Wang, Pitchaya Sitthi-Amorn, William Freeman, Fr\u00e9do Durand, Wojciech Matusik",
@@ -8,6 +9,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Imaginative Imaging",
         "title": "4D Imaging Through Spray-On Optics",
         "author": "Julian Iseringhausen, Bastian Goldl\u00fccke, Nina Pesheva, Stanimir Iliev, Alexander Wender, Martin Fuchs, Matthias Hullin",
@@ -15,6 +17,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Systems",
         "title": "A Compressed Representation for Ray Tracing Parametric Surfaces",
         "author": "Michael Guthe, Kai Selgrad, Alexander Lier, Magdalena Martinek, Christoph Buchenau, Franziska Kranz, Henry Schafer, Marc Stamminger",
@@ -22,6 +25,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Dynamic Fabrication",
         "title": "A Computational Design Tool for Compliant Mechanisms",
         "author": "Vittorio Megaro, Jonas Zehnder, Moritz B\u00e4cher, Stelian Coros, Markus Gross, Bernhard Thomaszewski",
@@ -29,6 +33,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Faces & Hair",
         "title": "A Data-Driven Approach to Four-View Image-Based Hair Modeling",
         "author": "Meng Zhang, Menglei Chai, Hongzhi Wu, Hao Yang, Kun Zhou",
@@ -36,6 +41,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Speech and Facial Animation",
         "title": "A Deep Learning Approach for Generalized Speech Animation",
         "author": "Sarah Taylor, Taehwan Kim, Moshe Mahler, James Krahe, Anastasio Garcia Rodriguez, Jessica Hodgins, Yisong Yue, Iain Matthews",
@@ -43,6 +49,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Systems",
         "title": "A Domain-Specific Language for Monte Carlo Sampling",
         "author": "Luke Anderson, Tzu-Mao Li, Jaakko Lehtinen, Fr\u00e9do Durand",
@@ -50,6 +57,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Volumes",
         "title": "A Forward-Scattering Dipole Model from a Functional Integral Approximation",
         "author": "Roald Frederickx, Philip Dutr\u00e9",
@@ -57,6 +65,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Clever Solids",
         "title": "A Multi-Scale Model for Simulating Liquid-Hair Interactions",
         "author": "Yun Fei, Henrique Maia, Christopher Batty, Changxi Zheng, Eitan Grinspun",
@@ -64,6 +73,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reflectance & Scattering",
         "title": "A Practical Extension to Microfacet Theory for Modeling Varying Iridescence",
         "author": "Laurent Belcour, Pascal Barla",
@@ -71,6 +81,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids III",
         "title": "A Schur Complement Preconditioner for Scalable Parallel Fluid Simulation",
         "author": "Jieyu Chu, Nafees Bin Zafar, Xubo Yang",
@@ -78,6 +89,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering in Path Space",
         "title": "A Spatial Target Function for Metropolis Photon Tracing",
         "author": "Adrien Gruson",
@@ -85,6 +97,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Random Sampling",
         "title": "A Spherical-Cap-Preserving Parameterization for Spherical Distributions",
         "author": "Jonathan Dupuy, Eric Heitz, Laurent Belcour",
@@ -92,6 +105,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sound & Elastics",
         "title": "A Stiffly Accurate Integrator for Elastodynamic Problems",
         "author": "Dominik Michels, Luan Vu Thai, Mayya Tokman",
@@ -99,6 +113,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reflectance & Scattering",
         "title": "A Two-Scale MicroFacet Reflectance Model Combining Reflection and Diffraction",
         "author": "Nicolas Holzschuch, Romain Pacanowski",
@@ -106,6 +121,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Time to Focus",
         "title": "Accommodation and Comfort in Head-Mounted Displays",
         "author": "George-Alex Koulieris, Bee Bui, Martin S. Banks, George Drettakis",
@@ -113,6 +129,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Time to Focus",
         "title": "Accommodation-Invariant Computational Near-Eye Displays",
         "author": "Robert Konrad, Nitish Padmanaban, Keenan Molner, Emily A. Cooper, Gordon Wetzstein",
@@ -120,6 +137,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Let's Get in Contact",
         "title": "All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid-Body Impact",
         "author": "Paul Vouga, Breannan Smith, Danny Kaufman, Rasmus Tamstorf, Eitan Grinspun",
@@ -127,6 +145,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Random Sampling",
         "title": "An Adaptive Point Sampler on A Regular Lattice",
         "author": "Abdalla Ahmed, Till Niese, Hui Huang, Oliver Deussen",
@@ -134,6 +153,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reflectance & Scattering",
         "title": "An Efficient and Practical Near-and-Far-Field Fur Reflectance Model",
         "author": "Ling-Qi Yan, Henrik Wann Jensen, Ravi Ramamoorthi",
@@ -141,6 +161,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sound & Elastics",
         "title": "Animating Elastic Rods with Sound",
         "author": "Eston Schweickart, Doug James, Steve Marschner",
@@ -148,6 +169,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Let's Get in Contact",
         "title": "Anisotropic Elastoplasticity for Cloth, Knit, and Hair Frictional Contact",
         "author": "Chenfanfu Jiang, Theodore Gast, Joseph Teran",
@@ -155,6 +177,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering in Path Space",
         "title": "Antialiasing Complex Global Illumination Effects in Path-Space",
         "author": "Laurent Belcour, Ling-Qi Yan, Ravi Ramamoorthi, Derek Nowrouzezarhai",
@@ -162,6 +185,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Speech and Facial Animation",
         "title": "Audio-Driven Facial Animation by Joint End-to-End Learning of Pose and Emotion",
         "author": "Tero Karras, Timo Aila, Samuli Laine, Antti Herva, Jaakko Lehtinen",
@@ -169,6 +193,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Simulation for Virtual Worlds",
         "title": "Authoring Landscapes by Combining Ecosystem and Terrain-Erosion Simulation",
         "author": "Guillaume Cordonnier",
@@ -176,6 +201,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sketching & Curves",
         "title": "BendSketch: Modeling Freeform Surfaces Through 2D Sketching",
         "author": "Changjian Li, Hao Pan, Yang Liu, Xin Tong, Alla Sheffer, Wenping Wang",
@@ -183,6 +209,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Volumes",
         "title": "Beyond Points and Beams: Higher-Dimensional Photon Samples for Volumetric Light Transport",
         "author": "Benedikt Bitterli, Wojciech Jarosz",
@@ -190,6 +217,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Simulation for Virtual Worlds",
         "title": "Botanical Materials Based on Biomechanics",
         "author": "Bohan Wang, Yili Zhao, Jernej Barbi\u010d",
@@ -197,6 +225,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Let's Get in Contact",
         "title": "Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact",
         "author": "Jui-Hsien Wang, Raj Setaluri, Doug James, Dinesh Pai",
@@ -204,6 +233,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Meshing",
         "title": "Boundary Element Octahedral Fields in Volumes",
         "author": "Justin Solomon, Amir Vaxman, David Bommes",
@@ -211,6 +241,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Being Discrete About Geometry Processing",
         "title": "Bounding Proxies For Shape Approximation",
         "author": "St\u00e9phane Calderon, Tamy Boubekeur",
@@ -218,6 +249,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reconstructing 3D Surfaces From Points, Lines, Images & Water",
         "title": "BundleFusion: Real-Time Globally Consistent 3D Reconstruction Using On-the-Fly Surface Re-integration",
         "author": "Angela Dai, Matthias Nie\u00dfner, Michael Zollh\u00f6fer, Shahram Izadi, Christian Theobalt",
@@ -225,6 +257,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering in Path Space",
         "title": "Charted Metropolis Light Transport",
         "author": "Jacopo Pantaleoni",
@@ -232,6 +265,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning & Analysis for Geometry",
         "title": "ClothCap: Seamless 4D Clothing Capture and Retargetting",
         "author": "Gerard Pons-Moll, Sergi Pujades, Sonny Hu, Michael Black",
@@ -239,6 +273,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Comparing 3D Shapes and Parts",
         "title": "Co-Locating Style-Defining Elements on 3D Shapes",
         "author": "Ruizhen Hu, Wenchao Li, Oliver Van Kaick, Hui Huang, Melinos Averkiou, Daniel Cohen-Or, Hao Zhang",
@@ -246,6 +281,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Imaginative Imaging",
         "title": "CoLux: Multi-Object 3D Micro-Motion Analysis Using Speckle Imaging",
         "author": "Brandon Smith, Pratham Desai, Vishal Agarwal, Mohit Gupta",
@@ -253,6 +289,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Look & Feel",
         "title": "Color Contoning for 3D Printing",
         "author": "Vahid Babaei",
@@ -260,6 +297,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Curves, Surfaces & Volumes",
         "title": "Computational Design and Automated Fabrication of Kirchhoff-Plateau Surfaces",
         "author": "Jes\u00fas P\u00e9rez Rodr\u00edguez, Miguel A. Otaduy, Bernhard Thomaszewski",
@@ -267,6 +305,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Dynamic Fabrication",
         "title": "Computational Design of Telescoping Structures",
         "author": "Christopher Yu, Keenan Crane, Stelian Coros",
@@ -274,6 +313,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Video",
         "title": "Computational Video Editing for Dialogue-Driven Scenes",
         "author": "Mackenzie Leake, Abe Davis, Anh Truong, Maneesh Agrawala",
@@ -281,6 +321,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Get More Out of Your Photo",
         "title": "Computational Zoom: A Framework for Post-Capture Image Composition",
         "author": "Abhishek Badki, Orazio Gallo, Jan Kautz, Pradeep Sen",
@@ -288,6 +329,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Global Parameterization",
         "title": "Consistent Functional Cross-Field Design for Mesh Quadrangulation",
         "author": "Omri Azencot, Etienne Corman, Mirela Ben-Chen, Maks Ovsjanikov",
@@ -295,6 +337,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Color & Compositing",
         "title": "Constrained Palette-Space Exploration",
         "author": "Nicolas Mellado, David Vanderhaeghe, Charlotte Hoarau, Sidonie Christophe, Mathieu Bredif, Lo\u00efc Barthe",
@@ -302,6 +345,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Random Sampling",
         "title": "Convergence Analysis for Anisotropic Monte Carlo Sampling Spectra",
         "author": "Gurprit Singh, Wojciech Jarosz",
@@ -309,6 +353,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning & Analysis for Geometry",
         "title": "Convolutional Neural Networks on Surfaces via Seamless Toric Covers",
         "author": "Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir Kim, Yaron Lipman",
@@ -316,6 +361,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Curves, Surfaces & Volumes",
         "title": "CurveUps: Shaping Objects From Flat Plates With Tension-Actuated Curvature",
         "author": "Ruslan Guseinov, Eder Miguel, Bernd Bickel",
@@ -323,6 +369,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Clever Solids",
         "title": "Data-Driven Physics for Human Soft-Tissue Animation",
         "author": "Meekyoung Kim, Gerard Pons-Moll, Sergi Pujades, Seungbae Bang, Jinwook Kim, Michael Black, Sung-Hee Lee",
@@ -330,6 +377,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluid Control & Synthesis",
         "title": "Data-Driven Synthesis of Smoke Flows With CNN-Based Feature Descriptors",
         "author": "Mengyu Chu, Nils Thuerey",
@@ -337,6 +385,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Color & Compositing",
         "title": "Decomposing Images into Layers via RGB-Space Geometry",
         "author": "Jyh-Ming Lien, Jianchao Tan, Yotam Gingold",
@@ -344,6 +393,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Deep Image Processing",
         "title": "Deep Bilateral Learning for Real-Time Image Enhancement",
         "author": "Michael Gharbi, Jiawen Chen, Jonathan Barron, Samuel Hasinoff, Fr\u00e9do Durand",
@@ -351,6 +401,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Deep Image Processing",
         "title": "Deep Compositing Using Lie Algebras",
         "author": "Tom Duff",
@@ -358,6 +409,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image Texture & Completion",
         "title": "Deep Correlations for Texture synthesis",
         "author": "Daniel Cohen-Or, Omry Sendik",
@@ -365,6 +417,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Deep Image Processing",
         "title": "Deep Extraction of Manga Structural Lines",
         "author": "Chengze Li, Xueting Liu, Tien-Tsin Wong",
@@ -372,6 +425,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image and Light Field Manipulation",
         "title": "Deep High-Dynamic-Range Imaging of Dynamic Scenes",
         "author": "Nima Khademi Kalantari, Ravi Ramamoorthi",
@@ -379,6 +433,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning to Move",
         "title": "DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning",
         "author": "Xue Bin Peng, Glen Berseth, KangKang Yin, Michiel van de Panne",
@@ -386,6 +441,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sketching & Curves",
         "title": "DeepSketch2Face: A Deep-Learning-Based Sketching System for 3D Face and Caricature Modeling",
         "author": "Xiaoguang Han, Chang Gao, Yizhou Yu",
@@ -393,6 +449,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Comparing 3D Shapes and Parts",
         "title": "Deformation-Driven Shape Correspondence via Shape Recognition",
         "author": "Chenyang Zhu, Renjiao Yi, Wallace Lira, Ibraheem Alhashim, Kai Xu, Hao Zhang",
@@ -400,6 +457,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Work it, Make it Better, Stronger",
         "title": "Design and Volume Optimization of Space Structures",
         "author": "Caigui Jiang, Chengcheng Tang, Hans-Peter Seidel, Peter Wonka",
@@ -407,6 +465,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reconstructing 3D Surfaces From Points, Lines, Images & Water",
         "title": "Dip Transform for 3D Shape Reconstruction",
         "author": "Kfir Aberman, Oren Katzir, Qiang Zhou, Zegang Luo, Andrei Sharf, Chen Greif, Baoquan Chen, Daniel Cohen-Or",
@@ -414,6 +473,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning to Move",
         "title": "Discovering and Synthesizing Humanoid Climbing Movements",
         "author": "Kourosh Naderi, Joose Rajam\u00e4ki, Perttu H\u00e4m\u00e4l\u00e4inen",
@@ -421,6 +481,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Human Motion",
         "title": "Domain of Attraction Expansion for Physics-Based Character Control",
         "author": "Michiel van de Panne, Mazen Al Borno, Eugene Fiume",
@@ -428,6 +489,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Dynamic Fabrication",
         "title": "Dynamics-Aware Coarsening for Fabrication Design",
         "author": "Desai Chen, David Levin, Wojciech Matusik, Danny Kaufman",
@@ -435,6 +497,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluid Control & Synthesis",
         "title": "Efficient Solver for Spacetime Control of Smoke",
         "author": "Dinesh Manocha, Zherong Pan",
@@ -442,6 +505,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Imaginative Imaging",
         "title": "Epipolar Time-of-Flight Imaging",
         "author": "Supreeth Achar, Joseph R. Bartels, William L. (Red) Whittaker, Kiriakos N. Kutulakos, Srinivasa G. Narasimhan",
@@ -449,6 +513,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Clever Solids",
         "title": "Example-Based Damping Design",
         "author": "Hongyi Xu, Jernej Barbi\u010d",
@@ -456,6 +521,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sketching & Curves",
         "title": "Example-Based Expressive Animation of 2D Rigid Bodies",
         "author": "Marek Dvoro\u017e\u0148\u00e1k, Pierre B\u00e9nard, Pascal Barla, Oliver Wang, Daniel S\u00fdkora",
@@ -463,6 +529,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Faces & Hair",
         "title": "Example-Based Synthesis of Stylized Facial Animations",
         "author": "Jakub Fi\u0161er, Ond\u0159ej Jamri\u0161ka, David Simons, Eli Shechtman, Jingwan Lu, Paul Asente, Michal Luk\u00e1\u010d, Daniel S\u00fdkora",
@@ -470,6 +537,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Faces & Hair",
         "title": "Facial Retargeting With Automatic Range-of-Motion Alignment",
         "author": "Roger Blanco Ribera, Eduard Zell, J.P. Lewis, Junyong Noh, Mario Botsch",
@@ -477,6 +545,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Simulation for Virtual Worlds",
         "title": "Fast Weather Simulation for Inverse Procedural Design of 3D Urban Models",
         "author": "Daniel Aliaga, Ignacio Garcia-Dorado, Prashanth Bhalachandran, Paul Schmid, Dev Niyogi",
@@ -484,6 +553,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reconstructing 3D Surfaces From Points, Lines, Images & Water",
         "title": "Field-Aligned Online Surface Reconstruction",
         "author": "Nico Schertler, Marco Tarini, Wenzel Jakob, Misha Kazhdan, Stefan Gumhold, Daniele Panozzo",
@@ -491,6 +561,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Being Discrete About Geometry Processing",
         "title": "FlowRep: Descriptive Curve Networks for Free-Form Design Shapes",
         "author": "Giorgio Gori, Alla Sheffer, Nathan Carr, Tao Ju, Nicholas Vining, Enrique Rosales",
@@ -498,6 +569,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluid Control & Synthesis",
         "title": "Fluxed Animated Boundary Method",
         "author": "Alexey Stomakhin, Andrew Selle",
@@ -505,6 +577,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Time to Focus",
         "title": "Focal Surface Displays",
         "author": "Nathan Matsuda, Alexander Fix, Douglas Lanman",
@@ -512,6 +585,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Being Discrete About Geometry Processing",
         "title": "Functional Characterization of Intrinsic and Extrinsic Geometry",
         "author": "Etienne Corman, Justin Solomon, Mirela Ben-Chen, Leonidas Guibas, Maks Ovsjanikov",
@@ -519,6 +593,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Dynamic Fabrication",
         "title": "Functionality Aware Retargeting of Mechanisms to 3D Shapes",
         "author": "Ran Zhang, Thomas Auzinger, Duygu Ceylan, Wilmot Li, Bernd Bickel",
@@ -526,6 +601,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering in Path Space",
         "title": "Fusing State Spaces for Markov Chain Monte Carlo Rendering",
         "author": "Hisanari Otsu, Anton Kaplanyan, Johannes Hanika, Carsten Dachsbacher, Toshiya Hachisuka",
@@ -533,6 +609,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Comparing 3D Shapes and Parts",
         "title": "GRASS: Generative Recursive Autoencoders for Shape Structures",
         "author": "Jun Li, Kai Xu, Siddhartha Chaudhuri, Ersin Yumer, Hao (Richard) Zhang, Leonidas Guibas",
@@ -540,6 +617,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids III",
         "title": "Generic Objective Vortices for Flow Visualization",
         "author": "Tobias G\u00fcnther, Markus Gross, Holger Theisel",
@@ -547,6 +625,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Mappings and Deformations",
         "title": "Geometric Optimization via Composite Majorization",
         "author": "Anna Shtengel, Roi Poranne, Olga Sorkine-Hornung, Shahar Kovalsky, Yaron Lipman",
@@ -554,6 +633,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image Texture & Completion",
         "title": "Globally and Locally Consistent Image Completion",
         "author": "Satoshi Iizuka, Edgar Simo-Serra, Hiroshi Ishikawa",
@@ -561,6 +641,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Global Parameterization",
         "title": "Harmonic Global Parametrization With Rational Holonomy",
         "author": "Alon Bright, Edward Chien, Ofir Weber",
@@ -568,6 +649,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Meshing",
         "title": "Hexahedral-Dominant Meshing",
         "author": "Dmitry Sokolov, Nicolas Ray, Lionel Untereiner, Bruno Levy",
@@ -575,6 +657,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Computational Cameras & Displays",
         "title": "Hiding of Phase-Based Stereo Disparity for Ghost-Free Viewing Without Glasses",
         "author": "Taiki Fukiage, Takahiro Kawabe, Shin'ya Nishida",
@@ -582,6 +665,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Time to Focus",
         "title": "Holographic Near-Eye Displays for Virtual and Augmented Reality",
         "author": "Andrew Maimone, Andreas Georgiou, Joel Kollin",
@@ -589,6 +673,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Curves, Surfaces & Volumes",
         "title": "Image-Based Reconstruction of Wire Art",
         "author": "Lingjie Liu, Duygu Ceylan, Cheng Lin, Wenping Wang, Niloy Mitra",
@@ -596,6 +681,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Simulation for Virtual Worlds",
         "title": "Implicit Integration for Robust Collision-Free Crowd Simulation",
         "author": "Ioannis Karamouzas, Nick Sohre, Rahul Narain, Stephen J. Guy",
@@ -603,6 +689,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Let's Get in Contact",
         "title": "Improving the GJK Algorithm for Faster and More Reliable Distance Queries Between Convex Objects",
         "author": "Mattia Montanari, Nik Petrinic, Ettore Barbieri",
@@ -610,6 +697,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids II",
         "title": "Infinite Continuous Adaptivity for Incompressible SPH",
         "author": "Rene Winchenbach, Hendrik Hochstetter, Andreas Kolb",
@@ -617,6 +705,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids III",
         "title": "Inside Fluids: Clebsch Maps for Visualization and Processing",
         "author": "Albert Chern, Felix Kn\u00f6ppel, Ulrich Pinkall, Peter Schr\u00f6der",
@@ -624,6 +713,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Work it, Make it Better, Stronger",
         "title": "Interactive Design and Stability Analysis of Decorative Joinery for Furniture",
         "author": "JiaXian Yao, Danny Kaufman, Yotam Gingold, Maneesh Agrawala",
@@ -631,6 +721,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Dynamic Fabrication",
         "title": "Interactive Design of Animated Plushies",
         "author": "James Bern, Kai-Hung Chang, Stelian Coros",
@@ -638,6 +729,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Work it, Make it Better, Stronger",
         "title": "Interactive Design-Space Exploration and Optimization for CAD Models",
         "author": "Adriana Schulz, Jie Xu, Bo Zhu, Changxi Zheng, Eitan Grinspun, Wojciech Matusik",
@@ -645,6 +737,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Color & Compositing",
         "title": "Interactive High-Quality Green-Screen Keying via Color Unmixing",
         "author": "Tunc Aydin, Yagiz Aksoy, Marc Pollefeys, Aljoscha Smolic",
@@ -652,6 +745,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Systems",
         "title": "Interactive Reconstruction of Monte Carlo Image Sequences Using a Recurrent Denoising Autoencoder",
         "author": "Chakravarty Reddy Alla Chaitanya, Anton Kaplanyan, Christoph Schied, Marco Salvi, Aaron Lefohn, Derek Nowrouzezahrai, Timo Aila",
@@ -659,6 +753,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image and Light Field Manipulation",
         "title": "Interactive Relighting in Single Low-Dynamic-Range Images",
         "author": "Jung-Hsuan Wu, Suguru Saito",
@@ -666,6 +761,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sound & Elastics",
         "title": "Interactive Sound Propagation and Rendering for Large Multi-Source Scenes",
         "author": "Carl Schissler, Dinesh Manocha",
@@ -673,6 +769,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluid Control & Synthesis",
         "title": "Interpolations of Smoke and Liquid Simulations",
         "author": "Nils Thuerey",
@@ -680,6 +777,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Systems",
         "title": "Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings",
         "author": "Steve Bako, Thijs Vogels, Brian McWilliams, Mark Meyer, Jan Novak, Alex Harvill, Pradeep Sen, Tony DeRose, Fabrice Rousselle",
@@ -687,6 +785,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning & Analysis for Geometry",
         "title": "Learning Hierarchical Shape Segmentation and Labeling From Online Repositories",
         "author": "Li Yi, Leonidas Guibas, Aaron Hertzmann, Vladimir Kim, Hao Su, Ersin Yumer",
@@ -694,6 +793,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning to Move",
         "title": "Learning to Schedule Control Fragments for Physics-Based Characters Using Deep Q-Learning",
         "author": "Libin Liu, Jessica Hodgins",
@@ -701,6 +801,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Video",
         "title": "Light-Field Video Capture Using a Learning-Based Hybrid-Imaging System",
         "author": "Ting-Chun Wang, Jun-Yan Zhu, Nima Khademi Kalantari, Alexei Efros, Ravi Ramamoorthi",
@@ -708,6 +809,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Volumes",
         "title": "Lighting Grid Hierarchy for Self-Illuminating Explosions",
         "author": "Can Yuksel, Cem Yuksel",
@@ -715,6 +817,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Work it, Make it Better, Stronger",
         "title": "Lightweight Structure Design Under Force-Location Uncertainty",
         "author": "Erva Ulu, James McCann, Levent Burak Kara",
@@ -722,6 +825,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Computational Cameras & Displays",
         "title": "Low-Cost 360 Stereo Photography and Video Capture",
         "author": "Kevin Matzen, Michael Cohen, Bryce Evans, Johannes Kopf, Richard Szeliski",
@@ -729,6 +833,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Computational Cameras & Displays",
         "title": "Mixed-Primary Factorization for Dual-Frame Computational Displays",
         "author": "Fu-Chung Huang, Dawid Paj\u0105k, Jonghyun Kim, Jan Kautz, David Luebke",
@@ -736,6 +841,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Get More Out of Your Photo",
         "title": "Modeling Surface Appearance From a Single Photograph Using Self-Augmented Convolutional Neural Networks",
         "author": "Xiao Li, Yue Dong, Pieter Peers, Xin Tong",
@@ -743,6 +849,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Human Motion",
         "title": "Momentum-Mapped Inverted Pendulum Models for Controlling Dynamic Human Motions",
         "author": "Jessica Hodgins, Taesoo Kwon",
@@ -750,6 +857,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "People Power",
         "title": "Movie Editing and Cognitive Event Segmentation in Virtual Reality Video",
         "author": "Ana Serrano, Vincent Sitzmann, Jaime Ruiz-Borau, Gordon Wetzstein, Diego Gutierrez, Belen Masia",
@@ -757,6 +865,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Human Motion",
         "title": "Multi-Contact Locomotion Using a Contact Graph With Feasibility Predictors",
         "author": "Changgu Kang, Sung-Hee Lee",
@@ -764,6 +873,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids II",
         "title": "Multi-Scale Vorticle Fluids",
         "author": "Alexis Angelidis",
@@ -771,6 +881,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids II",
         "title": "Multi-Species Simulation of Porous Sand and Water Mixtures",
         "author": "Andre Pradhana Tampubolon, Theodore Gast, Gergely Kl\u00e1r, Chuyuan Fu, Joseph Teran, Chenfanfu Jiang, Ken Museth",
@@ -778,6 +889,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image Texture & Completion",
         "title": "Nautilus: Recovering Regional Symmetry Transformations for Image Editing",
         "author": "Michal Luk\u00e1\u010d, Daniel S\u00fdkora, Kalyan Sunkavalli, Eli Shechtman, Ond\u0159ej Jamri\u0161ka, Nathan Carr, Tom\u00e1\u0161 Pajdla",
@@ -785,6 +897,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image and Light Field Manipulation",
         "title": "Non-Uniform Spatial Deformation of Light Fields by Locally Linear Transformations",
         "author": "Clemens Birklbauer, David Schedl, Oliver Bimber",
@@ -792,6 +905,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning & Analysis for Geometry",
         "title": "O-CNN: Octree-B\nased Convolutional Neural Networks for 3D Shape Analysis",
         "author": "Peng-Shuai Wang, Yang Liu, Yu-Xiao Guo, Chun-Yu Sun, Xin Tong",
@@ -799,6 +913,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Curves, Surfaces & Volumes",
         "title": "Optimal Discrete Slicing",
         "author": "Marc Alexa, Kristian Hildebrand, Sylvain Lefebvre",
@@ -806,6 +921,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Look & Feel",
         "title": "Orthotropic k-nearest Foams for Additive Manufacturing",
         "author": "Jon\u00e0s Mart\u00ednez, Haichuan Song, J\u00e9r\u00e9mie Dumas, Sylvain Lefebvre",
@@ -813,6 +929,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "People Power",
         "title": "PERFORM: Perceptual Approach for Adding OCEAN Personality to Human Motion Using Laban Movement Analysis",
         "author": "Norman Badler, Funda Durupinar, Mubbasir Kapadia, Susan Deutsch, Michael Neff",
@@ -820,6 +937,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image Texture & Completion",
         "title": "Patch-Based Optimization for Image-Based Texture Mapping",
         "author": "Sai Bi, Nima Khademi Kalantari, Ravi Ramamoorthi",
@@ -827,6 +945,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids III",
         "title": "Perceptual Evaluation of Liquid Simulation Methods",
         "author": "Kiwon Um, Xiangyu Hu, Nils Thuerey",
@@ -834,6 +953,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Faces & Hair",
         "title": "Phace: Physics-Based Face Modeling and Animation",
         "author": "Alexandru Eugen Ichim, Petr Kadlecek, Ladislav Kavan, Mark Pauly",
@@ -841,6 +961,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Learning to Move",
         "title": "Phase-Functioned Neural Networks for Character Control",
         "author": "Daniel Holden, Taku Komura, Jun Saito",
@@ -848,6 +969,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Color & Compositing",
         "title": "Playful Palette: An Interactive Parametric Color Mixer for Artists",
         "author": "Maria Shugrina, Jingwan Lu, Stephen DiVerdi",
@@ -855,6 +977,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image and Light Field Manipulation",
         "title": "Portrait-Lighting Transfer Using a Mass-Transport Approach",
         "author": "Zhixin Shu, Sunil Hadap, Eli Shechtman, Kalyan Sunkavalli, Sylvain Paris, Dimitris Samaras",
@@ -862,6 +985,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids III",
         "title": "Power Diagrams and Sparse Paged Grids for High-Resolution Adaptive Liquids",
         "author": "Mridul Aanjaneya, Ming Gao, Haixiang Liu, Christopher Batty, Eftychios Sifakis",
@@ -869,6 +993,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reflectance & Scattering",
         "title": "Practical Acquisition and Rendering of Diffraction Effects in Surface Reflectance",
         "author": "Antoine Toisoul, Abhijeet Ghosh",
@@ -876,6 +1001,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Look & Feel",
         "title": "Printing Anisotropic Appearance With Magnetic Flakes",
         "author": "Thiago Pereira, Carolina L. A. Paes Leme, Steve Marschner, Szymon Rusinkiewicz",
@@ -883,6 +1009,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image Texture & Completion",
         "title": "Programmable 2D Arrangements for Element Texture Design",
         "author": "Hugo Loi, Thomas Hurtut, Romain Vergne, Joelle Thollot",
@@ -890,6 +1017,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sound & Elastics",
         "title": "Quasi-Newton Methods for Real-Time Simulation of Hyperelastic Materials",
         "author": "Tiantian Liu, Sofiren Bouaziz, Ladislav Kavan",
@@ -897,6 +1025,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Imaginative Imaging",
         "title": "Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging",
         "author": "Jinhui Xiong, Ramzi Idoughi, Andres Aguirre-Pablo, Abdulrahman Aljedaani, Xiong Dun, Qiang Fu, Sigurdur Thoroddsen, Wolfgang Heidrich",
@@ -904,6 +1033,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Get More Out of Your Photo",
         "title": "Real-Time Geometry, Albedo, and Motion Reconstruction Using a Single RGBD Camera",
         "author": "Kaiwen Guo, Feng Xu, Tao Yu, Xiaoyang Liu, Qionghai Dai, Yebin Liu",
@@ -911,6 +1041,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Video",
         "title": "Real-Time Planning for Automated Multi-View Drone Cinematography",
         "author": "Tobias Naegeli, Lukas Meier, Alexander Domahidi, Javier Alonso Mora, Otmar Hilliges",
@@ -918,6 +1049,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Deep Image Processing",
         "title": "Real-Time User-Guided Image Colorization With Learned Deep Priors",
         "author": "Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S. Lin, Yu Tianhe, Alexei A. Efros",
@@ -925,6 +1057,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Meshing",
         "title": "Regular Meshes From Polygonal Patterns",
         "author": "Amir Vaxman, Christian M\u00fcller, Ofir Weber",
@@ -932,6 +1065,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Mappings and Deformations",
         "title": "Regularized Kelvinlets: Sculpting Brushes Based on Fundamental Solutions of Elasticity",
         "author": "Fernando de Goes, Doug L. James",
@@ -939,6 +1073,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Comparing 3D Shapes and Parts",
         "title": "Retrieval on Parametric Shape Collections",
         "author": "Adriana Schulz, Ariel Shamir, Ilya Baran, David I.W. Levin, Pitchaya Sitthi-Amorn, Wojciech Matusik",
@@ -946,6 +1081,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Meshing",
         "title": "Robust Hex-Dominant Mesh Generation Using Field-Guided Polyhedral Agglomeration",
         "author": "Xifeng Gao, Wenzel Jakob, Marco Tarini, Daniele Panozzo",
@@ -953,6 +1089,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Clever Solids",
         "title": "Robust eXtended Finite Elements for Complex Cutting of Deformables",
         "author": "Dan Koschier, Jan Bender, Nils Thuerey",
@@ -960,6 +1097,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "People Power",
         "title": "Saccade-Landing-Position Prediction for Gaze-Contingent Rendering",
         "author": "Elena Arabadzhiyska, Okan Tursun, Karol Myszkowski, Hans-Peter Seidel, Piotr Didyk",
@@ -967,6 +1105,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Mappings and Deformations",
         "title": "Scalable Locally Injective Mappings",
         "author": "Michael Rabinovich, Roi Poranne, Daniele Panozzo, Olga Sorkine-Hornung",
@@ -974,6 +1113,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "People Power",
         "title": "Sequential Line Search for Efficient Visual Design Optimization by Crowds",
         "author": "Yuki Koyama, Issei Sato, Daisuke Sakamoto, Takeo Igarashi",
@@ -981,6 +1121,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Systems",
         "title": "Shader Components: Modular and High-Performance Shader Development",
         "author": "Yong He, Tim Foley, Teguh Hofstee, Haomin Long, Kayvon Fatahalian",
@@ -988,6 +1129,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Global Parameterization",
         "title": "Similarity Maps and Field-Guided T-Splines: A Perfect Couple",
         "author": "Marcel Campen, Denis Zorin",
@@ -995,6 +1137,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sketching & Curves",
         "title": "Skippy: Single-View 3D Curve Interactive Modeling",
         "author": "Vojtech Krs, Ersin Yumer, Nathan Carr, Bedrich Benes, Radomir Mech",
@@ -1002,6 +1145,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Being Discrete About Geometry Processing",
         "title": "Spatiotemporal Atlas Parameterization for Evolving Meshes",
         "author": "Fabian Prada, Michael Kazhdan, Ming Chuang, Alvaro Collet, Hugues Hoppe",
@@ -1009,6 +1153,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Image and Light Field Manipulation",
         "title": "Spectral Remapping for Image Downscaling",
         "author": "Eduardo Gastal, Manuel Oliveira",
@@ -1016,6 +1161,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Rendering Volumes",
         "title": "Spectral and Decomposition Tracking for Rendering Heterogeneous Volumes",
         "author": "Peter Kutz, Ralf Habel, Yining Karl Li, Jan Novak",
@@ -1023,6 +1169,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Global Parameterization",
         "title": "Spherical Orbifold Tutte Embeddings",
         "author": "Noam Aigerman, Shahar Kovalsky, Yaron Lipman",
@@ -1030,6 +1177,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Curves, Surfaces & Volumes",
         "title": "String-Actuated Curved Folded Surfaces",
         "author": "Martin Kilian, Aron Monszpart, Niloy J.Mitra",
@@ -1037,6 +1185,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Speech and Facial Animation",
         "title": "Synthesizing Obama: Learning Lip Sync From Audio",
         "author": "Supasorn Suwajanakorn, Steven Seitz, Ira Kemelmacher",
@@ -1044,6 +1193,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reconstructing 3D Surfaces From Points, Lines, Images & Water",
         "title": "Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction",
         "author": "Arno Knapitsch, Jaesik Park, Qian-Yi Zhou, Vladlen Koltun",
@@ -1051,6 +1201,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Video",
         "title": "Time-Slice Video Synthesis by Robust Video Alignment",
         "author": "Zhaopeng Cui, Oliver Wang, Ping Tan, Jue Wang",
@@ -1058,6 +1209,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Reconstructing 3D Surfaces From Points, Lines, Images & Water",
         "title": "Topology-Controlled Reconstruction of Multi-Labelled Domains From Cross-Sections",
         "author": "Zhiyang Huang, Ming Zou, Nathan Carr, Tao Ju",
@@ -1065,6 +1217,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Look & Feel",
         "title": "Two-Scale Topology Optimization With Microstructures",
         "author": "Bo Zhu, Melina Skouras, Desai Chen, Wojciech Matusik",
@@ -1072,6 +1225,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Comparing 3D Shapes and Parts",
         "title": "Understanding and Exploiting Object Interaction Landscapes",
         "author": "S\u00f6ren Pirk, Vojtech Krs, Kaimo Hu, Suren Deepak Rajasekaran, Hao Kang, Bedrich Benes, Yusuke Yoshiyasu, Leonidas Guibas",
@@ -1079,6 +1233,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "People Power",
         "title": "Understanding the Impact of Animated Gesture Performance on Personality Perceptions",
         "author": "Harrison Jesse Smith, Michael Neff",
@@ -1086,6 +1241,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Color & Compositing",
         "title": "Unmixing-Based Soft Color Segmentation for Image Manipulation",
         "author": "Tunc Aydin, Yagiz Aksoy, Aljoscha Smolic, Marc Pollefeys",
@@ -1093,6 +1249,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Get More Out of Your Photo",
         "title": "VNect: Real-Time 3D Human-Pose Estimation With a Single RGB Camera",
         "author": "Dushyant Mehta, Srinath Sridhar, Oleksandr Sotnychenko, Helge Rhodin, Mohammad Shafiei, Hans-Peter Seidel, Weipeng Xu, Dan Casas, Christian Theobalt",
@@ -1100,6 +1257,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Mappings and Deformations",
         "title": "Variance-Minimizing Transport Plans for Inter-Surface Mapping",
         "author": "Manish Mandad, David Cohen-Steiner, Leif Kobbelt, Pierre Alliez, Mathieu Desbrun",
@@ -1107,6 +1265,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids II",
         "title": "Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids",
         "author": "Egor Larionov, Christopher Batty, Robert Bridson",
@@ -1114,6 +1273,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Get More Out of Your Photo",
         "title": "Virtual Rephotography: Novel View Prediction Error for 3D Reconstruction",
         "author": "Michael Waechter, Mate Beljian, Simon Fuhrmann, Nils Moehrle, Johannes Kopf, Michael Goesele",
@@ -1121,6 +1281,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Deep Image Processing",
         "title": "Visual Attribute Transfer Through Deep Image Analogy",
         "author": "Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, Sing Bing Kang",
@@ -1128,6 +1289,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Speech and Facial Animation",
         "title": "VoCo: Text-Based Insertion and Replacement in Audio Narration",
         "author": "Zeyu Jin, Gautham Mysore, Stephen DiVerdi, Jingwan Lu, Adam Finkelstein",
@@ -1135,6 +1297,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Random Sampling",
         "title": "Wasserstein Blue-Noise Sampling",
         "author": "Hongxing Qin, Yi Chen, Jinlong He, Baoquan Chen",
@@ -1142,6 +1305,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fluids II",
         "title": "Water Wave Packets",
         "author": "Chris Wojtan, Stefan Jeschke",
@@ -1149,6 +1313,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Fabricating Look & Feel",
         "title": "Worst-Case Stress Relief for Microstructures",
         "author": "Julian Panetta, Abtin Rahimian, Denis Zorin",
@@ -1156,6 +1321,7 @@
     },
     {
         "status": "Technical Paper",
+        "track": "main",
         "sess": "Sketching & Curves",
         "title": "k-Curves: Interpolation at Local Maximum Curvature",
         "author": "Zhipei Yan, Stephen Schiller, Gregg Wilensky, Nathan Carr, Scott Schaefer",
