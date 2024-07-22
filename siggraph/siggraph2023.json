@@ -5,7 +5,7 @@
         "status": "Technical Paper",
         "title": "3D Gaussian Splatting for Real-time Radiance Field Rendering",
         "author": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, George Drettakis",
-        "aff": "Max-Planck-Institut f\u00fcr Informatik; INRIA; Universit\u00e9 C\u00f4te d'Azur; Unversit\u00e9 C\u00f4te d'Azur",
+        "aff": "Unversit\u00e9 C\u00f4te d'Azur; Max-Planck-Institut f\u00fcr Informatik; INRIA; Universit\u00e9 C\u00f4te d'Azur",
         "track": "main",
         "sess": "NeRFs on Earth",
         "doi": "https://doi.org/10.1145/3592433"
@@ -16,7 +16,7 @@
         "status": "Technical Paper",
         "title": "3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models",
         "author": "Biao Zhang, Jiapeng Tang, Matthias Nie\u00dfner, Peter Wonka",
-        "aff": "Technical University of Munich; King Abdullah University of Science and Technology (KAUST)",
+        "aff": "King Abdullah University of Science and Technology (KAUST); Technical University of Munich",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": "https://doi.org/10.1145/3592442"
@@ -49,7 +49,7 @@
         "status": "Technical Paper",
         "title": "A Fast Geometric Multigrid Method for Curved Surfaces",
         "author": "Ruben Timotheues Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt",
-        "aff": "Universitas Gadjah Mada; Delft University of Technology",
+        "aff": "Delft University of Technology; Universitas Gadjah Mada",
         "track": "main",
         "sess": "Geometric Optimization",
         "doi": "https://doi.org/10.1145/3588432.3591502"
@@ -60,7 +60,7 @@
         "status": "Technical Paper",
         "title": "A Full-wave Reference Simulator for Computing Surface Reflectance",
         "author": "Yunchen Yu, Mengqi Xia, Bruce Walter, Eric Michielssen, Steve Marschner",
-        "aff": "Cornell University; University of Michigan; EPFL",
+        "aff": "University of Michigan; Cornell University; EPFL",
         "track": "main",
         "sess": "Material Rendering",
         "doi": "https://doi.org/10.1145/3592414"
@@ -82,7 +82,7 @@
         "status": "TOG Paper",
         "title": "A Method for Animating Children's Drawings of the Human Figure",
         "author": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica Hodgins, Harrison Jesse Smith",
-        "aff": "Carnegie Mellon University; Meta AI Research; Massachusetts Institute of Technology (MIT, MIT CSAIL); Facebook AI Research; Tencent America",
+        "aff": "Facebook Reality Labs; Meta AI Research; Tencent America; Massachusetts Institute of Technology (MIT, MIT CSAIL); Carnegie Mellon University",
         "track": "main",
         "sess": "Magical Sketching",
         "doi": ""
@@ -104,7 +104,7 @@
         "status": "Technical Paper",
         "title": "A Practical Wave Optics Reflection Model for Hair and Fur",
         "author": "Mengqi Xia, Bruce Walter, Christophe Hery, Olivier Maury, Eric Michielssen, Steve Marschner",
-        "aff": "Cornell University; University of Michigan Ann Arbor; EPFL; Facebook Reality Labs",
+        "aff": "University of Michigan Ann Arbor; Cornell University; Facebook Reality Labs; EPFL",
         "track": "main",
         "sess": "A Material World",
         "doi": "https://doi.org/10.1145/3592446"
@@ -126,7 +126,7 @@
         "status": "TOG Paper",
         "title": "A Sparse Distributed Gigascale Resolution Material Point Method",
         "author": "Yuxing Qiu, Samuel Temple Reeve, Minchen Li, Yin Yang, Stuart Slattery, Chenfanfu Jiang, Yuxing Qiu",
-        "aff": "University of California Los Angeles; University of California, Los Angeles; University of Pennsylvania; Oak Ridge National Laboratory; Timestep Technologies; The University of Utah",
+        "aff": "Timestep Technologies; University of California Los Angeles; Oak Ridge National Laboratory; The University of Utah; University of California, Los Angeles",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3570160"
@@ -137,7 +137,7 @@
         "status": "TOG Paper",
         "title": "A Sparse Non-parametric BRDF Model",
         "author": "Tanaboon Tongbuasirilai, Jonas Unger, Christine Guillemot, Ehsan Miandji, Tanaboon Tongbuasirilai",
-        "aff": "Link\u00f6ping University; INRIA Rennes",
+        "aff": "INRIA Rennes; Link\u00f6ping University",
         "track": "main",
         "sess": "A Material World",
         "doi": "https://doi.org/10.1145/3533427"
@@ -159,7 +159,7 @@
         "status": "Technical Paper",
         "title": "Acting as Inverse Inverse Planning",
         "author": "Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley",
-        "aff": "MIT; UCSD",
+        "aff": "UCSD; MIT",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
         "doi": "https://doi.org/10.1145/3588432.3591510"
@@ -170,7 +170,7 @@
         "status": "Technical Paper",
         "title": "Adaptive Local Basis Functions for Shape Completion",
         "author": "Hui Ying, Tianjia Shao, He Wang, Yin Yang, Kun Zhou",
-        "aff": "University of Utah; State Key Lab of CAD and CG, Zhejiang University; University of Leeds",
+        "aff": "University of Utah; University of Leeds; State Key Lab of CAD and CG, Zhejiang University",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": "https://doi.org/10.1145/3588432.3591485"
@@ -192,7 +192,7 @@
         "status": "Technical Paper",
         "title": "An Elastic Basis for Spectral Shape Correspondence",
         "author": "Florine Hartwig, Josua Sassen, Omri Azencot, Martin Rumpf, Mirela Ben-Chen",
-        "aff": "Technion - Israel Institute of Technology; University of Bonn; Ben Gurion University of the Negev",
+        "aff": "University of Bonn; Ben Gurion University of the Negev; Technion - Israel Institute of Technology",
         "track": "main",
         "sess": "Marvelous Mappings",
         "doi": "https://doi.org/10.1145/3588432.3591518"
@@ -203,7 +203,7 @@
         "status": "Technical Paper",
         "title": "An Extensible, Data-oriented Architecture for High-performance, Many-world Simulation",
         "author": "Brennan Shacklett, Luc Guy Rosenzweig, Bidipta Sarkar, Zhiqiang Xie, Andrew Szot, Erik Wijmans, Vladlen Koltun, Dhruv Batra, Kayvon Fatahalian",
-        "aff": "Georgia Institute of Technology; Stanford University; Vladlen Koltun",
+        "aff": "Vladlen Koltun; Stanford University; Georgia Institute of Technology",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
         "doi": "https://doi.org/10.1145/3592427"
@@ -225,7 +225,7 @@
         "status": "Technical Paper",
         "title": "AniFaceDrawing: Anime Portrait Exploration During Your Sketching",
         "author": "Zhengyu Huang, Haoran Xie, Tsukasa Fukusato, Kazunori Miyata",
-        "aff": "Waseda University; Japan Advanced Institute of Science and Technology",
+        "aff": "Japan Advanced Institute of Science and Technology; Waseda University",
         "track": "main",
         "sess": "Magical Sketching",
         "doi": "https://doi.org/10.1145/3588432.3591548"
@@ -269,7 +269,7 @@
         "status": "Technical Paper",
         "title": "AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-aware Neural Voxels",
         "author": "Yuelang Xu, Lizhen Wang, Xiaochen Zhao, Hongwen Zhang, Yebin Liu",
-        "aff": "Tsinghua University; NNkosmos Technology",
+        "aff": "NNkosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "Neural Capturing",
         "doi": "https://doi.org/10.1145/3588432.3591567"
@@ -280,7 +280,7 @@
         "status": "Technical Paper",
         "title": "AvatarReX: Real-time Expressive Full-body Avatars",
         "author": "Zerong Zheng, Xiaochen Zhao, Hongwen Zhang, Boning Liu, Yebin Liu",
-        "aff": "Tsinghua University; NNKosmos Technology",
+        "aff": "NNKosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "NeRFs for Avatars",
         "doi": "https://doi.org/10.1145/3592101"
@@ -291,7 +291,7 @@
         "status": "Technical Paper",
         "title": "B-rep Matching for Collaborating Across CAD Systems",
         "author": "Benjamin Jones, James Noeckel, Milin Kodnongbua, Ilya Baran, Adriana Schulz",
-        "aff": "University of Washington; PTC",
+        "aff": "PTC; University of Washington",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
         "doi": "https://doi.org/10.1145/3592125"
@@ -302,7 +302,7 @@
         "status": "Technical Paper",
         "title": "BakedSDF: Meshing Neural SDFs for Real-time View Synthesis",
         "author": "Lior Yariv, Peter Hedman, Christian Reiser, Dor Verbin, Pratul P. Srinivasan, Richard Szeliski, Jonathan T. Barron, Ben Mildenhall",
-        "aff": "Google Research; University of T\u00fcbingen; Weizmann Institute",
+        "aff": "Weizmann Institute; University of T\u00fcbingen; Google Research",
         "track": "main",
         "sess": "Neural Capturing",
         "doi": "https://doi.org/10.1145/3588432.3591536"
@@ -324,7 +324,7 @@
         "status": "Technical Paper",
         "title": "Bidirectional GaitNet: A Bidirectional Prediction Model of Human Gait and Anatomical Conditions",
         "author": "Jungnam Park, Moon Seok Park, Jehee Lee, Jungdam Won",
-        "aff": "Seoul National University Bundang Hospital; NCsoft; Seoul National University",
+        "aff": "Seoul National University; NCsoft; Seoul National University Bundang Hospital",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
         "doi": "https://doi.org/10.1145/3588432.3591492"
@@ -335,7 +335,7 @@
         "status": "Technical Paper",
         "title": "Blended Latent Diffusion",
         "author": "Omri Avrahami, Ohad Fried, Dani Lischinski",
-        "aff": "Hebrew University of Jerusalem; Reichman University",
+        "aff": "Reichman University; Hebrew University of Jerusalem",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
         "doi": "https://doi.org/10.1145/3592450"
@@ -346,7 +346,7 @@
         "status": "Technical Paper",
         "title": "Bodyformer: Semantics-guided 3D Body Gesture Synthesis With Transformer",
         "author": "Kunkun Pang, Dafei Qin, Yingruo Fan, Julian Habekost, Takaaki Shiratori, Junichi Yamagishi, Taku Komura",
-        "aff": "Guangdong Key Laboratory of Modern Control Technology, Institute of Intelligent Manufacturing, Guangdong Academy of Sciences; University of Edinburgh; Facebook Reality Labs; National Institute of Informatics; University of Hong Kong",
+        "aff": "Guangdong Key Laboratory of Modern Control Technology, Institute of Intelligent Manufacturing, Guangdong Academy of Sciences; National Institute of Informatics; University of Hong Kong; Facebook Reality Labs; University of Edinburgh",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
         "doi": "https://doi.org/10.1145/3592456"
@@ -368,7 +368,7 @@
         "status": "Technical Paper",
         "title": "Building a Virtual Weakly-compressible Wind Tunnel Testing Facility",
         "author": "Chaoyang Lyu, Kai Bai, Yiheng Wu, Mathieu Desbrun, Changxi Zheng, Xiaopei Liu",
-        "aff": "Tecent Pixel Lab; INRIA; ShanghaiTech University; Columbia University",
+        "aff": "INRIA; ShanghaiTech University; Tecent Pixel Lab; Columbia University",
         "track": "main",
         "sess": "Going With the Flow",
         "doi": "https://doi.org/10.1145/3592394"
@@ -379,7 +379,7 @@
         "status": "Technical Paper",
         "title": "CALM: Conditional Adversarial Latent Models for Directable Virtual Characters",
         "author": "Chen Tessler, Yoni Kasten, Yunrong Guo, Shie Mannor, Gal Chechik, Xue Bin Peng",
-        "aff": "NVIDIA Research; Technion \u2013 Israel Institute of Technology; Simon Fraser University; NVIDIA; Bar-Ilan University",
+        "aff": "Bar-Ilan University; NVIDIA; NVIDIA Research; Technion \u2013 Israel Institute of Technology; Simon Fraser University",
         "track": "main",
         "sess": "Character Animation",
         "doi": ""
@@ -390,7 +390,7 @@
         "status": "Technical Paper",
         "title": "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation",
         "author": "Chenliang Zhou, Fangcheng Zhong, Cengiz Oztireli",
-        "aff": "Google Research; University of Cambridge",
+        "aff": "University of Cambridge; Google Research",
         "track": "main",
         "sess": "Text-Guided Generation",
         "doi": "https://doi.org/10.1145/3588432.3591532"
@@ -401,7 +401,7 @@
         "status": "Technical Paper",
         "title": "COFS COntrolable Furniture Layout Synthesis",
         "author": "wamiq R. Para, Paul Guerrero, Niloy Mitra, Peter Wonka",
-        "aff": "University College London (UCL); Adobe Research; King Abdullah University of Science and Technology (KAUST)",
+        "aff": "King Abdullah University of Science and Technology (KAUST); Adobe Research; University College London (UCL)",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": ""
@@ -412,7 +412,7 @@
         "status": "Technical Paper",
         "title": "CT2Hair: High-fidelity 3D Hair Modeling Using Computed Tomography",
         "author": "Yuefan Shen, Shunsuke Saito, Ziyan Wang, Olivier Maury, Chenglei Wu, Jessica Hodgins, Youyi Zheng, Giljoo Nam",
-        "aff": "Carnegie Mellon University; State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; Boston Dynamics AI Institute; Google; State Key Lab of CAD and CG, Zhejiang University; Meta",
+        "aff": "Meta; State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; Google; Boston Dynamics AI Institute; Carnegie Mellon University; State Key Lab of CAD and CG, Zhejiang University",
         "track": "main",
         "sess": "Modeling Shells and Hair",
         "doi": "https://doi.org/10.1145/3592106"
@@ -423,7 +423,7 @@
         "status": "Technical Paper",
         "title": "ClipFace: Text-guided Editing of Textured 3D Morphable Models",
         "author": "Shivangi Aneja, Justus Thies, Angela Dai, Matthias Niessner",
-        "aff": "Technical University of Munich; Max Planck Institue for Intelligent Systems; Technical University Munich",
+        "aff": "Technical University of Munich; Technical University Munich; Max Planck Institue for Intelligent Systems",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
         "doi": "https://doi.org/10.1145/3588432.3591566"
@@ -434,7 +434,7 @@
         "status": "Technical Paper",
         "title": "ColorfulCurves: Palette-aware Lightness Control and Color Editing via Sparse Optimization",
         "author": "Cheng-Kang (Ted) Chao, Jason Klein, Jianchao Tan, Jose Echevarria, Yotam Gingold",
-        "aff": "George Mason University; Cornell University; Kuaishou Technology; Adobe Research",
+        "aff": "George Mason University; Kuaishou Technology; Adobe Research; Cornell University",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
         "doi": "https://doi.org/10.1145/3592405"
@@ -445,7 +445,7 @@
         "status": "Technical Paper",
         "title": "Complex Wrinkle Field Evolution",
         "author": "Zhen Chen, Danny Kaufman, M\u00e9lina Skouras, Etienne Vouga",
-        "aff": "University of Texas at Austin; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK; Adobe Research",
+        "aff": "Adobe Research; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK; University of Texas at Austin",
         "track": "main",
         "sess": "Modeling Shells and Hair",
         "doi": "https://doi.org/10.1145/3592397"
@@ -467,7 +467,7 @@
         "status": "Technical Paper",
         "title": "Computational Exploration of Multistable Elastic Knots",
         "author": "Michele Vidulis, Yingying Ren, Julian Panetta, Eitan Grinspun, Mark Pauly",
-        "aff": "UC Davis; University of Toronto; EPFL",
+        "aff": "University of Toronto; EPFL; UC Davis",
         "track": "main",
         "sess": "Modeling Shells and Hair",
         "doi": "https://doi.org/10.1145/3592399"
@@ -489,7 +489,7 @@
         "status": "TOG Paper",
         "title": "Computing the Singularities of Rational Parametric Surfaces Using Moving Planes",
         "author": "Xiaohong Jia, Falai Chen, Shanshan Yao, Shanshan Yao",
-        "aff": "University of the Chinese Academy of Sciences; University of Science and Technology of China; Beijing University of Posts and Telecommunications; KLMM, AMSS",
+        "aff": "University of the Chinese Academy of Sciences; KLMM, AMSS; Beijing University of Posts and Telecommunications; University of Science and Technology of China",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
         "doi": ""
@@ -500,7 +500,7 @@
         "status": "TOG Paper",
         "title": "ConTesse: Accurate Occluding Contours for Subdivision Surfaces",
         "author": "Chenxi Liu, Pierre B\u00e9nard, Aaron Hertzmann, Shayan Hoshyari, Chenxi Liu",
-        "aff": "University of British Columbia; Adobe Research; The University of British Columbia; Adobe; University of Bordeaux; LaBRI - manao",
+        "aff": "Adobe; The University of British Columbia; University of Bordeaux; University of Toronto; LaBRI - manao; Adobe Research",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
         "doi": "https://doi.org/10.1145/3544778"
@@ -511,7 +511,7 @@
         "status": "TOG Paper",
         "title": "Constraint-based Simulation of Passive Suction Cups",
         "author": "Antonin Bernardin, Eulalie Coevoet, Paul Kry, Sheldon Andrews, Christian Duriez, Maud Marchal, Maud Marchal",
-        "aff": "McGill University; Univ. Rennes, INSA, IRISA; INSA; Univ. Rennes, INSA/IRISA; Ecole de Technologie sup\u00e9rieure  Montreal, Quebec, Canada; INRIA Lille",
+        "aff": "Univ. Rennes, INSA/IRISA; McGill University; INRIA Lille; Ecole de Technologie sup\u00e9rieure  Montreal, Quebec, Canada; Univ. Rennes, INSA, IRISA; INSA",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
         "doi": "https://doi.org/10.1145/3551889"
@@ -544,7 +544,7 @@
         "status": "Technical Paper",
         "title": "Coupling Conduction, Convection, and Radiative Transfer in a Single Path-space: Application to Infrared Rendering",
         "author": "M\u00e9gane Bati, St\u00e9phane Blanco, Christophe Coustet, Vincent Eymet, Vincent Forest, Richard Fournier, Jacques Gautrais, Nicolas Mellado, Mathias Paulin, Benjamin Piaud",
-        "aff": "IRIT, Universit\u00e9 de Toulouse, UPS, CNRS; CNRS, IRIT, Universit\u00e9 de Toulouse, UPS; LAPLACE, Universit\u00e9 de Toulouse, CNRS, INPT, UPS; CRCA, CBI, Universit\u00e9 de Toulouse, CNRS, UPS; Meso-Star",
+        "aff": "CRCA, CBI, Universit\u00e9 de Toulouse, CNRS, UPS; IRIT, Universit\u00e9 de Toulouse, UPS, CNRS; CNRS, IRIT, Universit\u00e9 de Toulouse, UPS; LAPLACE, Universit\u00e9 de Toulouse, CNRS, INPT, UPS; Meso-Star",
         "track": "main",
         "sess": "Pushing the Boundaries",
         "doi": ""
@@ -566,7 +566,7 @@
         "status": "Technical Paper",
         "title": "DE-NeRF: DEcoupled Neural Radiance Fields for View-consistent Appearance Editing and High-frequency Environmental Relighting",
         "author": "Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Lin Gao",
-        "aff": "University of Chinese Academy of Sciences; Cardiff University; Institute of Computing Technology, Chinese Academy of Sciences",
+        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; Cardiff University; University of Chinese Academy of Sciences",
         "track": "main",
         "sess": "NeRFs on Earth",
         "doi": "https://doi.org/10.1145/3588432.3591483"
@@ -588,7 +588,7 @@
         "status": "TOG Paper",
         "title": "Data-driven Digital Lighting Design for Residential Indoor Spaces",
         "author": "Haocheng Ren, Hangming Fan, Rui Wang, Yuchi Huo, Rui Tang, Lei Wang, Hujun Bao, Haocheng Ren",
-        "aff": "State Key Lab of CAD&CG, Zhejiang University; RaysEngine Tech Inc.; KooLab, Manycore Tech Inc.; Zhejiang Lab; State Key Laboratory of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; RaysEngine Tech Inc.; KooLab, Manycore Tech Inc.; State Key Laboratory of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Zhejiang Lab",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
         "doi": "https://doi.org/10.1145/3582001"
@@ -599,7 +599,7 @@
         "status": "Technical Paper",
         "title": "Data-free Learning of Reduced-order Kinematics",
         "author": "Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon",
-        "aff": "MIT; McGill University; NVIDIA; Adobe Research; The University of Texas at Austin; University of Toronto; Universidad Rey Juan Carlos",
+        "aff": "The University of Texas at Austin; NVIDIA; McGill University; University of Toronto; Universidad Rey Juan Carlos; Adobe Research; MIT",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3588432.3591521"
@@ -610,7 +610,7 @@
         "status": "TOG Paper",
         "title": "Deep Appearance Prefiltering",
         "author": "Steve Bako, Pradeep Sen, Anton Kaplanyan, Steve Bako",
-        "aff": "Intel Graphics Research; Aurora Innovation; University of California Santa Barbara",
+        "aff": "Aurora Innovation; University of California Santa Barbara; Intel Graphics Research",
         "track": "main",
         "sess": "Neural Light Transport",
         "doi": "https://doi.org/10.1145/3570327"
@@ -621,7 +621,7 @@
         "status": "Technical Paper",
         "title": "Deep Real-time Volumetric Rendering Using Multi-feature Fusion",
         "author": "Jinkai Hu, Chengzhong Yu, Hongli Liu, Lingqi Yan, Yiqian Wu, Xiaogang Jin",
-        "aff": "State Key Lab of CAD&CG, Zhejiang Univerisity; State Key Lab of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Tencent, Inc.; Zhejiang University; Tokyo University of Science; Computer Science at UC Santa Barbara",
+        "aff": "Computer Science at UC Santa Barbara; State Key Lab of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Tokyo University of Science; Tencent, Inc.; Zhejiang University; State Key Lab of CAD&CG, Zhejiang Univerisity",
         "track": "main",
         "sess": "Gotta Go Fast!",
         "doi": "https://doi.org/10.1145/3588432.3591493"
@@ -654,7 +654,7 @@
         "status": "Technical Paper",
         "title": "Dense, Interlocking-free and Scalable Spectral Packing of Generic 3D Objects",
         "author": "Qiaodong Cui, Victor Rong, Desai Chen, Wojciech Matusik",
-        "aff": "Inkbit; Massachusetts Institute of Technology (MIT)",
+        "aff": "Massachusetts Institute of Technology (MIT); Inkbit",
         "track": "main",
         "sess": "From Knitting to Circuits",
         "doi": "https://doi.org/10.1145/3592126"
@@ -665,7 +665,7 @@
         "status": "Technical Paper",
         "title": "Deployable Strip Structures",
         "author": "Daoming Liu, Davide Pellis, Yu-Chou Chiang, Florian Rist, Johannes Wallner, Helmut Pottmann",
-        "aff": "National Chung Hsing University; ISTI-CNR; TU Graz; King Abdullah University of Science and Technology (KAUST)",
+        "aff": "National Chung Hsing University; King Abdullah University of Science and Technology (KAUST); ISTI-CNR; TU Graz",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
         "doi": "https://doi.org/10.1145/3592393"
@@ -676,7 +676,7 @@
         "status": "Technical Paper",
         "title": "Dictionary Fields: Learning a Neural Basis Decomposition",
         "author": "Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger",
-        "aff": "University of T\u00fcbingen; UCSD; Adobe Research; ETH Z\u00fcrich",
+        "aff": "University of T\u00fcbingen; ETH Z\u00fcrich; Adobe Research; UCSD",
         "track": "main",
         "sess": "Deep Geometric Learning",
         "doi": "https://doi.org/10.1145/3592135"
@@ -687,7 +687,7 @@
         "status": "Technical Paper",
         "title": "Differentiable Heightfield Path Tracing With Accelerated Discontinuities",
         "author": "Xiaochun Tong, Hsueh-Ti Derek Liu, Yotam Gingold, Alec Jacobson",
-        "aff": "George Mason University; Adobe Research; University of Toronto; Roblox; University of Waterloo",
+        "aff": "George Mason University; University of Waterloo; Roblox; University of Toronto; Adobe Research",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
         "doi": "https://doi.org/10.1145/3588432.3591530"
@@ -742,7 +742,7 @@
         "status": "Technical Paper",
         "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
         "author": "Xingang Pan, Ayush Tewari, Thomas Leimk\u00fchler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",
-        "aff": "University of Pennsylvania; Saarbr\u00fccken Research Center for Visual Computing, Interaction and AI; Google AR/VR; Massachusetts Institute of Technology (MIT); Max Planck Institute for Informatics",
+        "aff": "Saarbr\u00fccken Research Center for Visual Computing, Interaction and AI; Massachusetts Institute of Technology (MIT); Max Planck Institute for Informatics; Google AR/VR; University of Pennsylvania",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
         "doi": "https://doi.org/10.1145/3588432.3591500"
@@ -753,7 +753,7 @@
         "status": "Technical Paper",
         "title": "DreamFace: Progressive Generation of Animatable 3D Faces Under Text Guidance",
         "author": "Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu",
-        "aff": "ShanghaiTech University; Huazhong University of Science and Technology; Deemos Technology",
+        "aff": "Deemos Technology; ShanghaiTech University; Huazhong University of Science and Technology",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
         "doi": "https://doi.org/10.1145/3592094"
@@ -775,7 +775,7 @@
         "status": "Technical Paper",
         "title": "Effect-based Multi-viewer Caching for Cloud-native Rendering",
         "author": "Alexander Weinrauch, Wolfgang Tatzgern, Pascal Stadlbauer, Alexis Crickx, Jozef Hladky, Arno Coomans, Martin Winter, Joerg H. Mueller, Markus Steinberger",
-        "aff": "Huawei; Graz University of Technology",
+        "aff": "Graz University of Technology; Huawei",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
         "doi": "https://doi.org/10.1145/3592431"
@@ -797,7 +797,7 @@
         "status": "Technical Paper",
         "title": "Efficient Video Portrait Reenactment via Grid-based Codebook",
         "author": "Kaisiyuan Wang, Hang Zhou, Qianyi Wu, Jiaxiang Tang, Zhiliang Xu, Borong Liang, Tianshu Hu, Errui Ding, Jingtuo Liu, Ziwei Liu, Jingdong Wang",
-        "aff": "The University of Sydney; Peking University; Nanyang Technological University; Baidu Inc.; Monash University",
+        "aff": "Peking University; Monash University; Baidu Inc.; The University of Sydney; Nanyang Technological University",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
         "doi": "https://doi.org/10.1145/3588432.3591509"
@@ -808,7 +808,7 @@
         "status": "Technical Paper",
         "title": "EgoLocate: Real-time Motion Capture, Localization, and Mapping With Sparse Body-mounted Sensors",
         "author": "Xinyu Yi, Yuxiao Zhou, Marc Habermann, Vladislav Golyanik, Shaohua Pan, Christian Theobalt, Feng Xu",
-        "aff": "Tsinghua University; MPI for Informatics; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; MPI for Informatics; Tsinghua University",
         "track": "main",
         "sess": "Beyond The Headset",
         "doi": "https://doi.org/10.1145/3592099"
@@ -819,7 +819,7 @@
         "status": "Technical Paper",
         "title": "Encoder-based Domain Tuning for Fast Personalization of Text-to-image Models",
         "author": "Rinon Gal, Moab Arar, Yuval Atzmon, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or",
-        "aff": "NVIDIA Research; Tel Aviv University; Bar-Ilan University",
+        "aff": "Tel Aviv University; Bar-Ilan University; NVIDIA Research",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
         "doi": "https://doi.org/10.1145/3592133"
@@ -841,7 +841,7 @@
         "status": "Technical Paper",
         "title": "Eventfulness for Interactive Video Alignment",
         "author": "Jiatian Sun, Longxiulin Deng, Triantafyllos Afouras, Andrew Owens, Abe Davis",
-        "aff": "University of Oxford; Cornell University; University of Michigan; Meta AI",
+        "aff": "University of Oxford; Meta AI; Cornell University; University of Michigan",
         "track": "main",
         "sess": "Image and Video Editing",
         "doi": "https://doi.org/10.1145/3592118"
@@ -863,7 +863,7 @@
         "status": "Technical Paper",
         "title": "Example-based Motion Synthesis via Generative Motion Matching",
         "author": "Weiyu Li, Xuelin Chen, Peizhuo Li, Olga Sorkine-Hornung, Baoquan Chen",
-        "aff": "Shandong University; Tencent AI Lab; Peking University; ETH Z\u00fcrich",
+        "aff": "Peking University; ETH Z\u00fcrich; Tencent AI Lab; Shandong University",
         "track": "main",
         "sess": "Character Animation",
         "doi": "https://doi.org/10.1145/3592395"
@@ -896,7 +896,7 @@
         "status": "Technical Paper",
         "title": "FactorMatte: Redefining Video Matting for Re-composition Tasks",
         "author": "Zeqi Gu, Wenqi Xian, Noah Snavely, Abe Davis",
-        "aff": "Cornell University; Cornell Tech",
+        "aff": "Cornell Tech; Cornell University",
         "track": "main",
         "sess": "Image and Video Editing",
         "doi": "https://doi.org/10.1145/3592423"
@@ -907,7 +907,7 @@
         "status": "Technical Paper",
         "title": "FashionTex: Controllable Virtual Try-on With Text and Texture",
         "author": "Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han",
-        "aff": "Adobe Research; Xiaobing.AI; The Chinese University of Hong Kong, Shenzhen",
+        "aff": "The Chinese University of Hong Kong, Shenzhen; Adobe Research; Xiaobing.AI",
         "track": "main",
         "sess": "Text-Guided Generation",
         "doi": "https://doi.org/10.1145/3588432.3591568"
@@ -918,7 +918,7 @@
         "status": "Technical Paper",
         "title": "Fast Complementary Dynamics via Skinning Eigenmodes",
         "author": "Otman Benchekroun, Jiayi Eris Zhang, Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson",
-        "aff": "Stanford University; University of Toronto; Adobe Research",
+        "aff": "University of Toronto; Adobe Research; Stanford University",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3592404"
@@ -929,7 +929,7 @@
         "status": "TOG Paper",
         "title": "Fast GPU-based Two-way Continuous Collision Handling",
         "author": "Tianyu Wang, Jiong Chen, Dongping Li, Xiaowei Liu, Huamin Wang, Kun Zhou, Tianyu Wang",
-        "aff": "\u00c9cole Polytechnique; Independent; FaceUnity; miHoYo; Zhejiang University; Style3D; State Key Lab of CAD&CG",
+        "aff": "miHoYo; FaceUnity; \u00c9cole Polytechnique; State Key Lab of CAD&CG; Zhejiang University; Independent; Style3D",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
         "doi": "https://doi.org/10.1145/3604551"
@@ -951,7 +951,7 @@
         "status": "Technical Paper",
         "title": "Flexible Isosurface Extraction for Gradient-based Mesh Optimization",
         "author": "Tianchang Shen, Jacob Munkberg, Jon Hasselgren, Kangxue Yin, Zian Wang, Wenzheng Chen, Zan Gojcic, Sanja Fidler, Nicholas Sharp, Jun Gao",
-        "aff": "NVIDIA; University of Toronto",
+        "aff": "University of Toronto; NVIDIA",
         "track": "main",
         "sess": "Geometric Optimization",
         "doi": "https://doi.org/10.1145/3592430"
@@ -984,7 +984,7 @@
         "status": "Technical Paper",
         "title": "Focal Path Guiding for Light Transport Simulation",
         "author": "Alexander Rath, \u00d6mercan Yazici, Philipp Slusallek",
-        "aff": "Saarland University; DFKI; Saarland Informatics Campus; Intel",
+        "aff": "Intel; Saarland Informatics Campus; DFKI; Saarland University",
         "track": "main",
         "sess": "Neural Light Transport",
         "doi": "https://doi.org/10.1145/3588432.3591543"
@@ -995,7 +995,7 @@
         "status": "Technical Paper",
         "title": "Forming Terrains by Glacial Erosion",
         "author": "Guillaume Cordonnier, Guillaume Jouvet, Adrien Peytavie, Jean Braun, Marie-Paule Cani, Bedrich Benes, Eric Galin, Eric Guerin, James Gain",
-        "aff": "Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences; Universit\u00e9 Nice Cote d'Azur; INRIA; \u00c9cole Polytechnique; IP Paris; University of Lyon; Institute of Earth and Environmental Sciences, University of Potsdam; University of Cape Town; University of Lausanne, Institute of Earth Surface Dynamics; Purdue University",
+        "aff": "University of Lyon; University of Lausanne, Institute of Earth Surface Dynamics; INRIA; \u00c9cole Polytechnique; Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences; IP Paris; Universit\u00e9 Nice Cote d'Azur; Institute of Earth and Environmental Sciences, University of Potsdam; Purdue University; University of Cape Town",
         "track": "main",
         "sess": "Procedural Modeling",
         "doi": "https://doi.org/10.1145/3592422"
@@ -1006,7 +1006,7 @@
         "status": "Technical Paper",
         "title": "GREIL-Crowds: Crowd Simulation With Deep Reinforcement Learning and Examples",
         "author": "Panayiotis Charalambous, Julien Pettre, Vassilis Vassiliades, Yiorgos Chrysanthou, Nuria Pelechano",
-        "aff": "Universitat Politecnica de Catalunya (UPC); CYENS - Centre of Excellence; INRIA Rennes",
+        "aff": "CYENS - Centre of Excellence; INRIA Rennes; Universitat Politecnica de Catalunya (UPC)",
         "track": "main",
         "sess": "Interaction",
         "doi": "https://doi.org/10.1145/3592459"
@@ -1050,7 +1050,7 @@
         "status": "Technical Paper",
         "title": "Generating Procedural Materials From Text or Image Prompts",
         "author": "Yiwei Hu, Paul Guerrero, Milos Hasan, Holly Rushmeier, Valentin Deschaintre",
-        "aff": "Yale University; Adobe Research",
+        "aff": "Adobe Research; Yale University",
         "track": "main",
         "sess": "A Material World",
         "doi": "https://doi.org/10.1145/3588432.3591520"
@@ -1061,7 +1061,7 @@
         "status": "Technical Paper",
         "title": "Generative Design of Sheet Metal Structures",
         "author": "Amir Barda, guy tevet, adriana Schulz, Amit Haim Bermano",
-        "aff": "University of Washington; Tel Aviv University",
+        "aff": "Tel Aviv University; University of Washington",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
         "doi": "https://doi.org/10.1145/3592444"
@@ -1072,7 +1072,7 @@
         "status": "TOG Paper",
         "title": "Geometric Optimisation via Spectral Shifting",
         "author": "Roman Poya, Rogelio Ortigosa, Theodore Kim, Theodore Kim",
-        "aff": "Yale University; Siemens Digital Industries Software; Technical University of Cartagena",
+        "aff": "Siemens Digital Industries Software; Technical University of Cartagena; Yale University",
         "track": "main",
         "sess": "Geometric Optimization",
         "doi": "https://doi.org/10.1145/3585003"
@@ -1094,7 +1094,7 @@
         "status": "Technical Paper",
         "title": "Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-number Field",
         "author": "Rui Xu, Zhiyang Dou, Ningna Wang, Shiqing Xin, Shuangmin Chen, Mingyan Jiang, Xiaohu Guo, Wenping Wang, Changhe Tu",
-        "aff": "Texas A&M University; Qingdao University of Science and Technology; The University of Hong Kong; The University of Texas at Dallas; Shandong University",
+        "aff": "The University of Texas at Dallas; Texas A&M University; The University of Hong Kong; Shandong University; Qingdao University of Science and Technology",
         "track": "main",
         "sess": "Surface Reconstruction",
         "doi": "https://doi.org/10.1145/3592129"
@@ -1105,7 +1105,7 @@
         "status": "Technical Paper",
         "title": "Gloss-aware Color Correction for 3D Printing",
         "author": "Jorge Condor, Michal Piovarci, Bernd Bickel, Piotr Didyk",
-        "aff": "IST Austria; Universit\u00e0 della Svizzera Italiana",
+        "aff": "Universit\u00e0 della Svizzera Italiana; IST Austria",
         "track": "main",
         "sess": "Fabricating Appearance",
         "doi": "https://doi.org/10.1145/3588432.3591546"
@@ -1116,7 +1116,7 @@
         "status": "Technical Paper",
         "title": "Guided Linear Upsampling",
         "author": "Shuangbing Song, Fan Zhong, Tianju Wang, Xueying Qin, Changhe Tu",
-        "aff": "Shandong University; School of Software; School of Computer Science and Technology",
+        "aff": "School of Computer Science and Technology; School of Software; Shandong University",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
         "doi": "https://doi.org/10.1145/3592453"
@@ -1127,7 +1127,7 @@
         "status": "Technical Paper",
         "title": "HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation",
         "author": "Longwen Zhang, Zijun Zhao, Xinzhou Cong, Qixuan Zhang, Shuqi Gu, Yuchong Gao, Rui Zheng, Wei Yang, Lan Xu, Jingyi Yu",
-        "aff": "ShanghaiTech University; Huazhong University of Science and Technology; Deemos Technology",
+        "aff": "Deemos Technology; ShanghaiTech University; Huazhong University of Science and Technology",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
         "doi": "https://doi.org/10.1145/3592093"
@@ -1149,7 +1149,7 @@
         "status": "TOG Paper",
         "title": "HiGAN+: Handwriting Imitation GAN With Disentangled Representations",
         "author": "Ji Gan, Weiqiang Wang, Jiaxu Leng, Xinbo Gao, Weiqiang Wang",
-        "aff": "University of Chinese Academy of Sciences; Chongqing University of Posts and Telecommunications; University of Chinese Academy of Sciences, School of Computer Science and Technology",
+        "aff": "University of Chinese Academy of Sciences, School of Computer Science and Technology; University of Chinese Academy of Sciences; Chongqing University of Posts and Telecommunications",
         "track": "main",
         "sess": "Magical Sketching",
         "doi": "https://doi.org/10.1145/3550070"
@@ -1171,7 +1171,7 @@
         "status": "TOG Paper",
         "title": "How Important Are Detailed Hand Motions for Communication for a Virtual Character Through the Lens of Charades?",
         "author": "Alex Adkins, Aline Normoyle, Lorraine Lin, Yu Sun, Yuting Ye, Massimiliano Di Luca, Sophie J\u00f6rg, Sophie J\u00f6rg",
-        "aff": "Reality Labs Research @ Meta; Clemson University; University of Bamberg; Bryn Mawr College; University of Birmingham",
+        "aff": "Clemson University; Reality Labs Research @ Meta; Bryn Mawr College; University of Birmingham; University of Bamberg, Clemson University; University of Bamberg",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
         "doi": "https://doi.org/10.1145/3578575"
@@ -1182,7 +1182,7 @@
         "status": "Technical Paper",
         "title": "HumanRF: High-fidelity Neural Radiance Fields for Humans in Motion",
         "author": "Mustafa I\u015f\u0131k, Martin R\u00fcnz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nie\u00dfner",
-        "aff": "Technical University of Munich; Synthesia; University College London (UCL)",
+        "aff": "Technical University of Munich; University College London (UCL); Synthesia",
         "track": "main",
         "sess": "NeRFs for Avatars",
         "doi": "https://doi.org/10.1145/3592415"
@@ -1193,7 +1193,7 @@
         "status": "Technical Paper",
         "title": "Image Vectorization and Editing via Linear Gradient Layer Decomposition",
         "author": "Zheng-Jun Du, Liang-Fu Kang, Jianchao Tan, Yotam Gingold, Kun Xu",
-        "aff": "Qinghai University; Kuaishou Technology; Tsinghua University, China; George Mason University",
+        "aff": "Qinghai University; Tsinghua University, China; Kuaishou Technology; George Mason University",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
         "doi": "https://doi.org/10.1145/3592128"
@@ -1204,7 +1204,7 @@
         "status": "Technical Paper",
         "title": "Improved Water Sound Synthesis Using Coupled Bubbles",
         "author": "Kangrui Xue, Doug L. James, Jui-Hsien Wang, Ryan Aronson, Timothy Langlois",
-        "aff": "Stanford University; Adobe Research; Adobe",
+        "aff": "Adobe; Adobe Research; Stanford University",
         "track": "main",
         "sess": "Going With the Flow",
         "doi": "https://doi.org/10.1145/3592424"
@@ -1215,7 +1215,7 @@
         "status": "Technical Paper",
         "title": "In the Blink of an Eye: Event-based Emotion Recognition",
         "author": "Haiwei Zhang, Jiqing Zhang, Bo Dong, Pieter Peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, Xin Yang",
-        "aff": "College of William & Mary; Princeton University; Dalian University of Technology; Key Laboratory of Social Computing and Cognitive Intelligence of Ministry of Education\uff0cDalian University of Technology",
+        "aff": "Key Laboratory of Social Computing and Cognitive Intelligence of Ministry of Education\uff0cDalian University of Technology; Dalian University of Technology; College of William & Mary; Princeton University",
         "track": "main",
         "sess": "Beyond The Headset",
         "doi": "https://doi.org/10.1145/3588432.3591511"
@@ -1226,7 +1226,7 @@
         "status": "Technical Paper",
         "title": "In-Timestep Remeshing for Contacting Elastodynamics",
         "author": "Zachary Ferguson, Teseo Schneider, Danny Kaufman, Daniele Panozzo",
-        "aff": "New York University; University of Victoria; Adobe",
+        "aff": "New York University; Adobe; University of Victoria",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
         "doi": "https://doi.org/10.1145/3592428"
@@ -1237,7 +1237,7 @@
         "status": "Technical Paper",
         "title": "Inkjet 4D Print: Self-folding Tessellated Origami Objects by Inkjet UV Printing",
         "author": "Koya Narumi, Kazuki Koyama, Kai Suto, Yuta Noma, Hiroki Sato, Tomohiro Tachi, Masaaki Sugimoto, Takeo Igarashi, Yoshihiro Kawahara",
-        "aff": "The University of Tokyo; Nature Architects, Inc.; Elephantech Inc.; Miyagi University",
+        "aff": "The University of Tokyo; Miyagi University; Nature Architects, Inc.; Elephantech Inc.",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
         "doi": "https://doi.org/10.1145/3592409"
@@ -1259,7 +1259,7 @@
         "status": "Technical Paper",
         "title": "Inverse Global Illumination Using a Neural Radiometric Prior",
         "author": "Saeed Hadadan, Geng Lin, Jan Nov\u00e1k, Fabrice Rousselle, Matthias Zwicker",
-        "aff": "NVIDIA; University of Maryland, College Park; University of Maryland, University of Maryland, College Park",
+        "aff": "University of Maryland, University of Maryland, College Park; University of Maryland, College Park; NVIDIA",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
         "doi": "https://doi.org/10.1145/3588432.3591553"
@@ -1270,7 +1270,7 @@
         "status": "Technical Paper",
         "title": "Iterative alpha-(de)Blending: A Minimalist Deterministic Diffusion Model",
         "author": "Eric Heitz, Laurent Belcour, Thomas Chambon",
-        "aff": "Unity Technologies; Intel",
+        "aff": "Intel; Unity Technologies",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": ""
@@ -1292,7 +1292,7 @@
         "status": "Technical Paper",
         "title": "Kernel-based Frame Interpolation for Spatio-temporally Adaptive Rendering",
         "author": "Karlis Martins Briedis, Abdelaziz Djelouah, Rapha\u00ebl Ortiz, Mark Meyer, Markus Gross, Christopher Schroers",
-        "aff": "Disney Research Studios; Pixar Animation Studios; ETH Z\u00fcrich",
+        "aff": "Disney Research Studios; ETH Z\u00fcrich; Pixar Animation Studios",
         "track": "main",
         "sess": "Gotta Go Fast!",
         "doi": "https://doi.org/10.1145/3588432.3591497"
@@ -1314,7 +1314,7 @@
         "status": "Technical Paper",
         "title": "Language-based Photo Color Adjustment for Graphic Designs",
         "author": "Zhenwei Wang, Nanxuan Zhao, Gerhard Hancke, Rynson W.H. Lau",
-        "aff": "Chinese University of Hong Kong; City University of Hong Kong; Adobe Research",
+        "aff": "Adobe Research; City University of Hong Kong; Chinese University of Hong Kong",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
         "doi": "https://doi.org/10.1145/3592111"
@@ -1325,7 +1325,7 @@
         "status": "TOG Paper",
         "title": "Large-scale Terrain",
         "author": "Hugo Schott, Axel Paris, Lucie Fournier, \u00c9ric Gu\u00e9rin, \u00c9ric Galin, Hugo Schott",
-        "aff": "LIRIS Universit\u00e9 Lyon 1; LIRIS INSA Lyon",
+        "aff": "LIRIS INSA Lyon; LIRIS Universit\u00e9 Lyon 1; LIRIS INSA Lyon, INSA Lyon",
         "track": "main",
         "sess": "Procedural Modeling",
         "doi": ""
@@ -1336,7 +1336,7 @@
         "status": "Technical Paper",
         "title": "LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar",
         "author": "Yuelang Xu, Hongwen Zhang, Lizhen Wang, Xiaochen Zhao, Han Huang, Guojun Qi, Yebin Liu",
-        "aff": "Tsinghua University; NNkosmos Technology; OPPO Research Seattle; Westlake University",
+        "aff": "OPPO Research Seattle; NNkosmos Technology; Tsinghua University; Westlake University",
         "track": "main",
         "sess": "NeRFs for Avatars",
         "doi": "https://doi.org/10.1145/3588432.3591545"
@@ -1347,7 +1347,7 @@
         "status": "Technical Paper",
         "title": "Learning Physically Simulated Tennis Skills From Broadcast Videos",
         "author": "Haotian Zhang, Ye Yuan, Viktor Makoviychuk, Yunrong Guo, Sanja Fidler, Xue Bin Peng, Kayvon Fatahalian",
-        "aff": "NVIDIA; Stanford University; Simon Fraser University; University of Toronto",
+        "aff": "NVIDIA; University of Toronto; Stanford University; Simon Fraser University",
         "track": "main",
         "sess": "Character Animation",
         "doi": "https://doi.org/10.1145/3592408"
@@ -1380,7 +1380,7 @@
         "status": "Technical Paper",
         "title": "Locally Attentional SDF Diffusion for Controllable 3D Shape Generation",
         "author": "Xin-Yang Zheng, Hao Pan, Peng-Shuai Wang, Xin Tong, Yang Liu, Heung-Yeung Shum",
-        "aff": "Tsinghua University; International Digital Economy Academy; Peking University; Microsoft Research Asia",
+        "aff": "Microsoft Research Asia; Peking University; Tsinghua University; International Digital Economy Academy",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": "https://doi.org/10.1145/3592103"
@@ -1402,7 +1402,7 @@
         "status": "Technical Paper",
         "title": "MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes",
         "author": "Christian Reiser, Rick Szeliski, Dor Verbin, Pratul Srinivasan, Ben Mildenhall, Andreas Geiger, Jon Barron, Peter Hedman",
-        "aff": "Google Research; University of T\u00fcbingen; T\u00fcbingen AI Center",
+        "aff": "T\u00fcbingen AI Center; University of T\u00fcbingen; Google Research",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
         "doi": "https://doi.org/10.1145/3592426"
@@ -1413,7 +1413,7 @@
         "status": "Technical Paper",
         "title": "Masonry Shell Structures With Discrete Equivalence Classes",
         "author": "Rulin Chen, Pengyun Qiu, Peng Song, Bailin Deng, Ziqi Wang, Ying He",
-        "aff": "Nanyang Technological University, Singapore; ETH Z\u00fcrich; Cardiff University; Singapore University of Technology and Design",
+        "aff": "ETH Z\u00fcrich; Singapore University of Technology and Design; Nanyang Technological University, Singapore; Cardiff University",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
         "doi": "https://doi.org/10.1145/3592095"
@@ -1446,7 +1446,7 @@
         "status": "Technical Paper",
         "title": "Meso-facets for Goniochromatic 3D Printing",
         "author": "Lubna Abu Rmaileh, Alan Brunton",
-        "aff": "Fraunhofer IGD; Norwegian University of Science and Technology",
+        "aff": "Norwegian University of Science and Technology; Fraunhofer IGD",
         "track": "main",
         "sess": "Fabricating Appearance",
         "doi": "https://doi.org/10.1145/3592137"
@@ -1457,7 +1457,7 @@
         "status": "Technical Paper",
         "title": "MesoGen: Designing Procedural On-surface Stranded Mesostructures",
         "author": "\u00c9lie Michel, Tamy Boubekeur",
-        "aff": "Adobe Research; LTCI, T\u00e9l\u00e9com Paris, IP Paris",
+        "aff": "LTCI, T\u00e9l\u00e9com Paris, IP Paris; Adobe Research",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
         "doi": "https://doi.org/10.1145/3588432.3591496"
@@ -1512,7 +1512,7 @@
         "status": "Technical Paper",
         "title": "Modulating Pretrained Diffusion Models for Multimodal Image Synthesis",
         "author": "Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz",
-        "aff": "Georgia Institute of Technology; Adobe Research",
+        "aff": "Adobe Research; Georgia Institute of Technology",
         "track": "main",
         "sess": "Diffusion for Geometry",
         "doi": "https://doi.org/10.1145/3588432.3591549"
@@ -1534,7 +1534,7 @@
         "status": "Technical Paper",
         "title": "Motion From Shape Change",
         "author": "Oliver Gross, Yousuf Soliman, Marcel Padilla, Felix Kn\u00f6ppel, Ulrich Pinkall, Peter Schr\u00f6der",
-        "aff": "California Institute of Technology; TU Berlin",
+        "aff": "TU Berlin; California Institute of Technology",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3592417"
@@ -1556,7 +1556,7 @@
         "status": "Technical Paper",
         "title": "NOFA: NeRF-based One-shot Facial Avatar Reconstruction",
         "author": "Wangbo Yu, Yanbo Fan, Yong Zhang, Xuan Wang, Fei Yin, Yunpeng Bai, Yan-Pei Cao, Ying Shan, Yang Wu, Zhongqian Sun, Baoyuan Wu",
-        "aff": "Tencent AI Lab; Tsinghua Shenzhen International Graduate School,Tsinghua University; The Chinese University of Hong Kong,Shenzhen; Ant Group",
+        "aff": "Tsinghua Shenzhen International Graduate School,Tsinghua University; Tencent AI Lab; Ant Group; The Chinese University of Hong Kong,Shenzhen",
         "track": "main",
         "sess": "NeRFs for Avatars",
         "doi": "https://doi.org/10.1145/3588432.3591555"
@@ -1567,7 +1567,7 @@
         "status": "Technical Paper",
         "title": "NeRF-Texture: Texture Synthesis With Neural Radiance Fields",
         "author": "Yi-Hua Huang, Yan-Pei Cao, Yu-Kun Lai, Ying Shan, Lin Gao",
-        "aff": "University of Chinese Academy of Sciences; Tencent; Cardiff University; Institute of Computing Technology, Chinese Academy of Sciences",
+        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; Tencent; Cardiff University; University of Chinese Academy of Sciences",
         "track": "main",
         "sess": "Material Rendering",
         "doi": "https://doi.org/10.1145/3588432.3591484"
@@ -1578,7 +1578,7 @@
         "status": "Technical Paper",
         "title": "NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects From Multiview Images",
         "author": "Yuan Liu, Peng Wang, Cheng Lin, Xiaoxiao Long, Jiepeng Wang, Lingjie Liu, Taku Komura, Wenping Wang",
-        "aff": "Texas A&M University; University of Pennsylvania; Tencent Games; University of Hong Kong; Max Planck Institute for Informatics",
+        "aff": "Tencent Games; Texas A&M University; University of Hong Kong; Max Planck Institute for Informatics; University of Pennsylvania",
         "track": "main",
         "sess": "Neural Capturing",
         "doi": "https://doi.org/10.1145/3592134"
@@ -1622,7 +1622,7 @@
         "status": "Technical Paper",
         "title": "Neural Biplane Representation for BTF Rendering and Acquisition",
         "author": "Jiahui Fan, Beibei Wang, Milos Hasan, Jian Yang, Ling-Qi Yan",
-        "aff": "University of California, University of California Santa Barbara; Adobe Research; Nankai University; Nanjing University of Science and Technology",
+        "aff": "Nankai University; Nanjing University of Science and Technology; Adobe Research; University of California, University of California Santa Barbara",
         "track": "main",
         "sess": "Material Acquisition",
         "doi": "https://doi.org/10.1145/3588432.3591505"
@@ -1633,7 +1633,7 @@
         "status": "Technical Paper",
         "title": "Neural Face Rigging for Animating and Retargeting Facial Meshes in the Wild",
         "author": "Dafei Qin, Jun Saito, Noam Aigerman, Thibault Groueix, Taku Komura",
-        "aff": "Adobe Research; University of Hong Kong",
+        "aff": "University of Hong Kong; Adobe Research",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
         "doi": "https://doi.org/10.1145/3588432.3591556"
@@ -1666,7 +1666,7 @@
         "status": "Technical Paper",
         "title": "Neural Prefiltering for Correlation-aware Levels of Detail",
         "author": "Philippe Weier, Tobias Zirr, Anton Kaplanyan, Ling-Qi Yan, Philipp Slusallek",
-        "aff": "DFKI; University of California, Santa Barbara; Saarland Informatics Campus; Intel",
+        "aff": "Intel; Saarland Informatics Campus; University of California, Santa Barbara; DFKI",
         "track": "main",
         "sess": "Neural Light Transport",
         "doi": "https://doi.org/10.1145/3592443"
@@ -1688,7 +1688,7 @@
         "status": "Technical Paper",
         "title": "Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar",
         "author": "Albert Reed, Juhyeon Kim, Thomas Blanford, Adithya Pediredla, Daniel Brown, Suren Jayasuriya",
-        "aff": "Applied Research Labs; Arizona State University; Pennsylvania State University; Dartmouth College",
+        "aff": "Arizona State University; Dartmouth College; Pennsylvania State University; Applied Research Labs",
         "track": "main",
         "sess": "Neural Capturing",
         "doi": "https://doi.org/10.1145/3592141"
@@ -1699,7 +1699,7 @@
         "status": "TOG Paper",
         "title": "Nonlinear Compliant Modes for Large-deformation Analysis of Flexible Structures",
         "author": "Simon Duenser, Bernhard Thomaszewski, Roi Poranne, Stelian Coros, Simon Duenser",
-        "aff": "N/A; University of Haifa; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; N/A; University of Haifa",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3568952"
@@ -1721,7 +1721,7 @@
         "status": "TOG Paper",
         "title": "OpenMPD: A Low-level Presentation Engine for Multimodal Particle-based Displays",
         "author": "Roberto Montano Murillo, Ryuji Hirayama, Diego Mart\u00ednez Plasencia, Diego Mart\u00ednez Plasencia",
-        "aff": "University College London; Ultraleap",
+        "aff": "Ultraleap; University College London",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
         "doi": "https://doi.org/10.1145/3572896"
@@ -1743,7 +1743,7 @@
         "status": "Technical Paper",
         "title": "P2M: A Fast Solver for Querying Distance From Point to Mesh Surface",
         "author": "Chen Zong, Jiacheng Xu, Jiantao Song, Shuangmin Chen, Shiqing Xin, Wenping Wang, Changhe Tu",
-        "aff": "Shandong University; Texas A&M University; School of Information and Technology",
+        "aff": "Texas A&M University; School of Information and Technology; Shandong University",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
         "doi": "https://doi.org/10.1145/3592439"
@@ -1754,7 +1754,7 @@
         "status": "Technical Paper",
         "title": "PCBend: Light Up Your 3D Shapes With Foldable Circuit Boards",
         "author": "Marco Freire, Manas Bhargava, Camille Schreck, Pierre-Alexandre Hugron, Bernd Bickel, Sylvain Lefebvre",
-        "aff": "Universit\u00e9 de Lorraine, CNRS, Inria, LORIA; ISTA (Institute of Science and Technology Austria)",
+        "aff": "ISTA (Institute of Science and Technology Austria); Universit\u00e9 de Lorraine, CNRS, Inria, LORIA",
         "track": "main",
         "sess": "From Knitting to Circuits",
         "doi": "https://doi.org/10.1145/3592411"
@@ -1776,7 +1776,7 @@
         "status": "Technical Paper",
         "title": "Parameter-space ReSTIR for Differentiable and Inverse Rendering",
         "author": "Wesley Chang, Venkataram Sivaram, Derek Nowrouzezahrai, Toshiya Hachisuka, Ravi Ramamoorthi, Tzu-Mao Li",
-        "aff": "University of Waterloo; University of California San Diego; McGill University",
+        "aff": "University of California San Diego; University of Waterloo; McGill University",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
         "doi": "https://doi.org/10.1145/3588432.3591512"
@@ -1787,7 +1787,7 @@
         "status": "TOG Paper",
         "title": "Parsing-conditioned Anime Translation: A New Dataset and Method",
         "author": "Zhansheng Li, Yangyang Xu, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin, Shengfeng He, Nanxuan Zhao",
-        "aff": "The University of Hong Kong; University of Amsterdam; Adobe Research; The Chinese University of Hong Kong; South China University of Technology; Singapore Management University",
+        "aff": "Singapore Management University; South China University of Technology; The University of Hong Kong; University of Amsterdam; Adobe Research; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Image and Video Editing",
         "doi": "https://doi.org/10.1145/3585002"
@@ -1798,7 +1798,7 @@
         "status": "Technical Paper",
         "title": "Patternshop: Editing Point Patterns by Image Manipulation",
         "author": "Xingchang Huang, Tobias Ritschel, Hans-Peter Seidel, Pooran Memari, Gurprit Singh",
-        "aff": "Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); INRIA; University College London (UCL); Max Planck Institute for Informatics",
+        "aff": "Max Planck Institute for Informatics; INRIA; Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); University College London (UCL)",
         "track": "main",
         "sess": "Not Just for Cubists",
         "doi": "https://doi.org/10.1145/3592418"
@@ -1809,7 +1809,7 @@
         "status": "TOG Paper",
         "title": "Perceptual Visibility Model for Temporal Contrast Changes in Periphery",
         "author": "Cara Tursun, Piotr Didyk, Cara Tursun",
-        "aff": "Universit\u00e0 della Svizzera italiana; University of Groningen; Universit\u00e0 della Svizzera Italiana, University of Groningen",
+        "aff": "Universit\u00e0 della Svizzera italiana; University of Groningen",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
         "doi": "https://doi.org/10.1145/3564241"
@@ -1842,7 +1842,7 @@
         "status": "Technical Paper",
         "title": "PolyStokes: A Polynomial Model Reduction Method for Viscous Fluid Simulation",
         "author": "Jonathan Panuelos, Ryan Goldade, Eitan Grinspun, David Levin, Christopher Batty",
-        "aff": "University of Waterloo; University of Toronto",
+        "aff": "University of Toronto; University of Waterloo",
         "track": "main",
         "sess": "Going With the Flow",
         "doi": "https://doi.org/10.1145/3592146"
@@ -1864,7 +1864,7 @@
         "status": "Technical Paper",
         "title": "PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling",
         "author": "Zhe Li, Zerong Zheng, Yuxiao Liu, Boyao Zhou, Yebin Liu",
-        "aff": "Tsinghua University; NNKosmos Technology",
+        "aff": "NNKosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
         "doi": "https://doi.org/10.1145/3588432.3591490"
@@ -1886,7 +1886,7 @@
         "status": "TOG Paper",
         "title": "Procedural Metamaterials: A Unified Procedural Graph for Metamaterial Design",
         "author": "Liane Makatura, Bohan Wang, Yi-Lu Chen, Bolei Deng, Chris Wojtan, Bernd Bickel, Wojciech Matusik, Liane Makatura",
-        "aff": "Institute of Science and Technology Austria (ISTA); Massachusetts Institute of Technology (MIT); Massachusetts Institute of Technology",
+        "aff": "Massachusetts Institute of Technology (MIT); Institute of Science and Technology Austria (ISTA); Massachusetts Institute of Technology",
         "track": "main",
         "sess": "Procedural Modeling",
         "doi": "https://doi.org/10.1145/3605389"
@@ -1897,7 +1897,7 @@
         "status": "Technical Paper",
         "title": "Progressive Null-tracking for Volumetric Rendering",
         "author": "Zackary Misso, Yining Karl Li, Brent Burley, Daniel Teece, Wojciech Jarosz",
-        "aff": "Walt Disney Animation Studios; Dartmouth College",
+        "aff": "Dartmouth College; Walt Disney Animation Studios",
         "track": "main",
         "sess": "Neural Light Transport",
         "doi": "https://doi.org/10.1145/3588432.3591557"
@@ -1930,7 +1930,7 @@
         "status": "Technical Paper",
         "title": "RSMT: Real-time Stylized Motion Transition for Characters",
         "author": "Xiangjun Tang, Linjun Wu, He Wang, Bo Hu, Xu Gong, Yuchen Liao, Songnan Li, Qilong Kou, Xiaogang Jin",
-        "aff": "Tencent Technology (Shenzhen) Co., Ltd; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; Tencent Technology (Shenzhen) Co., Ltd.; University of Leeds",
+        "aff": "Tencent Technology (Shenzhen) Co., Ltd.; Tencent Technology (Shenzhen) Co., Ltd; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; University of Leeds",
         "track": "main",
         "sess": "Character Animation",
         "doi": "https://doi.org/10.1145/3588432.3591514"
@@ -1952,7 +1952,7 @@
         "status": "Technical Paper",
         "title": "Real-time Radiance Fields for Single-image Portrait View Synthesis",
         "author": "Alex Trevithick, Matthew Chan, Michael Stengel, Eric Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano",
-        "aff": "NVIDIA Research; UCSD; Stanford University; NVIDIA",
+        "aff": "NVIDIA; NVIDIA Research; Stanford University; UCSD",
         "track": "main",
         "sess": "Gotta Go Fast!",
         "doi": "https://doi.org/10.1145/3592460"
@@ -1974,7 +1974,7 @@
         "status": "Technical Paper",
         "title": "Relighting Neural Radiance Fields With Shadow and Highlight Hints",
         "author": "Chong Zeng, Guojun Chen, Yue Dong, Pieter Peers, Hongzhi Wu, Xin Tong",
-        "aff": "Microsoft Research Asia; State Key Lab of CAD and CG, Zhejiang University; College of William & Mary",
+        "aff": "Microsoft Research Asia; College of William & Mary; State Key Lab of CAD and CG, Zhejiang University",
         "track": "main",
         "sess": "NeRFs on Earth",
         "doi": "https://doi.org/10.1145/3588432.3591482"
@@ -1985,7 +1985,7 @@
         "status": "TOG Paper",
         "title": "Restricted Delaunay Triangulation for Explicit Surface Reconstruction",
         "author": "Pengfei Wang, Zixiong Wang, Shiqing Xin, Xifeng Gao, Wenping Wang, Changhe Tu, Pengfei Wang",
-        "aff": "The University of Hong Kong; Lightspeed & Quantum Studio; Shandong University - Qingdao Campus; Shandong University; Tencent America",
+        "aff": "The University of Hong Kong; Shandong University; Tencent America; Lightspeed & Quantum Studio; Shandong University - Qingdao Campus",
         "track": "main",
         "sess": "Surface Reconstruction",
         "doi": "https://doi.org/10.1145/3533768"
@@ -2007,7 +2007,7 @@
         "status": "Technical Paper",
         "title": "Rhizomorph: The Coordinated Function of Shoots and Roots",
         "author": "Bosheng Li, Jonathan Klein, Dominik L. Michels, Bedrich Benes, S\u00f6ren Pirk, Wojtek Pa\u0142ubicki",
-        "aff": "Adam Mickiewicz University in Pozna\u0144; Purdue University; Adobe Research; King Abdullah University of Science and Technology (KAUST)",
+        "aff": "King Abdullah University of Science and Technology (KAUST); Adobe Research; Purdue University; Adam Mickiewicz University in Pozna\u0144",
         "track": "main",
         "sess": "Procedural Modeling",
         "doi": "https://doi.org/10.1145/3592145"
@@ -2018,7 +2018,7 @@
         "status": "Technical Paper",
         "title": "Robust Low-poly Meshing for General 3D Models",
         "author": "Zhen Chen, Zherong Pan, Kui Wu, Etienne Vouga, Xifeng Gao",
-        "aff": "University of Texas at Austin; LightSpeed Studios, Tencent America",
+        "aff": "LightSpeed Studios, Tencent America; University of Texas at Austin",
         "track": "main",
         "sess": "All About Meshes",
         "doi": "https://doi.org/10.1145/3592396"
@@ -2029,7 +2029,7 @@
         "status": "Technical Paper",
         "title": "Sag-free Initialization for Strand-based Hybrid Hair Simulation",
         "author": "Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu",
-        "aff": "Roblox Research; University of Utah; LightSpeed Studios, Tencent; LightSpeed Studios, Tencent America",
+        "aff": "University of Utah; LightSpeed Studios, Tencent America; LightSpeed Studios, Tencent; Roblox Research",
         "track": "main",
         "sess": "Modeling Shells and Hair",
         "doi": "https://doi.org/10.1145/3592143"
@@ -2040,7 +2040,7 @@
         "status": "Technical Paper",
         "title": "ScanBot: Autonomous Reconstruction via Deep Reinforcement Learning",
         "author": "Hezhi Cao, Xia Xi, Guan Wu, Ruizhen Hu, Ligang Liu",
-        "aff": "Shenzhen University; University of Science and Technology of China",
+        "aff": "University of Science and Technology of China; Shenzhen University",
         "track": "main",
         "sess": "Deep Geometric Learning",
         "doi": "https://doi.org/10.1145/3592113"
@@ -2051,7 +2051,7 @@
         "status": "Technical Paper",
         "title": "Scratch-based Reflection Art via Differentiable Rendering",
         "author": "Pengfei Shen, Ruizeng Li, Beibei Wang, Ligang Liu",
-        "aff": "University of Science and Technology of China; Nankai University; Nanjing University of Science and Technology",
+        "aff": "University of Science and Technology of China; Nanjing University of Science and Technology; Nankai University",
         "track": "main",
         "sess": "Fabricating Appearance",
         "doi": "https://doi.org/10.1145/3592142"
@@ -2062,7 +2062,7 @@
         "status": "Technical Paper",
         "title": "Second-order Stencil Descent for Interior-point Hyperelasticity",
         "author": "Lei Lan, Minchen Li, Chenfanfu Jiang, Huamin Wang, Yin Yang",
-        "aff": "Style3D Research; University of Utah; UCLA",
+        "aff": "University of Utah; Style3D Research; UCLA",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
         "doi": "https://doi.org/10.1145/3592104"
@@ -2073,7 +2073,7 @@
         "status": "Technical Paper",
         "title": "Seeing Photons in Color",
         "author": "Sizhuo Ma, Varun Sundar, Paul Mos, Claudio Bruschini, Edoardo Charbon, Mohit Gupta",
-        "aff": "University of Wisconsin-Madison; Snap Inc.; EPFL",
+        "aff": "University of Wisconsin-Madison; EPFL; Snap Inc.",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
         "doi": "https://doi.org/10.1145/3592438"
@@ -2084,7 +2084,7 @@
         "status": "Technical Paper",
         "title": "Semantics and Scheduling for Machine Knitting Compilers",
         "author": "Jenny Lin, Vidya Narayanan, Yuka Ikarashi, Jonathan Ragan-Kelley, Gilbert Bernstein, James McCann",
-        "aff": "MIT CSAIL; University of Washington; Carnegie Mellon University; Amazon",
+        "aff": "Amazon; MIT CSAIL; Carnegie Mellon University; University of Washington",
         "track": "main",
         "sess": "From Knitting to Circuits",
         "doi": "https://doi.org/10.1145/3592449"
@@ -2117,7 +2117,7 @@
         "status": "Technical Paper",
         "title": "Shortest Path to Boundary for Self-intersecting Meshes",
         "author": "He Chen, Elie Diaz, Cem Yuksel",
-        "aff": "Roblox Research; University of Utah",
+        "aff": "University of Utah; Roblox Research",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
         "doi": "https://doi.org/10.1145/3592136"
@@ -2128,7 +2128,7 @@
         "status": "Technical Paper",
         "title": "Simulation and Retargeting of Complex Multi-character Interactions",
         "author": "Yunbo Zhang, Deepak Gopinath, Yuting Ye, Jessica Hodgins, Greg Turk, Jungdam Won",
-        "aff": "Carnegie Mellon University; Seoul National University; Apple; Boston Dynamics AI Institute; Georgia Institute of Technology; Meta Reality Labs",
+        "aff": "Seoul National University; Georgia Institute of Technology; Apple; Boston Dynamics AI Institute; Carnegie Mellon University; Meta Reality Labs",
         "track": "main",
         "sess": "Interaction",
         "doi": "https://doi.org/10.1145/3588432.3591491"
@@ -2161,7 +2161,7 @@
         "status": "Technical Paper",
         "title": "Sketch-guided Text-to-image Diffusion Models",
         "author": "Andrey Voynov, Kfir Aberman, Daniel Cohen-Or",
-        "aff": "Google Research; Tel Aviv University",
+        "aff": "Tel Aviv University; Google Research",
         "track": "main",
         "sess": "Text-Guided Generation",
         "doi": "https://doi.org/10.1145/3588432.3591560"
@@ -2172,7 +2172,7 @@
         "status": "Technical Paper",
         "title": "SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields",
         "author": "Lin Gao, Feng-Lin Liu, Shu-Yu Chen, Kaiwen Jiang, Chun-Peng Li, Yu-Kun Lai, Hongbo Fu",
-        "aff": "Beijing Jiaotong University; Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Cardiff University; City University of Hong Kong",
+        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; City University of Hong Kong; Cardiff University; Beijing Jiaotong University; University of Chinese Academy of Sciences",
         "track": "main",
         "sess": "NeRFs for Avatars",
         "doi": "https://doi.org/10.1145/3592100"
@@ -2227,7 +2227,7 @@
         "status": "TOG Paper",
         "title": "SpongeCake: A Layered Microflake Surface Appearance Model",
         "author": "Beibei Wang, Wenhua Jin, Milo\u0161 Ha\u0161an, Ling-Qi Yan, Ling-Qi Yan, Beibei Wang",
-        "aff": "Nankai University; University of California Santa Barbara; Adobe Research; Nankai University, Nanjing University of Science and Technology; Nanjing University of Science and Technology",
+        "aff": "Nankai University; Nanjing University of Science and Technology; University of California Santa Barbara; Nanjing University, Nankai University; Adobe Research",
         "track": "main",
         "sess": "A Material World",
         "doi": "https://doi.org/10.1145/3546940"
@@ -2238,7 +2238,7 @@
         "status": "Technical Paper",
         "title": "Stealth Shaper: Reflectivity Optimization as Surface Stylization",
         "author": "Kenji Tojo, Ariel Shamir, Bernd Bickel, Nobuyuki Umetani",
-        "aff": "The University of Tokyo; IST Austria; University of Tokyo; Reichman University",
+        "aff": "The University of Tokyo; Reichman University; University of Tokyo; IST Austria",
         "track": "main",
         "sess": "Fabricating Appearance",
         "doi": "https://doi.org/10.1145/3588432.3591542"
@@ -2249,7 +2249,7 @@
         "status": "Technical Paper",
         "title": "StripMaker: Perception-driven Learned Vector Sketch Consolidation",
         "author": "Chenxi Liu, Toshiki Aoki, Mikhail Bessmeltsev, Alla Sheffer",
-        "aff": "University of Tokyo; University of British Columbia; Universit\u00e9 de Montr\u00e9al",
+        "aff": "University of British Columbia; Universit\u00e9 de Montr\u00e9al; University of Tokyo",
         "track": "main",
         "sess": "Magical Sketching",
         "doi": "https://doi.org/10.1145/3592130"
@@ -2260,7 +2260,7 @@
         "status": "Technical Paper",
         "title": "StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar From a Single Video",
         "author": "Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu, Yebin Liu",
-        "aff": "NNkosmos Technology; Tsinghua University, China",
+        "aff": "Tsinghua University, China; NNkosmos Technology",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
         "doi": ""
@@ -2282,7 +2282,7 @@
         "status": "TOG Paper",
         "title": "Surface Reconstruction From Point Clouds Without Normals by Parametrizing the Gauss Formula",
         "author": "Siyou Lin, Dong Xiao, Zuoqiang Shi, Bin Wang, Siyou Lin",
-        "aff": "Tsinghua University; Yau Mathematical Sciences Center Tsinghua University; Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA); Beijing National Research Center for Information Science and Technology (BNRIST)",
+        "aff": "Yau Mathematical Sciences Center Tsinghua University; Beijing National Research Center for Information Science and Technology (BNRIST); Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA); Tsinghua University",
         "track": "main",
         "sess": "Surface Reconstruction",
         "doi": "https://doi.org/10.1145/3554730"
@@ -2293,7 +2293,7 @@
         "status": "Technical Paper",
         "title": "Surface Simplification Using Intrinsic Error Metrics",
         "author": "Hsueh-Ti Derek Liu, Mark Gillespie, Benjamin Chislett, Nicholas Sharp, Alec Jacobson, Keenan Crane",
-        "aff": "Carnegie Mellon University; NVIDIA; Adobe Research; University of Toronto; Roblox",
+        "aff": "NVIDIA; Roblox; University of Toronto; Adobe Research; Carnegie Mellon University",
         "track": "main",
         "sess": "All About Meshes",
         "doi": "https://doi.org/10.1145/3592403"
@@ -2304,7 +2304,7 @@
         "status": "Technical Paper",
         "title": "Surface and Edge Detection for Primitive Fitting of Point Clouds",
         "author": "Yuanqi Li, Shun Liu, Xinran Yang, Jianwei Guo, Jie Guo, Yanwen Guo",
-        "aff": "State Key Lab for Novel Software Technology, Nanjing University; NLPR, Institute of Automation, Chinese Academy of Sciences",
+        "aff": "NLPR, Institute of Automation, Chinese Academy of Sciences; State Key Lab for Novel Software Technology, Nanjing University",
         "track": "main",
         "sess": "Surface Reconstruction",
         "doi": "https://doi.org/10.1145/3588432.3591522"
@@ -2315,7 +2315,7 @@
         "status": "TOG Paper",
         "title": "Symmetric Volume Maps: Order-invariant Volumetric Mesh Correspondence With Free Boundary",
         "author": "Mazdak Abulnaga, Oded Stein, Polina Golland, Justin Solomon, Mazdak Abulnaga",
-        "aff": "MIT CSAIL; Massachusetts Institute of Technology (MIT); University of Southern California",
+        "aff": "Massachusetts Institute of Technology (MIT); MIT CSAIL; University of Southern California",
         "track": "main",
         "sess": "Marvelous Mappings",
         "doi": "https://doi.org/10.1145/3572897"
@@ -2326,7 +2326,7 @@
         "status": "Technical Paper",
         "title": "Synthesizing Dexterous Nonprehensile Pregrasp for Ungraspable Objects",
         "author": "Sirui Chen, Albert Wu, C. Karen Liu",
-        "aff": "Stanford University; University of Hong Kong",
+        "aff": "University of Hong Kong; Stanford University",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
         "doi": "https://doi.org/10.1145/3588432.3591528"
@@ -2337,7 +2337,7 @@
         "status": "Technical Paper",
         "title": "Synthesizing Physical Character-scene Interactions",
         "author": "Mohamed Hassan, Yunrong Guo, Tingwu Wang, Michael Black, Sanja Fidler, Xue Bin Peng",
-        "aff": "NVIDIA; Simon Fraser University; Max-Planck-Institute for Intelligent Systems; Electronic Arts",
+        "aff": "Max-Planck-Institute for Intelligent Systems; NVIDIA; Simon Fraser University; Electronic Arts",
         "track": "main",
         "sess": "Interaction",
         "doi": "https://doi.org/10.1145/3588432.3591525"
@@ -2370,7 +2370,7 @@
         "status": "Technical Paper",
         "title": "TextDeformer: Geometry Manipulation Using Text Guidance",
         "author": "William Gao, Noam Aigerman, Thibault Groueix, Vova Kim, Rana Hanocka",
-        "aff": "University of Chicago; Adobe Research",
+        "aff": "Adobe Research; University of Chicago",
         "track": "main",
         "sess": "Deep Geometric Learning",
         "doi": "https://doi.org/10.1145/3588432.3591552"
@@ -2392,7 +2392,7 @@
         "status": "TOG Paper",
         "title": "The Statistics of Eye Movements and Binocular Disparities in VR Gaming Headsets Should Drive Headset Design",
         "author": "Avi M. Aizenman, George A. Koulieris, Agostino Gibaldi, Vibhor Sehgal, Dennis M. Levi, Martin S. Banks, Avi M. Aizenman",
-        "aff": "UC Berkeley; Durham University; University of California, Berkeley",
+        "aff": "University of California, Berkeley; Durham University; UC Berkeley",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
         "doi": ""
@@ -2403,7 +2403,7 @@
         "status": "Technical Paper",
         "title": "The Visual Language of Fabrics",
         "author": "Valentin Deschaintre, Julia Guerrero Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia",
-        "aff": "Universidad de Zaragoza - I3A; Adobe Research",
+        "aff": "Adobe Research; Universidad de Zaragoza - I3A",
         "track": "main",
         "sess": "Not Just for Cubists",
         "doi": "https://doi.org/10.1145/3592391"
@@ -2414,7 +2414,7 @@
         "status": "Technical Paper",
         "title": "Topology Driven Approximation to Rational Surface-surface Intersection via Interval Algebraic Topology Analysis",
         "author": "Jin-San Cheng, Bingwei Zhang, Yikun Xiao, Ming Li",
-        "aff": "State Key Lab of CAD and CG, Zhejiang University; State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; School of Mathematical Sciences, University of Chinese Academy of Sciences; Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
+        "aff": "State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; State Key Lab of CAD and CG, Zhejiang University; School of Mathematical Sciences, University of Chinese Academy of Sciences; Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
         "track": "main",
         "sess": "Geometric Optimization",
         "doi": "https://doi.org/10.1145/3592452"
@@ -2436,7 +2436,7 @@
         "status": "Technical Paper",
         "title": "Towards Attention\u2013Aware Foveated Rendering",
         "author": "Brooke Krajancich, Petr Kellnhofer, Gordon Wetzstein",
-        "aff": "Stanford University; TU Delft",
+        "aff": "TU Delft; Stanford University",
         "track": "main",
         "sess": "Beyond The Headset",
         "doi": "https://doi.org/10.1145/3592406"
@@ -2458,7 +2458,7 @@
         "status": "Technical Paper",
         "title": "Trim Regions for Online Computation of From-Region Potentially Visible Sets",
         "author": "Philip Voglreiter, Bernhard Kerbl, Alexander Weinrauch, Joerg Hermann Mueller, Thomas Neff, Markus Steinberger, Dieter Schmalstieg",
-        "aff": "INRIA M\u00e9diterran\u00e9e, Universit\u00e9 C\u00f4te d'Azur; Graz University of Technology; Technische Universit\u00e4t Wien (TU Wien); VRVis Forschungs-GmbH",
+        "aff": "Graz University of Technology; INRIA M\u00e9diterran\u00e9e, Universit\u00e9 C\u00f4te d'Azur; VRVis Forschungs-GmbH; Technische Universit\u00e4t Wien (TU Wien)",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
         "doi": "https://doi.org/10.1145/3592434"
@@ -2469,7 +2469,7 @@
         "status": "TOG Paper",
         "title": "Ultra-high Resolution SVBRDF Recovery From a Single Image",
         "author": "Jie Guo, Shuichang Lai, Qinghao Tu, Chengzhi Tao, Changqing Zou, Yanwen Guo, Jie Guo",
-        "aff": "State Key Lab for Novel Software Technology, Nanjing University; Nanjing University; State Key Lab of CAD&CG, Zhejiang University",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; Nanjing University; State Key Lab for Novel Software Technology, Nanjing University",
         "track": "main",
         "sess": "Material Acquisition",
         "doi": "https://doi.org/10.1145/3593798"
@@ -2524,7 +2524,7 @@
         "status": "Technical Paper",
         "title": "Variational Shape Reconstruction via Quadric Error Metrics",
         "author": "Tong Zhao, Laurent Bus\u00e9, David Cohen-Steiner, Tamy Boubekeur, Jean-Marc Thiery, Pierre Alliez",
-        "aff": "INRIA; Adobe Research",
+        "aff": "Adobe Research; INRIA",
         "track": "main",
         "sess": "Surface Reconstruction",
         "doi": "https://doi.org/10.1145/3588432.3591529"
@@ -2546,7 +2546,7 @@
         "status": "Technical Paper",
         "title": "VideoDoodles: Hand-drawn Animations on Videos With Scene-aware Canvases",
         "author": "Emilie Yu, Cuong Nguyen, Kevin Matzen, Oliver Wang, Rubaiat Habib Kazi, Adrien Bousseau",
-        "aff": "Adobe Research; TU Delft; Universit\u00e9 C\u00f4te d'Azur, INRIA",
+        "aff": "Universit\u00e9 C\u00f4te d'Azur, INRIA; Adobe Research; TU Delft",
         "track": "main",
         "sess": "Magical Sketching",
         "doi": "https://doi.org/10.1145/3592413"
@@ -2557,7 +2557,7 @@
         "status": "Technical Paper",
         "title": "Virtual Mirrors: Non-line-of-sight Imaging Beyond the Third Bounce",
         "author": "Diego Royo, Talha Sultan, Adolfo Mu\u00f1oz, Khadijeh Masumnia-Bisheh, Eric Brandt, Diego Gutierrez, Andreas Velten, Julio Marco",
-        "aff": "Universidad de Zaragoza - I3A; University of Wisconsin-Madison",
+        "aff": "University of Wisconsin-Madison; Universidad de Zaragoza - I3A",
         "track": "main",
         "sess": "NeRFs on Earth",
         "doi": "https://doi.org/10.1145/3592429"
@@ -2590,7 +2590,7 @@
         "status": "Technical Paper",
         "title": "Word-as-image for Semantic Typography",
         "author": "Shir Iluz, Yael Vinker, Amir Hertz, Daniel Berio, Daniel Cohen-Or, Ariel Shamir",
-        "aff": "Reichman University; Tel Aviv University; Goldsmiths University of London",
+        "aff": "Tel Aviv University; Reichman University; Goldsmiths University of London",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
         "doi": "https://doi.org/10.1145/3592123"
@@ -2601,7 +2601,7 @@
         "status": "Technical Paper",
         "title": "Zero-shot Image-to-image Translation",
         "author": "Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu",
-        "aff": "Carnegie Mellon University; Adobe",
+        "aff": "Adobe; Carnegie Mellon University",
         "track": "main",
         "sess": "Image and Video Editing",
         "doi": "https://doi.org/10.1145/3588432.3591513"
@@ -2623,7 +2623,7 @@
         "status": "Technical Paper",
         "title": "\u2207-Prox: Differentiable Proximal Algorithm Modeling for Large-scale Optimization",
         "author": "Zeqiang Lai, Kaixuan Wei, Ying Fu, Philipp H\u00e4rtel, Felix Heide",
-        "aff": "McGill University; Princeton University; Beijing Institute of Technology; University of Kassel; Fraunhofer IEE",
+        "aff": "Fraunhofer IEE; McGill University; Princeton University; Beijing Institute of Technology; University of Kassel",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
         "doi": "https://doi.org/10.1145/3592144"
