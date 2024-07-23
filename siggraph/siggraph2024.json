@@ -5,10 +5,12 @@
         "status": "Technical Paper",
         "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
         "author": "Binbin Huang, Zehao Yu, Anpei Chen, Andreas Geiger, Shenghua Gao",
-        "aff": "University of T\u00fcbingen; ShanghaiTech University",
+        "aff": "ShanghaiTech University; University of T\u00fcbingen",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657428"
+        "doi": "https://doi.org/10.1145/3641519.3657428",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_443&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_721",
@@ -19,7 +21,9 @@
         "aff": "Zhejiang University",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657462"
+        "doi": "https://doi.org/10.1145/3641519.3657462",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_721&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_659",
@@ -30,7 +34,9 @@
         "aff": "Zhejiang University",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3641519.3657456"
+        "doi": "https://doi.org/10.1145/3641519.3657456",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_659&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_591",
@@ -41,7 +47,9 @@
         "aff": "Centre Inria d'Universit\u00e9 C\u00f4te d'Azur; University of Toronto",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3658183"
+        "doi": "https://doi.org/10.1145/3658183",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_591&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_336",
@@ -52,7 +60,9 @@
         "aff": "Seoul National University",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658156"
+        "doi": "https://doi.org/10.1145/3658156",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_336&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_726",
@@ -60,10 +70,12 @@
         "status": "Technical Paper",
         "title": "4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes",
         "author": "Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen",
-        "aff": "NVIDIA; Princeton University; State Key Laboratory of General Artificial Intelligence; Peking University",
+        "aff": "Peking University; Princeton University; NVIDIA; State Key Laboratory of General Artificial Intelligence",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657463"
+        "doi": "https://doi.org/10.1145/3641519.3657463",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_726&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_430",
@@ -74,7 +86,9 @@
         "aff": "University of California San Diego",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3641519.3657427"
+        "doi": "https://doi.org/10.1145/3641519.3657427",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_430&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_693",
@@ -85,7 +99,9 @@
         "aff": "NVIDIA; University of California Irvine",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3641519.3657460"
+        "doi": "https://doi.org/10.1145/3641519.3657460",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_693&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_124",
@@ -93,10 +109,12 @@
         "status": "TOG Paper",
         "title": "A Dual-Particle Approach for Incompressible SPH Fluids",
         "author": "Shusen Liu, Xiaowei He, Yuzhong Guo, Yue Chang, Wencheng Wang, Shusen Liu",
-        "aff": "Beijing Key Lab of Human-Computer Interaction, Institute of Software, Chinese Academy of Sciences, Beijing, China; Chinese Academy of Sciences  Institute of Software; University of Toronto",
+        "aff": "Chinese Academy of Sciences  Institute of Software; Beijing Key Lab of Human-Computer Interaction, Institute of Software, Chinese Academy of Sciences, Beijing, China; University of Toronto",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3649888"
+        "doi": "https://doi.org/10.1145/3649888",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_124&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_610",
@@ -104,10 +122,12 @@
         "status": "Technical Paper",
         "title": "A Dynamic Duo of Finite Elements and Material Points",
         "author": "Xuan Li, Minchen Li, Xuchen Han, Huamin Wang, Yin Yang, Chenfanfu Jiang",
-        "aff": "Toyota Research Institute; Style3D Research; University of Utah; University of California Los Angeles; Carnegie Mellon University",
+        "aff": "University of California Los Angeles; University of Utah; Toyota Research Institute; Style3D Research; Carnegie Mellon University",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3641519.3657449"
+        "doi": "https://doi.org/10.1145/3641519.3657449",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_610&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_125",
@@ -115,10 +135,12 @@
         "status": "TOG Paper",
         "title": "A Framework for Solving Parabolic Partial Differential Equations on Discrete Domains",
         "author": "Leticia Mattos Da Silva, Oded Stein, Justin Solomon, Leticia Mattos Da Silva",
-        "aff": "University of Southern California; Massachusetts Institute of Technology; Massachusetts Institute of Technology (MIT)",
+        "aff": "Massachusetts Institute of Technology; Massachusetts Institute of Technology (MIT); University of Southern California",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3666087"
+        "doi": "https://doi.org/10.1145/3666087",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_125&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_392",
@@ -126,10 +148,12 @@
         "status": "Technical Paper",
         "title": "A Free-space Diffraction BSDF",
         "author": "Shlomi Steinberg, Ravi Ramamoorthi, Benedikt Bitterli, Arshiya Mollazainali, Eugene d'Eon, Matt Pharr",
-        "aff": "NVIDIA; University of California San Diego; University of Waterloo",
+        "aff": "University of Waterloo; University of California San Diego; NVIDIA",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3658166"
+        "doi": "https://doi.org/10.1145/3658166",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_392&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1025",
@@ -137,10 +161,12 @@
         "status": "Technical Paper",
         "title": "A Fully-correlated Anisotropic Micrograin BSDF Model",
         "author": "Simon Lucas, Micka\u00ebl Ribardi\u00e8re, Romain Pacanowski, Pascal Barla",
-        "aff": "INRIA, Bordeaux Sud-Ouest; University of Poitiers - XLIM; University of Bordeaux",
+        "aff": "University of Poitiers - XLIM; University of Bordeaux; INRIA, Bordeaux Sud-Ouest",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3658224"
+        "doi": "https://doi.org/10.1145/3658224",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1025&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_942",
@@ -151,7 +177,9 @@
         "aff": "Carnegie Mellon University",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658220"
+        "doi": "https://doi.org/10.1145/3658220",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_942&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_367",
@@ -162,7 +190,9 @@
         "aff": "Unversit\u00e9 C\u00f4te d'Azur; INRIA, Universit\u00e9 C\u00f4te d'Azur; Technische Universit\u00e4t Wien (TU Wien); Institut national de recherche en informatique et en automatique (INRIA); Technical University of Vienna",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_367&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_453",
@@ -173,7 +203,9 @@
         "aff": "New Jersey Institute of Technology (NJIT); Universit\u00e0 della Svizzera Italiana",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3641519.3657429"
+        "doi": "https://doi.org/10.1145/3641519.3657429",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_453&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_198",
@@ -181,10 +213,12 @@
         "status": "Technical Paper",
         "title": "A Neural Network Model for Efficient Musculoskeletal-driven Skin Deformation",
         "author": "Yushan Han, Yizhou Chen, Carmichael Ong, Jingyu Chen, Jennifer Hicks, Joseph Teran",
-        "aff": "University of California Davis; University of California Los Angeles; Stanford University; Epic Games",
+        "aff": "University of California Davis; Stanford University; University of California Los Angeles; Epic Games",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3658135"
+        "doi": "https://doi.org/10.1145/3658135",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_198&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_427",
@@ -192,10 +226,12 @@
         "status": "Technical Paper",
         "title": "A Realistic Multi-scale Surface-based Cloth Appearance Model",
         "author": "Junqiu Zhu, Christophe Hery, Lukas Bode, Carlos Aliaga, Adrian Jarabo, Ling-Qi Yan, Matt Jen-Yuan Chiang",
-        "aff": "University of California Santa Barbara; Meta Reality Labs Research",
+        "aff": "Meta Reality Labs Research; University of California Santa Barbara",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3641519.3657426"
+        "doi": "https://doi.org/10.1145/3641519.3657426",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_427&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_881",
@@ -203,10 +239,12 @@
         "status": "Technical Paper",
         "title": "A Unified Differentiable Boolean Operator With Fuzzy Logic",
         "author": "Hsueh-Ti Derek Liu, Maneesh Agrawala, Cem Yuksel, Tim Omernick, Vinith Misra, Stefano Corazza, Morgan McGuire, Victor Zordan",
-        "aff": "University of British Columbia; McGill University; Stanford University; Roblox; University of Utah",
+        "aff": "University of Utah; Stanford University; University of British Columbia; Roblox; McGill University",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3641519.3657484"
+        "doi": "https://doi.org/10.1145/3641519.3657484",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_881&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_389",
@@ -214,10 +252,12 @@
         "status": "Technical Paper",
         "title": "A Vortex Particle-on-mesh Method for Soap Film Simulation",
         "author": "Ningxiao Tao, Liangwang Ruan, Yitong Deng, Bo Zhu, Bin Wang, Baoquan Chen",
-        "aff": "School of Intelligence Science and Technology, Peking University; State Key Laboratory of General Artificial Intelligence; Georgia Institute of Technology; Beijing Institute for General Artificial Intelligence; Stanford University; School of CS & National Key Lab of General AI, Peking University; Yuanpei College, Peking University",
+        "aff": "Beijing Institute for General Artificial Intelligence; Stanford University; School of Intelligence Science and Technology, Peking University; School of CS & National Key Lab of General AI, Peking University; State Key Laboratory of General Artificial Intelligence; Georgia Institute of Technology; Yuanpei College, Peking University",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658165"
+        "doi": "https://doi.org/10.1145/3658165",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_389&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_606",
@@ -228,7 +268,9 @@
         "aff": "Dartmouth College; Carnegie Mellon University; University of Maryland College Park",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3641519.3657446"
+        "doi": "https://doi.org/10.1145/3641519.3657446",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_606&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_477",
@@ -236,10 +278,12 @@
         "status": "Technical Paper",
         "title": "Accelerating Saccadic Response Through Spatial and Temporal Cross-modal Misalignments",
         "author": "Daniel Jim\u00e9nez Navarro, Xi Peng, Yunxiang Zhang, Karol Myszkowski, Hans-Peter Seidel, Qi Sun, Ana Serrano",
-        "aff": "New York University; Universidad de Zaragoza; Max Planck Institute for Informatics",
+        "aff": "Universidad de Zaragoza; New York University; Max Planck Institute for Informatics",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3641519.3657432"
+        "doi": "https://doi.org/10.1145/3641519.3657432",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_477&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_894",
@@ -247,10 +291,12 @@
         "status": "Technical Paper",
         "title": "Adaptive Grid Generation for Discretizing Implicit Complexes",
         "author": "Yiwen Ju, Xingyi Du, Qingnan Zhou, Nathan Carr, Tao Ju",
-        "aff": "Adobe Research; Washington University in St. Louis",
+        "aff": "Washington University in St. Louis; Adobe Research",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3658215"
+        "doi": "https://doi.org/10.1145/3658215",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_894&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_221",
@@ -258,10 +304,12 @@
         "status": "Technical Paper",
         "title": "Alignment Conditions for NURBS-based Design of Mixed Tension-compression Grid Shells",
         "author": "Masaaki Miki, Toby Mitchell",
-        "aff": "Tomasetti; Thornton; University of Tokyo",
+        "aff": "University of Tokyo; Tomasetti; Thornton",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3658142"
+        "doi": "https://doi.org/10.1145/3658142",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_221&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_138",
@@ -269,10 +317,12 @@
         "status": "Technical Paper",
         "title": "An Induce-on-Boundary Magnetostatic Solver for Grid-based Ferrofluids",
         "author": "Xingyu Ni, Ruicheng Wang, Bin Wang, Baoquan Chen",
-        "aff": "School of CS & National Key Lab of General AI, Peking University; School of Intelligence Science and Technology, Peking University; Beijing Institute for General Artificial Intelligence; Peking University",
+        "aff": "Beijing Institute for General Artificial Intelligence; Peking University; School of Intelligence Science and Technology, Peking University; School of CS & National Key Lab of General AI, Peking University",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658124"
+        "doi": "https://doi.org/10.1145/3658124",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_138&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_202",
@@ -280,10 +330,12 @@
         "status": "Technical Paper",
         "title": "Analogist: Out-of-the-box Visual In-context Learning With Image Diffusion Model",
         "author": "Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao",
-        "aff": "Nanjing University; Tianjin University; City University of Hong Kong",
+        "aff": "City University of Hong Kong; Nanjing University; Tianjin University",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": "https://doi.org/10.1145/3658136"
+        "doi": "https://doi.org/10.1145/3658136",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_202&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_205",
@@ -294,7 +346,9 @@
         "aff": "Carnegie Mellon University",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3641519.3657398"
+        "doi": "https://doi.org/10.1145/3641519.3657398",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_205&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_849",
@@ -302,10 +356,12 @@
         "status": "Technical Paper",
         "title": "Area ReSTIR: Resampling for Real-time Defocus and Antialiasing",
         "author": "Song Zhang, Daqi Lin, Markus Kettunen, Chris Wyman, Cem Yuksel",
-        "aff": "University of Utah; NVIDIA Research; Roblox",
+        "aff": "University of Utah; Roblox; NVIDIA Research",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3658210"
+        "doi": "https://doi.org/10.1145/3658210",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_849&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1240",
@@ -313,10 +369,12 @@
         "status": "Technical Paper",
         "title": "Audio Matters Too! Enhancing Markerless Motion Capture With Audio Signals for String Performance Capture",
         "author": "Yitong Jin, Zhiping Qiu, Yi Shi, Shuangpeng Sun, Chongwu Wang, Donghao Pan, Jiachen Zhao, Zhenghao Liang, Yuan Wang, Xiaobing Li, Feng Yu, Tao Yu, Qionghai Dai",
-        "aff": "Tsinghua University; Weilan Tech; Central Conservatory of Music",
+        "aff": "Weilan Tech; Tsinghua University; Central Conservatory of Music",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3658235"
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1240&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_150",
@@ -324,10 +382,12 @@
         "status": "Technical Paper",
         "title": "Automatic Digital Garment Initialization From Sewing Patterns",
         "author": "Chen Liu, Weiwei Xu, Yin Yang, Huamin Wang",
-        "aff": "State Key Lab of CAD and CG, Zhejiang University; Style3D Research; University of Utah",
+        "aff": "Style3D Research; State Key Lab of CAD and CG, Zhejiang University; University of Utah",
         "track": "main",
         "sess": "Clothing Geometry",
-        "doi": "https://doi.org/10.1145/3658128"
+        "doi": "https://doi.org/10.1145/3658128",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_150&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_842",
@@ -335,10 +395,12 @@
         "status": "Technical Paper",
         "title": "Biharmonic Coordinates and Their Derivatives for Triangular 3D Cages",
         "author": "Jean-Marc THIERY, Elie Michel, Jiong Chen",
-        "aff": "INRIA, Saclay; Adobe Research",
+        "aff": "Adobe Research; INRIA, Saclay",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3658208"
+        "doi": "https://doi.org/10.1145/3658208",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_842&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_260",
@@ -349,7 +411,9 @@
         "aff": "The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3658148"
+        "doi": "https://doi.org/10.1145/3658148",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_260&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_169",
@@ -357,10 +421,12 @@
         "status": "Technical Paper",
         "title": "Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-based View Synthesis",
         "author": "Christian Reiser, Stephan Garbin, Pratul Srinivasan, Dor Verbin, Richard Szeliski, Ben Mildenhall, Jonathan Barron, Peter Hedman, Andreas Geiger",
-        "aff": "Google Research; T\u00fcbingen AI Center, University of T\u00fcbingen",
+        "aff": "T\u00fcbingen AI Center, University of T\u00fcbingen; Google Research",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3658130"
+        "doi": "https://doi.org/10.1145/3658130",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_169&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_657",
@@ -368,10 +434,12 @@
         "status": "Technical Paper",
         "title": "BlockFusion: Expandable 3D Scene Generation Using Latent Tri-plane Extrapolation",
         "author": "Zhennan Wu, Yang Li, Han Yan, Taizhang Shang, Weixuan Sun, Senbo Wang, Ruikai Cui, Weizhe Liu, Hiroyuki Sato, Hongdong Li, Pan Ji",
-        "aff": "Australian National University; Shanghai Jiao Tong University; Tencent; National Institute of Informatics, Japan; University of Tokyo",
+        "aff": "National Institute of Informatics, Japan; Tencent; Australian National University; Shanghai Jiao Tong University; University of Tokyo",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": "https://doi.org/10.1145/3658188"
+        "doi": "https://doi.org/10.1145/3658188",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_657&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_497",
@@ -379,10 +447,12 @@
         "status": "Technical Paper",
         "title": "Blue Noise for Diffusion Models",
         "author": "Xingchang Huang, Corentin Salaun, Cristina Vasconcelos, Christian Theobalt, Cengiz Oztireli, Gurprit Singh",
-        "aff": "Google Research; Google DeepMind; University of Cambridge; Max Planck Institute for Informatics",
+        "aff": "University of Cambridge; Google DeepMind; Max Planck Institute for Informatics; Google Research",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3641519.3657435"
+        "doi": "https://doi.org/10.1145/3641519.3657435",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_497&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_337",
@@ -393,7 +463,9 @@
         "aff": "National Taiwan University; National Yang Ming Chiao Tung University",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657416"
+        "doi": "https://doi.org/10.1145/3641519.3657416",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_337&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_162",
@@ -401,10 +473,12 @@
         "status": "Technical Paper",
         "title": "BrepGen: A B-rep Generative Diffusion Model With Structured Latent Geometry",
         "author": "Xiang Xu, Joseph Lambourne, Pradeep Jayaraman, Zhengqing Wang, Karl Willis, Yasutaka Furukawa",
-        "aff": "Autodesk Research; Autodesk; Simon Fraser University",
+        "aff": "Autodesk Research; Simon Fraser University; Autodesk",
         "track": "main",
         "sess": "Generative 3D Geometry and Editing",
-        "doi": "https://doi.org/10.1145/3658129"
+        "doi": "https://doi.org/10.1145/3658129",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_162&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_242",
@@ -412,10 +486,12 @@
         "status": "Technical Paper",
         "title": "CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets",
         "author": "Longwen Zhang, Ziyu Wang, Qixuan Zhang, Qiwei Qiu, Anqi Pang, Haoran Jiang, Wei Yang, Lan Xu, Jingyi Yu",
-        "aff": "Deemos Technology; ShanghaiTech University; Huazhong University of Science and Technology",
+        "aff": "Deemos Technology; Huazhong University of Science and Technology; ShanghaiTech University",
         "track": "main",
         "sess": "Generative 3D Geometry and Editing",
-        "doi": "https://doi.org/10.1145/3658146"
+        "doi": "https://doi.org/10.1145/3658146",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_242&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_292",
@@ -423,10 +499,12 @@
         "status": "Technical Paper",
         "title": "CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization",
         "author": "Jingyu Hu, Ka-Hei Hui, Zhengzhe Liu, Hao Zhang, Chi-Wing Fu",
-        "aff": "Amazon; The Chinese University of Hong Kong; Simon Fraser University",
+        "aff": "Simon Fraser University; Amazon; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3641519.3657412"
+        "doi": "https://doi.org/10.1145/3641519.3657412",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_292&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_356",
@@ -434,10 +512,12 @@
         "status": "Technical Paper",
         "title": "CWF: Consolidating Weak Features in High-quality Mesh Simplification",
         "author": "Rui Xu, Longdu Liu, Ningna Wang, Shuangmin Chen, Shiqing Xin, Xiaohu Guo, Zichun Zhong, Taku Komura, Wenping Wang, Changhe Tu",
-        "aff": "Wayne State University; Texas A&M University; Qingdao University of Science and Technology; University of Hong Kong; Shandong University; University of Texas at Dallas",
+        "aff": "Shandong University; University of Texas at Dallas; Texas A&M University; Qingdao University of Science and Technology; University of Hong Kong; Wayne State University",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3658159"
+        "doi": "https://doi.org/10.1145/3658159",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_356&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_637",
@@ -445,10 +525,12 @@
         "status": "Technical Paper",
         "title": "Capacitive Touch Sensing on General 3D Surfaces",
         "author": "Gianpaolo Palma, Narges Pourjafarian, J\u00fcrgen Steimle, Paolo Cignoni",
-        "aff": "Saarland Informatics Campus; CNR ISTI",
+        "aff": "CNR ISTI; Saarland Informatics Campus",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3658185"
+        "doi": "https://doi.org/10.1145/3658185",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_637&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_847",
@@ -459,7 +541,9 @@
         "aff": "Facebook Reality Labs; University of Hong Kong",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3658209"
+        "doi": "https://doi.org/10.1145/3658209",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_847&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_916",
@@ -470,7 +554,9 @@
         "aff": "Tsinghua University; VAST",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3658217"
+        "doi": "https://doi.org/10.1145/3658217",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_916&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_423",
@@ -481,7 +567,9 @@
         "aff": "Zhejiang University; ByteDance Inc.",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657425"
+        "doi": "https://doi.org/10.1145/3641519.3657425",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_423&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_236",
@@ -489,10 +577,12 @@
         "status": "Technical Paper",
         "title": "ColorVideoVDP: A Visual Difference Predictor for Image, Video, and Display Distortions",
         "author": "Rafal K. Mantiuk, Param Hanji, Maliha Ashraf, Yuta Asano, Alexandre Chapiro",
-        "aff": "Meta; University of Cambridge",
+        "aff": "University of Cambridge; Meta",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_236&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_841",
@@ -503,7 +593,9 @@
         "aff": "Meta",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3641519.3657477"
+        "doi": "https://doi.org/10.1145/3641519.3657477",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_841&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_140",
@@ -511,10 +603,12 @@
         "status": "Technical Paper",
         "title": "Computational Homogenization for Inverse Design of Surface-based Inflatables",
         "author": "Yingying Ren, Julian Panetta, Seiichi Suzuki, Uday Kusupati, Florin Isvoranu, Mark Pauly",
-        "aff": "EPFL; University of California Davis",
+        "aff": "University of California Davis; EPFL",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3658125"
+        "doi": "https://doi.org/10.1145/3658125",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_140&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1120",
@@ -525,7 +619,9 @@
         "aff": "University of Washington",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3658231"
+        "doi": "https://doi.org/10.1145/3658231",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1120&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_105",
@@ -536,7 +632,9 @@
         "aff": "Tel Aviv University; Tel Aviv University, Snap",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3659578"
+        "doi": "https://doi.org/10.1145/3659578",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_105&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_183",
@@ -547,7 +645,9 @@
         "aff": "Nanjing University; State Key Lab for Novel Software Technology, Nanjing University",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3658133"
+        "doi": "https://doi.org/10.1145/3658133",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_183&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_831",
@@ -558,7 +658,9 @@
         "aff": "Nanyang Technological University; Beijing Normal University; La Trobe University",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3641519.3657475"
+        "doi": "https://doi.org/10.1145/3641519.3657475",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_831&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_723",
@@ -569,7 +671,9 @@
         "aff": "University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3658191"
+        "doi": "https://doi.org/10.1145/3658191",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_723&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "papers_258",
@@ -580,7 +684,9 @@
         "aff": "ETH Z\u00fcrich; Max Planck Institue for Intelligent Systems",
         "track": "main",
         "sess": "Cloth Simulation",
-        "doi": "https://doi.org/10.1145/3641519.3657408"
+        "doi": "https://doi.org/10.1145/3641519.3657408",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_258&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_828",
@@ -588,10 +694,12 @@
         "status": "Technical Paper",
         "title": "Controllable Neural Style Transfer for Dynamic Meshes",
         "author": "Guilherme Gomes Haetinger, Jingwei Tang, Raphael Ortiz, Paul Kanyuk, Vinicius Azevedo",
-        "aff": "Pixar Animation Studios; Disney Research Studios",
+        "aff": "Disney Research Studios; Pixar Animation Studios",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657474"
+        "doi": "https://doi.org/10.1145/3641519.3657474",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_828&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_400",
@@ -599,10 +707,12 @@
         "status": "Technical Paper",
         "title": "Creating LEGO Figurines From Single Images",
         "author": "Jiahao Ge, Mingjun Zhou, Wenrui Bao, Hao Xu, Chi-Wing Fu",
-        "aff": "The Chinese University of Hong Kong; Qianzhi Technology Inc",
+        "aff": "Qianzhi Technology Inc; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3658167"
+        "doi": "https://doi.org/10.1145/3658167",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_400&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_752",
@@ -613,7 +723,9 @@
         "aff": "Columbia University",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3658196"
+        "doi": "https://doi.org/10.1145/3658196",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_752&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_417",
@@ -624,7 +736,9 @@
         "aff": "Tel Aviv University",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3641519.3657423"
+        "doi": "https://doi.org/10.1145/3641519.3657423",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_417&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_238",
@@ -635,7 +749,9 @@
         "aff": "CNRS, Inria, LORIA",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3658145"
+        "doi": "https://doi.org/10.1145/3658145",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_238&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_211",
@@ -643,10 +759,12 @@
         "status": "Technical Paper",
         "title": "Cybersickness Reduction via Gaze-contingent Image Deformation",
         "author": "Colin Groth, Marcus Magnor, Steve Grogorick, Martin Eisemann, Piotr Didyk",
-        "aff": "Technical University of Braunschweig; Universit\u00e0 della Svizzera Italiana",
+        "aff": "Universit\u00e0 della Svizzera Italiana; Technical University of Braunschweig",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3658138"
+        "doi": "https://doi.org/10.1145/3658138",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_211&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_266",
@@ -654,10 +772,12 @@
         "status": "Technical Paper",
         "title": "Cyclogenesis: Simulating Hurricanes and Tornadoes",
         "author": "Jorge Alejandro Amador Herrera, Jonathan Klein, Daoming Liu, Wojtek Pa\u0142ubicki, S\u00f6ren Pirk, Dominik L. Michels",
-        "aff": "King Abdullah University of Science and Technology (KAUST); CAU; AMU",
+        "aff": "King Abdullah University of Science and Technology (KAUST); AMU; CAU",
         "track": "main",
         "sess": "Simulating Nature",
-        "doi": "https://doi.org/10.1145/3658149"
+        "doi": "https://doi.org/10.1145/3658149",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_266&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1282",
@@ -665,10 +785,12 @@
         "status": "Technical Paper",
         "title": "DAE-Net: Deforming Auto-Encoder for Fine-grained Shape Co-segmentation",
         "author": "Zhiqin Chen, Qimin Chen, Hang Zhou, Hao Zhang",
-        "aff": "Adobe Research; Simon Fraser University",
+        "aff": "Simon Fraser University; Adobe Research",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3641519.3657528"
+        "doi": "https://doi.org/10.1145/3641519.3657528",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1282&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_101",
@@ -676,10 +798,12 @@
         "status": "TOG Paper",
         "title": "DMHomo: Learning Homography with Diffusion Models",
         "author": "Haipeng Li, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu, Haipeng Li",
-        "aff": "Hong Kong University of Science and Technology; University of Electronic Science and Technology of China; Megvii Technology Limited; Sichuan University; University of Electronic Science and Technology of China, Megvii Technology",
+        "aff": "Hong Kong University of Science and Technology; Sichuan University; University of Electronic Science and Technology of China, Megvii Technology; University of Electronic Science and Technology of China; Megvii Technology Limited",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3652207"
+        "doi": "https://doi.org/10.1145/3652207",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_101&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_121",
@@ -687,10 +811,12 @@
         "status": "TOG Paper",
         "title": "DeadWood: Including disturbance and decay in the depiction of digital nature",
         "author": "Adrien Peytavie, James Gain, Eric Gu\u00e9rin, Oscar Argudo, Eric Galin, Adrien Peytavie",
-        "aff": "University of Lyon, LIRIS; INSA, Lyon; Universit\u00e9 Lyon 1, CNRS, LIRIS; University of Cape Town; Universitat Polit\u00e8cnica de Catalunya",
+        "aff": "University of Lyon, LIRIS; Universit\u00e9 Lyon 1, CNRS, LIRIS; University of Cape Town; Universitat Polit\u00e8cnica de Catalunya; INSA, Lyon",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3641816"
+        "doi": "https://doi.org/10.1145/3641816",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_121&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_123",
@@ -698,10 +824,12 @@
         "status": "TOG Paper",
         "title": "Decorrelating ReSTIR Samplers via MCMC Mutations",
         "author": "Rohan Sawhney, Daqi Lin, Markus Kettunen, Benedikt Bitterli, Ravi Ramamoorthi, Chris Wyman, Matt Pharr, Rohan Sawhney",
-        "aff": "NVIDIA; University of California San Diego; NVIDIA, Finnland; NVIDIA, USA",
+        "aff": "NVIDIA, Finnland; University of California San Diego; NVIDIA; NVIDIA, USA",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3629166"
+        "doi": "https://doi.org/10.1145/3629166",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_123&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_570",
@@ -712,7 +840,9 @@
         "aff": "Nanjing University",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3641519.3657439"
+        "doi": "https://doi.org/10.1145/3641519.3657439",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_570&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1024",
@@ -720,10 +850,12 @@
         "status": "Technical Paper",
         "title": "Deep Hybrid Camera Deblurring for Smartphone Cameras",
         "author": "Jaesung Rim, Junyong Lee, Heemin Yang, Sunghyun Cho",
-        "aff": "POSTECH; Samsung AI Center Toronto",
+        "aff": "Samsung AI Center Toronto; POSTECH",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3641519.3657507"
+        "doi": "https://doi.org/10.1145/3641519.3657507",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1024&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_763",
@@ -731,10 +863,12 @@
         "status": "Technical Paper",
         "title": "Deep Sketch Vectorization via Implicit Surface Extraction",
         "author": "Chuan Yan, Yong Li, Deepali Aneja, Matthew Fisher, Edgar Simo-Serra, Yotam Gingold",
-        "aff": "Waseda University; Adobe; George Mason University; South China University of Technology",
+        "aff": "Waseda University; Adobe; South China University of Technology; George Mason University",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": "https://doi.org/10.1145/3658197"
+        "doi": "https://doi.org/10.1145/3658197",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_763&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_197",
@@ -742,10 +876,12 @@
         "status": "Technical Paper",
         "title": "DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation",
         "author": "Chong Zeng, Yue Dong, Pieter Peers, Youkang Kong, Hongzhi Wu, Xin Tong",
-        "aff": "State Key Lab of CAD and CG, Zhejiang University; College of William & Mary; Tsinghua University; Microsoft Research Asia",
+        "aff": "College of William & Mary; State Key Lab of CAD and CG, Zhejiang University; Tsinghua University; Microsoft Research Asia",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657396"
+        "doi": "https://doi.org/10.1145/3641519.3657396",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_197&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1268",
@@ -756,7 +892,9 @@
         "aff": "Technical University of Munich",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658236"
+        "doi": "https://doi.org/10.1145/3658236",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1268&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_980",
@@ -764,10 +902,12 @@
         "status": "Technical Paper",
         "title": "DiffPoseTalk: Speech-driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models",
         "author": "Zhiyao Sun, Tian Lv, Sheng Ye, Matthieu Lin, Jenny Sheng, Yu-Hui Wen, Minjing Yu, Yong-Jin Liu",
-        "aff": "Tsinghua University; Tianjin University; Beijing Jiaotong University",
+        "aff": "Beijing Jiaotong University; Tsinghua University; Tianjin University",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": "https://doi.org/10.1145/3658221"
+        "doi": "https://doi.org/10.1145/3658221",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_980&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_922",
@@ -775,10 +915,12 @@
         "status": "Technical Paper",
         "title": "DiffSound: Differentiable Modal Sound Rendering and Inverse Rendering for Diverse Inference Tasks",
         "author": "Xutong Jin, Chenxi Xu, Ruohan Gao, Jiajun Wu, Guoping Wang, Sheng Li",
-        "aff": "Stanford University; University of Maryland College Park; Peking University",
+        "aff": "Stanford University; Peking University; University of Maryland College Park",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3641519.3657493"
+        "doi": "https://doi.org/10.1145/3641519.3657493",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_922&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_133",
@@ -789,7 +931,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658122"
+        "doi": "https://doi.org/10.1145/3658122",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_133&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_319",
@@ -800,7 +944,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "Simulating Nature",
-        "doi": "https://doi.org/10.1145/3658152"
+        "doi": "https://doi.org/10.1145/3658152",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_319&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_118",
@@ -808,10 +954,12 @@
         "status": "TOG Paper",
         "title": "Differentiable solver for time-dependent deformation problems with contact",
         "author": "Zizhou Huang, Davi Colli Tozoni, Arvi Gjoka, Zachary Ferguson, Teseo Schneider, Daniele Panozzo, Denis Zorin, Zizhou Huang",
-        "aff": "University of Victoria; New York University; Massachusetts Institute of Technology (MIT); nTop",
+        "aff": "nTop; Massachusetts Institute of Technology (MIT); University of Victoria; New York University",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3657648"
+        "doi": "https://doi.org/10.1145/3657648",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_118&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "papers_978",
@@ -819,10 +967,12 @@
         "status": "Technical Paper",
         "title": "Diffusion Illusions: Hiding Images in Plain Sight",
         "author": "Ryan Burgert, Xiang Li, Abe Leite, Kanchana Ranasinghe, Michael Ryoo",
-        "aff": "Stony Brook University; Google",
+        "aff": "Google; Stony Brook University",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3641519.3657500"
+        "doi": "https://doi.org/10.1145/3641519.3657500",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_978&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_677",
@@ -830,10 +980,12 @@
         "status": "Technical Paper",
         "title": "Diffusion Texture Painting",
         "author": "Anita Hu, Nishkrit Desai, Hassan Abu Alhaija, Seung Wook Kim, Maria Shugrina",
-        "aff": "NVIDIA; Vector Institute; University of Toronto",
+        "aff": "Vector Institute; NVIDIA; University of Toronto",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3641519.3657458"
+        "doi": "https://doi.org/10.1145/3641519.3657458",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_677&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_874",
@@ -841,10 +993,12 @@
         "status": "Technical Paper",
         "title": "Direct-a-Video: Customized Video Generation With User-directed Camera Movement and Object Motion",
         "author": "Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, DI Zhang, Xiaodong Chen, Jing Liao",
-        "aff": "Kuaishou Technology; Tianjin University; City University of Hong Kong",
+        "aff": "City University of Hong Kong; Kuaishou Technology; Tianjin University",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657481"
+        "doi": "https://doi.org/10.1145/3641519.3657481",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_874&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "papers_204",
@@ -855,7 +1009,9 @@
         "aff": "University of Texas at Dallas; George Mason University",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3641519.3657397"
+        "doi": "https://doi.org/10.1145/3641519.3657397",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_204&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_836",
@@ -863,10 +1019,12 @@
         "status": "Technical Paper",
         "title": "DreamFont3D: Personalized Text-to-3D Artistic Font Generation",
         "author": "Xiang Li, Lei Meng, Lei Wu, Manyi Li, Xiangxu Meng",
-        "aff": "Shandong University; Shandong Research Institute of Industrial Technology",
+        "aff": "Shandong Research Institute of Industrial Technology; Shandong University",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657476"
+        "doi": "https://doi.org/10.1145/3641519.3657476",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_836&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_444",
@@ -874,10 +1032,12 @@
         "status": "Technical Paper",
         "title": "DreamMat: High-quality PBR Material Generation With Geometry- and Light-aware Diffusion Models",
         "author": "Yuqing Zhang, Yuan Liu, Zhiyu Xie, Lei Yang, Zhongyuan Liu, Mengzhou Yang, Runze Zhang, Qilong Kou, Cheng Lin, Wenping Wang, Xiaogang Jin",
-        "aff": "Zhejiang University; Tencent Technology; Texas A&M University; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; State Key Lab of CAD&CG, Zhejiang University; Bournemouth University",
+        "aff": "State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; Tencent Technology; Texas A&M University; State Key Lab of CAD&CG, Zhejiang University; Bournemouth University; Zhejiang University",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3658170"
+        "doi": "https://doi.org/10.1145/3658170",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_444&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_252",
@@ -885,10 +1045,12 @@
         "status": "Technical Paper",
         "title": "DressCode: Autoregressively Sewing and Generating Garments From Text Guidance",
         "author": "Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu",
-        "aff": "NeuDim; Deemos Technology; ShanghaiTech University; University of Pennsylvania",
+        "aff": "Deemos Technology; University of Pennsylvania; NeuDim; ShanghaiTech University",
         "track": "main",
         "sess": "Clothing Geometry",
-        "doi": "https://doi.org/10.1145/3658147"
+        "doi": "https://doi.org/10.1145/3658147",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_252&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_982",
@@ -896,10 +1058,12 @@
         "status": "Technical Paper",
         "title": "EASI-Tex: Edge-Aware Mesh Texturing from Single Image",
         "author": "Sai Raj Kishore Perla, Yizhi Wang, Ali Mahdavi-Amiri, Hao Zhang",
-        "aff": "Amazon; Simon Fraser University",
+        "aff": "Simon Fraser University; Amazon",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3658222"
+        "doi": "https://doi.org/10.1145/3658222",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_982&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_892",
@@ -910,7 +1074,9 @@
         "aff": "Purdue University; INRIA, Universit\u00e9 C\u00f4te d'Azur",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658213"
+        "doi": "https://doi.org/10.1145/3658213",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_892&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_643",
@@ -918,10 +1084,12 @@
         "status": "Technical Paper",
         "title": "Efficient Position-based Deformable Colon Modeling for Endoscopic Procedures Simulation",
         "author": "Marcelo Martins, Lucas Morais, Rafael Torchelsen, Luciana Nedel, Anderson Maciel",
-        "aff": "Federal University of Pelotas; Instituto Superior T\u00e9cnico, Universidade de Lisboa; Federal University of Rio Grande do Sul",
+        "aff": "Instituto Superior T\u00e9cnico, Universidade de Lisboa; Federal University of Rio Grande do Sul; Federal University of Pelotas",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3641519.3657454"
+        "doi": "https://doi.org/10.1145/3641519.3657454",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_643&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_571",
@@ -929,10 +1097,12 @@
         "status": "Technical Paper",
         "title": "Eulerian-Lagrangian Fluid Simulation on Particle Flow Maps",
         "author": "Junwei Zhou, Duowen Chen, Molin Deng, Yitong Deng, Yuchen Sun, Sinan Wang, Shiying Xiong, Bo Zhu",
-        "aff": "University of Michigan; Zhejiang University; Georgia Institute of Technology; Stanford University; University of Hong Kong",
+        "aff": "Stanford University; University of Michigan; University of Hong Kong; Georgia Institute of Technology; Zhejiang University",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3658180"
+        "doi": "https://doi.org/10.1145/3658180",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_571&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1014",
@@ -943,7 +1113,9 @@
         "aff": "Peng Cheng Laboratory; Beihang University",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3641519.3657506"
+        "doi": "https://doi.org/10.1145/3641519.3657506",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1014&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_293",
@@ -951,10 +1123,12 @@
         "status": "Technical Paper",
         "title": "Fabric Tessellation: Realizing Freeform Surfaces by Smocking",
         "author": "Aviv Segall, Jing Ren, Amir Vaxman, Olga Sorkine-Hornung",
-        "aff": "University of Edinburgh; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; University of Edinburgh",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3658151"
+        "doi": "https://doi.org/10.1145/3658151",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_293&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_642",
@@ -962,10 +1136,12 @@
         "status": "Technical Paper",
         "title": "Fabricable 3D Wire Art",
         "author": "Kenji Tojo, Ariel Shamir, Bernd Bickel, Nobuyuki Umetani",
-        "aff": "Institute of Science and Technology Austria (ISTA); Reichman University; ETH Z\u00fcrich; University of Tokyo",
+        "aff": "ETH Z\u00fcrich; Reichman University; University of Tokyo; Institute of Science and Technology Austria (ISTA)",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3641519.3657453"
+        "doi": "https://doi.org/10.1145/3641519.3657453",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_642&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_969",
@@ -976,7 +1152,9 @@
         "aff": "Indian Institute of Science",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657498"
+        "doi": "https://doi.org/10.1145/3641519.3657498",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_969&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_901",
@@ -987,7 +1165,9 @@
         "aff": "Cornell University; Cornell-Tech Cornell University",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3641519.3657489"
+        "doi": "https://doi.org/10.1145/3641519.3657489",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_901&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_525",
@@ -998,7 +1178,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3658175"
+        "doi": "https://doi.org/10.1145/3658175",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_525&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_323",
@@ -1006,10 +1188,12 @@
         "status": "Technical Paper",
         "title": "Flexible Motion In-betweening With Diffusion Models",
         "author": "Setareh Cohan, Guy Tevet, Daniele Reda, Xue Bin Peng, Michiel van de Panne",
-        "aff": "Tel Aviv University; NVIDIA Research; University of British Columbia; Simon Fraser University",
+        "aff": "Tel Aviv University; Simon Fraser University; NVIDIA Research; University of British Columbia",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657414"
+        "doi": "https://doi.org/10.1145/3641519.3657414",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_323&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_754",
@@ -1017,10 +1201,12 @@
         "status": "Technical Paper",
         "title": "Fluid Control With Laplacian Eigenfunctions",
         "author": "Yixin Chen, David Levin, Timothy Langlois",
-        "aff": "NVIDIA; Adobe Research; University of Toronto",
+        "aff": "NVIDIA; University of Toronto; Adobe Research",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3641519.3657468"
+        "doi": "https://doi.org/10.1145/3641519.3657468",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_754&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_124",
@@ -1028,10 +1214,12 @@
         "status": "Technical Paper",
         "title": "From Microfacets to Participating Media: A Unified Theory of Light Transport With Stochastic Geometry",
         "author": "Dario Seyb, Eugene d'Eon, Benedikt Bitterli, Wojciech Jarosz",
-        "aff": "NVIDIA; Dartmouth College",
+        "aff": "Dartmouth College; NVIDIA",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3658121"
+        "doi": "https://doi.org/10.1145/3658121",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_124&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_325",
@@ -1039,10 +1227,12 @@
         "status": "Technical Paper",
         "title": "GEM3D: GEnerative Medial Abstractions for 3D Shape Synthesis",
         "author": "Dmitrii Petrov, Pradyumn Goyal, Vikas Thamizharasan, Vladimir Kim, Matheus Gadelha, Melinos Averkiou, Siddhartha Chaudhuri, Evangelos Kalogerakis",
-        "aff": "Adobe Research; University of Cyprus; CYENS - Centre of Excellence; University of Massachusetts Amherst",
+        "aff": "University of Cyprus; University of Massachusetts Amherst; Adobe Research; CYENS - Centre of Excellence",
         "track": "main",
         "sess": "Generative 3D Geometry and Editing",
-        "doi": "https://doi.org/10.1145/3641519.3657415"
+        "doi": "https://doi.org/10.1145/3641519.3657415",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_325&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_102",
@@ -1050,10 +1240,12 @@
         "status": "TOG Paper",
         "title": "GIPC: Fast and stable Gauss-Newton optimization of IPC barrier energy",
         "author": "Kemeng Huang, Floyd Chitalu, Huancheng Lin, Taku Komura, Kemeng Huang",
-        "aff": "University of Hong Kong, Carnegie Mellon University; University of Hong Kong",
+        "aff": "University of Hong Kong; University of Hong Kong, Carnegie Mellon University",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3643028"
+        "doi": "https://doi.org/10.1145/3643028",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_102&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "papers_343",
@@ -1061,10 +1253,12 @@
         "status": "Technical Paper",
         "title": "GPU-accelerated Rendering of Vector Brush Strokes",
         "author": "Shen Ciao, Zhongyue Guan, Qianxi Liu, Li-Yi Wei, Zeyu Wang",
-        "aff": "Adobe Research; Hong Kong University of Science and Technology; Hong Kong University of Science and Technology, Guangzhou",
+        "aff": "Hong Kong University of Science and Technology; Hong Kong University of Science and Technology, Guangzhou; Adobe Research",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_343&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_341",
@@ -1072,10 +1266,12 @@
         "status": "Technical Paper",
         "title": "GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis",
         "author": "Boming Zhao, Yuan Li, Ziyu Sun, Lin Zeng, Yujun Shen, Rui Ma, Yinda Zhang, Hujun Bao, Zhaopeng Cui",
-        "aff": "Jilin University; Google; State Key Laboratory of CAD & CG, Zhejiang University; Ant Group",
+        "aff": "Ant Group; State Key Laboratory of CAD & CG, Zhejiang University; Google; Jilin University",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657417"
+        "doi": "https://doi.org/10.1145/3641519.3657417",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_341&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_626",
@@ -1083,10 +1279,12 @@
         "status": "Technical Paper",
         "title": "Generative Escher Meshes",
         "author": "Noam Aigerman, Thibault Groueix",
-        "aff": "Adobe Research; University of Montreal",
+        "aff": "University of Montreal; Adobe Research",
         "track": "main",
         "sess": "Art, illusion, Fabrication",
-        "doi": "https://doi.org/10.1145/3641519.3657452"
+        "doi": "https://doi.org/10.1145/3641519.3657452",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_626&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_378",
@@ -1094,10 +1292,12 @@
         "status": "Technical Paper",
         "title": "Going With the Flow",
         "author": "Yousuf Soliman, Marcel Padilla, Oliver Gross, Felix Kn\u00f6ppel, Ulrich Pinkall, Peter Schr\u00f6der",
-        "aff": "California Institute of Technology; Technical University of Berlin",
+        "aff": "Technical University of Berlin; California Institute of Technology",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658164"
+        "doi": "https://doi.org/10.1145/3658164",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_378&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_119",
@@ -1105,10 +1305,12 @@
         "status": "TOG Paper",
         "title": "HAISOR: Human-Aware Indoor Scene Optimization via Deep Reinforcement Learning",
         "author": "Jia-Mu Sun, Jie Yang, Kaichun Mo, Yukun Lai, Leonidas Guibas, Lin Gao, Jia-Mu Sun",
-        "aff": "University of Chinese Academy of Sciences; Cardiff University; Stanford University; Insititute of Computing Technology Chinese Academy of Sciences; NVIDIA Research; University of the Chinese Academy of Sciences; Insititute of Computing Technology Chinese Academy of Sciences, University of Chinese Academy of Sciences; Chinese Academy of Sciences Institute of Computing Technology",
+        "aff": "University of Chinese Academy of Sciences; Chinese Academy of Sciences Institute of Computing Technology; Stanford University; Insititute of Computing Technology Chinese Academy of Sciences; Insititute of Computing Technology Chinese Academy of Sciences, University of Chinese Academy of Sciences; University of the Chinese Academy of Sciences; NVIDIA Research; Cardiff University",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3632947"
+        "doi": "https://doi.org/10.1145/3632947",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_119&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_109",
@@ -1116,10 +1318,12 @@
         "status": "TOG Paper",
         "title": "HQ3DAvatar: High Quality Implicit 3D Head Avatar",
         "author": "Kartik Teotia, Byrasandra Ramalinga Reddy Mallikarjun, Xingang Pan, Hyeongwoo Kim, Pablo Garrido, Mohamed Elgharib, Christian Theobalt, Kartik Teotia",
-        "aff": "Max Planck Institute for Informatics, Saarland Informatics Campus; Max Planck Institute for Informatics; Nanyang Technological University; Flawless AI; Imperial College London",
+        "aff": "Nanyang Technological University; Imperial College London; Max Planck Institute for Informatics; Max Planck Institute for Informatics, Saarland Informatics Campus; Flawless AI",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_109&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1010",
@@ -1130,7 +1334,9 @@
         "aff": "School of Software, Tsinghua University; Google",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3641519.3657505"
+        "doi": "https://doi.org/10.1145/3641519.3657505",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1010&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1092",
@@ -1138,10 +1344,12 @@
         "status": "Technical Paper",
         "title": "HeadArtist: Text-conditioned 3D Head Generation With Self Score Distillation",
         "author": "Hongyu Liu, Xuan Wang, Ziyu Wan, Yujun Shen, Yibing Song, Jing Liao, Qifeng Chen",
-        "aff": "Alibaba DAMO Academy; HKUST; Ant Group; City University of Hong Kong",
+        "aff": "City University of Hong Kong; HKUST; Ant Group; Alibaba DAMO Academy",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": "https://doi.org/10.1145/3641519.3657512"
+        "doi": "https://doi.org/10.1145/3641519.3657512",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1092&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_589",
@@ -1149,10 +1357,12 @@
         "status": "Technical Paper",
         "title": "High-quality Surface Reconstruction Using Gaussian Surfels",
         "author": "Pinxuan Dai, Jiamin Xu, Wenxiang Xie, Xinguo Liu, Huamin Wang, Weiwei Xu",
-        "aff": "Style3D Research; State Key Laboratory of CAD & CG, Zhejiang University; Hangzhou Dianzi University",
+        "aff": "Style3D Research; Hangzhou Dianzi University; State Key Laboratory of CAD & CG, Zhejiang University",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3641519.3657441"
+        "doi": "https://doi.org/10.1145/3641519.3657441",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_589&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_410",
@@ -1160,10 +1370,12 @@
         "status": "Technical Paper",
         "title": "Holographic Parallax Improves 3D Perceptual Realism",
         "author": "Dongyeon Kim, Seung-Woo Nam, Suyeon Choi, Jong-Mo Seo, Gordon Wetzstein, Yoonchan Jeong",
-        "aff": "Seoul National University; Stanford University",
+        "aff": "Stanford University; Seoul National University",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3658168"
+        "doi": "https://doi.org/10.1145/3658168",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_410&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_249",
@@ -1171,10 +1383,12 @@
         "status": "Technical Paper",
         "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
         "author": "Xun Guo, Mingwu Zheng, Liang Hou, Yuan Gao, Yufan Deng, Pengfei Wan, Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma",
-        "aff": "University of Science and Technology of China; Institute of Automation, Chinese Academy of Sciences; Kuaishou Technology",
+        "aff": "Institute of Automation, Chinese Academy of Sciences; University of Science and Technology of China; Kuaishou Technology",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657407"
+        "doi": "https://doi.org/10.1145/3641519.3657407",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_249&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_116",
@@ -1185,7 +1399,9 @@
         "aff": "RWTH Aachen University",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3631936"
+        "doi": "https://doi.org/10.1145/3631936",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_116&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_573",
@@ -1193,10 +1409,12 @@
         "status": "Technical Paper",
         "title": "Implicit Swept Volume SDF: Enabling Continuous Collision-free Trajectory Generation for Arbitrary Shapes",
         "author": "Jingping Wang, Tingrui Zhang, Qixuan Zhang, Chuxiao Zeng, Jingyi Yu, Chao Xu, Lan Xu, Fei Gao",
-        "aff": "Zhejiang University; Deemos Technology; ShanghaiTech University",
+        "aff": "Deemos Technology; Zhejiang University; ShanghaiTech University",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658181"
+        "doi": "https://doi.org/10.1145/3658181",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_573&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_108",
@@ -1207,7 +1425,9 @@
         "aff": "University of California San Diego; Massachusetts Institute of Technology (MIT)",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3648611"
+        "doi": "https://doi.org/10.1145/3648611",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_108&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_120",
@@ -1215,10 +1435,12 @@
         "status": "TOG Paper",
         "title": "In the Quest for Scale-Optimal Mappings",
         "author": "Dmitry Sokolov, Vladimir Garanzha, Igor Kaporin, Liudmila Kudryavtseva, Fran\u00e7ois Protais, Dmitry Sokolov",
-        "aff": "Universit\u00e9 de Lorraine; Dorodnicyn Computing Center FRC CSC RAS Moscow Institute of Physics and Technology; Universit\u00e9 de Lorraine, CNRS, Inria, LORIA",
+        "aff": "Universit\u00e9 de Lorraine; Universit\u00e9 de Lorraine, CNRS, Inria, LORIA; Dorodnicyn Computing Center FRC CSC RAS Moscow Institute of Physics and Technology",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3627102"
+        "doi": "https://doi.org/10.1145/3627102",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_120&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_218",
@@ -1226,10 +1448,12 @@
         "status": "Technical Paper",
         "title": "Interactive Character Control With Auto-regressive Motion Diffusion Models",
         "author": "Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng",
-        "aff": "NVIDIA; Shanghai Aritificial Intelligence Laboratory; Simon Fraser University; Xmov",
+        "aff": "Shanghai Aritificial Intelligence Laboratory; Simon Fraser University; NVIDIA; Xmov",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3658140"
+        "doi": "https://doi.org/10.1145/3658140",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_218&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1074",
@@ -1237,10 +1461,12 @@
         "status": "Technical Paper",
         "title": "Interactive Design of Stylized Walking Gaits for Robotic Characters",
         "author": "Michael A. Hopkins, Georg Wiedebach, Kyle Cesare, Jared Bishop, Espen Knoop, Moritz B\u00e4cher",
-        "aff": "Disney Research; PickNik Robotics; Walt Disney Imagineering R&D",
+        "aff": "PickNik Robotics; Disney Research; Walt Disney Imagineering R&D",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3658227"
+        "doi": "https://doi.org/10.1145/3658227",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1074&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_829",
@@ -1248,10 +1474,12 @@
         "status": "Technical Paper",
         "title": "Interactive Invigoration: Volumetric Modeling of Trees With Strands",
         "author": "Bosheng Li, Nikolas Schwarz, Wojtek Palubicki, Soeren Pirk, Bedrich Benes",
-        "aff": "Purdue University; AMU; Kiel University",
+        "aff": "AMU; Kiel University; Purdue University",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3658206"
+        "doi": "https://doi.org/10.1145/3658206",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_829&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_740",
@@ -1262,7 +1490,9 @@
         "aff": "Yale University",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3641519.3657466"
+        "doi": "https://doi.org/10.1145/3641519.3657466",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_740&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_110",
@@ -1273,7 +1503,9 @@
         "aff": "Simon Fraser University",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3630750"
+        "doi": "https://doi.org/10.1145/3630750",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_110&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_795",
@@ -1281,10 +1513,12 @@
         "status": "Technical Paper",
         "title": "IntrinsicDiffusion: Joint Intrinsic Layers From Latent Diffusion Models",
         "author": "Jundan Luo, Duygu Ceylan, Jae Shin Yoon, Nanxuan Zhao, Julien Philip, Anna Fr\u00fchst\u00fcck, Wenbin Li, Christian Richardt, Tuanfeng Wang",
-        "aff": "Meta; University of Bath; Adobe Research",
+        "aff": "Meta; Adobe Research; University of Bath",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657472"
+        "doi": "https://doi.org/10.1145/3641519.3657472",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_795&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_859",
@@ -1295,7 +1529,9 @@
         "aff": "Tsinghua University",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657478"
+        "doi": "https://doi.org/10.1145/3641519.3657478",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_859&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_607",
@@ -1303,10 +1539,12 @@
         "status": "Technical Paper",
         "title": "Iterative Motion Editing With Natural Language",
         "author": "Purvi Goel, Kuan-Chieh Wang, C. Karen Liu, Kayvon Fatahalian",
-        "aff": "Snap; Stanford University",
+        "aff": "Stanford University; Snap",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657447"
+        "doi": "https://doi.org/10.1145/3641519.3657447",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_607&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_104",
@@ -1317,7 +1555,9 @@
         "aff": "Sun Yat-sen University",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3649890"
+        "doi": "https://doi.org/10.1145/3649890",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_104&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_563",
@@ -1325,10 +1565,12 @@
         "status": "Technical Paper",
         "title": "Kinetic Simulation of Turbulent Multifluid Flows",
         "author": "Wei Li, Kui Wu, Mathieu Desbrun",
-        "aff": "INRIA; Ecole Polytechnique; LightSpeed Studios",
+        "aff": "INRIA; LightSpeed Studios; Ecole Polytechnique",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658178"
+        "doi": "https://doi.org/10.1145/3658178",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_563&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_415",
@@ -1336,10 +1578,12 @@
         "status": "Technical Paper",
         "title": "LGTM: Local-to-Global Text-driven Human Motion Diffusion Model",
         "author": "Haowen Sun, Ruikun Zheng, Haibin Huang, Chongyang Ma, Hui Huang, Ruizhen Hu",
-        "aff": "ByteDance Inc.; Kuaishou Technology; Shenzhen University",
+        "aff": "Shenzhen University; Kuaishou Technology; ByteDance Inc.",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657422"
+        "doi": "https://doi.org/10.1145/3641519.3657422",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_415&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1263",
@@ -1347,10 +1591,12 @@
         "status": "Technical Paper",
         "title": "LOOSECONTROL: Lifting ControlNet for Generalized Depth Conditioning",
         "author": "Shariq Bhat, Niloy Mitra, Peter Wonka",
-        "aff": "Adobe Research; King Abdullah University of Science and Technology (KAUST); University College London (UCL)",
+        "aff": "King Abdullah University of Science and Technology (KAUST); University College London (UCL); Adobe Research",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3641519.3657525"
+        "doi": "https://doi.org/10.1145/3641519.3657525",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1263&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1106",
@@ -1361,7 +1607,9 @@
         "aff": "Georgia Institute of Technology",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3641519.3657514"
+        "doi": "https://doi.org/10.1145/3641519.3657514",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1106&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_122",
@@ -1372,7 +1620,9 @@
         "aff": "Purdue University",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3627101"
+        "doi": "https://doi.org/10.1145/3627101",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_122&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_999",
@@ -1380,10 +1630,12 @@
         "status": "Technical Paper",
         "title": "LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer",
         "author": "Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu",
-        "aff": "Tsinghua University; Beijing Normal University; NNKosmos Technology",
+        "aff": "Beijing Normal University; Tsinghua University; NNKosmos Technology",
         "track": "main",
         "sess": "Clothing Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657501"
+        "doi": "https://doi.org/10.1145/3641519.3657501",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_999&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_715",
@@ -1391,10 +1643,12 @@
         "status": "Technical Paper",
         "title": "Learning Images Across Scales Using Adversarial Training",
         "author": "Krzysztof Wolski, Adarsh Djeacoumar, Alireza Javanmardi, Hans-Peter Seidel, Christian Theobalt, Guillaume Cordonnier, Karol Myszkowski, George Drettakis, Xingang Pan, Thomas Leimk\u00fchler",
-        "aff": "Nanyang Technological University; INRIA, Universit\u00e9 C\u00f4te d'Azur; Max Planck Institute for Informatics",
+        "aff": "Nanyang Technological University; Max Planck Institute for Informatics; INRIA, Universit\u00e9 C\u00f4te d'Azur",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": "https://doi.org/10.1145/3658190"
+        "doi": "https://doi.org/10.1145/3658190",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_715&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_111",
@@ -1402,10 +1656,12 @@
         "status": "TOG Paper",
         "title": "Learning Physically Realizable Skills for Online Packing of General 3D Shapes",
         "author": "Hang Zhao, Zherong Pan, Yang Yu, Kai Xu, Hang Zhao",
-        "aff": "Tencent - Lightspeed Studio; National Key Laboratory for Novel Software Technology; School of Computer Science National University of Defense Technology",
+        "aff": "Tencent - Lightspeed Studio; School of Computer Science National University of Defense Technology; National Key Laboratory for Novel Software Technology",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3603544"
+        "doi": "https://doi.org/10.1145/3603544",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_111&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_664",
@@ -1413,10 +1669,12 @@
         "status": "Technical Paper",
         "title": "Learning a Generalized Physical Face Model From Data",
         "author": "Lingchen Yang, Gaspard Zoss, Prashanth Chandran, Markus Gross, Barbara Solenthaler, Eftychios Sifakis, Derek Bradley",
-        "aff": "Walt Disney Company, Switzerland; University of Wisconsin Madison; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; University of Wisconsin Madison; Walt Disney Company, Switzerland",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": "https://doi.org/10.1145/3658189"
+        "doi": "https://doi.org/10.1145/3658189",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_664&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_767",
@@ -1424,10 +1682,12 @@
         "status": "Technical Paper",
         "title": "Lifting Directional Fields to Minimal Sections",
         "author": "David R. Palmer, Albert Chern, Justin M. Solomon",
-        "aff": "University of California San Diego; Massachusetts Institute of Technology (MIT); Harvard University",
+        "aff": "Harvard University; University of California San Diego; Massachusetts Institute of Technology (MIT)",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3658198"
+        "doi": "https://doi.org/10.1145/3658198",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_767&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_114",
@@ -1435,10 +1695,12 @@
         "status": "TOG Paper",
         "title": "Light Codes for Fast Two-Way Human-Centric Visual Communication",
         "author": "Mohit Gupta, Jian Wang, Karl Bayer, Shree Nayar, Jian Wang",
-        "aff": "Snap Research; University of Wisconsin-Madison; Snap Inc.",
+        "aff": "University of Wisconsin-Madison; Snap Inc.; Snap Research",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3617682"
+        "doi": "https://doi.org/10.1145/3617682",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_114&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1110",
@@ -1446,10 +1708,12 @@
         "status": "Technical Paper",
         "title": "LightFormer: Light-oriented Global Neural Rendering in Dynamic Scene",
         "author": "Haocheng Ren, Yuchi Huo, Yifan Peng, Hongtao Sheng, Weidong Xue, Hongxiang Huang, Jingzhen Lan, Rui Wang, Hujun Bao",
-        "aff": "Zhejiang Lab; State Key Laboratory of CAD & CG, Zhejiang University; University of Hong Kong",
+        "aff": "State Key Laboratory of CAD & CG, Zhejiang University; University of Hong Kong; Zhejiang Lab",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3658229"
+        "doi": "https://doi.org/10.1145/3658229",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1110&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_773",
@@ -1457,10 +1721,12 @@
         "status": "Technical Paper",
         "title": "Lightning-fast Method of Fundamental Solutions",
         "author": "Jiong Chen, Florian Schaefer, Mathieu Desbrun",
-        "aff": "INRIA, Saclay; Georgia Institute of Technology",
+        "aff": "Georgia Institute of Technology; INRIA, Saclay",
         "track": "main",
         "sess": "Fluids",
-        "doi": "https://doi.org/10.1145/3658199"
+        "doi": "https://doi.org/10.1145/3658199",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_773&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_771",
@@ -1468,10 +1734,12 @@
         "status": "Technical Paper",
         "title": "Lite2Relight: 3D-aware Single Image Portrait Relighting",
         "author": "Pramod Rao, Gereon Fox, Abhimitra Meka, Mallikarjun B R, Fangneng Zhan, Tim Weyrich, Bernd Bickel, Hanspeter Pfister, Wojciech Matusik, Mohamed Elgharib, Christian Theobalt",
-        "aff": "Max Planck Institute for Informatics; Google AR/VR; Institute of Science and Technology Austria (ISTA); Harvard University; Massachusetts Institute of Technology (MIT); Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU); ETH Z\u00fcrich; Saarbr\u00fccken Research Center for Visual Computing, Interaction and Artificial Intelligence (VIA)",
+        "aff": "Harvard University; Google AR/VR; Saarbr\u00fccken Research Center for Visual Computing, Interaction and Artificial Intelligence (VIA); Massachusetts Institute of Technology (MIT); Max Planck Institute for Informatics; ETH Z\u00fcrich; Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU); Institute of Science and Technology Austria (ISTA)",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3641519.3657470"
+        "doi": "https://doi.org/10.1145/3641519.3657470",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_771&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_106",
@@ -1482,7 +1750,9 @@
         "aff": "INRIA; Sorbonne Universit\u00e9 - CNRS; University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK",
         "track": "main",
         "sess": "Cloth Simulation",
-        "doi": "https://doi.org/10.1145/3674502"
+        "doi": "https://doi.org/10.1145/3674502",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_106&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_229",
@@ -1490,10 +1760,12 @@
         "status": "Technical Paper",
         "title": "MVD^2: Efficient Multiview 3D Reconstruction for Multiview Diffusion",
         "author": "Xin-Yang Zheng, Hao Pan, Yu-Xiao Guo, Xin Tong, Yang Liu",
-        "aff": "Tsinghua University; Microsoft; Microsoft Research Asia",
+        "aff": "Microsoft; Tsinghua University; Microsoft Research Asia",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3641519.3657403"
+        "doi": "https://doi.org/10.1145/3641519.3657403",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_229&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1007",
@@ -1501,10 +1773,12 @@
         "status": "Technical Paper",
         "title": "MaPa: Text-driven Photorealistic Material Painting for 3D Shapes",
         "author": "Shangzhan Zhang, Sida Peng, Tao Xu, Yuanbo Yang, Tianrun Chen, Nan Xue, Yujun Shen, Hujun Bao, Ruizhen Hu, Xiaowei Zhou",
-        "aff": "State Key Lab of CAD and CG, Zhejiang University; Zhejiang University; Shenzhen University; Ant Group",
+        "aff": "Shenzhen University; Ant Group; State Key Lab of CAD and CG, Zhejiang University; Zhejiang University",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3641519.3657504"
+        "doi": "https://doi.org/10.1145/3641519.3657504",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1007&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1160",
@@ -1512,10 +1786,12 @@
         "status": "Technical Paper",
         "title": "Matting by Generation",
         "author": "Zhixiang Wang, Baiang Li, Jian Wang, Yu-Lun Liu, Jinwei Gu, Yung-Yu Chuang, Shin'ichi Satoh",
-        "aff": "Snap; National Chiao Tung University; Chinese University of Hong Kong; Hefei University of Technology; National Institute of Informatics; National Taiwan University; University of Tokyo",
+        "aff": "Snap; Hefei University of Technology; National Taiwan University; Chinese University of Hong Kong; National Institute of Informatics; National Chiao Tung University; University of Tokyo",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657519"
+        "doi": "https://doi.org/10.1145/3641519.3657519",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1160&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_294",
@@ -1523,10 +1799,12 @@
         "status": "Technical Paper",
         "title": "Media2Face: Co-speech Facial Animation Generation With Multi-modality Guidance",
         "author": "Qingcheng Zhao, Pengyu Long, Qixuan Zhang, Dafei Qin, Han Liang, Longwen Zhang, Yingliang Zhang, Jingyi Yu, Lan Xu",
-        "aff": "Deemos Technology; ShanghaiTech University; University of Hong Kong; DGene Digital Technology Co., Ltd.",
+        "aff": "Deemos Technology; University of Hong Kong; ShanghaiTech University; DGene Digital Technology Co., Ltd.",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": "https://doi.org/10.1145/3641519.3657413"
+        "doi": "https://doi.org/10.1145/3641519.3657413",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_294&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_146",
@@ -1534,10 +1812,12 @@
         "status": "Technical Paper",
         "title": "Mesh Neural Cellular Automata",
         "author": "Ehsan Pajouheshgar, Yitao Xu, Alexander Mordvintsev, Eyvind Niklasson, Tong Zhang, Sabine S\u00fcsstrunk",
-        "aff": "Google Research; EPFL",
+        "aff": "EPFL; Google Research",
         "track": "main",
         "sess": "Generative 3D Geometry and Editing",
-        "doi": "https://doi.org/10.1145/3658127"
+        "doi": "https://doi.org/10.1145/3658127",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_146&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_943",
@@ -1548,7 +1828,9 @@
         "aff": "Independent; Carnegie Mellon University",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": "https://doi.org/10.1145/3641519.3657495"
+        "doi": "https://doi.org/10.1145/3641519.3657495",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_943&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_203",
@@ -1556,10 +1838,12 @@
         "status": "Technical Paper",
         "title": "MoConVQ: Unified Physics-based Motion Control via Scalable Discrete Representations",
         "author": "Heyuan Yao, Zhenhua Song, Yuyang Zhou, Tenglong Ao, Baoquan Chen, Libin Liu",
-        "aff": "State Key Laboratory of General Artificial Intelligence; Peking University, School of EECS; Peking University; School of Computer Science, Peking University",
+        "aff": "State Key Laboratory of General Artificial Intelligence; Peking University; School of Computer Science, Peking University; Peking University, School of EECS",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3658137"
+        "doi": "https://doi.org/10.1145/3658137",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_203&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_422",
@@ -1567,10 +1851,12 @@
         "status": "Technical Paper",
         "title": "Mob-FGSR: Frame Generation and Super Resolution for Mobile Real-time Rendering",
         "author": "Sipeng Yang, Qingchuan Zhu, Junhao Zhuge, Qiang Qiu, Chen Li, Yuzhong Yan, Huihui Xu, Ling-Qi Yan, Xiaogang Jin",
-        "aff": "Zhejiang University; State Key Laboratory of CAD & CG, Zhejiang University; State Key Lab of CAD&CG, Zhejiang University; OPPO Computing & Graphics Research Institute; University of California Santa Barbara",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; State Key Laboratory of CAD & CG, Zhejiang University; University of California Santa Barbara; Zhejiang University; OPPO Computing & Graphics Research Institute",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3641519.3657424"
+        "doi": "https://doi.org/10.1145/3641519.3657424",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_422&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_216",
@@ -1578,10 +1864,12 @@
         "status": "Technical Paper",
         "title": "Modal Folding: Discovering Smooth Folding Patterns for Sheet Materials Using Strain-space Modes",
         "author": "Pengbin Tang, Ronan Hinchet, Roi Poranne, Bernhard Thomaszewski, Stelian Coros",
-        "aff": "University of Haifa; ETH Z\u00fcrich; Universit\u00e9 de Montr\u00e9al",
+        "aff": "ETH Z\u00fcrich; Universit\u00e9 de Montr\u00e9al; University of Haifa",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3641519.3657401"
+        "doi": "https://doi.org/10.1145/3641519.3657401",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_216&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_897",
@@ -1589,10 +1877,12 @@
         "status": "Technical Paper",
         "title": "Modeling Ambient Scene Dynamics for Free-view Synthesis",
         "author": "Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao",
-        "aff": "Meta; University of Washington; University of Maryland, College Park",
+        "aff": "University of Washington; University of Maryland, College Park; Meta",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657488"
+        "doi": "https://doi.org/10.1145/3641519.3657488",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_897&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_613",
@@ -1603,7 +1893,9 @@
         "aff": "NVIDIA",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3641519.3657450"
+        "doi": "https://doi.org/10.1145/3641519.3657450",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_613&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1001",
@@ -1611,10 +1903,12 @@
         "status": "Technical Paper",
         "title": "Modelling a Feather as a Strongly Anisotropic Elastic Shell",
         "author": "Jean Jouve, Victor Romero, Rahul Narain, Laurence Boissieux, Theodore Kim, Florence Bertails-Descoubes",
-        "aff": "IIT Delhi; INRIA; Yale University; University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK",
+        "aff": "INRIA; University Grenoble Alpes Inria, CNRS, Grenoble INP, LJK; Yale University; IIT Delhi",
         "track": "main",
         "sess": "Simulating Nature",
-        "doi": "https://doi.org/10.1145/3641519.3657503"
+        "doi": "https://doi.org/10.1145/3641519.3657503",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1001&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_975",
@@ -1622,10 +1916,12 @@
         "status": "Technical Paper",
         "title": "MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar",
         "author": "Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu",
-        "aff": "Tsinghua University; Harbin Institute of Technology; Communication University of China",
+        "aff": "Harbin Institute of Technology; Tsinghua University; Communication University of China",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657499"
+        "doi": "https://doi.org/10.1145/3641519.3657499",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_975&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_965",
@@ -1633,10 +1929,12 @@
         "status": "Technical Paper",
         "title": "Motion-I2V: Consistent and Controllable Image-to-video Generation With Explicit Motion Modeling",
         "author": "Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li",
-        "aff": "NVIDIA; SenseTime; The Chinese University of Hong Kong; Tsinghua University",
+        "aff": "NVIDIA; Tsinghua University; SenseTime; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657497"
+        "doi": "https://doi.org/10.1145/3641519.3657497",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_965&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1140",
@@ -1644,10 +1942,12 @@
         "status": "Technical Paper",
         "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
         "author": "Zhouxia Wang, Ziyang Yuan, Xintao Wang, Yaowei Li, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan",
-        "aff": "Tencent AI Lab; Guangdong University of Technology; University of Hong Kong; Peking University; Tsinghua University; ARC Lab, Tencent PCG",
+        "aff": "ARC Lab, Tencent PCG; Tencent AI Lab; Tsinghua University; Peking University; University of Hong Kong; Guangdong University of Technology",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657518"
+        "doi": "https://doi.org/10.1145/3641519.3657518",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1140&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1003",
@@ -1655,10 +1955,12 @@
         "status": "Technical Paper",
         "title": "Multi-material Mesh-based Surface Tracking With Implicit Topology Changes",
         "author": "Peter Heiss-Synak, Aleksei Kalinov, Malina Strugaru, Arian Etemadi, Huidong Yang, Chris Wojtan",
-        "aff": "University of Vienna; Institute of Science and Technology Austria (ISTA)",
+        "aff": "Institute of Science and Technology Austria (ISTA); University of Vienna",
         "track": "main",
         "sess": "Fluids and Flows",
-        "doi": "https://doi.org/10.1145/3658223"
+        "doi": "https://doi.org/10.1145/3658223",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1003&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_732",
@@ -1669,7 +1971,9 @@
         "aff": "Adobe; DFKI; Saarland Informatics Campus",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3641519.3657464"
+        "doi": "https://doi.org/10.1145/3641519.3657464",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_732&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1000",
@@ -1677,10 +1981,12 @@
         "status": "Technical Paper",
         "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
         "author": "Stavros Diolatzis, Tobias Zirr, Alexander Kuznetsov, Georgios Kopanas, Anton Kaplanyan",
-        "aff": "Intel Labs; INRIA, Universit\u00e9 C\u00f4te d'Azur",
+        "aff": "INRIA, Universit\u00e9 C\u00f4te d'Azur; Intel Labs",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3641519.3657502"
+        "doi": "https://doi.org/10.1145/3641519.3657502",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1000&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1115",
@@ -1688,10 +1994,12 @@
         "status": "Technical Paper",
         "title": "NICER: A New and Improved Consumed Endurance and Recovery Metric to Quantify Muscle Fatigue of Mid-air Interactions",
         "author": "Yi Li, Benjamin Tag, Shaozhang Dai, Robert Crowther, Tim Dwyer, Pourang Irani, Barrett Ens",
-        "aff": "University of New England; Monash University; The University of British Columbia, Okanagan",
+        "aff": "The University of British Columbia, Okanagan; Monash University; University of New England",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3658230"
+        "doi": "https://doi.org/10.1145/3658230",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1115&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_861",
@@ -1702,7 +2010,9 @@
         "aff": "Epic Games",
         "track": "main",
         "sess": "Shape Analysis",
-        "doi": "https://doi.org/10.1145/3641519.3657479"
+        "doi": "https://doi.org/10.1145/3641519.3657479",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_861&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_112",
@@ -1710,10 +2020,12 @@
         "status": "TOG Paper",
         "title": "NeLT: Object-oriented Neural Light Transfer",
         "author": "Chuankun Zheng, Yuchi Huo, Shaohua Mo, Zhihua Zhong, Zhizhen Wu, Wei Hua, Rui Wang, Hujun Bao, Chuankun Zheng",
-        "aff": "Zhejiang Lab; State Key Lab of CAD&CG, Zhejiang University; Zhejiang University  State Key Lab of CAD&CG",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; Zhejiang University  State Key Lab of CAD&CG; Zhejiang Lab",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3596491"
+        "doi": "https://doi.org/10.1145/3596491",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_112&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_232",
@@ -1721,10 +2033,12 @@
         "status": "Technical Paper",
         "title": "NeRF as a Non-distant Environment Emitter in Physics-based Inverse Rendering",
         "author": "Jingwang Ling, Ruihan Yu, Feng Xu, Chun Du, Shuang Zhao",
-        "aff": "Tsinghua University; University of California Irvine; Tibet University",
+        "aff": "University of California Irvine; Tsinghua University; Tibet University",
         "track": "main",
         "sess": "NeRFs and Lighting",
-        "doi": "https://doi.org/10.1145/3641519.3657404"
+        "doi": "https://doi.org/10.1145/3641519.3657404",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_232&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_476",
@@ -1732,10 +2046,12 @@
         "status": "Technical Paper",
         "title": "NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature",
         "author": "Qiujie Dong, Rui Xu, Pengfei Wang, Shuangmin Chen, Shiqing Xin, Xiaohong Jia, Wenping Wang, Changhe Tu",
-        "aff": "Texas A&M University; Qingdao University of Science and Technology; AMSS, Chinese Academy of Sciences; University of Hong Kong; Shandong University",
+        "aff": "Texas A&M University; Qingdao University of Science and Technology; University of Hong Kong; Shandong University; AMSS, Chinese Academy of Sciences",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3658171"
+        "doi": "https://doi.org/10.1145/3658171",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_476&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_593",
@@ -1743,10 +2059,12 @@
         "status": "Technical Paper",
         "title": "Neural Bounding",
         "author": "Stephanie Wenxin Liu, Michael Fischer, Paul D. Yoo, Tobias Ritschel",
-        "aff": "University College London (UCL); Birkbeck, University of London",
+        "aff": "Birkbeck, University of London; University College London (UCL)",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3641519.3657442"
+        "doi": "https://doi.org/10.1145/3641519.3657442",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_593&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_175",
@@ -1754,10 +2072,12 @@
         "status": "Technical Paper",
         "title": "Neural Control Variates With Automatic Integration",
         "author": "Zilu Li, Guandao Yang, Qingqing Zhao, Xi Deng, Leonidas Guibas, Bharath Hariharan, Gordon Wetzstein",
-        "aff": "Cornell University; Stanford University",
+        "aff": "Stanford University; Cornell University",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3641519.3657395"
+        "doi": "https://doi.org/10.1145/3641519.3657395",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_175&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_377",
@@ -1768,7 +2088,9 @@
         "aff": "Max Planck Institute for Informatics",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3658163"
+        "doi": "https://doi.org/10.1145/3658163",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_377&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_206",
@@ -1779,7 +2101,9 @@
         "aff": "University of California San Diego",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657399"
+        "doi": "https://doi.org/10.1145/3641519.3657399",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_206&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_569",
@@ -1787,10 +2111,12 @@
         "status": "Technical Paper",
         "title": "Neural Monte Carlo Fluid Simulation",
         "author": "Pranav Jain, Ziyin Qu, Peter Yichen Chen, Oded Stein",
-        "aff": "University of Southern California; Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT); University of Pennsylvania",
+        "aff": "University of Pennsylvania; Computer Science and Artificial Intelligence Laboratory (CSAIL), Massachusetts Institute of Technology (MIT); University of Southern California",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3641519.3657438"
+        "doi": "https://doi.org/10.1145/3641519.3657438",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_569&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_885",
@@ -1801,7 +2127,9 @@
         "aff": "University of Manchester",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3658212"
+        "doi": "https://doi.org/10.1145/3658212",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_885&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_283",
@@ -1809,10 +2137,12 @@
         "status": "Technical Paper",
         "title": "Neural-assisted Homogenization of Yarn-level Cloth",
         "author": "Xudong Feng, Huamin Wang, Yin Yang, Weiwei Xu",
-        "aff": "State Key Lab of CAD and CG, Zhejiang University; Style3D Research; State Key Laboratory of CAD & CG, Zhejiang University; University of Utah",
+        "aff": "Style3D Research; State Key Lab of CAD and CG, Zhejiang University; State Key Laboratory of CAD & CG, Zhejiang University; University of Utah",
         "track": "main",
         "sess": "Cloth Simulation",
-        "doi": "https://doi.org/10.1145/3641519.3657411"
+        "doi": "https://doi.org/10.1145/3641519.3657411",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_283&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_652",
@@ -1823,7 +2153,9 @@
         "aff": "OPPO US Research Center; TMCC; Nankai University",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3658186"
+        "doi": "https://doi.org/10.1145/3658186",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_652&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_115",
@@ -1831,10 +2163,12 @@
         "status": "TOG Paper",
         "title": "NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks",
         "author": "Doyub Kim, Minjae Lee, Ken Museth, Doyub Kim",
-        "aff": "NVIDIA, USA; NVIDIA",
+        "aff": "NVIDIA; NVIDIA, USA",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3641817"
+        "doi": "https://doi.org/10.1145/3641817",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_115&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_261",
@@ -1842,10 +2176,12 @@
         "status": "Technical Paper",
         "title": "Object-level Scene Deocclusion",
         "author": "Zhengzhe Liu, Qing Liu, Chirui Chang, Jianming Zhang, Daniil Pakhomov, Haitian Zheng, Zhe Lin, Daniel Cohen-Or, Chi-Wing Fu",
-        "aff": "Tel Aviv University; Adobe Research; The Chinese University of Hong Kong; University of Hong Kong",
+        "aff": "Tel Aviv University; University of Hong Kong; Adobe Research; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3641519.3657409"
+        "doi": "https://doi.org/10.1145/3641519.3657409",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_261&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_739",
@@ -1853,10 +2189,12 @@
         "status": "Technical Paper",
         "title": "One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns",
         "author": "Arman Maesumi, Dylan Hu, Krishi Saripalli, Vladimir Kim, Matthew Fisher, Soeren Pirk, Daniel Ritchie",
-        "aff": "Adobe Research; Brown University; Kiel University",
+        "aff": "Brown University; Kiel University; Adobe Research",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3658195"
+        "doi": "https://doi.org/10.1145/3658195",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_739&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_103",
@@ -1864,10 +2202,12 @@
         "status": "TOG Paper",
         "title": "Online Neural Path Guiding with Normalized Anisotropic Spherical Gaussians",
         "author": "Jiawei Huang, Akito Iizuka, Hajime Tanaka, Taku Komura, Yoshifumi Kitamura, Jiawei Huang",
-        "aff": "Chuzhou University, Void Dimensions; Tohoku University; Void Dimensions; University of Hong Kong; Chuzhou University",
+        "aff": "Chuzhou University; Tohoku University; University of Hong Kong; Void Dimensions; Chuzhou University, Void Dimensions",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3649310"
+        "doi": "https://doi.org/10.1145/3649310",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_103&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_142",
@@ -1878,7 +2218,9 @@
         "aff": "Meta; New York University",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3658126"
+        "doi": "https://doi.org/10.1145/3658126",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_142&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_875",
@@ -1886,10 +2228,12 @@
         "status": "Technical Paper",
         "title": "Part123: Part-aware 3D Reconstruction From a Single-view Image",
         "author": "Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang",
-        "aff": "Tsinghua University; Texas A&M University; University of Hong Kong",
+        "aff": "Texas A&M University; Tsinghua University; University of Hong Kong",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3641519.3657482"
+        "doi": "https://doi.org/10.1145/3641519.3657482",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_875&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_827",
@@ -1897,10 +2241,12 @@
         "status": "Technical Paper",
         "title": "Path-space Differentiable Rendering of Implicit Surfaces",
         "author": "Siwei Zhou, Youngha Chang, Nobuhiko Mukai, Hiroaki Santo, Fumio Okura, Yasuyuki Matsushita, Shuang Zhao",
-        "aff": "Tokyo City University; NVIDIA; Osaka University; University of California Irvine",
+        "aff": "Osaka University; Tokyo City University; NVIDIA; University of California Irvine",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3641519.3657473"
+        "doi": "https://doi.org/10.1145/3641519.3657473",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_827&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_890",
@@ -1911,7 +2257,9 @@
         "aff": "Meta Reality Labs",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3641519.3657486"
+        "doi": "https://doi.org/10.1145/3641519.3657486",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_890&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_548",
@@ -1919,10 +2267,12 @@
         "status": "Technical Paper",
         "title": "Physical Non-inertial Poser (PNP): Modeling Non-inertial Effects in Sparse-inertial Human Motion Capture",
         "author": "Xinyu Yi, Yuxiao Zhou, Feng Xu",
-        "aff": "Tsinghua University; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; Tsinghua University",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3641519.3657436"
+        "doi": "https://doi.org/10.1145/3641519.3657436",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_548&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1127",
@@ -1930,10 +2280,12 @@
         "status": "Technical Paper",
         "title": "Physics-based Scene Layout Generation From Human Motion",
         "author": "Jianan Li, Tao Huang, Qingxu Zhu, Tien-Tsin Wong",
-        "aff": "The Chinese University of Hong Kong; Tencent Robotics X",
+        "aff": "Tencent Robotics X; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3641519.3657517"
+        "doi": "https://doi.org/10.1145/3641519.3657517",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1127&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_880",
@@ -1941,10 +2293,12 @@
         "status": "Technical Paper",
         "title": "Physics-informed Learning of Characteristic Trajectories for Smoke Reconstruction",
         "author": "Yiming Wang, Siyu Tang, Mengyu Chu",
-        "aff": "National Key Lab of General AI; ETH Z\u00fcrich; Peking University",
+        "aff": "ETH Z\u00fcrich; Peking University; National Key Lab of General AI",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3641519.3657483"
+        "doi": "https://doi.org/10.1145/3641519.3657483",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_880&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_376",
@@ -1952,10 +2306,12 @@
         "status": "Technical Paper",
         "title": "Portrait3D: Text-guided High-quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
         "author": "Yiqian Wu, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin",
-        "aff": "Zhejiang University; OPPO US Research Center; Yale University; State Key Lab of CAD&CG, Zhejiang University; ETH Z\u00fcrich",
+        "aff": "State Key Lab of CAD&CG, Zhejiang University; ETH Z\u00fcrich; Yale University; OPPO US Research Center; Zhejiang University",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": "https://doi.org/10.1145/3658162"
+        "doi": "https://doi.org/10.1145/3658162",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_376&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_328",
@@ -1966,7 +2322,9 @@
         "aff": "University of California Davis; University of California Los Angeles; Epic Games",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3658154"
+        "doi": "https://doi.org/10.1145/3658154",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_328&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1066",
@@ -1974,10 +2332,12 @@
         "status": "Technical Paper",
         "title": "Practical Error Estimation for Denoised Monte Carlo Image Synthesis",
         "author": "Arthur Firmino, Ravi Ramamoorthi, Jeppe Revall Frisvad, Henrik Wann Jensen",
-        "aff": "University of California San Diego; Luxion; Technical University of Denmark",
+        "aff": "Technical University of Denmark; University of California San Diego; Luxion",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3641519.3657511"
+        "doi": "https://doi.org/10.1145/3641519.3657511",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1066&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_907",
@@ -1988,7 +2348,9 @@
         "aff": "Fuxi AI Lab, NetEase Inc",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3641519.3657490"
+        "doi": "https://doi.org/10.1145/3641519.3657490",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_907&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "papers_884",
@@ -1999,7 +2361,9 @@
         "aff": "Institute of Science and Technology Austria (ISTA)",
         "track": "main",
         "sess": "Simulation With Contact",
-        "doi": "https://doi.org/10.1145/3641519.3657485"
+        "doi": "https://doi.org/10.1145/3641519.3657485",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_884&sess=sess127",
+        "url_sess": ""
     },
     {
         "ssid": "papers_893",
@@ -2007,10 +2371,12 @@
         "status": "Technical Paper",
         "title": "Progressive Dynamics for Cloth and Shell Animation",
         "author": "Jiayi Eris Zhang, Doug James, Danny M. Kaufman",
-        "aff": "Adobe Research; Adobe; Stanford University",
+        "aff": "Stanford University; Adobe; Adobe Research",
         "track": "main",
         "sess": "Cloth Simulation",
-        "doi": "https://doi.org/10.1145/3658214"
+        "doi": "https://doi.org/10.1145/3658214",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_893&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_107",
@@ -2018,10 +2384,12 @@
         "status": "TOG Paper",
         "title": "Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models",
         "author": "Willi Menapace, Aliaksandr Siarohin, St\u00e9phane Lathuili\u00e8re, Panos Achlioptas, Vladislav Golyanik, Sergey Tulyakov, Elisa Ricci, Willi Menapace",
-        "aff": "Snap; Max Planck Institute for Informatics; Institut Polytechnique de Paris; Universita degli Studi di Trento Fondazione Bruno Kessler; Paris Telecom LTCI",
+        "aff": "Snap; Paris Telecom LTCI; Universita degli Studi di Trento Fondazione Bruno Kessler; Institut Polytechnique de Paris; Max Planck Institute for Informatics",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3635705"
+        "doi": "https://doi.org/10.1145/3635705",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_107&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "papers_560",
@@ -2029,10 +2397,12 @@
         "status": "Technical Paper",
         "title": "Proxy Asset Generation for Cloth Simulation in Games",
         "author": "Zhongtian Zheng, Tongtong Wang, Qijia Feng, Zherong Pan, Xifeng Gao, Kui Wu",
-        "aff": "Peking Unversity; LightSpeed Studios",
+        "aff": "LightSpeed Studios; Peking Unversity",
         "track": "main",
         "sess": "Clothing Geometry",
-        "doi": "https://doi.org/10.1145/3658177"
+        "doi": "https://doi.org/10.1145/3658177",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_560&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_913",
@@ -2043,7 +2413,9 @@
         "aff": "Peking University",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3658216"
+        "doi": "https://doi.org/10.1145/3658216",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_913&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_616",
@@ -2051,10 +2423,12 @@
         "status": "Technical Paper",
         "title": "QT-Font: High-efficiency Font Synthesis via Quadtree-based Diffusion Models",
         "author": "Yitian Liu, Zhouhui Lian",
-        "aff": "Wangxuan Institute of Computer Technology, Peking University; Wangxuan Institute of Computer Technology; Peking University",
+        "aff": "Peking University; Wangxuan Institute of Computer Technology; Wangxuan Institute of Computer Technology, Peking University",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": "https://doi.org/10.1145/3641519.3657451"
+        "doi": "https://doi.org/10.1145/3641519.3657451",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_616&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_469",
@@ -2062,10 +2436,12 @@
         "status": "Technical Paper",
         "title": "Quad-optimized Low-discrepancy Sequences",
         "author": "Victor Ostromoukhov, David Coeurjolly, Nicolas Bonneel, Jean-Claude Iehl",
-        "aff": "University of Lyon 1; CNRS - LIRIS",
+        "aff": "CNRS - LIRIS; University of Lyon 1",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3641519.3657431"
+        "doi": "https://doi.org/10.1145/3641519.3657431",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_469&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_604",
@@ -2073,10 +2449,12 @@
         "status": "Technical Paper",
         "title": "RGB\u2194X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models",
         "author": "Zheng Zeng, Valentin Deschaintre, Iliyan Georgiev, Yannick Hold-Geoffroy, Yiwei Hu, Fujun Luan, Ling-Qi Yan, Milo\u0161 Ha\u0161an",
-        "aff": "Adobe Research; University of California Santa Barbara",
+        "aff": "University of California Santa Barbara; Adobe Research",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657445"
+        "doi": "https://doi.org/10.1145/3641519.3657445",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_604&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_648",
@@ -2084,10 +2462,12 @@
         "status": "Technical Paper",
         "title": "RTG-SLAM: Real-time 3D Reconstruction at Scale Using Gaussian Splatting",
         "author": "Zhexi Peng, Tianjia Shao, Yong Liu, Jingke Zhou, Yin Yang, Jingdong Wang, Kun Zhou",
-        "aff": "University of Utah; Zhejiang University; Baidu Research",
+        "aff": "University of Utah; Baidu Research; Zhejiang University",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657455"
+        "doi": "https://doi.org/10.1145/3641519.3657455",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_648&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1064",
@@ -2095,10 +2475,12 @@
         "status": "Technical Paper",
         "title": "Radar Fields: Frequency-space Neural Scene Representations for FMCW Radar",
         "author": "David Borts, Erich Liang, Jipeng Sun, Tim Broedermann, David Brueggemann, Christos Sakaridis, Luc Van Gool, Andrea Ramazzina, Edoardo Palladin, Stefanie Walz, Mario Bijelic, Felix Heide",
-        "aff": "KU Leuven; ETH Z\u00fcrich; Princeton University",
+        "aff": "ETH Z\u00fcrich; Princeton University; KU Leuven",
         "track": "main",
         "sess": "Sound, Light, Radiofrequency",
-        "doi": "https://doi.org/10.1145/3641519.3657510"
+        "doi": "https://doi.org/10.1145/3641519.3657510",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1064&sess=sess145",
+        "url_sess": ""
     },
     {
         "ssid": "papers_786",
@@ -2106,10 +2488,12 @@
         "status": "Technical Paper",
         "title": "Ray Tracing Harmonic Functions",
         "author": "Mark Gillespie, Denise Yang, Mario Botsch, Keenan Crane",
-        "aff": "Pixar; Carnegie Mellon University; Technical University of Dortmund",
+        "aff": "Technical University of Dortmund; Carnegie Mellon University; Pixar",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3658201"
+        "doi": "https://doi.org/10.1145/3658201",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_786&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1267",
@@ -2120,7 +2504,9 @@
         "aff": "Toyota Research Institute",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3641519.3657526"
+        "doi": "https://doi.org/10.1145/3641519.3657526",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1267&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_349",
@@ -2128,10 +2514,12 @@
         "status": "Technical Paper",
         "title": "Reach for the Arcs: Reconstructing Surfaces From SDFs via Tangent Points",
         "author": "Silvia Sell\u00e1n, Yingying Ren, Christopher Batty, Oded Stein",
-        "aff": "University of Southern California; EPFL; University of Toronto; University of Waterloo",
+        "aff": "University of Waterloo; University of Toronto; EPFL; University of Southern California",
         "track": "main",
         "sess": "Reconstruction",
-        "doi": "https://doi.org/10.1145/3641519.3657419"
+        "doi": "https://doi.org/10.1145/3641519.3657419",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_349&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_127",
@@ -2142,7 +2530,9 @@
         "aff": "NVIDIA",
         "track": "main",
         "sess": "Appearance Models",
-        "doi": "https://doi.org/10.1145/3659577"
+        "doi": "https://doi.org/10.1145/3659577",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_127&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1226",
@@ -2153,7 +2543,9 @@
         "aff": "University of Utah; Cyber Radiance; RTX",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3641519.3657521"
+        "doi": "https://doi.org/10.1145/3641519.3657521",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1226&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_957",
@@ -2161,10 +2553,12 @@
         "status": "Technical Paper",
         "title": "Real-time Neural Woven Fabric Rendering",
         "author": "Xiang Chen, Lu Wang, Beibei Wang",
-        "aff": "Shandong University; Nanjing University",
+        "aff": "Nanjing University; Shandong University",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3641519.3657496"
+        "doi": "https://doi.org/10.1145/3641519.3657496",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_957&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_810",
@@ -2175,7 +2569,9 @@
         "aff": "University of California San Diego",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3658203"
+        "doi": "https://doi.org/10.1145/3658203",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_810&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_559",
@@ -2183,10 +2579,12 @@
         "status": "Technical Paper",
         "title": "Real-time Physically Guided Hair Interpolation",
         "author": "Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu",
-        "aff": "University of Utah; Roblox; LightSpeed Studios",
+        "aff": "LightSpeed Studios; University of Utah; Roblox",
         "track": "main",
         "sess": "Hair, Fabrics, and Super-Resolution",
-        "doi": "https://doi.org/10.1145/3658176"
+        "doi": "https://doi.org/10.1145/3658176",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_559&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_492",
@@ -2194,10 +2592,12 @@
         "status": "Technical Paper",
         "title": "Real-time Wing Deformation Simulations for Flying Insects",
         "author": "Qiang Chen, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo",
-        "aff": "University of Houston; Jiangxi University Finance and Economics; East China Jiaotong University",
+        "aff": "Jiangxi University Finance and Economics; University of Houston; East China Jiaotong University",
         "track": "main",
         "sess": "Simulating Nature",
-        "doi": "https://doi.org/10.1145/3641519.3657434"
+        "doi": "https://doi.org/10.1145/3641519.3657434",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_492&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1269",
@@ -2205,10 +2605,12 @@
         "status": "Technical Paper",
         "title": "RealFill: Reference-driven Generation for Authentic Image Completion",
         "author": "Luming Tang, Nataniel Ruiz, Qinghao Chu, Yuanzhen Li, Aleksander Holynski, David E. Jacobs, Bharath Hariharan, Yael Pritch, Neal Wadhwa, Kfir Aberman, Michael Rubinstein",
-        "aff": "Snap; Google Research; Cornell University",
+        "aff": "Cornell University; Snap; Google Research",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3658237"
+        "doi": "https://doi.org/10.1145/3658237",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1269&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_210",
@@ -2219,7 +2621,9 @@
         "aff": "Esri R&D Center Zurich",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657400"
+        "doi": "https://doi.org/10.1145/3641519.3657400",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_210&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_503",
@@ -2227,10 +2631,12 @@
         "status": "Technical Paper",
         "title": "Repulsive Shells",
         "author": "Josua Sassen, Henrik Schumacher, Martin Rumpf, Keenan Crane",
-        "aff": "\u00c9cole Normale Sup\u00e9rieure Paris-Saclay; Carnegie Mellon University; University of Bonn; University of Georgia",
+        "aff": "University of Bonn; University of Georgia; Carnegie Mellon University; \u00c9cole Normale Sup\u00e9rieure Paris-Saclay",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3658174"
+        "doi": "https://doi.org/10.1145/3658174",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_503&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_217",
@@ -2238,10 +2644,12 @@
         "status": "Technical Paper",
         "title": "Rip-NeRF: Anti-aliasing Radiance Fields With Ripmap-encoded Platonic Solids",
         "author": "Junchen Liu, Wenbo Hu, Zhuo Yang, Jianteng Chen, Guoliang Wang, Xiaoxue Chen, Yantong Cai, Huan-ang Gao, Hao Zhao",
-        "aff": "Tencent AI Lab; Dermatology Hospital; Tsinghua University; Beijing Institute of Technology; Beihang University; Southern Medical University",
+        "aff": "Tencent AI Lab; Tsinghua University; Beihang University; Beijing Institute of Technology; Southern Medical University; Dermatology Hospital",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3641519.3657402"
+        "doi": "https://doi.org/10.1145/3641519.3657402",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_217&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1104",
@@ -2252,7 +2660,9 @@
         "aff": "University of Colorado Boulder; Lawrence Livermore National Laboratory; Indiana University School of Medicine",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": "https://doi.org/10.1145/3658228"
+        "doi": "https://doi.org/10.1145/3658228",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1104&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_481",
@@ -2263,7 +2673,9 @@
         "aff": "University of Toronto; Jali Research, Canada",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_481&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_661",
@@ -2271,10 +2683,12 @@
         "status": "Technical Paper",
         "title": "SMEAR: Stylized Motion Exaggeration With ARt-direction",
         "author": "Jean Basset, Pierre B\u00e9nard, Pascal Barla",
-        "aff": "INRIA, Bordeaux Sud-Ouest; Laboratoire Bordelais de Recherche en Informatique (LaBRI)",
+        "aff": "Laboratoire Bordelais de Recherche en Informatique (LaBRI); INRIA, Bordeaux Sud-Ouest",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3641519.3657457"
+        "doi": "https://doi.org/10.1145/3641519.3657457",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_661&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_727",
@@ -2282,10 +2696,12 @@
         "status": "Technical Paper",
         "title": "SMERF: Streamable Memory Efficient Radiance Fields for Real-time Large-scene Exploration",
         "author": "Daniel Duckworth, Peter Hedman, Christian Reiser, Peter Zhizhin, Jean-Fran\u00e7ois Thibert, Mario Lu\u010di\u0107, Richard Szeliski, Jonathan T. Barron",
-        "aff": "Google AR/VR; Google Research; Google DeepMind; T\u00fcbingen AI Center, University of T\u00fcbingen",
+        "aff": "Google AR/VR; T\u00fcbingen AI Center, University of T\u00fcbingen; Google DeepMind; Google Research",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": "https://doi.org/10.1145/3658193"
+        "doi": "https://doi.org/10.1145/3658193",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_727&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1196",
@@ -2296,7 +2712,9 @@
         "aff": "Beijing Normal University",
         "track": "main",
         "sess": "Dynamic Radiance Fields",
-        "doi": "https://doi.org/10.1145/3641519.3657520"
+        "doi": "https://doi.org/10.1145/3641519.3657520",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1196&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_364",
@@ -2307,7 +2725,9 @@
         "aff": "Reality Labs, Meta; Reality Labs Research, Meta; New York University",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3641519.3657420"
+        "doi": "https://doi.org/10.1145/3641519.3657420",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_364&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1255",
@@ -2318,7 +2738,9 @@
         "aff": "Simon Fraser University",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3641519.3657523"
+        "doi": "https://doi.org/10.1145/3641519.3657523",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1255&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_725",
@@ -2326,10 +2748,12 @@
         "status": "Technical Paper",
         "title": "Scintilla: Simulating Combustible Vegetation for Wildfires",
         "author": "Andrzej Kokosza, Helge Wrede, Daniel Gonzalez Esparza, Milosz Makowski, Daoming Liu, Dominik L. Michels, Soren Pirk, Wojtek Palubicki",
-        "aff": "King Abdullah University of Science and Technology (KAUST); AMU; Kiel University",
+        "aff": "Kiel University; King Abdullah University of Science and Technology (KAUST); AMU",
         "track": "main",
         "sess": "Simulating Nature",
-        "doi": "https://doi.org/10.1145/3658192"
+        "doi": "https://doi.org/10.1145/3658192",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_725&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_787",
@@ -2340,7 +2764,9 @@
         "aff": "New York University",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3658202"
+        "doi": "https://doi.org/10.1145/3658202",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_787&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_117",
@@ -2348,10 +2774,12 @@
         "status": "TOG Paper",
         "title": "Self-Supervised High Dynamic Range Imaging: What Can Be Learned from a Single 8-bit Video?",
         "author": "Francesco Banterle, Demetris Marnerides, Thomas Bashford-Rogers, Kurt Debattista, Francesco Banterle",
-        "aff": "University of Warwick  WMG, Warwick Manufacturing Group; ISTI CNR; CNR ISTI",
+        "aff": "ISTI CNR; University of Warwick  WMG, Warwick Manufacturing Group; CNR ISTI",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": "https://doi.org/10.1145/3648570"
+        "doi": "https://doi.org/10.1145/3648570",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_117&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1257",
@@ -2362,7 +2790,9 @@
         "aff": "University of Melbourne; Max Planck Institute for Informatics",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3641519.3657524"
+        "doi": "https://doi.org/10.1145/3641519.3657524",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1257&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_192",
@@ -2370,10 +2800,12 @@
         "status": "Technical Paper",
         "title": "Semantic Gesticulator: Semantics-aware Co-speech Gesture Synthesis",
         "author": "Zeyi Zhang, Tenglong Ao, Yuyao Zhang, Qingzhe Gao, Chuan Lin, Baoquan Chen, Libin Liu",
-        "aff": "State Key Laboratory of General Artificial Intelligence; Peking University, School of EECS; Renmin University of China; Peking University; Shandong University; School of Computer Science, Peking University",
+        "aff": "Peking University, School of EECS; State Key Laboratory of General Artificial Intelligence; Peking University; Shandong University; School of Computer Science, Peking University; Renmin University of China",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3658134"
+        "doi": "https://doi.org/10.1145/3658134",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_192&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_401",
@@ -2381,10 +2813,12 @@
         "status": "Technical Paper",
         "title": "Semantic Shape Editing With Parametric Implicit Templates",
         "author": "Uday Kusupati, Mathieu Gaillard, Jean-Marc Thiery, Adrien Kaiser",
-        "aff": "Adobe Research; EPFL",
+        "aff": "EPFL; Adobe Research",
         "track": "main",
         "sess": "Editing and Deformation",
-        "doi": "https://doi.org/10.1145/3641519.3657421"
+        "doi": "https://doi.org/10.1145/3641519.3657421",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_401&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1275",
@@ -2392,10 +2826,12 @@
         "status": "Technical Paper",
         "title": "Separate-and-Enhance: Compositional Finetuning for Text-to-image Diffusion Models",
         "author": "Zhipeng Bao, Yijun Li, Krishna Kumar Singh, Yu-Xiong Wang, Martial Hebert",
-        "aff": "Adobe Research; University of Illinois Urbana-Champaign; Carnegie Mellon University",
+        "aff": "University of Illinois Urbana-Champaign; Carnegie Mellon University; Adobe Research",
         "track": "main",
         "sess": "Controllable Image Generation and Completion",
-        "doi": "https://doi.org/10.1145/3641519.3657527"
+        "doi": "https://doi.org/10.1145/3641519.3657527",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1275&sess=sess142",
+        "url_sess": ""
     },
     {
         "ssid": "papers_599",
@@ -2403,10 +2839,12 @@
         "status": "Technical Paper",
         "title": "Simplicits: Mesh-free, Geometry-agnostic Elastic Simulation",
         "author": "Vismay Modi, Nicholas Sharp, Or Perel, Shinjiro Sueda, David Levin",
-        "aff": "NVIDIA; NVIDIA Research; University of Toronto; Texas A&M University",
+        "aff": "Texas A&M University; NVIDIA; University of Toronto; NVIDIA Research",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3658184"
+        "doi": "https://doi.org/10.1145/3658184",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_599&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_896",
@@ -2417,7 +2855,9 @@
         "aff": "Northeastern University; Boston University",
         "track": "main",
         "sess": "Clothing Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657487"
+        "doi": "https://doi.org/10.1145/3641519.3657487",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_896&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_118",
@@ -2425,10 +2865,12 @@
         "status": "Technical Paper",
         "title": "SketchDream: Sketch-based Text-to-3D Generation and Editing",
         "author": "Feng-Lin liu, Hongbo Fu, Yu-Kun Lai, Lin Gao",
-        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Cardiff University; City University of Hong Kong",
+        "aff": "University of Chinese Academy of Sciences; Institute of Computing Technology, Chinese Academy of Sciences; City University of Hong Kong; Cardiff University",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": "https://doi.org/10.1145/3658120"
+        "doi": "https://doi.org/10.1145/3658120",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_118&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_837",
@@ -2439,7 +2881,9 @@
         "aff": "University of Science and Technology of China",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3658207"
+        "doi": "https://doi.org/10.1145/3658207",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_837&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_745",
@@ -2450,7 +2894,9 @@
         "aff": "Disney Research; New York University/ Courant",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3641519.3657467"
+        "doi": "https://doi.org/10.1145/3641519.3657467",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_745&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_135",
@@ -2458,10 +2904,12 @@
         "status": "Technical Paper",
         "title": "Solid Knitting",
         "author": "Yuichi Hirose, Mark Gillespie, Angelica M. Bonilla Fominaya, James McCann",
-        "aff": "Google; Carnegie Mellon University",
+        "aff": "Carnegie Mellon University; Google",
         "track": "main",
         "sess": "3D Fabrication",
-        "doi": "https://doi.org/10.1145/3658123"
+        "doi": "https://doi.org/10.1145/3658123",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_135&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_411",
@@ -2469,10 +2917,12 @@
         "status": "Technical Paper",
         "title": "Spatial and Surface Correspondence Field for Interaction Transfer",
         "author": "Zeyu Huang, Honghao Xu, Haibin Huang, Chongyang Ma, Hui Huang, Ruizhen Hu",
-        "aff": "Kuaishou Technology; Shenzhen University",
+        "aff": "Shenzhen University; Kuaishou Technology",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3658169"
+        "doi": "https://doi.org/10.1145/3658169",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_411&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_181",
@@ -2480,10 +2930,12 @@
         "status": "Technical Paper",
         "title": "Specular Polynomials",
         "author": "Zhimin Fan, Jie Guo, Yiming Wang, Tianyu Xiao, Hao Zhang, Chenxi Zhou, Zhenyu Chen, Pengpei Hong, Yanwen Guo, Ling-Qi Yan",
-        "aff": "University of Utah; University of California Santa Barbara; Nanjing University; Southeast University",
+        "aff": "Nanjing University; Southeast University; University of California Santa Barbara; University of Utah",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3658132"
+        "doi": "https://doi.org/10.1145/3658132",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_181&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_719",
@@ -2494,7 +2946,9 @@
         "aff": "Tel Aviv University",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_719&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_728",
@@ -2505,7 +2959,9 @@
         "aff": "Institute of Science and Technology Austria (ISTA)",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3658194"
+        "doi": "https://doi.org/10.1145/3658194",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_728&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_213",
@@ -2513,10 +2969,12 @@
         "status": "Technical Paper",
         "title": "Spin-weighted Spherical Harmonics for Polarized Light Transport",
         "author": "Shinyoung Yi, Donggun Kim, Jiwoong Na, Xin Tong, Min H. Kim",
-        "aff": "Korea Advanced Institute of Science and Technology (KAIST); Microsoft Research Asia",
+        "aff": "Microsoft Research Asia; Korea Advanced Institute of Science and Technology (KAIST)",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3658139"
+        "doi": "https://doi.org/10.1145/3658139",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_213&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1042",
@@ -2527,7 +2985,9 @@
         "aff": "King Abdullah University of Science and Technology (KAUST); Princeton University",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3658225"
+        "doi": "https://doi.org/10.1145/3658225",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1042&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_331",
@@ -2535,10 +2995,12 @@
         "status": "Technical Paper",
         "title": "Split-and-Fit: Learning B-Reps via Structure-aware Voronoi Partitioning",
         "author": "Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang",
-        "aff": "Tel Aviv University; Simon Fraser University; Shenzhen University",
+        "aff": "Shenzhen University; Tel Aviv University; Simon Fraser University",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658155"
+        "doi": "https://doi.org/10.1145/3658155",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_331&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_486",
@@ -2546,10 +3008,12 @@
         "status": "Technical Paper",
         "title": "Stabler Neo-Hookean Simulation: Absolute Eigenvalue Filtering for Projected Newton",
         "author": "Honglin Chen, Hsueh-Ti Derek Liu, David I.W. Levin, Changxi Zheng, Alec Jacobson",
-        "aff": "University of British Columbia; Adobe Research; Columbia University; Roblox; University of Toronto",
+        "aff": "Columbia University; University of British Columbia; University of Toronto; Roblox; Adobe Research",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3641519.3657433"
+        "doi": "https://doi.org/10.1145/3641519.3657433",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_486&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_176",
@@ -2557,10 +3021,12 @@
         "status": "Technical Paper",
         "title": "Stochastic Computation of Barycentric Coordinates",
         "author": "Fernando de Goes, Mathieu Desbrun",
-        "aff": "INRIA; Pixar; Ecole Polytechnique",
+        "aff": "INRIA; Ecole Polytechnique; Pixar",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3658131"
+        "doi": "https://doi.org/10.1145/3658131",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_176&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_655",
@@ -2568,10 +3034,12 @@
         "status": "Technical Paper",
         "title": "StopThePop: Sorted Gaussian Splatting for View-consistent Real-time Rendering",
         "author": "Lukas Radl, Michael Steiner, Mathias Parger, Alexander Weinrauch, Bernhard Kerbl, Markus Steinberger",
-        "aff": "Graz University of Technology; Independent; Technische Universit\u00e4t Wien (TU Wien); Huawei Technologies",
+        "aff": "Technische Universit\u00e4t Wien (TU Wien); Independent; Huawei Technologies; Graz University of Technology",
         "track": "main",
         "sess": "Fast Radiance Fields",
-        "doi": "https://doi.org/10.1145/3658187"
+        "doi": "https://doi.org/10.1145/3658187",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_655&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_558",
@@ -2579,10 +3047,12 @@
         "status": "Technical Paper",
         "title": "Strategy and Skill Learning for Physics-based Table Tennis Animation",
         "author": "Jiashun Wang, Jungdam Won, Jessica Hodgins",
-        "aff": "Seoul National University; Carnegie Mellon University; The AI Institute",
+        "aff": "The AI Institute; Seoul National University; Carnegie Mellon University",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3641519.3657437"
+        "doi": "https://doi.org/10.1145/3641519.3657437",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_558&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1105",
@@ -2590,10 +3060,12 @@
         "status": "Technical Paper",
         "title": "Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion",
         "author": "Boyang Deng, Richard Tucker, Zhengqi Li, Leonidas Guibas, Noah Snavely, Gordon Wetzstein",
-        "aff": "Google Research; Cornell University; Stanford University",
+        "aff": "Stanford University; Cornell University; Google Research",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3641519.3657513"
+        "doi": "https://doi.org/10.1145/3641519.3657513",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1105&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_372",
@@ -2601,10 +3073,12 @@
         "status": "Technical Paper",
         "title": "Stylized Rendering as a Function of Expectation",
         "author": "Rex West, Sayan Mukherjee",
-        "aff": "Blueqat Inc.; University of Tokyo; Aoyama Gakuin University",
+        "aff": "University of Tokyo; Aoyama Gakuin University; Blueqat Inc.",
         "track": "main",
         "sess": "Rendering, Sampling and Tracing",
-        "doi": "https://doi.org/10.1145/3658161"
+        "doi": "https://doi.org/10.1145/3658161",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_372&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_758",
@@ -2612,10 +3086,12 @@
         "status": "Technical Paper",
         "title": "Subject-Diffusion: Open Domain Personalized Text-to-image Generation Without Test-time Fine-tuning",
         "author": "Jian Ma, Junhao Liang, Chen Chen, Haonan Lu",
-        "aff": "Southern University of Science and Technology; OPPO",
+        "aff": "OPPO; Southern University of Science and Technology",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3641519.3657469"
+        "doi": "https://doi.org/10.1145/3641519.3657469",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_758&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_234",
@@ -2626,7 +3102,9 @@
         "aff": "Style3D Research; Zhejiang University",
         "track": "main",
         "sess": "Cloth Simulation",
-        "doi": "https://doi.org/10.1145/3658143"
+        "doi": "https://doi.org/10.1145/3658143",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_234&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_918",
@@ -2634,10 +3112,12 @@
         "status": "Technical Paper",
         "title": "SuperPADL: Scaling Language-directed Physics-based Control With Progressive Supervised Distillation",
         "author": "Jordan B. Juravsky, Yunrong Guo, Sanja Fidler, Xue Bin Peng",
-        "aff": "NVIDIA; Simon Fraser University; University of Toronto; Stanford University",
+        "aff": "Simon Fraser University; Stanford University; NVIDIA; University of Toronto",
         "track": "main",
         "sess": "Character Control",
-        "doi": "https://doi.org/10.1145/3641519.3657492"
+        "doi": "https://doi.org/10.1145/3641519.3657492",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_918&sess=sess143",
+        "url_sess": ""
     },
     {
         "ssid": "papers_350",
@@ -2645,10 +3125,12 @@
         "status": "Technical Paper",
         "title": "Surface-filling Curve Flows via Implicit Medial Axes",
         "author": "Yuta Noma, Silvia Sell\u00e1n, Nicholas Sharp, Karan Singh, Alec Jacobson",
-        "aff": "NVIDIA; Adobe Research; University of Toronto; University of Tokyo",
+        "aff": "University of Tokyo; University of Toronto; NVIDIA; Adobe Research",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3658158"
+        "doi": "https://doi.org/10.1145/3658158",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_350&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1107",
@@ -2659,7 +3141,9 @@
         "aff": "University of Chicago; Snap",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657515"
+        "doi": "https://doi.org/10.1145/3641519.3657515",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1107&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_820",
@@ -2667,10 +3151,12 @@
         "status": "Technical Paper",
         "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-prompts and Image-prompts",
         "author": "Jingyu Zhuang, Di Kang, Yan-Pei Cao, Guanbin Li, Liang Lin, Ying Shan",
-        "aff": "Peng Cheng Laboratory; Sun Yat-sen University; Tencent AI Lab",
+        "aff": "Sun Yat-sen University; Tencent AI Lab; Peng Cheng Laboratory",
         "track": "main",
         "sess": "Generative 3D Geometry and Editing",
-        "doi": "https://doi.org/10.1145/3658205"
+        "doi": "https://doi.org/10.1145/3658205",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_820&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_588",
@@ -2678,10 +3164,12 @@
         "status": "Technical Paper",
         "title": "Taming Diffusion Probabilistic Models for Character Control",
         "author": "Rui Chen, Mingyi Shi, Shaoli Huang, Ping Tan, Taku Komura, Xuelin Chen",
-        "aff": "Tencent AI Lab; University of Hong Kong; Hong Kong University of Science and Technology",
+        "aff": "Hong Kong University of Science and Technology; Tencent AI Lab; University of Hong Kong",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657440"
+        "doi": "https://doi.org/10.1145/3641519.3657440",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_588&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_576",
@@ -2692,7 +3180,9 @@
         "aff": "Korea Advanced Institute of Science and Technology (KAIST); Gwangju Institute of Science and Technology",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3658182"
+        "doi": "https://doi.org/10.1145/3658182",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_576&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_908",
@@ -2700,10 +3190,12 @@
         "status": "Technical Paper",
         "title": "Tele-Aloha: A Telepresence System With Low-budget and High-authenticity Using Sparse RGB Cameras",
         "author": "Hanzhang Tu, Ruizhi Shao, Xue Dong, Shunyuan Zheng, Hao Zhang, Lili Chen, Meili Wang, Wenyu Li, Siyan Ma, Shengping Zhang, Boyao Zhou, Yebin Liu",
-        "aff": "Tsinghua University; BOE Technology Group; Harbin Institute of Technology",
+        "aff": "Harbin Institute of Technology; Tsinghua University; BOE Technology Group",
         "track": "main",
         "sess": "Computational Cameras and Displays",
-        "doi": "https://doi.org/10.1145/3641519.3657491"
+        "doi": "https://doi.org/10.1145/3641519.3657491",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_908&sess=sess148",
+        "url_sess": ""
     },
     {
         "ssid": "papers_601",
@@ -2714,7 +3206,9 @@
         "aff": "University College London (UCL)",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3641519.3657443"
+        "doi": "https://doi.org/10.1145/3641519.3657443",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_601&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_920",
@@ -2722,10 +3216,12 @@
         "status": "Technical Paper",
         "title": "Temporally Stable Metropolis Light Transport Denoising Using Recurrent Transformer Blocks",
         "author": "Chuhao Chen, Yuze He, Tzu-mao Li",
-        "aff": "Tsinghua University; University of California San Diego",
+        "aff": "University of California San Diego; Tsinghua University",
         "track": "main",
         "sess": "Rendering, Denoising & Path Guiding",
-        "doi": "https://doi.org/10.1145/3658218"
+        "doi": "https://doi.org/10.1145/3658218",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_920&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_858",
@@ -2733,10 +3229,12 @@
         "status": "Technical Paper",
         "title": "TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction",
         "author": "Jia Li, Beibei Wang, Lu Wang, Lei Zhang",
-        "aff": "Shandong University; Nanjing University; The Hong Kong Polytechnic University",
+        "aff": "Nanjing University; The Hong Kong Polytechnic University; Shandong University",
         "track": "main",
         "sess": "Radiance Field Processing",
-        "doi": "https://doi.org/10.1145/3658211"
+        "doi": "https://doi.org/10.1145/3658211",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_858&sess=sess144",
+        "url_sess": ""
     },
     {
         "ssid": "papers_778",
@@ -2744,10 +3242,12 @@
         "status": "Technical Paper",
         "title": "Terrain Amplification Using Multi Scale Erosion",
         "author": "Hugo Schott, Eric Galin, Eric Gu\u00e9rin, Axel Paris, Adrien Peytavie",
-        "aff": "Adobe Research; CNRS - LIRIS; INSA, Lyon; Universit\u00e9 Claude Bernard Lyon 1",
+        "aff": "Universit\u00e9 Claude Bernard Lyon 1; CNRS - LIRIS; Adobe Research; INSA, Lyon",
         "track": "main",
         "sess": "Procedural Geometry",
-        "doi": "https://doi.org/10.1145/3658200"
+        "doi": "https://doi.org/10.1145/3658200",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_778&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_928",
@@ -2755,10 +3255,12 @@
         "status": "Technical Paper",
         "title": "TexPainter: Generative Mesh Texturing With Multi-view Consistency",
         "author": "Hongkun Zhang, Zherong Pan, Congyi Zhang, Lifeng Zhu, Xifeng Gao",
-        "aff": "TransGP; Southeast University; LightSpeed Studios; University of British Columbia",
+        "aff": "TransGP; LightSpeed Studios; Southeast University; University of British Columbia",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3641519.3657494"
+        "doi": "https://doi.org/10.1145/3641519.3657494",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_928&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_603",
@@ -2766,10 +3268,12 @@
         "status": "Technical Paper",
         "title": "TexSliders: Diffusion-based Texture Editing in CLIP Space",
         "author": "Julia Guerrero-Viu, Milos Hasan, Arthur Roullier, Midhun Harikumar, Yiwei Hu, Paul Guerrero, Diego Guti\u00e9rrez, Belen Masia, Valentin Deschaintre",
-        "aff": "Adobe Research; Adobe; Universidad de Zaragoza",
+        "aff": "Universidad de Zaragoza; Adobe; Adobe Research",
         "track": "main",
         "sess": "Material Texture Generation and Painting",
-        "doi": "https://doi.org/10.1145/3641519.3657444"
+        "doi": "https://doi.org/10.1145/3641519.3657444",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_603&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1111",
@@ -2777,10 +3281,12 @@
         "status": "Technical Paper",
         "title": "Text-guided Synthesis of Crowd Animation",
         "author": "Xuebo Ji, Zherong Pan, Xifeng Gao, Jia Pan",
-        "aff": "Centre for Transformative Garment Production (TransGP); Tencent America; University of Hong Kong",
+        "aff": "Tencent America; Centre for Transformative Garment Production (TransGP); University of Hong Kong",
         "track": "main",
         "sess": "2D, 3D, Robot",
-        "doi": "https://doi.org/10.1145/3641519.3657516"
+        "doi": "https://doi.org/10.1145/3641519.3657516",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1111&sess=sess146",
+        "url_sess": ""
     },
     {
         "ssid": "papers_813",
@@ -2788,10 +3294,12 @@
         "status": "Technical Paper",
         "title": "Text-to-vector Generation With Neural Path Representation",
         "author": "Peiying Zhang, Nanxuan Zhao, Jing Liao",
-        "aff": "Adobe Research; City University of Hong Kong",
+        "aff": "City University of Hong Kong; Adobe Research",
         "track": "main",
         "sess": "Vector Graphics",
-        "doi": "https://doi.org/10.1145/3658204"
+        "doi": "https://doi.org/10.1145/3658204",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_813&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_468",
@@ -2799,10 +3307,12 @@
         "status": "Technical Paper",
         "title": "The Chosen One: Consistent Characters in Text-to-image Diffusion Models",
         "author": "Omri Avrahami, Amir Hertz, Yael Vinker, Moab Arar, Shlomi Fruchter, Ohad Fried, Daniel Cohen-Or, Dani Lischinski",
-        "aff": "Hebrew University of Jerusalem; Tel Aviv University; Google; The Interdisciplinary Center Herzliya",
+        "aff": "Tel Aviv University; The Interdisciplinary Center Herzliya; Google; Hebrew University of Jerusalem",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3641519.3657430"
+        "doi": "https://doi.org/10.1145/3641519.3657430",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_468&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_113",
@@ -2813,7 +3323,9 @@
         "aff": "Universit\u00e9 de Lorraine, Inria, LORIA; Universit\u00e9 Catholique de Louvain",
         "track": "main",
         "sess": "Mappings and Fields",
-        "doi": "https://doi.org/10.1145/3604282"
+        "doi": "https://doi.org/10.1145/3604282",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_113&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_776",
@@ -2821,10 +3333,12 @@
         "status": "Technical Paper",
         "title": "ThemeStation: Generating Theme-aware 3D Assets From Few Exemplars",
         "author": "Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau",
-        "aff": "Shanghai Aritificial Intelligence Laboratory; Nanyang Technological University; City University of Hong Kong",
+        "aff": "City University of Hong Kong; Shanghai Aritificial Intelligence Laboratory; Nanyang Technological University",
         "track": "main",
         "sess": "Generative 3D Geometry",
-        "doi": "https://doi.org/10.1145/3641519.3657471"
+        "doi": "https://doi.org/10.1145/3641519.3657471",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_776&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1147",
@@ -2835,7 +3349,9 @@
         "aff": "University of California Berkeley",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": "https://doi.org/10.1145/3658232"
+        "doi": "https://doi.org/10.1145/3658232",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1147&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_870",
@@ -2846,7 +3362,9 @@
         "aff": "POSTECH",
         "track": "main",
         "sess": "3D Face Generator and Animation",
-        "doi": "https://doi.org/10.1145/3641519.3657480"
+        "doi": "https://doi.org/10.1145/3641519.3657480",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_870&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_219",
@@ -2857,7 +3375,9 @@
         "aff": "Universit\u00e0 della Svizzera Italiana",
         "track": "main",
         "sess": "VR, Eye Tracking, Perception",
-        "doi": "https://doi.org/10.1145/3658141"
+        "doi": "https://doi.org/10.1145/3658141",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_219&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1253",
@@ -2868,7 +3388,9 @@
         "aff": "University of Macau; Texas A&M University",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3641519.3657522"
+        "doi": "https://doi.org/10.1145/3641519.3657522",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1253&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_347",
@@ -2876,10 +3398,12 @@
         "status": "Technical Paper",
         "title": "Training-free Consistent Text-to-image Generation",
         "author": "Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon",
-        "aff": "Tel Aviv University; NVIDIA Research; Independent",
+        "aff": "Tel Aviv University; Independent; NVIDIA Research",
         "track": "main",
         "sess": "Consistent Text-to-Image",
-        "doi": "https://doi.org/10.1145/3658157"
+        "doi": "https://doi.org/10.1145/3658157",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_347&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_279",
@@ -2890,7 +3414,9 @@
         "aff": "Stanford University",
         "track": "main",
         "sess": "Lighting and Matting With Image Generation",
-        "doi": "https://doi.org/10.1145/3658150"
+        "doi": "https://doi.org/10.1145/3658150",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_279&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_735",
@@ -2901,7 +3427,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "Motion Capture",
-        "doi": "https://doi.org/10.1145/3641519.3657465"
+        "doi": "https://doi.org/10.1145/3641519.3657465",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_735&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1228",
@@ -2912,7 +3440,9 @@
         "aff": "Facebook Reality Labs",
         "track": "main",
         "sess": "3D Head Avatars From Data",
-        "doi": "https://doi.org/10.1145/3658234"
+        "doi": "https://doi.org/10.1145/3658234",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1228&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_608",
@@ -2920,10 +3450,12 @@
         "status": "Technical Paper",
         "title": "VR-GS: A Physical Dynamics-aware Interactive Gaussian Splatting System in Virtual Reality",
         "author": "Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang",
-        "aff": "Zhejiang University; Amazon; University of Utah; Style3D Research; University of Hong Kong; University of California Los Angeles; Carnegie Mellon University",
+        "aff": "University of California Los Angeles; University of Utah; Style3D Research; University of Hong Kong; Zhejiang University; Carnegie Mellon University; Amazon",
         "track": "main",
         "sess": "Virtual Interaction and Real Devices",
-        "doi": "https://doi.org/10.1145/3641519.3657448"
+        "doi": "https://doi.org/10.1145/3641519.3657448",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_608&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_247",
@@ -2934,7 +3466,9 @@
         "aff": "Kuaishou Technology; Cardiff University",
         "track": "main",
         "sess": "3D People and Their Habitats",
-        "doi": "https://doi.org/10.1145/3641519.3657406"
+        "doi": "https://doi.org/10.1145/3641519.3657406",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_247&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_926",
@@ -2945,7 +3479,9 @@
         "aff": "University of Erlangen-Nuremberg",
         "track": "main",
         "sess": "3D Shape Analysis",
-        "doi": "https://doi.org/10.1145/3658219"
+        "doi": "https://doi.org/10.1145/3658219",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_926&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_241",
@@ -2956,7 +3492,9 @@
         "aff": "University of Waterloo",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3641519.3657405"
+        "doi": "https://doi.org/10.1145/3641519.3657405",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_241&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1047",
@@ -2964,10 +3502,12 @@
         "status": "Technical Paper",
         "title": "Versatile Vision Foundation Model for Image and Video Colorization",
         "author": "Vukasin Bozic, Abdelaziz Djelouah, Yang Zhang, Radu Timofte, Markus Gross, Christopher Schroers",
-        "aff": "University of Wurzburg; ETH Z\u00fcrich; Disney Research Studios",
+        "aff": "ETH Z\u00fcrich; Disney Research Studios; University of Wurzburg",
         "track": "main",
         "sess": "Perception, Image, Video",
-        "doi": "https://doi.org/10.1145/3641519.3657509"
+        "doi": "https://doi.org/10.1145/3641519.3657509",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1047&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_564",
@@ -2978,7 +3518,9 @@
         "aff": "University of Utah; Roblox",
         "track": "main",
         "sess": "Simulating Deformation",
-        "doi": "https://doi.org/10.1145/3658179"
+        "doi": "https://doi.org/10.1145/3658179",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_564&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_126",
@@ -2986,10 +3528,12 @@
         "status": "TOG Paper",
         "title": "View-Independent Adjoint Light Tracing for Lighting Design Optimization",
         "author": "Lukas Lipp, David Hahn, Pierre Ecormier-Nocca, Florian Rist, Michael Wimmer, Lukas Lipp",
-        "aff": "Technical University of Vienna; King Abdullah University of Science and Technology (KAUST); Technische Universit\u00e4t Wien (TU Wien)",
+        "aff": "King Abdullah University of Science and Technology (KAUST); Technical University of Vienna; Technische Universit\u00e4t Wien (TU Wien)",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3662180"
+        "doi": "https://doi.org/10.1145/3662180",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=paperstog_126&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1039",
@@ -2997,10 +3541,12 @@
         "status": "Technical Paper",
         "title": "WalkTheDog: Cross-morphology Motion Alignment via Phase Manifolds",
         "author": "Peizhuo Li, Sebastian Starke, Yuting Ye, Olga Sorkine-Hornung",
-        "aff": "Meta Reality Labs; ETH Z\u00fcrich",
+        "aff": "ETH Z\u00fcrich; Meta Reality Labs",
         "track": "main",
         "sess": "Character Animation From Data",
-        "doi": "https://doi.org/10.1145/3641519.3657508"
+        "doi": "https://doi.org/10.1145/3641519.3657508",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1039&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_320",
@@ -3011,7 +3557,9 @@
         "aff": "NVIDIA; Carnegie Mellon University",
         "track": "main",
         "sess": "Monte Carlo for PDEs",
-        "doi": "https://doi.org/10.1145/3658153"
+        "doi": "https://doi.org/10.1145/3658153",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_320&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_278",
@@ -3019,10 +3567,12 @@
         "status": "Technical Paper",
         "title": "Woven Fabric Capture With a Reflection-transmission Photo Pair",
         "author": "Yingjie Tang, Zixuan Li, Milos Hasan, Jian Yang, Beibei Wang",
-        "aff": "Adobe Research; Nanjing University; Nanjing University of Science and Technology; Nankai University",
+        "aff": "Nanjing University; Nanjing University of Science and Technology; Adobe Research; Nankai University",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3641519.3657410"
+        "doi": "https://doi.org/10.1145/3641519.3657410",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_278&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_680",
@@ -3033,7 +3583,9 @@
         "aff": "ByteDance Inc.",
         "track": "main",
         "sess": "Video Generation",
-        "doi": "https://doi.org/10.1145/3641519.3657459"
+        "doi": "https://doi.org/10.1145/3641519.3657459",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_680&sess=sess147",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1221",
@@ -3041,10 +3593,12 @@
         "status": "Technical Paper",
         "title": "X-SLAM: Scalable Dense SLAM for Task-aware Optimization Using CSFD",
         "author": "Zhexi Peng, Yin Yang, Tianjia Shao, Chenfanfu Jiang, Kun Zhou",
-        "aff": "University of Utah; Zhejiang University; University of California Los Angeles",
+        "aff": "University of Utah; University of California Los Angeles; Zhejiang University",
         "track": "main",
         "sess": "Geometric Modeling & Analysis",
-        "doi": "https://doi.org/10.1145/3658233"
+        "doi": "https://doi.org/10.1145/3658233",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1221&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_499",
@@ -3055,7 +3609,9 @@
         "aff": "University College London (UCL)",
         "track": "main",
         "sess": "Differentiable Rendering",
-        "doi": "https://doi.org/10.1145/3658173"
+        "doi": "https://doi.org/10.1145/3658173",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_499&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_1072",
@@ -3063,9 +3619,11 @@
         "status": "Technical Paper",
         "title": "fVDB : A Deep-learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",
         "author": "Francis Williams, Jiahui Huang, Jonathan Swartz, Gergely Klar, Vijay Thakkar, Matthew Cong, Xuanchi Ren, Ruilong Li, Clement Fuji Tsang, Sanja Fidler, Eftychios Sifakis, Ken Museth",
-        "aff": "University of California Berkeley; NVIDIA Research; University of Wisconsin-Madison",
+        "aff": "University of Wisconsin-Madison; University of California Berkeley; NVIDIA Research",
         "track": "main",
         "sess": "Spatial Data Structures",
-        "doi": "https://doi.org/10.1145/3658226"
+        "doi": "https://doi.org/10.1145/3658226",
+        "url_paper": "https://s2024.conference-program.org/presentation/?id=papers_1072&sess=sess134",
+        "url_sess": ""
     }
 ]
