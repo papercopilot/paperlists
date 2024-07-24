@@ -5,10 +5,12 @@
         "status": "Technical Paper",
         "title": "3D Gaussian Splatting for Real-time Radiance Field Rendering",
         "author": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, George Drettakis",
-        "aff": "Unversit\u00e9 C\u00f4te d'Azur; Max-Planck-Institut f\u00fcr Informatik; INRIA; Universit\u00e9 C\u00f4te d'Azur",
+        "aff": "INRIA; Unversit\u00e9 C\u00f4te d'Azur; Universit\u00e9 C\u00f4te d'Azur; Max-Planck-Institut f\u00fcr Informatik",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3592433"
+        "doi": "https://doi.org/10.1145/3592433",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_685&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_722",
@@ -16,10 +18,12 @@
         "status": "Technical Paper",
         "title": "3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models",
         "author": "Biao Zhang, Jiapeng Tang, Matthias Nie\u00dfner, Peter Wonka",
-        "aff": "King Abdullah University of Science and Technology (KAUST); Technical University of Munich",
+        "aff": "Technical University of Munich; King Abdullah University of Science and Technology (KAUST)",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": "https://doi.org/10.1145/3592442"
+        "doi": "https://doi.org/10.1145/3592442",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_722&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_237",
@@ -30,7 +34,9 @@
         "aff": "University of Utah; UCLA",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592115"
+        "doi": "https://doi.org/10.1145/3592115",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_237&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_489",
@@ -41,7 +47,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Technion - Israel Institute of Technology; Texas State University",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3588432.3591523"
+        "doi": "https://doi.org/10.1145/3588432.3591523",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_489&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_337",
@@ -52,7 +60,9 @@
         "aff": "Delft University of Technology; Universitas Gadjah Mada",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3588432.3591502"
+        "doi": "https://doi.org/10.1145/3588432.3591502",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_337&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_559",
@@ -63,7 +73,9 @@
         "aff": "University of Michigan; Cornell University; EPFL",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3592414"
+        "doi": "https://doi.org/10.1145/3592414",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_559&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_833",
@@ -71,10 +83,12 @@
         "status": "Technical Paper",
         "title": "A Hybrid Generator Architecture for Controllable Face Synthesis",
         "author": "Dann Mensah, Nam Hee Kim, Miika Aittala, Samuli Laine, Jaakko Lehtinen",
-        "aff": "NVIDIA; Aalto University",
+        "aff": "Aalto University; NVIDIA",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591563"
+        "doi": "https://doi.org/10.1145/3588432.3591563",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_833&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_127",
@@ -82,10 +96,12 @@
         "status": "TOG Paper",
         "title": "A Method for Animating Children's Drawings of the Human Figure",
         "author": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica Hodgins, Harrison Jesse Smith",
-        "aff": "Facebook Reality Labs; Meta AI Research; Tencent America; Massachusetts Institute of Technology (MIT, MIT CSAIL); Carnegie Mellon University",
+        "aff": "Tencent America; Carnegie Mellon University; Massachusetts Institute of Technology (MIT, MIT CSAIL); Facebook Reality Labs; Meta AI Research",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_127&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_217",
@@ -96,7 +112,9 @@
         "aff": "University of Waterloo",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": "https://doi.org/10.1145/3592109"
+        "doi": "https://doi.org/10.1145/3592109",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_217&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_755",
@@ -104,10 +122,12 @@
         "status": "Technical Paper",
         "title": "A Practical Wave Optics Reflection Model for Hair and Fur",
         "author": "Mengqi Xia, Bruce Walter, Christophe Hery, Olivier Maury, Eric Michielssen, Steve Marschner",
-        "aff": "University of Michigan Ann Arbor; Cornell University; Facebook Reality Labs; EPFL",
+        "aff": "Facebook Reality Labs; University of Michigan Ann Arbor; Cornell University; EPFL",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3592446"
+        "doi": "https://doi.org/10.1145/3592446",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_755&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_765",
@@ -115,10 +135,12 @@
         "status": "Technical Paper",
         "title": "A Realistic Surface-based Cloth Rendering Model",
         "author": "Junqiu Zhu, Adrian Jarabo, Carlos Aliaga, Ling-Qi Yan, Matt Jen-Yuan Chiang",
-        "aff": "Meta Reality Labs Research; University of California, University of California Santa Barbara; University of California, University of California, Santa Barbara",
+        "aff": "University of California, University of California, Santa Barbara; University of California, University of California Santa Barbara; Meta Reality Labs Research",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3588432.3591554"
+        "doi": "https://doi.org/10.1145/3588432.3591554",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_765&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_102",
@@ -126,10 +148,12 @@
         "status": "TOG Paper",
         "title": "A Sparse Distributed Gigascale Resolution Material Point Method",
         "author": "Yuxing Qiu, Samuel Temple Reeve, Minchen Li, Yin Yang, Stuart Slattery, Chenfanfu Jiang, Yuxing Qiu",
-        "aff": "Timestep Technologies; University of California Los Angeles; Oak Ridge National Laboratory; The University of Utah; University of California, Los Angeles",
+        "aff": "The University of Utah; Timestep Technologies; University of California Los Angeles; University of California, Los Angeles; Oak Ridge National Laboratory",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3570160"
+        "doi": "https://doi.org/10.1145/3570160",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_102&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_110",
@@ -140,7 +164,9 @@
         "aff": "INRIA Rennes; Link\u00f6ping University",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3533427"
+        "doi": "https://doi.org/10.1145/3533427",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_110&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_195",
@@ -151,7 +177,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3592102"
+        "doi": "https://doi.org/10.1145/3592102",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_195&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_402",
@@ -159,10 +187,12 @@
         "status": "Technical Paper",
         "title": "Acting as Inverse Inverse Planning",
         "author": "Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley",
-        "aff": "UCSD; MIT",
+        "aff": "MIT; UCSD",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3588432.3591510"
+        "doi": "https://doi.org/10.1145/3588432.3591510",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_402&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_152",
@@ -170,10 +200,12 @@
         "status": "Technical Paper",
         "title": "Adaptive Local Basis Functions for Shape Completion",
         "author": "Hui Ying, Tianjia Shao, He Wang, Yin Yang, Kun Zhou",
-        "aff": "University of Utah; University of Leeds; State Key Lab of CAD and CG, Zhejiang University",
+        "aff": "University of Leeds; State Key Lab of CAD and CG, Zhejiang University; University of Utah",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": "https://doi.org/10.1145/3588432.3591485"
+        "doi": "https://doi.org/10.1145/3588432.3591485",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_152&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_720",
@@ -181,10 +213,12 @@
         "status": "Technical Paper",
         "title": "Algebraic Smooth Occluding Contours",
         "author": "Ryan Capouellez, Jiacheng Dai, Aaron Hertzmann, Denis Zorin",
-        "aff": "New York University; Adobe",
+        "aff": "Adobe; New York University",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3588432.3591547"
+        "doi": "https://doi.org/10.1145/3588432.3591547",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_720&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_457",
@@ -192,10 +226,12 @@
         "status": "Technical Paper",
         "title": "An Elastic Basis for Spectral Shape Correspondence",
         "author": "Florine Hartwig, Josua Sassen, Omri Azencot, Martin Rumpf, Mirela Ben-Chen",
-        "aff": "University of Bonn; Ben Gurion University of the Negev; Technion - Israel Institute of Technology",
+        "aff": "Ben Gurion University of the Negev; University of Bonn; Technion - Israel Institute of Technology",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3588432.3591518"
+        "doi": "https://doi.org/10.1145/3588432.3591518",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_457&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_637",
@@ -203,10 +239,12 @@
         "status": "Technical Paper",
         "title": "An Extensible, Data-oriented Architecture for High-performance, Many-world Simulation",
         "author": "Brennan Shacklett, Luc Guy Rosenzweig, Bidipta Sarkar, Zhiqiang Xie, Andrew Szot, Erik Wijmans, Vladlen Koltun, Dhruv Batra, Kayvon Fatahalian",
-        "aff": "Vladlen Koltun; Stanford University; Georgia Institute of Technology",
+        "aff": "Stanford University; Georgia Institute of Technology; Vladlen Koltun",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592427"
+        "doi": "https://doi.org/10.1145/3592427",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_637&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_606",
@@ -217,7 +255,9 @@
         "aff": "Stanford University",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3592425"
+        "doi": "https://doi.org/10.1145/3592425",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_606&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_727",
@@ -228,7 +268,9 @@
         "aff": "Japan Advanced Institute of Science and Technology; Waseda University",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": "https://doi.org/10.1145/3588432.3591548"
+        "doi": "https://doi.org/10.1145/3588432.3591548",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_727&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_295",
@@ -236,10 +278,12 @@
         "status": "Technical Paper",
         "title": "ArrangementNet: Learning Scene Arrangements for Vectorized Indoor Scene Modeling",
         "author": "Jingwei Huang, Shanshan Zhang, Bo Duan, Yanfeng Zhang, Xiaoyang Guo, Mingwei Sun, Li Yi",
-        "aff": "Tsinghua University; Huawei",
+        "aff": "Huawei; Tsinghua University",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3592122"
+        "doi": "https://doi.org/10.1145/3592122",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_295&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_111",
@@ -250,7 +294,9 @@
         "aff": "Shandong University",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3575859"
+        "doi": "https://doi.org/10.1145/3575859",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_111&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_241",
@@ -261,7 +307,9 @@
         "aff": "Tel Aviv University",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3592116"
+        "doi": "https://doi.org/10.1145/3592116",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_241&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_882",
@@ -272,7 +320,9 @@
         "aff": "NNkosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3588432.3591567"
+        "doi": "https://doi.org/10.1145/3588432.3591567",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_882&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_193",
@@ -283,7 +333,9 @@
         "aff": "NNKosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3592101"
+        "doi": "https://doi.org/10.1145/3592101",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_193&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_312",
@@ -294,7 +346,9 @@
         "aff": "PTC; University of Washington",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": "https://doi.org/10.1145/3592125"
+        "doi": "https://doi.org/10.1145/3592125",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_312&sess=sess137",
+        "url_sess": ""
     },
     {
         "ssid": "papers_595",
@@ -302,10 +356,12 @@
         "status": "Technical Paper",
         "title": "BakedSDF: Meshing Neural SDFs for Real-time View Synthesis",
         "author": "Lior Yariv, Peter Hedman, Christian Reiser, Dor Verbin, Pratul P. Srinivasan, Richard Szeliski, Jonathan T. Barron, Ben Mildenhall",
-        "aff": "Weizmann Institute; University of T\u00fcbingen; Google Research",
+        "aff": "Google Research; Weizmann Institute; University of T\u00fcbingen",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3588432.3591536"
+        "doi": "https://doi.org/10.1145/3588432.3591536",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_595&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_234",
@@ -316,7 +372,9 @@
         "aff": "Universit\u00e9 de Montr\u00e9al; ETH Z\u00fcrich",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": "https://doi.org/10.1145/3592112"
+        "doi": "https://doi.org/10.1145/3592112",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_234&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_271",
@@ -324,10 +382,12 @@
         "status": "Technical Paper",
         "title": "Bidirectional GaitNet: A Bidirectional Prediction Model of Human Gait and Anatomical Conditions",
         "author": "Jungnam Park, Moon Seok Park, Jehee Lee, Jungdam Won",
-        "aff": "Seoul National University; NCsoft; Seoul National University Bundang Hospital",
+        "aff": "NCsoft; Seoul National University Bundang Hospital; Seoul National University",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3588432.3591492"
+        "doi": "https://doi.org/10.1145/3588432.3591492",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_271&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_790",
@@ -335,10 +395,12 @@
         "status": "Technical Paper",
         "title": "Blended Latent Diffusion",
         "author": "Omri Avrahami, Ohad Fried, Dani Lischinski",
-        "aff": "Reichman University; Hebrew University of Jerusalem",
+        "aff": "Hebrew University of Jerusalem; Reichman University",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3592450"
+        "doi": "https://doi.org/10.1145/3592450",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_790&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_862",
@@ -346,10 +408,12 @@
         "status": "Technical Paper",
         "title": "Bodyformer: Semantics-guided 3D Body Gesture Synthesis With Transformer",
         "author": "Kunkun Pang, Dafei Qin, Yingruo Fan, Julian Habekost, Takaaki Shiratori, Junichi Yamagishi, Taku Komura",
-        "aff": "Guangdong Key Laboratory of Modern Control Technology, Institute of Intelligent Manufacturing, Guangdong Academy of Sciences; National Institute of Informatics; University of Hong Kong; Facebook Reality Labs; University of Edinburgh",
+        "aff": "National Institute of Informatics; University of Edinburgh; Guangdong Key Laboratory of Modern Control Technology, Institute of Intelligent Manufacturing, Guangdong Academy of Sciences; Facebook Reality Labs; University of Hong Kong",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3592456"
+        "doi": "https://doi.org/10.1145/3592456",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_862&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_498",
@@ -357,10 +421,12 @@
         "status": "Technical Paper",
         "title": "Boundary Value Caching for Walk on Spheres",
         "author": "Bailey Miller, Rohan Sawhney, Keenan Crane, Ioannis Gkioulekas",
-        "aff": "NVIDIA; Carnegie Mellon University",
+        "aff": "Carnegie Mellon University; NVIDIA",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": "https://doi.org/10.1145/3592400"
+        "doi": "https://doi.org/10.1145/3592400",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_498&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_483",
@@ -368,10 +434,12 @@
         "status": "Technical Paper",
         "title": "Building a Virtual Weakly-compressible Wind Tunnel Testing Facility",
         "author": "Chaoyang Lyu, Kai Bai, Yiheng Wu, Mathieu Desbrun, Changxi Zheng, Xiaopei Liu",
-        "aff": "INRIA; ShanghaiTech University; Tecent Pixel Lab; Columbia University",
+        "aff": "INRIA; ShanghaiTech University; Columbia University; Tecent Pixel Lab",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592394"
+        "doi": "https://doi.org/10.1145/3592394",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_483&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_670",
@@ -379,10 +447,12 @@
         "status": "Technical Paper",
         "title": "CALM: Conditional Adversarial Latent Models for Directable Virtual Characters",
         "author": "Chen Tessler, Yoni Kasten, Yunrong Guo, Shie Mannor, Gal Chechik, Xue Bin Peng",
-        "aff": "Bar-Ilan University; NVIDIA; NVIDIA Research; Technion \u2013 Israel Institute of Technology; Simon Fraser University",
+        "aff": "NVIDIA Research; Technion \u2013 Israel Institute of Technology; NVIDIA; Bar-Ilan University; Simon Fraser University",
         "track": "main",
         "sess": "Character Animation",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_670&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_566",
@@ -390,10 +460,12 @@
         "status": "Technical Paper",
         "title": "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation",
         "author": "Chenliang Zhou, Fangcheng Zhong, Cengiz Oztireli",
-        "aff": "University of Cambridge; Google Research",
+        "aff": "Google Research; University of Cambridge",
         "track": "main",
         "sess": "Text-Guided Generation",
-        "doi": "https://doi.org/10.1145/3588432.3591532"
+        "doi": "https://doi.org/10.1145/3588432.3591532",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_566&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_817",
@@ -401,10 +473,12 @@
         "status": "Technical Paper",
         "title": "COFS COntrolable Furniture Layout Synthesis",
         "author": "wamiq R. Para, Paul Guerrero, Niloy Mitra, Peter Wonka",
-        "aff": "King Abdullah University of Science and Technology (KAUST); Adobe Research; University College London (UCL)",
+        "aff": "University College London (UCL); Adobe Research; King Abdullah University of Science and Technology (KAUST)",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_817&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_209",
@@ -412,10 +486,12 @@
         "status": "Technical Paper",
         "title": "CT2Hair: High-fidelity 3D Hair Modeling Using Computed Tomography",
         "author": "Yuefan Shen, Shunsuke Saito, Ziyan Wang, Olivier Maury, Chenglei Wu, Jessica Hodgins, Youyi Zheng, Giljoo Nam",
-        "aff": "Meta; State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; Google; Boston Dynamics AI Institute; Carnegie Mellon University; State Key Lab of CAD and CG, Zhejiang University",
+        "aff": "State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; Carnegie Mellon University; Meta; Google; State Key Lab of CAD and CG, Zhejiang University; Boston Dynamics AI Institute",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3592106"
+        "doi": "https://doi.org/10.1145/3592106",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_209&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_875",
@@ -423,10 +499,12 @@
         "status": "Technical Paper",
         "title": "ClipFace: Text-guided Editing of Textured 3D Morphable Models",
         "author": "Shivangi Aneja, Justus Thies, Angela Dai, Matthias Niessner",
-        "aff": "Technical University of Munich; Technical University Munich; Max Planck Institue for Intelligent Systems",
+        "aff": "Technical University Munich; Max Planck Institue for Intelligent Systems; Technical University of Munich",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591566"
+        "doi": "https://doi.org/10.1145/3588432.3591566",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_875&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_517",
@@ -434,10 +512,12 @@
         "status": "Technical Paper",
         "title": "ColorfulCurves: Palette-aware Lightness Control and Color Editing via Sparse Optimization",
         "author": "Cheng-Kang (Ted) Chao, Jason Klein, Jianchao Tan, Jose Echevarria, Yotam Gingold",
-        "aff": "George Mason University; Kuaishou Technology; Adobe Research; Cornell University",
+        "aff": "George Mason University; Cornell University; Adobe Research; Kuaishou Technology",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3592405"
+        "doi": "https://doi.org/10.1145/3592405",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_517&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_494",
@@ -445,10 +525,12 @@
         "status": "Technical Paper",
         "title": "Complex Wrinkle Field Evolution",
         "author": "Zhen Chen, Danny Kaufman, M\u00e9lina Skouras, Etienne Vouga",
-        "aff": "Adobe Research; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK; University of Texas at Austin",
+        "aff": "University of Texas at Austin; Adobe Research; Univ. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3592397"
+        "doi": "https://doi.org/10.1145/3592397",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_494&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_763",
@@ -456,10 +538,12 @@
         "status": "Technical Paper",
         "title": "Composite Motion Learning With Task Control",
         "author": "Pei Xu, Xiumin Shang, Victor Zordan, Ioannis Karamouzas",
-        "aff": "Roblox; University of California Merced; Clemson University",
+        "aff": "Clemson University; University of California Merced; Roblox",
         "track": "main",
         "sess": "Character Animation",
-        "doi": "https://doi.org/10.1145/3592447"
+        "doi": "https://doi.org/10.1145/3592447",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_763&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_497",
@@ -470,7 +554,9 @@
         "aff": "University of Toronto; EPFL; UC Davis",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3592399"
+        "doi": "https://doi.org/10.1145/3592399",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_497&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_305",
@@ -481,7 +567,9 @@
         "aff": "Google Research",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3592124"
+        "doi": "https://doi.org/10.1145/3592124",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_305&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_121",
@@ -489,10 +577,12 @@
         "status": "TOG Paper",
         "title": "Computing the Singularities of Rational Parametric Surfaces Using Moving Planes",
         "author": "Xiaohong Jia, Falai Chen, Shanshan Yao, Shanshan Yao",
-        "aff": "University of the Chinese Academy of Sciences; KLMM, AMSS; Beijing University of Posts and Telecommunications; University of Science and Technology of China",
+        "aff": "Beijing University of Posts and Telecommunications; University of Science and Technology of China; University of the Chinese Academy of Sciences; KLMM, AMSS",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_121&sess=sess137",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_112",
@@ -500,10 +590,12 @@
         "status": "TOG Paper",
         "title": "ConTesse: Accurate Occluding Contours for Subdivision Surfaces",
         "author": "Chenxi Liu, Pierre B\u00e9nard, Aaron Hertzmann, Shayan Hoshyari, Chenxi Liu",
-        "aff": "Adobe; The University of British Columbia; University of Bordeaux; University of Toronto; LaBRI - manao; Adobe Research",
+        "aff": "University of Toronto; The University of British Columbia; University of Bordeaux; Adobe Research; Adobe; LaBRI - manao",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3544778"
+        "doi": "https://doi.org/10.1145/3544778",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_112&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_116",
@@ -511,10 +603,12 @@
         "status": "TOG Paper",
         "title": "Constraint-based Simulation of Passive Suction Cups",
         "author": "Antonin Bernardin, Eulalie Coevoet, Paul Kry, Sheldon Andrews, Christian Duriez, Maud Marchal, Maud Marchal",
-        "aff": "Univ. Rennes, INSA/IRISA; McGill University; INRIA Lille; Ecole de Technologie sup\u00e9rieure  Montreal, Quebec, Canada; Univ. Rennes, INSA, IRISA; INSA",
+        "aff": "Univ. Rennes, INSA, IRISA; INSA; Univ. Rennes, INSA/IRISA; INRIA Lille; McGill University; Ecole de Technologie sup\u00e9rieure  Montreal, Quebec, Canada",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3551889"
+        "doi": "https://doi.org/10.1145/3551889",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_116&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_512",
@@ -525,7 +619,9 @@
         "aff": "Princeton University",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3588432.3591526"
+        "doi": "https://doi.org/10.1145/3588432.3591526",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_512&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_244",
@@ -536,7 +632,9 @@
         "aff": "Carnegie Mellon University",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3592117"
+        "doi": "https://doi.org/10.1145/3592117",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_244&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_294",
@@ -544,10 +642,12 @@
         "status": "Technical Paper",
         "title": "Coupling Conduction, Convection, and Radiative Transfer in a Single Path-space: Application to Infrared Rendering",
         "author": "M\u00e9gane Bati, St\u00e9phane Blanco, Christophe Coustet, Vincent Eymet, Vincent Forest, Richard Fournier, Jacques Gautrais, Nicolas Mellado, Mathias Paulin, Benjamin Piaud",
-        "aff": "CRCA, CBI, Universit\u00e9 de Toulouse, CNRS, UPS; IRIT, Universit\u00e9 de Toulouse, UPS, CNRS; CNRS, IRIT, Universit\u00e9 de Toulouse, UPS; LAPLACE, Universit\u00e9 de Toulouse, CNRS, INPT, UPS; Meso-Star",
+        "aff": "LAPLACE, Universit\u00e9 de Toulouse, CNRS, INPT, UPS; CRCA, CBI, Universit\u00e9 de Toulouse, CNRS, UPS; CNRS, IRIT, Universit\u00e9 de Toulouse, UPS; IRIT, Universit\u00e9 de Toulouse, UPS, CNRS; Meso-Star",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_294&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_541",
@@ -558,7 +658,9 @@
         "aff": "Kyung Hee University",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3588432.3591527"
+        "doi": "https://doi.org/10.1145/3588432.3591527",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_541&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_128",
@@ -566,10 +668,12 @@
         "status": "Technical Paper",
         "title": "DE-NeRF: DEcoupled Neural Radiance Fields for View-consistent Appearance Editing and High-frequency Environmental Relighting",
         "author": "Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Lin Gao",
-        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; Cardiff University; University of Chinese Academy of Sciences",
+        "aff": "University of Chinese Academy of Sciences; Institute of Computing Technology, Chinese Academy of Sciences; Cardiff University",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3588432.3591483"
+        "doi": "https://doi.org/10.1145/3588432.3591483",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_128&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_836",
@@ -580,7 +684,9 @@
         "aff": "Disney Research Imagineering; ETH Z\u00fcrich",
         "track": "main",
         "sess": "Character Animation",
-        "doi": "https://doi.org/10.1145/3592454"
+        "doi": "https://doi.org/10.1145/3592454",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_836&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_106",
@@ -591,7 +697,9 @@
         "aff": "State Key Lab of CAD&CG, Zhejiang University; RaysEngine Tech Inc.; KooLab, Manycore Tech Inc.; State Key Laboratory of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Zhejiang Lab",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": "https://doi.org/10.1145/3582001"
+        "doi": "https://doi.org/10.1145/3582001",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_106&sess=sess137",
+        "url_sess": ""
     },
     {
         "ssid": "papers_478",
@@ -599,10 +707,12 @@
         "status": "Technical Paper",
         "title": "Data-free Learning of Reduced-order Kinematics",
         "author": "Nicholas Sharp, Cristian Romero, Alec Jacobson, Etienne Vouga, Paul Kry, David I.W. Levin, Justin Solomon",
-        "aff": "The University of Texas at Austin; NVIDIA; McGill University; University of Toronto; Universidad Rey Juan Carlos; Adobe Research; MIT",
+        "aff": "The University of Texas at Austin; Universidad Rey Juan Carlos; McGill University; MIT; Adobe Research; University of Toronto; NVIDIA",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3588432.3591521"
+        "doi": "https://doi.org/10.1145/3588432.3591521",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_478&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_122",
@@ -613,7 +723,9 @@
         "aff": "Aurora Innovation; University of California Santa Barbara; Intel Graphics Research",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3570327"
+        "doi": "https://doi.org/10.1145/3570327",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_122&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_274",
@@ -621,10 +733,12 @@
         "status": "Technical Paper",
         "title": "Deep Real-time Volumetric Rendering Using Multi-feature Fusion",
         "author": "Jinkai Hu, Chengzhong Yu, Hongli Liu, Lingqi Yan, Yiqian Wu, Xiaogang Jin",
-        "aff": "Computer Science at UC Santa Barbara; State Key Lab of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Tokyo University of Science; Tencent, Inc.; Zhejiang University; State Key Lab of CAD&CG, Zhejiang Univerisity",
+        "aff": "Computer Science at UC Santa Barbara; Tokyo University of Science; Tencent, Inc.; State Key Lab of CAD&CG, Zhejiang Univerisity; State Key Lab of CAD&CG, State Key Laboratory of CAD&CG, Zhejiang Univerisity; Zhejiang University",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3588432.3591493"
+        "doi": "https://doi.org/10.1145/3588432.3591493",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_274&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_810",
@@ -635,7 +749,9 @@
         "aff": "Tianjin University",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3588432.3591559"
+        "doi": "https://doi.org/10.1145/3588432.3591559",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_810&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_615",
@@ -643,10 +759,12 @@
         "status": "Technical Paper",
         "title": "Denoising-aware Adaptive Sampling for Monte Carlo Ray Tracing",
         "author": "Arthur Firmino, Jeppe Revall Frisvad, Henrik Wann Jensen",
-        "aff": "Luxion; Technical University of Denmark",
+        "aff": "Technical University of Denmark; Luxion",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3588432.3591537"
+        "doi": "https://doi.org/10.1145/3588432.3591537",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_615&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_313",
@@ -657,7 +775,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Inkbit",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3592126"
+        "doi": "https://doi.org/10.1145/3592126",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_313&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_480",
@@ -665,10 +785,12 @@
         "status": "Technical Paper",
         "title": "Deployable Strip Structures",
         "author": "Daoming Liu, Davide Pellis, Yu-Chou Chiang, Florian Rist, Johannes Wallner, Helmut Pottmann",
-        "aff": "National Chung Hsing University; King Abdullah University of Science and Technology (KAUST); ISTI-CNR; TU Graz",
+        "aff": "TU Graz; ISTI-CNR; King Abdullah University of Science and Technology (KAUST); National Chung Hsing University",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": "https://doi.org/10.1145/3592393"
+        "doi": "https://doi.org/10.1145/3592393",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_480&sess=sess137",
+        "url_sess": ""
     },
     {
         "ssid": "papers_366",
@@ -676,10 +798,12 @@
         "status": "Technical Paper",
         "title": "Dictionary Fields: Learning a Neural Basis Decomposition",
         "author": "Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger",
-        "aff": "University of T\u00fcbingen; ETH Z\u00fcrich; Adobe Research; UCSD",
+        "aff": "UCSD; Adobe Research; ETH Z\u00fcrich; University of T\u00fcbingen",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3592135"
+        "doi": "https://doi.org/10.1145/3592135",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_366&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_552",
@@ -687,10 +811,12 @@
         "status": "Technical Paper",
         "title": "Differentiable Heightfield Path Tracing With Accelerated Discontinuities",
         "author": "Xiaochun Tong, Hsueh-Ti Derek Liu, Yotam Gingold, Alec Jacobson",
-        "aff": "George Mason University; University of Waterloo; Roblox; University of Toronto; Adobe Research",
+        "aff": "Roblox; George Mason University; University of Waterloo; Adobe Research; University of Toronto",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3588432.3591530"
+        "doi": "https://doi.org/10.1145/3588432.3591530",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_552&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_236",
@@ -701,7 +827,9 @@
         "aff": "ETH Z\u00fcrich",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": "https://doi.org/10.1145/3592114"
+        "doi": "https://doi.org/10.1145/3592114",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_236&sess=sess137",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_114",
@@ -709,10 +837,12 @@
         "status": "TOG Paper",
         "title": "Differential Frequency Heterodyne Time-of-flight Imaging for Instantaneous Depth and Velocity Estimation",
         "author": "Yunpu Hu, Masatoshi Ishikawa, Leo Miyashita, Yunpu Hu",
-        "aff": "The University of Tokyo; Sony Research",
+        "aff": "Sony Research; The University of Tokyo",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3546939"
+        "doi": "https://doi.org/10.1145/3546939",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_114&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_582",
@@ -723,7 +853,9 @@
         "aff": "Universit\u00e9 de Montr\u00e9al",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3592420"
+        "doi": "https://doi.org/10.1145/3592420",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_582&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_803",
@@ -734,7 +866,9 @@
         "aff": "CTU in Prague, FEE; Adobe Research",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3588432.3591558"
+        "doi": "https://doi.org/10.1145/3588432.3591558",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_803&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_316",
@@ -742,10 +876,12 @@
         "status": "Technical Paper",
         "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
         "author": "Xingang Pan, Ayush Tewari, Thomas Leimk\u00fchler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",
-        "aff": "Saarbr\u00fccken Research Center for Visual Computing, Interaction and AI; Massachusetts Institute of Technology (MIT); Max Planck Institute for Informatics; Google AR/VR; University of Pennsylvania",
+        "aff": "Max Planck Institute for Informatics; Google AR/VR; University of Pennsylvania; Saarbr\u00fccken Research Center for Visual Computing, Interaction and AI; Massachusetts Institute of Technology (MIT)",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3588432.3591500"
+        "doi": "https://doi.org/10.1145/3588432.3591500",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_316&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_120",
@@ -753,10 +889,12 @@
         "status": "Technical Paper",
         "title": "DreamFace: Progressive Generation of Animatable 3D Faces Under Text Guidance",
         "author": "Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu",
-        "aff": "Deemos Technology; ShanghaiTech University; Huazhong University of Science and Technology",
+        "aff": "Huazhong University of Science and Technology; ShanghaiTech University; Deemos Technology",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": "https://doi.org/10.1145/3592094"
+        "doi": "https://doi.org/10.1145/3592094",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_120&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_580",
@@ -764,10 +902,12 @@
         "status": "Technical Paper",
         "title": "ETER: Elastic Tessellation for Real-time Pixel-accurate Rendering of Large-scale NURBS Models",
         "author": "Ruicheng Xiong, Yang Lu, Cong Chen, Jiaming Zhu, Yajun Zeng, Ligang Liu",
-        "aff": "University of Science and Technology of China; Sheyun Technology",
+        "aff": "Sheyun Technology; University of Science and Technology of China",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3592419"
+        "doi": "https://doi.org/10.1145/3592419",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_580&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_672",
@@ -775,10 +915,12 @@
         "status": "Technical Paper",
         "title": "Effect-based Multi-viewer Caching for Cloud-native Rendering",
         "author": "Alexander Weinrauch, Wolfgang Tatzgern, Pascal Stadlbauer, Alexis Crickx, Jozef Hladky, Arno Coomans, Martin Winter, Joerg H. Mueller, Markus Steinberger",
-        "aff": "Graz University of Technology; Huawei",
+        "aff": "Huawei; Graz University of Technology",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592431"
+        "doi": "https://doi.org/10.1145/3592431",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_672&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_749",
@@ -789,7 +931,9 @@
         "aff": "TU Berlin",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3592445"
+        "doi": "https://doi.org/10.1145/3592445",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_749&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_384",
@@ -797,10 +941,12 @@
         "status": "Technical Paper",
         "title": "Efficient Video Portrait Reenactment via Grid-based Codebook",
         "author": "Kaisiyuan Wang, Hang Zhou, Qianyi Wu, Jiaxiang Tang, Zhiliang Xu, Borong Liang, Tianshu Hu, Errui Ding, Jingtuo Liu, Ziwei Liu, Jingdong Wang",
-        "aff": "Peking University; Monash University; Baidu Inc.; The University of Sydney; Nanyang Technological University",
+        "aff": "Peking University; Monash University; Nanyang Technological University; Baidu Inc.; The University of Sydney",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591509"
+        "doi": "https://doi.org/10.1145/3588432.3591509",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_384&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_168",
@@ -808,10 +954,12 @@
         "status": "Technical Paper",
         "title": "EgoLocate: Real-time Motion Capture, Localization, and Mapping With Sparse Body-mounted Sensors",
         "author": "Xinyu Yi, Yuxiao Zhou, Marc Habermann, Vladislav Golyanik, Shaohua Pan, Christian Theobalt, Feng Xu",
-        "aff": "ETH Z\u00fcrich; MPI for Informatics; Tsinghua University",
+        "aff": "MPI for Informatics; ETH Z\u00fcrich; Tsinghua University",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3592099"
+        "doi": "https://doi.org/10.1145/3592099",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_168&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_347",
@@ -819,10 +967,12 @@
         "status": "Technical Paper",
         "title": "Encoder-based Domain Tuning for Fast Personalization of Text-to-image Models",
         "author": "Rinon Gal, Moab Arar, Yuval Atzmon, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or",
-        "aff": "Tel Aviv University; Bar-Ilan University; NVIDIA Research",
+        "aff": "Bar-Ilan University; NVIDIA Research; Tel Aviv University",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3592133"
+        "doi": "https://doi.org/10.1145/3592133",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_347&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_343",
@@ -833,7 +983,9 @@
         "aff": "Massachusetts Institute of Technology (MIT)",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3592132"
+        "doi": "https://doi.org/10.1145/3592132",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_343&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_255",
@@ -841,10 +993,12 @@
         "status": "Technical Paper",
         "title": "Eventfulness for Interactive Video Alignment",
         "author": "Jiatian Sun, Longxiulin Deng, Triantafyllos Afouras, Andrew Owens, Abe Davis",
-        "aff": "University of Oxford; Meta AI; Cornell University; University of Michigan",
+        "aff": "University of Oxford; University of Michigan; Cornell University; Meta AI",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3592118"
+        "doi": "https://doi.org/10.1145/3592118",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_255&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_406",
@@ -855,7 +1009,9 @@
         "aff": "University of Science and Technology of China",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": "https://doi.org/10.1145/3592140"
+        "doi": "https://doi.org/10.1145/3592140",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_406&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_485",
@@ -863,10 +1019,12 @@
         "status": "Technical Paper",
         "title": "Example-based Motion Synthesis via Generative Motion Matching",
         "author": "Weiyu Li, Xuelin Chen, Peizhuo Li, Olga Sorkine-Hornung, Baoquan Chen",
-        "aff": "Peking University; ETH Z\u00fcrich; Tencent AI Lab; Shandong University",
+        "aff": "Peking University; Tencent AI Lab; ETH Z\u00fcrich; Shandong University",
         "track": "main",
         "sess": "Character Animation",
-        "doi": "https://doi.org/10.1145/3592395"
+        "doi": "https://doi.org/10.1145/3592395",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_485&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_261",
@@ -877,7 +1035,9 @@
         "aff": "Unaffiliated",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": "https://doi.org/10.1145/3592119"
+        "doi": "https://doi.org/10.1145/3592119",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_261&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_583",
@@ -888,7 +1048,9 @@
         "aff": "University of Bern; Osnabr\u00fcck University",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3592421"
+        "doi": "https://doi.org/10.1145/3592421",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_583&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_604",
@@ -899,7 +1061,9 @@
         "aff": "Cornell Tech; Cornell University",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3592423"
+        "doi": "https://doi.org/10.1145/3592423",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_604&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_890",
@@ -907,10 +1071,12 @@
         "status": "Technical Paper",
         "title": "FashionTex: Controllable Virtual Try-on With Text and Texture",
         "author": "Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han",
-        "aff": "The Chinese University of Hong Kong, Shenzhen; Adobe Research; Xiaobing.AI",
+        "aff": "Xiaobing.AI; The Chinese University of Hong Kong, Shenzhen; Adobe Research",
         "track": "main",
         "sess": "Text-Guided Generation",
-        "doi": "https://doi.org/10.1145/3588432.3591568"
+        "doi": "https://doi.org/10.1145/3588432.3591568",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_890&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_502",
@@ -918,10 +1084,12 @@
         "status": "Technical Paper",
         "title": "Fast Complementary Dynamics via Skinning Eigenmodes",
         "author": "Otman Benchekroun, Jiayi Eris Zhang, Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson",
-        "aff": "University of Toronto; Adobe Research; Stanford University",
+        "aff": "Stanford University; Adobe Research; University of Toronto",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3592404"
+        "doi": "https://doi.org/10.1145/3592404",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_502&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_124",
@@ -929,10 +1097,12 @@
         "status": "TOG Paper",
         "title": "Fast GPU-based Two-way Continuous Collision Handling",
         "author": "Tianyu Wang, Jiong Chen, Dongping Li, Xiaowei Liu, Huamin Wang, Kun Zhou, Tianyu Wang",
-        "aff": "miHoYo; FaceUnity; \u00c9cole Polytechnique; State Key Lab of CAD&CG; Zhejiang University; Independent; Style3D",
+        "aff": "Zhejiang University; \u00c9cole Polytechnique; State Key Lab of CAD&CG; Style3D; miHoYo; Independent; FaceUnity",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3604551"
+        "doi": "https://doi.org/10.1145/3604551",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_124&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_315",
@@ -943,7 +1113,9 @@
         "aff": "Northwestern University",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3592127"
+        "doi": "https://doi.org/10.1145/3592127",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_315&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_662",
@@ -954,7 +1126,9 @@
         "aff": "University of Toronto; NVIDIA",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3592430"
+        "doi": "https://doi.org/10.1145/3592430",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_662&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_500",
@@ -965,7 +1139,9 @@
         "aff": "University of California, San Diego",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592402"
+        "doi": "https://doi.org/10.1145/3592402",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_500&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_392",
@@ -973,10 +1149,12 @@
         "status": "Technical Paper",
         "title": "Fluid-solid Coupling in Kinetic Two-phase Flow Simulation",
         "author": "Wei Li, Mathieu Desbrun",
-        "aff": "INRIA Saclay; INRIA; \u00c9cole Polytechnique; Tencent Lightspeed Studios",
+        "aff": "INRIA; \u00c9cole Polytechnique; INRIA Saclay; Tencent Lightspeed Studios",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592138"
+        "doi": "https://doi.org/10.1145/3592138",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_392&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_689",
@@ -984,10 +1162,12 @@
         "status": "Technical Paper",
         "title": "Focal Path Guiding for Light Transport Simulation",
         "author": "Alexander Rath, \u00d6mercan Yazici, Philipp Slusallek",
-        "aff": "Intel; Saarland Informatics Campus; DFKI; Saarland University",
+        "aff": "Saarland University; DFKI; Saarland Informatics Campus; Intel",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3588432.3591543"
+        "doi": "https://doi.org/10.1145/3588432.3591543",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_689&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_584",
@@ -995,10 +1175,12 @@
         "status": "Technical Paper",
         "title": "Forming Terrains by Glacial Erosion",
         "author": "Guillaume Cordonnier, Guillaume Jouvet, Adrien Peytavie, Jean Braun, Marie-Paule Cani, Bedrich Benes, Eric Galin, Eric Guerin, James Gain",
-        "aff": "University of Lyon; University of Lausanne, Institute of Earth Surface Dynamics; INRIA; \u00c9cole Polytechnique; Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences; IP Paris; Universit\u00e9 Nice Cote d'Azur; Institute of Earth and Environmental Sciences, University of Potsdam; Purdue University; University of Cape Town",
+        "aff": "INRIA; IP Paris; Universit\u00e9 Nice Cote d'Azur; University of Cape Town; \u00c9cole Polytechnique; University of Lyon; Institute of Earth and Environmental Sciences, University of Potsdam; Purdue University; University of Lausanne, Institute of Earth Surface Dynamics; Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": "https://doi.org/10.1145/3592422"
+        "doi": "https://doi.org/10.1145/3592422",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_584&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_885",
@@ -1006,10 +1188,12 @@
         "status": "Technical Paper",
         "title": "GREIL-Crowds: Crowd Simulation With Deep Reinforcement Learning and Examples",
         "author": "Panayiotis Charalambous, Julien Pettre, Vassilis Vassiliades, Yiorgos Chrysanthou, Nuria Pelechano",
-        "aff": "CYENS - Centre of Excellence; INRIA Rennes; Universitat Politecnica de Catalunya (UPC)",
+        "aff": "INRIA Rennes; CYENS - Centre of Excellence; Universitat Politecnica de Catalunya (UPC)",
         "track": "main",
         "sess": "Interaction",
-        "doi": "https://doi.org/10.1145/3592459"
+        "doi": "https://doi.org/10.1145/3592459",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_885&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_546",
@@ -1020,7 +1204,9 @@
         "aff": "Osnabr\u00fcck University",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3592410"
+        "doi": "https://doi.org/10.1145/3592410",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_546&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_167",
@@ -1028,10 +1214,12 @@
         "status": "Technical Paper",
         "title": "Generalizing Shallow Water Simulations With Dispersive Surface Waves",
         "author": "Stefan Jeschke, Chris Wojtan",
-        "aff": "NVIDIA; Institute of Science and Technology Austria",
+        "aff": "Institute of Science and Technology Austria; NVIDIA",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": "https://doi.org/10.1145/3592098"
+        "doi": "https://doi.org/10.1145/3592098",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_167&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_133",
@@ -1042,7 +1230,9 @@
         "aff": "George Mason University",
         "track": "main",
         "sess": "Interaction",
-        "doi": "https://doi.org/10.1145/3592096"
+        "doi": "https://doi.org/10.1145/3592096",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_133&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_462",
@@ -1050,10 +1240,12 @@
         "status": "Technical Paper",
         "title": "Generating Procedural Materials From Text or Image Prompts",
         "author": "Yiwei Hu, Paul Guerrero, Milos Hasan, Holly Rushmeier, Valentin Deschaintre",
-        "aff": "Adobe Research; Yale University",
+        "aff": "Yale University; Adobe Research",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3588432.3591520"
+        "doi": "https://doi.org/10.1145/3588432.3591520",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_462&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_731",
@@ -1061,10 +1253,12 @@
         "status": "Technical Paper",
         "title": "Generative Design of Sheet Metal Structures",
         "author": "Amir Barda, guy tevet, adriana Schulz, Amit Haim Bermano",
-        "aff": "Tel Aviv University; University of Washington",
+        "aff": "University of Washington; Tel Aviv University",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3592444"
+        "doi": "https://doi.org/10.1145/3592444",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_731&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_103",
@@ -1075,7 +1269,9 @@
         "aff": "Siemens Digital Industries Software; Technical University of Cartagena; Yale University",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3585003"
+        "doi": "https://doi.org/10.1145/3585003",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_103&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_158",
@@ -1086,7 +1282,9 @@
         "aff": "Peking University",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3592097"
+        "doi": "https://doi.org/10.1145/3592097",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_158&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_322",
@@ -1094,10 +1292,12 @@
         "status": "Technical Paper",
         "title": "Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-number Field",
         "author": "Rui Xu, Zhiyang Dou, Ningna Wang, Shiqing Xin, Shuangmin Chen, Mingyan Jiang, Xiaohu Guo, Wenping Wang, Changhe Tu",
-        "aff": "The University of Texas at Dallas; Texas A&M University; The University of Hong Kong; Shandong University; Qingdao University of Science and Technology",
+        "aff": "The University of Hong Kong; The University of Texas at Dallas; Texas A&M University; Qingdao University of Science and Technology; Shandong University",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3592129"
+        "doi": "https://doi.org/10.1145/3592129",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_322&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_717",
@@ -1108,7 +1308,9 @@
         "aff": "Universit\u00e0 della Svizzera Italiana; IST Austria",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3588432.3591546"
+        "doi": "https://doi.org/10.1145/3588432.3591546",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_717&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_815",
@@ -1119,7 +1321,9 @@
         "aff": "School of Computer Science and Technology; School of Software; Shandong University",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3592453"
+        "doi": "https://doi.org/10.1145/3592453",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_815&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_119",
@@ -1127,10 +1331,12 @@
         "status": "Technical Paper",
         "title": "HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation",
         "author": "Longwen Zhang, Zijun Zhao, Xinzhou Cong, Qixuan Zhang, Shuqi Gu, Yuchong Gao, Rui Zheng, Wei Yang, Lan Xu, Jingyi Yu",
-        "aff": "Deemos Technology; ShanghaiTech University; Huazhong University of Science and Technology",
+        "aff": "Huazhong University of Science and Technology; ShanghaiTech University; Deemos Technology",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3592093"
+        "doi": "https://doi.org/10.1145/3592093",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_119&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_861",
@@ -1141,7 +1347,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Boston University",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3588432.3591564"
+        "doi": "https://doi.org/10.1145/3588432.3591564",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_861&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_118",
@@ -1149,10 +1357,12 @@
         "status": "TOG Paper",
         "title": "HiGAN+: Handwriting Imitation GAN With Disentangled Representations",
         "author": "Ji Gan, Weiqiang Wang, Jiaxu Leng, Xinbo Gao, Weiqiang Wang",
-        "aff": "University of Chinese Academy of Sciences, School of Computer Science and Technology; University of Chinese Academy of Sciences; Chongqing University of Posts and Telecommunications",
+        "aff": "University of Chinese Academy of Sciences; University of Chinese Academy of Sciences, School of Computer Science and Technology; Chongqing University of Posts and Telecommunications",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": "https://doi.org/10.1145/3550070"
+        "doi": "https://doi.org/10.1145/3550070",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_118&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_231",
@@ -1160,10 +1370,12 @@
         "status": "Technical Paper",
         "title": "High-order Incremental Potential Contact for Elastodynamic Simulation on Curved Meshes",
         "author": "Zachary Ferguson, Pranav Jain, Denis Zorin, Teseo Schneider, Daniele Panozzo",
-        "aff": "New York University; University of Victoria",
+        "aff": "University of Victoria; New York University",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3588432.3591488"
+        "doi": "https://doi.org/10.1145/3588432.3591488",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_231&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_109",
@@ -1171,10 +1383,12 @@
         "status": "TOG Paper",
         "title": "How Important Are Detailed Hand Motions for Communication for a Virtual Character Through the Lens of Charades?",
         "author": "Alex Adkins, Aline Normoyle, Lorraine Lin, Yu Sun, Yuting Ye, Massimiliano Di Luca, Sophie J\u00f6rg, Sophie J\u00f6rg",
-        "aff": "Clemson University; Reality Labs Research @ Meta; Bryn Mawr College; University of Birmingham; University of Bamberg, Clemson University; University of Bamberg",
+        "aff": "University of Birmingham; Clemson University; University of Bamberg, Clemson University; Bryn Mawr College; Reality Labs Research @ Meta; University of Bamberg",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3578575"
+        "doi": "https://doi.org/10.1145/3578575",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_109&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_560",
@@ -1182,10 +1396,12 @@
         "status": "Technical Paper",
         "title": "HumanRF: High-fidelity Neural Radiance Fields for Humans in Motion",
         "author": "Mustafa I\u015f\u0131k, Martin R\u00fcnz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nie\u00dfner",
-        "aff": "Technical University of Munich; University College London (UCL); Synthesia",
+        "aff": "Synthesia; University College London (UCL); Technical University of Munich",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3592415"
+        "doi": "https://doi.org/10.1145/3592415",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_560&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_317",
@@ -1193,10 +1409,12 @@
         "status": "Technical Paper",
         "title": "Image Vectorization and Editing via Linear Gradient Layer Decomposition",
         "author": "Zheng-Jun Du, Liang-Fu Kang, Jianchao Tan, Yotam Gingold, Kun Xu",
-        "aff": "Qinghai University; Tsinghua University, China; Kuaishou Technology; George Mason University",
+        "aff": "George Mason University; Kuaishou Technology; Qinghai University; Tsinghua University, China",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3592128"
+        "doi": "https://doi.org/10.1145/3592128",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_317&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_605",
@@ -1204,10 +1422,12 @@
         "status": "Technical Paper",
         "title": "Improved Water Sound Synthesis Using Coupled Bubbles",
         "author": "Kangrui Xue, Doug L. James, Jui-Hsien Wang, Ryan Aronson, Timothy Langlois",
-        "aff": "Adobe; Adobe Research; Stanford University",
+        "aff": "Stanford University; Adobe Research; Adobe",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592424"
+        "doi": "https://doi.org/10.1145/3592424",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_605&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_418",
@@ -1215,10 +1435,12 @@
         "status": "Technical Paper",
         "title": "In the Blink of an Eye: Event-based Emotion Recognition",
         "author": "Haiwei Zhang, Jiqing Zhang, Bo Dong, Pieter Peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, Xin Yang",
-        "aff": "Key Laboratory of Social Computing and Cognitive Intelligence of Ministry of Education\uff0cDalian University of Technology; Dalian University of Technology; College of William & Mary; Princeton University",
+        "aff": "Dalian University of Technology; Princeton University; College of William & Mary; Key Laboratory of Social Computing and Cognitive Intelligence of Ministry of Education\uff0cDalian University of Technology",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3588432.3591511"
+        "doi": "https://doi.org/10.1145/3588432.3591511",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_418&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_640",
@@ -1226,10 +1448,12 @@
         "status": "Technical Paper",
         "title": "In-Timestep Remeshing for Contacting Elastodynamics",
         "author": "Zachary Ferguson, Teseo Schneider, Danny Kaufman, Daniele Panozzo",
-        "aff": "New York University; Adobe; University of Victoria",
+        "aff": "University of Victoria; Adobe; New York University",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3592428"
+        "doi": "https://doi.org/10.1145/3592428",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_640&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_534",
@@ -1237,10 +1461,12 @@
         "status": "Technical Paper",
         "title": "Inkjet 4D Print: Self-folding Tessellated Origami Objects by Inkjet UV Printing",
         "author": "Koya Narumi, Kazuki Koyama, Kai Suto, Yuta Noma, Hiroki Sato, Tomohiro Tachi, Masaaki Sugimoto, Takeo Igarashi, Yoshihiro Kawahara",
-        "aff": "The University of Tokyo; Miyagi University; Nature Architects, Inc.; Elephantech Inc.",
+        "aff": "Nature Architects, Inc.; Miyagi University; The University of Tokyo; Elephantech Inc.",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3592409"
+        "doi": "https://doi.org/10.1145/3592409",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_534&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_750",
@@ -1251,7 +1477,9 @@
         "aff": "NVIDIA",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3588432.3591551"
+        "doi": "https://doi.org/10.1145/3588432.3591551",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_750&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_762",
@@ -1262,7 +1490,9 @@
         "aff": "University of Maryland, University of Maryland, College Park; University of Maryland, College Park; NVIDIA",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3588432.3591553"
+        "doi": "https://doi.org/10.1145/3588432.3591553",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_762&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_632",
@@ -1273,7 +1503,9 @@
         "aff": "Intel; Unity Technologies",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_632&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_698",
@@ -1284,7 +1516,9 @@
         "aff": "University of Toronto",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3592436"
+        "doi": "https://doi.org/10.1145/3592436",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_698&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_302",
@@ -1292,10 +1526,12 @@
         "status": "Technical Paper",
         "title": "Kernel-based Frame Interpolation for Spatio-temporally Adaptive Rendering",
         "author": "Karlis Martins Briedis, Abdelaziz Djelouah, Rapha\u00ebl Ortiz, Mark Meyer, Markus Gross, Christopher Schroers",
-        "aff": "Disney Research Studios; ETH Z\u00fcrich; Pixar Animation Studios",
+        "aff": "Pixar Animation Studios; ETH Z\u00fcrich; Disney Research Studios",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3588432.3591497"
+        "doi": "https://doi.org/10.1145/3588432.3591497",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_302&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_367",
@@ -1306,7 +1542,9 @@
         "aff": "NVIDIA Research",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3588432.3591506"
+        "doi": "https://doi.org/10.1145/3588432.3591506",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_367&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_226",
@@ -1314,10 +1552,12 @@
         "status": "Technical Paper",
         "title": "Language-based Photo Color Adjustment for Graphic Designs",
         "author": "Zhenwei Wang, Nanxuan Zhao, Gerhard Hancke, Rynson W.H. Lau",
-        "aff": "Adobe Research; City University of Hong Kong; Chinese University of Hong Kong",
+        "aff": "City University of Hong Kong; Chinese University of Hong Kong; Adobe Research",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3592111"
+        "doi": "https://doi.org/10.1145/3592111",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_226&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_101",
@@ -1328,7 +1568,9 @@
         "aff": "LIRIS INSA Lyon; LIRIS Universit\u00e9 Lyon 1; LIRIS INSA Lyon, INSA Lyon",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_101&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_711",
@@ -1336,10 +1578,12 @@
         "status": "Technical Paper",
         "title": "LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar",
         "author": "Yuelang Xu, Hongwen Zhang, Lizhen Wang, Xiaochen Zhao, Han Huang, Guojun Qi, Yebin Liu",
-        "aff": "OPPO Research Seattle; NNkosmos Technology; Tsinghua University; Westlake University",
+        "aff": "OPPO Research Seattle; Westlake University; NNkosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591545"
+        "doi": "https://doi.org/10.1145/3588432.3591545",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_711&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_533",
@@ -1347,10 +1591,12 @@
         "status": "Technical Paper",
         "title": "Learning Physically Simulated Tennis Skills From Broadcast Videos",
         "author": "Haotian Zhang, Ye Yuan, Viktor Makoviychuk, Yunrong Guo, Sanja Fidler, Xue Bin Peng, Kayvon Fatahalian",
-        "aff": "NVIDIA; University of Toronto; Stanford University; Simon Fraser University",
+        "aff": "Stanford University; University of Toronto; Simon Fraser University; NVIDIA",
         "track": "main",
         "sess": "Character Animation",
-        "doi": "https://doi.org/10.1145/3592408"
+        "doi": "https://doi.org/10.1145/3592408",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_533&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_879",
@@ -1361,7 +1607,9 @@
         "aff": "Motorica AB; KTH Royal Institute of Technology",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3592458"
+        "doi": "https://doi.org/10.1145/3592458",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_879&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_334",
@@ -1369,10 +1617,12 @@
         "status": "Technical Paper",
         "title": "Local Deformation for Interactive Shape Editing",
         "author": "Honglin Chen, Changxi Zheng, Kevin Wampler",
-        "aff": "Adobe Research; Columbia University",
+        "aff": "Columbia University; Adobe Research",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3588432.3591501"
+        "doi": "https://doi.org/10.1145/3588432.3591501",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_334&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_198",
@@ -1380,10 +1630,12 @@
         "status": "Technical Paper",
         "title": "Locally Attentional SDF Diffusion for Controllable 3D Shape Generation",
         "author": "Xin-Yang Zheng, Hao Pan, Peng-Shuai Wang, Xin Tong, Yang Liu, Heung-Yeung Shum",
-        "aff": "Microsoft Research Asia; Peking University; Tsinghua University; International Digital Economy Academy",
+        "aff": "Peking University; Microsoft Research Asia; International Digital Economy Academy; Tsinghua University",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": "https://doi.org/10.1145/3592103"
+        "doi": "https://doi.org/10.1145/3592103",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_198&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_871",
@@ -1394,7 +1646,9 @@
         "aff": "University of Bern",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3592457"
+        "doi": "https://doi.org/10.1145/3592457",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_871&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_623",
@@ -1402,10 +1656,12 @@
         "status": "Technical Paper",
         "title": "MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes",
         "author": "Christian Reiser, Rick Szeliski, Dor Verbin, Pratul Srinivasan, Ben Mildenhall, Andreas Geiger, Jon Barron, Peter Hedman",
-        "aff": "T\u00fcbingen AI Center; University of T\u00fcbingen; Google Research",
+        "aff": "Google Research; T\u00fcbingen AI Center; University of T\u00fcbingen",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592426"
+        "doi": "https://doi.org/10.1145/3592426",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_623&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_121",
@@ -1416,7 +1672,9 @@
         "aff": "ETH Z\u00fcrich; Singapore University of Technology and Design; Nanyang Technological University, Singapore; Cardiff University",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3592095"
+        "doi": "https://doi.org/10.1145/3592095",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_121&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_460",
@@ -1427,7 +1685,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Adobe Research",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3592390"
+        "doi": "https://doi.org/10.1145/3592390",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_460&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_307",
@@ -1435,10 +1695,12 @@
         "status": "Technical Paper",
         "title": "Mesh Density Adaptation for Template-based Shape Reconstruction",
         "author": "Yucheol Jung, Hyomin Kim, Gyeongha Hwang, Seung-Hwan Baek, Seungyong Lee",
-        "aff": "POSTECH; Yeungnam University",
+        "aff": "Yeungnam University; POSTECH",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": "https://doi.org/10.1145/3588432.3591498"
+        "doi": "https://doi.org/10.1145/3588432.3591498",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_307&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_387",
@@ -1446,10 +1708,12 @@
         "status": "Technical Paper",
         "title": "Meso-facets for Goniochromatic 3D Printing",
         "author": "Lubna Abu Rmaileh, Alan Brunton",
-        "aff": "Norwegian University of Science and Technology; Fraunhofer IGD",
+        "aff": "Fraunhofer IGD; Norwegian University of Science and Technology",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3592137"
+        "doi": "https://doi.org/10.1145/3592137",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_387&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_293",
@@ -1457,10 +1721,12 @@
         "status": "Technical Paper",
         "title": "MesoGen: Designing Procedural On-surface Stranded Mesostructures",
         "author": "\u00c9lie Michel, Tamy Boubekeur",
-        "aff": "LTCI, T\u00e9l\u00e9com Paris, IP Paris; Adobe Research",
+        "aff": "Adobe Research; LTCI, T\u00e9l\u00e9com Paris, IP Paris",
         "track": "main",
         "sess": "Fabrication-Oriented Design",
-        "doi": "https://doi.org/10.1145/3588432.3591496"
+        "doi": "https://doi.org/10.1145/3588432.3591496",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_293&sess=sess124",
+        "url_sess": ""
     },
     {
         "ssid": "papers_864",
@@ -1471,7 +1737,9 @@
         "aff": "Delft University of Technology",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3588432.3591565"
+        "doi": "https://doi.org/10.1145/3588432.3591565",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_864&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_718",
@@ -1479,10 +1747,12 @@
         "status": "Technical Paper",
         "title": "Micro-Mesh Construction",
         "author": "Andrea Maggiordomo, Henry Moreton, Marco Tarini, Marco Tarini",
-        "aff": "NVIDIA; University of Milan",
+        "aff": "University of Milan; NVIDIA",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": "https://doi.org/10.1145/3592440"
+        "doi": "https://doi.org/10.1145/3592440",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_718&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_160",
@@ -1490,10 +1760,12 @@
         "status": "Technical Paper",
         "title": "Microfacet Theory for Non-uniform Heightfields",
         "author": "Eugene d'Eon, Benedikt Bitterli, Andrea Weidlich, Tizian Zeltner",
-        "aff": "NVIDIA; NVIDIA Research",
+        "aff": "NVIDIA Research; NVIDIA",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3588432.3591486"
+        "doi": "https://doi.org/10.1145/3588432.3591486",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_160&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_702",
@@ -1504,7 +1776,9 @@
         "aff": "University of Oxford; University of Bern",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3592437"
+        "doi": "https://doi.org/10.1145/3592437",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_702&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_729",
@@ -1512,10 +1786,12 @@
         "status": "Technical Paper",
         "title": "Modulating Pretrained Diffusion Models for Multimodal Image Synthesis",
         "author": "Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz",
-        "aff": "Adobe Research; Georgia Institute of Technology",
+        "aff": "Georgia Institute of Technology; Adobe Research",
         "track": "main",
         "sess": "Diffusion for Geometry",
-        "doi": "https://doi.org/10.1145/3588432.3591549"
+        "doi": "https://doi.org/10.1145/3588432.3591549",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_729&sess=sess131",
+        "url_sess": ""
     },
     {
         "ssid": "papers_616",
@@ -1526,7 +1802,9 @@
         "aff": "King Abdullah University of Science and Technology (KAUST)",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3588432.3591538"
+        "doi": "https://doi.org/10.1145/3588432.3591538",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_616&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_572",
@@ -1537,7 +1815,9 @@
         "aff": "TU Berlin; California Institute of Technology",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3592417"
+        "doi": "https://doi.org/10.1145/3592417",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_572&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_253",
@@ -1548,7 +1828,9 @@
         "aff": "University of Utah; Adobe Research; UCLA",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3588432.3591489"
+        "doi": "https://doi.org/10.1145/3588432.3591489",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_253&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_786",
@@ -1556,10 +1838,12 @@
         "status": "Technical Paper",
         "title": "NOFA: NeRF-based One-shot Facial Avatar Reconstruction",
         "author": "Wangbo Yu, Yanbo Fan, Yong Zhang, Xuan Wang, Fei Yin, Yunpeng Bai, Yan-Pei Cao, Ying Shan, Yang Wu, Zhongqian Sun, Baoyuan Wu",
-        "aff": "Tsinghua Shenzhen International Graduate School,Tsinghua University; Tencent AI Lab; Ant Group; The Chinese University of Hong Kong,Shenzhen",
+        "aff": "The Chinese University of Hong Kong,Shenzhen; Tencent AI Lab; Tsinghua Shenzhen International Graduate School,Tsinghua University; Ant Group",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591555"
+        "doi": "https://doi.org/10.1145/3588432.3591555",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_786&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_135",
@@ -1567,10 +1851,12 @@
         "status": "Technical Paper",
         "title": "NeRF-Texture: Texture Synthesis With Neural Radiance Fields",
         "author": "Yi-Hua Huang, Yan-Pei Cao, Yu-Kun Lai, Ying Shan, Lin Gao",
-        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; Tencent; Cardiff University; University of Chinese Academy of Sciences",
+        "aff": "University of Chinese Academy of Sciences; Tencent; Institute of Computing Technology, Chinese Academy of Sciences; Cardiff University",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3588432.3591484"
+        "doi": "https://doi.org/10.1145/3588432.3591484",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_135&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_348",
@@ -1578,10 +1864,12 @@
         "status": "Technical Paper",
         "title": "NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects From Multiview Images",
         "author": "Yuan Liu, Peng Wang, Cheng Lin, Xiaoxiao Long, Jiepeng Wang, Lingjie Liu, Taku Komura, Wenping Wang",
-        "aff": "Tencent Games; Texas A&M University; University of Hong Kong; Max Planck Institute for Informatics; University of Pennsylvania",
+        "aff": "Max Planck Institute for Informatics; University of Pennsylvania; Texas A&M University; Tencent Games; University of Hong Kong",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3592134"
+        "doi": "https://doi.org/10.1145/3592134",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_348&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_848",
@@ -1592,7 +1880,9 @@
         "aff": "Technical University of Munich",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3592455"
+        "doi": "https://doi.org/10.1145/3592455",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_848&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_439",
@@ -1603,7 +1893,9 @@
         "aff": "University of California Berkeley",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3588432.3591516"
+        "doi": "https://doi.org/10.1145/3588432.3591516",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_439&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_492",
@@ -1614,7 +1906,9 @@
         "aff": "University of California San Diego; Adobe Research",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3588432.3591524"
+        "doi": "https://doi.org/10.1145/3588432.3591524",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_492&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_360",
@@ -1622,10 +1916,12 @@
         "status": "Technical Paper",
         "title": "Neural Biplane Representation for BTF Rendering and Acquisition",
         "author": "Jiahui Fan, Beibei Wang, Milos Hasan, Jian Yang, Ling-Qi Yan",
-        "aff": "Nankai University; Nanjing University of Science and Technology; Adobe Research; University of California, University of California Santa Barbara",
+        "aff": "University of California, University of California Santa Barbara; Nankai University; Nanjing University of Science and Technology; Adobe Research",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3588432.3591505"
+        "doi": "https://doi.org/10.1145/3588432.3591505",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_360&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_797",
@@ -1633,10 +1929,12 @@
         "status": "Technical Paper",
         "title": "Neural Face Rigging for Animating and Retargeting Facial Meshes in the Wild",
         "author": "Dafei Qin, Jun Saito, Noam Aigerman, Thibault Groueix, Taku Komura",
-        "aff": "University of Hong Kong; Adobe Research",
+        "aff": "Adobe Research; University of Hong Kong",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": "https://doi.org/10.1145/3588432.3591556"
+        "doi": "https://doi.org/10.1145/3588432.3591556",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_797&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_569",
@@ -1647,7 +1945,9 @@
         "aff": "Peking University",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3588432.3591533"
+        "doi": "https://doi.org/10.1145/3588432.3591533",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_569&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_831",
@@ -1658,7 +1958,9 @@
         "aff": "Max Planck Institute for Informatics; University of Cambridge",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3588432.3591562"
+        "doi": "https://doi.org/10.1145/3588432.3591562",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_831&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_728",
@@ -1666,10 +1968,12 @@
         "status": "Technical Paper",
         "title": "Neural Prefiltering for Correlation-aware Levels of Detail",
         "author": "Philippe Weier, Tobias Zirr, Anton Kaplanyan, Ling-Qi Yan, Philipp Slusallek",
-        "aff": "Intel; Saarland Informatics Campus; University of California, Santa Barbara; DFKI",
+        "aff": "DFKI; Saarland Informatics Campus; Intel; University of California, Santa Barbara",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3592443"
+        "doi": "https://doi.org/10.1145/3592443",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_728&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_562",
@@ -1677,10 +1981,12 @@
         "status": "Technical Paper",
         "title": "Neural Progressive Meshes",
         "author": "Yun-Chun Chen, Vladimir Kim, Noam Aigerman, Alec Jacobson",
-        "aff": "University of Toronto; Adobe Research",
+        "aff": "Adobe Research; University of Toronto",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3588432.3591531"
+        "doi": "https://doi.org/10.1145/3588432.3591531",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_562&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_414",
@@ -1688,10 +1994,12 @@
         "status": "Technical Paper",
         "title": "Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar",
         "author": "Albert Reed, Juhyeon Kim, Thomas Blanford, Adithya Pediredla, Daniel Brown, Suren Jayasuriya",
-        "aff": "Arizona State University; Dartmouth College; Pennsylvania State University; Applied Research Labs",
+        "aff": "Dartmouth College; Applied Research Labs; Arizona State University; Pennsylvania State University",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3592141"
+        "doi": "https://doi.org/10.1145/3592141",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_414&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_107",
@@ -1699,10 +2007,12 @@
         "status": "TOG Paper",
         "title": "Nonlinear Compliant Modes for Large-deformation Analysis of Flexible Structures",
         "author": "Simon Duenser, Bernhard Thomaszewski, Roi Poranne, Stelian Coros, Simon Duenser",
-        "aff": "ETH Z\u00fcrich; N/A; University of Haifa",
+        "aff": "University of Haifa; N/A; ETH Z\u00fcrich",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3568952"
+        "doi": "https://doi.org/10.1145/3568952",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_107&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_335",
@@ -1713,7 +2023,9 @@
         "aff": "Peking University",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3592131"
+        "doi": "https://doi.org/10.1145/3592131",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_335&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_105",
@@ -1721,10 +2033,12 @@
         "status": "TOG Paper",
         "title": "OpenMPD: A Low-level Presentation Engine for Multimodal Particle-based Displays",
         "author": "Roberto Montano Murillo, Ryuji Hirayama, Diego Mart\u00ednez Plasencia, Diego Mart\u00ednez Plasencia",
-        "aff": "Ultraleap; University College London",
+        "aff": "University College London; Ultraleap",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": "https://doi.org/10.1145/3572896"
+        "doi": "https://doi.org/10.1145/3572896",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_105&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_555",
@@ -1735,7 +2049,9 @@
         "aff": "Universite\u0301 de Lorraine, CNRS, Inria, LORIA",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3592412"
+        "doi": "https://doi.org/10.1145/3592412",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_555&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_716",
@@ -1746,7 +2062,9 @@
         "aff": "Texas A&M University; School of Information and Technology; Shandong University",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3592439"
+        "doi": "https://doi.org/10.1145/3592439",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_716&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_553",
@@ -1757,7 +2075,9 @@
         "aff": "ISTA (Institute of Science and Technology Austria); Universit\u00e9 de Lorraine, CNRS, Inria, LORIA",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3592411"
+        "doi": "https://doi.org/10.1145/3592411",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_553&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_166",
@@ -1768,7 +2088,9 @@
         "aff": "Seoul National University",
         "track": "main",
         "sess": "Interaction",
-        "doi": "https://doi.org/10.1145/3588432.3591487"
+        "doi": "https://doi.org/10.1145/3588432.3591487",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_166&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_427",
@@ -1776,10 +2098,12 @@
         "status": "Technical Paper",
         "title": "Parameter-space ReSTIR for Differentiable and Inverse Rendering",
         "author": "Wesley Chang, Venkataram Sivaram, Derek Nowrouzezahrai, Toshiya Hachisuka, Ravi Ramamoorthi, Tzu-Mao Li",
-        "aff": "University of California San Diego; University of Waterloo; McGill University",
+        "aff": "McGill University; University of California San Diego; University of Waterloo",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3588432.3591512"
+        "doi": "https://doi.org/10.1145/3588432.3591512",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_427&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_117",
@@ -1787,10 +2111,12 @@
         "status": "TOG Paper",
         "title": "Parsing-conditioned Anime Translation: A New Dataset and Method",
         "author": "Zhansheng Li, Yangyang Xu, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin, Shengfeng He, Nanxuan Zhao",
-        "aff": "Singapore Management University; South China University of Technology; The University of Hong Kong; University of Amsterdam; Adobe Research; The Chinese University of Hong Kong",
+        "aff": "The Chinese University of Hong Kong; South China University of Technology; Singapore Management University; The University of Hong Kong; University of Amsterdam; Adobe Research",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3585002"
+        "doi": "https://doi.org/10.1145/3585002",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_117&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_579",
@@ -1798,10 +2124,12 @@
         "status": "Technical Paper",
         "title": "Patternshop: Editing Point Patterns by Image Manipulation",
         "author": "Xingchang Huang, Tobias Ritschel, Hans-Peter Seidel, Pooran Memari, Gurprit Singh",
-        "aff": "Max Planck Institute for Informatics; INRIA; Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); University College London (UCL)",
+        "aff": "Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); University College London (UCL); Max Planck Institute for Informatics; INRIA",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3592418"
+        "doi": "https://doi.org/10.1145/3592418",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_579&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_120",
@@ -1812,7 +2140,9 @@
         "aff": "Universit\u00e0 della Svizzera italiana; University of Groningen",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": "https://doi.org/10.1145/3564241"
+        "doi": "https://doi.org/10.1145/3564241",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_120&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_575",
@@ -1823,7 +2153,9 @@
         "aff": "Reality Labs Research, Meta",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": "https://doi.org/10.1145/3588432.3591534"
+        "doi": "https://doi.org/10.1145/3588432.3591534",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_575&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_577",
@@ -1834,7 +2166,9 @@
         "aff": "Texas A&M University; Adobe Research",
         "track": "main",
         "sess": "Neural Capturing",
-        "doi": "https://doi.org/10.1145/3588432.3591535"
+        "doi": "https://doi.org/10.1145/3588432.3591535",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_577&sess=sess129",
+        "url_sess": ""
     },
     {
         "ssid": "papers_453",
@@ -1842,10 +2176,12 @@
         "status": "Technical Paper",
         "title": "PolyStokes: A Polynomial Model Reduction Method for Viscous Fluid Simulation",
         "author": "Jonathan Panuelos, Ryan Goldade, Eitan Grinspun, David Levin, Christopher Batty",
-        "aff": "University of Toronto; University of Waterloo",
+        "aff": "University of Waterloo; University of Toronto",
         "track": "main",
         "sess": "Going With the Flow",
-        "doi": "https://doi.org/10.1145/3592146"
+        "doi": "https://doi.org/10.1145/3592146",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_453&sess=sess119",
+        "url_sess": ""
     },
     {
         "ssid": "papers_309",
@@ -1856,7 +2192,9 @@
         "aff": "Adobe Research",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3588432.3591499"
+        "doi": "https://doi.org/10.1145/3588432.3591499",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_309&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_267",
@@ -1867,7 +2205,9 @@
         "aff": "NNKosmos Technology; Tsinghua University",
         "track": "main",
         "sess": "Motion Recipes and Simulation",
-        "doi": "https://doi.org/10.1145/3588432.3591490"
+        "doi": "https://doi.org/10.1145/3588432.3591490",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_267&sess=sess101",
+        "url_sess": ""
     },
     {
         "ssid": "papers_214",
@@ -1878,7 +2218,9 @@
         "aff": "Sungkyunkwan University",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592108"
+        "doi": "https://doi.org/10.1145/3592108",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_214&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_126",
@@ -1889,7 +2231,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Institute of Science and Technology Austria (ISTA); Massachusetts Institute of Technology",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": "https://doi.org/10.1145/3605389"
+        "doi": "https://doi.org/10.1145/3605389",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_126&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_798",
@@ -1900,7 +2244,9 @@
         "aff": "Dartmouth College; Walt Disney Animation Studios",
         "track": "main",
         "sess": "Neural Light Transport",
-        "doi": "https://doi.org/10.1145/3588432.3591557"
+        "doi": "https://doi.org/10.1145/3588432.3591557",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_798&sess=sess130",
+        "url_sess": ""
     },
     {
         "ssid": "papers_272",
@@ -1911,7 +2257,9 @@
         "aff": "South China University of Technology; Sun Yat-sen University",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3592120"
+        "doi": "https://doi.org/10.1145/3592120",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_272&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "papers_352",
@@ -1919,10 +2267,12 @@
         "status": "Technical Paper",
         "title": "QuestEnvSim: Environment-aware Simulated Motion Tracking From Sparse Sensor Input",
         "author": "Sunmin Lee, Sebastian Starke, Yuting Ye, Jungdam Won, Alexander Winkler",
-        "aff": "Seoul National University; Reality Labs Research, Meta",
+        "aff": "Reality Labs Research, Meta; Seoul National University",
         "track": "main",
         "sess": "Interaction",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_352&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_434",
@@ -1930,10 +2280,12 @@
         "status": "Technical Paper",
         "title": "RSMT: Real-time Stylized Motion Transition for Characters",
         "author": "Xiangjun Tang, Linjun Wu, He Wang, Bo Hu, Xu Gong, Yuchen Liao, Songnan Li, Qilong Kou, Xiaogang Jin",
-        "aff": "Tencent Technology (Shenzhen) Co., Ltd.; Tencent Technology (Shenzhen) Co., Ltd; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab; University of Leeds",
+        "aff": "University of Leeds; Tencent Technology (Shenzhen) Co., Ltd.; Tencent Technology (Shenzhen) Co., Ltd; State Key Lab CAD&CG, Zhejiang University, ZJU-Tencent Game and Intelligent Graphics Innovation Technology Joint Lab",
         "track": "main",
         "sess": "Character Animation",
-        "doi": "https://doi.org/10.1145/3588432.3591514"
+        "doi": "https://doi.org/10.1145/3588432.3591514",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_434&sess=sess118",
+        "url_sess": ""
     },
     {
         "ssid": "papers_522",
@@ -1944,7 +2296,9 @@
         "aff": "NVIDIA",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592407"
+        "doi": "https://doi.org/10.1145/3592407",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_522&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "papers_896",
@@ -1952,10 +2306,12 @@
         "status": "Technical Paper",
         "title": "Real-time Radiance Fields for Single-image Portrait View Synthesis",
         "author": "Alex Trevithick, Matthew Chan, Michael Stengel, Eric Chan, Chao Liu, Zhiding Yu, Sameh Khamis, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano",
-        "aff": "NVIDIA; NVIDIA Research; Stanford University; UCSD",
+        "aff": "Stanford University; UCSD; NVIDIA Research; NVIDIA",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3592460"
+        "doi": "https://doi.org/10.1145/3592460",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_896&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_400",
@@ -1963,10 +2319,12 @@
         "status": "Technical Paper",
         "title": "Recursive Control Variates for Inverse Rendering",
         "author": "Baptiste Nicolet, Fabrice Rousselle, Jan Novak, Alexander Keller, Wenzel Jakob, Thomas M\u00fcller",
-        "aff": "NVIDIA; \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "aff": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne; NVIDIA",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3592139"
+        "doi": "https://doi.org/10.1145/3592139",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_400&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_113",
@@ -1974,10 +2332,12 @@
         "status": "Technical Paper",
         "title": "Relighting Neural Radiance Fields With Shadow and Highlight Hints",
         "author": "Chong Zeng, Guojun Chen, Yue Dong, Pieter Peers, Hongzhi Wu, Xin Tong",
-        "aff": "Microsoft Research Asia; College of William & Mary; State Key Lab of CAD and CG, Zhejiang University",
+        "aff": "State Key Lab of CAD and CG, Zhejiang University; College of William & Mary; Microsoft Research Asia",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3588432.3591482"
+        "doi": "https://doi.org/10.1145/3588432.3591482",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_113&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_115",
@@ -1985,10 +2345,12 @@
         "status": "TOG Paper",
         "title": "Restricted Delaunay Triangulation for Explicit Surface Reconstruction",
         "author": "Pengfei Wang, Zixiong Wang, Shiqing Xin, Xifeng Gao, Wenping Wang, Changhe Tu, Pengfei Wang",
-        "aff": "The University of Hong Kong; Shandong University; Tencent America; Lightspeed & Quantum Studio; Shandong University - Qingdao Campus",
+        "aff": "Lightspeed & Quantum Studio; Tencent America; The University of Hong Kong; Shandong University - Qingdao Campus; Shandong University",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3533768"
+        "doi": "https://doi.org/10.1145/3533768",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_115&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_690",
@@ -1999,7 +2361,9 @@
         "aff": "DFKI; Saarland University",
         "track": "main",
         "sess": "Does Anybody Know How I Got Here?",
-        "doi": "https://doi.org/10.1145/3592435"
+        "doi": "https://doi.org/10.1145/3592435",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_690&sess=sess112",
+        "url_sess": ""
     },
     {
         "ssid": "papers_449",
@@ -2007,10 +2371,12 @@
         "status": "Technical Paper",
         "title": "Rhizomorph: The Coordinated Function of Shoots and Roots",
         "author": "Bosheng Li, Jonathan Klein, Dominik L. Michels, Bedrich Benes, S\u00f6ren Pirk, Wojtek Pa\u0142ubicki",
-        "aff": "King Abdullah University of Science and Technology (KAUST); Adobe Research; Purdue University; Adam Mickiewicz University in Pozna\u0144",
+        "aff": "Adam Mickiewicz University in Pozna\u0144; Purdue University; Adobe Research; King Abdullah University of Science and Technology (KAUST)",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": "https://doi.org/10.1145/3592145"
+        "doi": "https://doi.org/10.1145/3592145",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_449&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_493",
@@ -2021,7 +2387,9 @@
         "aff": "LightSpeed Studios, Tencent America; University of Texas at Austin",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": "https://doi.org/10.1145/3592396"
+        "doi": "https://doi.org/10.1145/3592396",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_493&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_444",
@@ -2029,10 +2397,12 @@
         "status": "Technical Paper",
         "title": "Sag-free Initialization for Strand-based Hybrid Hair Simulation",
         "author": "Jerry Hsu, Tongtong Wang, Zherong Pan, Xifeng Gao, Cem Yuksel, Kui Wu",
-        "aff": "University of Utah; LightSpeed Studios, Tencent America; LightSpeed Studios, Tencent; Roblox Research",
+        "aff": "LightSpeed Studios, Tencent America; University of Utah; Roblox Research; LightSpeed Studios, Tencent",
         "track": "main",
         "sess": "Modeling Shells and Hair",
-        "doi": "https://doi.org/10.1145/3592143"
+        "doi": "https://doi.org/10.1145/3592143",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_444&sess=sess121",
+        "url_sess": ""
     },
     {
         "ssid": "papers_235",
@@ -2040,10 +2410,12 @@
         "status": "Technical Paper",
         "title": "ScanBot: Autonomous Reconstruction via Deep Reinforcement Learning",
         "author": "Hezhi Cao, Xia Xi, Guan Wu, Ruizhen Hu, Ligang Liu",
-        "aff": "University of Science and Technology of China; Shenzhen University",
+        "aff": "Shenzhen University; University of Science and Technology of China",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3592113"
+        "doi": "https://doi.org/10.1145/3592113",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_235&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_422",
@@ -2051,10 +2423,12 @@
         "status": "Technical Paper",
         "title": "Scratch-based Reflection Art via Differentiable Rendering",
         "author": "Pengfei Shen, Ruizeng Li, Beibei Wang, Ligang Liu",
-        "aff": "University of Science and Technology of China; Nanjing University of Science and Technology; Nankai University",
+        "aff": "Nankai University; Nanjing University of Science and Technology; University of Science and Technology of China",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3592142"
+        "doi": "https://doi.org/10.1145/3592142",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_422&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_199",
@@ -2065,7 +2439,9 @@
         "aff": "University of Utah; Style3D Research; UCLA",
         "track": "main",
         "sess": "Fast, Large and Learned Deformables",
-        "doi": "https://doi.org/10.1145/3592104"
+        "doi": "https://doi.org/10.1145/3592104",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_199&sess=sess138",
+        "url_sess": ""
     },
     {
         "ssid": "papers_703",
@@ -2073,10 +2449,12 @@
         "status": "Technical Paper",
         "title": "Seeing Photons in Color",
         "author": "Sizhuo Ma, Varun Sundar, Paul Mos, Claudio Bruschini, Edoardo Charbon, Mohit Gupta",
-        "aff": "University of Wisconsin-Madison; EPFL; Snap Inc.",
+        "aff": "Snap Inc.; University of Wisconsin-Madison; EPFL",
         "track": "main",
         "sess": "Colorful Topics In Imaging",
-        "doi": "https://doi.org/10.1145/3592438"
+        "doi": "https://doi.org/10.1145/3592438",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_703&sess=sess140",
+        "url_sess": ""
     },
     {
         "ssid": "papers_787",
@@ -2084,10 +2462,12 @@
         "status": "Technical Paper",
         "title": "Semantics and Scheduling for Machine Knitting Compilers",
         "author": "Jenny Lin, Vidya Narayanan, Yuka Ikarashi, Jonathan Ragan-Kelley, Gilbert Bernstein, James McCann",
-        "aff": "Amazon; MIT CSAIL; Carnegie Mellon University; University of Washington",
+        "aff": "Amazon; Carnegie Mellon University; MIT CSAIL; University of Washington",
         "track": "main",
         "sess": "From Knitting to Circuits",
-        "doi": "https://doi.org/10.1145/3592449"
+        "doi": "https://doi.org/10.1145/3592449",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_787&sess=sess139",
+        "url_sess": ""
     },
     {
         "ssid": "papers_479",
@@ -2098,7 +2478,9 @@
         "aff": "Korea Advanced Institute of Science and Technology (KAIST)",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": "https://doi.org/10.1145/3592392"
+        "doi": "https://doi.org/10.1145/3592392",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_479&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_563",
@@ -2106,10 +2488,12 @@
         "status": "Technical Paper",
         "title": "ShapeCoder: Discovering Abstractions for Visual Programs From Unstructured Primitives",
         "author": "R. Kenny Jones, Paul Guerrero, Niloy J. Mitra, Daniel Ritchie",
-        "aff": "Adobe Research; Brown University; University College London (UCL)",
+        "aff": "Brown University; Adobe Research; University College London (UCL)",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3592416"
+        "doi": "https://doi.org/10.1145/3592416",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_563&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_373",
@@ -2120,7 +2504,9 @@
         "aff": "University of Utah; Roblox Research",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3592136"
+        "doi": "https://doi.org/10.1145/3592136",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_373&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "papers_270",
@@ -2128,10 +2514,12 @@
         "status": "Technical Paper",
         "title": "Simulation and Retargeting of Complex Multi-character Interactions",
         "author": "Yunbo Zhang, Deepak Gopinath, Yuting Ye, Jessica Hodgins, Greg Turk, Jungdam Won",
-        "aff": "Seoul National University; Georgia Institute of Technology; Apple; Boston Dynamics AI Institute; Carnegie Mellon University; Meta Reality Labs",
+        "aff": "Carnegie Mellon University; Georgia Institute of Technology; Seoul National University; Apple; Boston Dynamics AI Institute; Meta Reality Labs",
         "track": "main",
         "sess": "Interaction",
-        "doi": "https://doi.org/10.1145/3588432.3591491"
+        "doi": "https://doi.org/10.1145/3588432.3591491",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_270&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_436",
@@ -2139,10 +2527,12 @@
         "status": "Technical Paper",
         "title": "Single Image Neural Material Relighting",
         "author": "James Bieron, Xin Tong, Pieter Peers",
-        "aff": "Microsoft Research Asia; College of William & Mary",
+        "aff": "College of William & Mary; Microsoft Research Asia",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3588432.3591515"
+        "doi": "https://doi.org/10.1145/3588432.3591515",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_436&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_277",
@@ -2150,10 +2540,12 @@
         "status": "Technical Paper",
         "title": "Single-shot Implicit Morphable Faces With Consistent Texture Parameterization",
         "author": "Connor Lin, Koki Nagano, Jan Kautz, Eric Chan, Umar Iqbal, Leonidas Guibas, Gordon Wetzstein, Sameh Khamis",
-        "aff": "NVIDIA Research; Stanford University",
+        "aff": "Stanford University; NVIDIA Research",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3588432.3591494"
+        "doi": "https://doi.org/10.1145/3588432.3591494",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_277&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "papers_816",
@@ -2161,10 +2553,12 @@
         "status": "Technical Paper",
         "title": "Sketch-guided Text-to-image Diffusion Models",
         "author": "Andrey Voynov, Kfir Aberman, Daniel Cohen-Or",
-        "aff": "Tel Aviv University; Google Research",
+        "aff": "Google Research; Tel Aviv University",
         "track": "main",
         "sess": "Text-Guided Generation",
-        "doi": "https://doi.org/10.1145/3588432.3591560"
+        "doi": "https://doi.org/10.1145/3588432.3591560",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_816&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_186",
@@ -2172,10 +2566,12 @@
         "status": "Technical Paper",
         "title": "SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields",
         "author": "Lin Gao, Feng-Lin Liu, Shu-Yu Chen, Kaiwen Jiang, Chun-Peng Li, Yu-Kun Lai, Hongbo Fu",
-        "aff": "Institute of Computing Technology, Chinese Academy of Sciences; City University of Hong Kong; Cardiff University; Beijing Jiaotong University; University of Chinese Academy of Sciences",
+        "aff": "University of Chinese Academy of Sciences; Institute of Computing Technology, Chinese Academy of Sciences; Beijing Jiaotong University; City University of Hong Kong; Cardiff University",
         "track": "main",
         "sess": "NeRFs for Avatars",
-        "doi": "https://doi.org/10.1145/3592100"
+        "doi": "https://doi.org/10.1145/3592100",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_186&sess=sess114",
+        "url_sess": ""
     },
     {
         "ssid": "papers_682",
@@ -2186,7 +2582,9 @@
         "aff": "Independent; Institute of Science and Technology Austria",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3592432"
+        "doi": "https://doi.org/10.1145/3592432",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_682&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_459",
@@ -2194,10 +2592,12 @@
         "status": "Technical Paper",
         "title": "Somigliana Coordinates:  An Elasticity-derived Approach for Cage Deformation",
         "author": "Jiong Chen, Fernando de Goes, Mathieu Desbrun",
-        "aff": "Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); \u00c9cole Polytechnique; Pixar Animation Studios; INRIA Saclay",
+        "aff": "\u00c9cole Polytechnique; INRIA Saclay; Centre National de la Recherche Scientifique - Laboratoire d'informatique de l'\u00c9cole Polytechnique (LIX); Pixar Animation Studios",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_459&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_699",
@@ -2208,7 +2608,9 @@
         "aff": "University of Edinburgh",
         "track": "main",
         "sess": "Contours, Conformality, Coarsening, and Coordinates",
-        "doi": "https://doi.org/10.1145/3588432.3591544"
+        "doi": "https://doi.org/10.1145/3588432.3591544",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_699&sess=sess117",
+        "url_sess": ""
     },
     {
         "ssid": "papers_220",
@@ -2216,10 +2618,12 @@
         "status": "Technical Paper",
         "title": "Split-Lohmann Multifocal Displays",
         "author": "Yingsi Qin, Wei-Yu Chen, Matthew O'Toole, Aswin C. Sankaranarayanan",
-        "aff": "Carnegie Mellon University; ECE Department",
+        "aff": "ECE Department; Carnegie Mellon University",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": "https://doi.org/10.1145/3592110"
+        "doi": "https://doi.org/10.1145/3592110",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_220&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_113",
@@ -2227,10 +2631,12 @@
         "status": "TOG Paper",
         "title": "SpongeCake: A Layered Microflake Surface Appearance Model",
         "author": "Beibei Wang, Wenhua Jin, Milo\u0161 Ha\u0161an, Ling-Qi Yan, Ling-Qi Yan, Beibei Wang",
-        "aff": "Nankai University; Nanjing University of Science and Technology; University of California Santa Barbara; Nanjing University, Nankai University; Adobe Research",
+        "aff": "University of California Santa Barbara; Nankai University; Nanjing University of Science and Technology; Nanjing University, Nankai University; Adobe Research",
         "track": "main",
         "sess": "A Material World",
-        "doi": "https://doi.org/10.1145/3546940"
+        "doi": "https://doi.org/10.1145/3546940",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_113&sess=sess115",
+        "url_sess": ""
     },
     {
         "ssid": "papers_679",
@@ -2238,10 +2644,12 @@
         "status": "Technical Paper",
         "title": "Stealth Shaper: Reflectivity Optimization as Surface Stylization",
         "author": "Kenji Tojo, Ariel Shamir, Bernd Bickel, Nobuyuki Umetani",
-        "aff": "The University of Tokyo; Reichman University; University of Tokyo; IST Austria",
+        "aff": "IST Austria; The University of Tokyo; University of Tokyo; Reichman University",
         "track": "main",
         "sess": "Fabricating Appearance",
-        "doi": "https://doi.org/10.1145/3588432.3591542"
+        "doi": "https://doi.org/10.1145/3588432.3591542",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_679&sess=sess122",
+        "url_sess": ""
     },
     {
         "ssid": "papers_326",
@@ -2252,7 +2660,9 @@
         "aff": "University of British Columbia; Universit\u00e9 de Montr\u00e9al; University of Tokyo",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": "https://doi.org/10.1145/3592130"
+        "doi": "https://doi.org/10.1145/3592130",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_326&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_454",
@@ -2260,10 +2670,12 @@
         "status": "Technical Paper",
         "title": "StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar From a Single Video",
         "author": "Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu, Yebin Liu",
-        "aff": "Tsinghua University, China; NNkosmos Technology",
+        "aff": "NNkosmos Technology; Tsinghua University, China",
         "track": "main",
         "sess": "Making Faces With Neural Avatars",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_454&sess=sess132",
+        "url_sess": ""
     },
     {
         "ssid": "papers_374",
@@ -2274,7 +2686,9 @@
         "aff": "Massachusetts Institute of Technology (MIT); Walt Disney Animation Studios",
         "track": "main",
         "sess": "Simulating and Detecting Collisions",
-        "doi": "https://doi.org/10.1145/3588432.3591507"
+        "doi": "https://doi.org/10.1145/3588432.3591507",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_374&sess=sess111",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_119",
@@ -2285,7 +2699,9 @@
         "aff": "Yau Mathematical Sciences Center Tsinghua University; Beijing National Research Center for Information Science and Technology (BNRIST); Yanqi Lake Beijing Institute of Mathematical Sciences and Applications (BIMSA); Tsinghua University",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3554730"
+        "doi": "https://doi.org/10.1145/3554730",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_119&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_501",
@@ -2293,10 +2709,12 @@
         "status": "Technical Paper",
         "title": "Surface Simplification Using Intrinsic Error Metrics",
         "author": "Hsueh-Ti Derek Liu, Mark Gillespie, Benjamin Chislett, Nicholas Sharp, Alec Jacobson, Keenan Crane",
-        "aff": "NVIDIA; Roblox; University of Toronto; Adobe Research; Carnegie Mellon University",
+        "aff": "Roblox; Carnegie Mellon University; Adobe Research; University of Toronto; NVIDIA",
         "track": "main",
         "sess": "All About Meshes",
-        "doi": "https://doi.org/10.1145/3592403"
+        "doi": "https://doi.org/10.1145/3592403",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_501&sess=sess126",
+        "url_sess": ""
     },
     {
         "ssid": "papers_481",
@@ -2307,7 +2725,9 @@
         "aff": "NLPR, Institute of Automation, Chinese Academy of Sciences; State Key Lab for Novel Software Technology, Nanjing University",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3588432.3591522"
+        "doi": "https://doi.org/10.1145/3588432.3591522",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_481&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_104",
@@ -2315,10 +2735,12 @@
         "status": "TOG Paper",
         "title": "Symmetric Volume Maps: Order-invariant Volumetric Mesh Correspondence With Free Boundary",
         "author": "Mazdak Abulnaga, Oded Stein, Polina Golland, Justin Solomon, Mazdak Abulnaga",
-        "aff": "Massachusetts Institute of Technology (MIT); MIT CSAIL; University of Southern California",
+        "aff": "Massachusetts Institute of Technology (MIT); University of Southern California; MIT CSAIL",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3572897"
+        "doi": "https://doi.org/10.1145/3572897",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_104&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_542",
@@ -2326,10 +2748,12 @@
         "status": "Technical Paper",
         "title": "Synthesizing Dexterous Nonprehensile Pregrasp for Ungraspable Objects",
         "author": "Sirui Chen, Albert Wu, C. Karen Liu",
-        "aff": "University of Hong Kong; Stanford University",
+        "aff": "Stanford University; University of Hong Kong",
         "track": "main",
         "sess": "Knowing What To Do With Your Hands",
-        "doi": "https://doi.org/10.1145/3588432.3591528"
+        "doi": "https://doi.org/10.1145/3588432.3591528",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_542&sess=sess104",
+        "url_sess": ""
     },
     {
         "ssid": "papers_506",
@@ -2337,10 +2761,12 @@
         "status": "Technical Paper",
         "title": "Synthesizing Physical Character-scene Interactions",
         "author": "Mohamed Hassan, Yunrong Guo, Tingwu Wang, Michael Black, Sanja Fidler, Xue Bin Peng",
-        "aff": "Max-Planck-Institute for Intelligent Systems; NVIDIA; Simon Fraser University; Electronic Arts",
+        "aff": "Electronic Arts; Max-Planck-Institute for Intelligent Systems; Simon Fraser University; NVIDIA",
         "track": "main",
         "sess": "Interaction",
-        "doi": "https://doi.org/10.1145/3588432.3591525"
+        "doi": "https://doi.org/10.1145/3588432.3591525",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_506&sess=sess128",
+        "url_sess": ""
     },
     {
         "ssid": "papers_341",
@@ -2351,7 +2777,9 @@
         "aff": "Tel Aviv University",
         "track": "main",
         "sess": "Text-Guided Generation",
-        "doi": "https://doi.org/10.1145/3588432.3591503"
+        "doi": "https://doi.org/10.1145/3588432.3591503",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_341&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_785",
@@ -2362,7 +2790,9 @@
         "aff": "McGill University",
         "track": "main",
         "sess": "Gotta Go Fast!",
-        "doi": "https://doi.org/10.1145/3592448"
+        "doi": "https://doi.org/10.1145/3592448",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_785&sess=sess107",
+        "url_sess": ""
     },
     {
         "ssid": "papers_753",
@@ -2370,10 +2800,12 @@
         "status": "Technical Paper",
         "title": "TextDeformer: Geometry Manipulation Using Text Guidance",
         "author": "William Gao, Noam Aigerman, Thibault Groueix, Vova Kim, Rana Hanocka",
-        "aff": "Adobe Research; University of Chicago",
+        "aff": "University of Chicago; Adobe Research",
         "track": "main",
         "sess": "Deep Geometric Learning",
-        "doi": "https://doi.org/10.1145/3588432.3591552"
+        "doi": "https://doi.org/10.1145/3588432.3591552",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_753&sess=sess103",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_125",
@@ -2381,10 +2813,12 @@
         "status": "TOG Paper",
         "title": "Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric",
         "author": "Yana Nehm\u00e9, Johanna Delanoy, Florent Dupont, Jean-Philippe Farrugia, Patrick Le Callet, Guillaume Lavou\u00e9, Yana Nehm\u00e9",
-        "aff": "TechViz; Universit\u00e9 de Lyon, Centrale Lyon, ENISE, CNRS, LIRIS; Universit\u00e9 de Lyon, INSA Lyon, CNRS, LIRIS; Universit\u00e9 de Lyon, Universit\u00e9 Lyon 1, CNRS, LIRIS; Nantes Universit\u00e9, Ecole Centrale Nantes, CNRS, LS2N",
+        "aff": "TechViz; Nantes Universit\u00e9, Ecole Centrale Nantes, CNRS, LS2N; Universit\u00e9 de Lyon, INSA Lyon, CNRS, LIRIS; Universit\u00e9 de Lyon, Centrale Lyon, ENISE, CNRS, LIRIS; Universit\u00e9 de Lyon, Universit\u00e9 Lyon 1, CNRS, LIRIS",
         "track": "main",
         "sess": "Material Rendering",
-        "doi": "https://doi.org/10.1145/3592786"
+        "doi": "https://doi.org/10.1145/3592786",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_125&sess=sess102",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_108",
@@ -2392,10 +2826,12 @@
         "status": "TOG Paper",
         "title": "The Statistics of Eye Movements and Binocular Disparities in VR Gaming Headsets Should Drive Headset Design",
         "author": "Avi M. Aizenman, George A. Koulieris, Agostino Gibaldi, Vibhor Sehgal, Dennis M. Levi, Martin S. Banks, Avi M. Aizenman",
-        "aff": "University of California, Berkeley; Durham University; UC Berkeley",
+        "aff": "UC Berkeley; University of California, Berkeley; Durham University",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": ""
+        "doi": "",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_108&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_461",
@@ -2403,10 +2839,12 @@
         "status": "Technical Paper",
         "title": "The Visual Language of Fabrics",
         "author": "Valentin Deschaintre, Julia Guerrero Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia",
-        "aff": "Adobe Research; Universidad de Zaragoza - I3A",
+        "aff": "Universidad de Zaragoza - I3A; Adobe Research",
         "track": "main",
         "sess": "Not Just for Cubists",
-        "doi": "https://doi.org/10.1145/3592391"
+        "doi": "https://doi.org/10.1145/3592391",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_461&sess=sess106",
+        "url_sess": ""
     },
     {
         "ssid": "papers_812",
@@ -2414,10 +2852,12 @@
         "status": "Technical Paper",
         "title": "Topology Driven Approximation to Rational Surface-surface Intersection via Interval Algebraic Topology Analysis",
         "author": "Jin-San Cheng, Bingwei Zhang, Yikun Xiao, Ming Li",
-        "aff": "State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University; State Key Lab of CAD and CG, Zhejiang University; School of Mathematical Sciences, University of Chinese Academy of Sciences; Academy of Mathematics and Systems Science, Chinese Academy of Sciences",
+        "aff": "Academy of Mathematics and Systems Science, Chinese Academy of Sciences; State Key Lab of CAD and CG, Zhejiang University; School of Mathematical Sciences, University of Chinese Academy of Sciences; State Key Lab of CAD and CG, State Key Lab of CAD and CG, Zhejiang University",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3592452"
+        "doi": "https://doi.org/10.1145/3592452",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_812&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_290",
@@ -2428,7 +2868,9 @@
         "aff": "New York University",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3588432.3591495"
+        "doi": "https://doi.org/10.1145/3588432.3591495",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_290&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_521",
@@ -2436,10 +2878,12 @@
         "status": "Technical Paper",
         "title": "Towards Attention\u2013Aware Foveated Rendering",
         "author": "Brooke Krajancich, Petr Kellnhofer, Gordon Wetzstein",
-        "aff": "TU Delft; Stanford University",
+        "aff": "Stanford University; TU Delft",
         "track": "main",
         "sess": "Beyond The Headset",
-        "doi": "https://doi.org/10.1145/3592406"
+        "doi": "https://doi.org/10.1145/3592406",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_521&sess=sess133",
+        "url_sess": ""
     },
     {
         "ssid": "papers_458",
@@ -2450,7 +2894,9 @@
         "aff": "SEDDI; Universidad Rey Juan Carlos",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3592147"
+        "doi": "https://doi.org/10.1145/3592147",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_458&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_687",
@@ -2458,10 +2904,12 @@
         "status": "Technical Paper",
         "title": "Trim Regions for Online Computation of From-Region Potentially Visible Sets",
         "author": "Philip Voglreiter, Bernhard Kerbl, Alexander Weinrauch, Joerg Hermann Mueller, Thomas Neff, Markus Steinberger, Dieter Schmalstieg",
-        "aff": "Graz University of Technology; INRIA M\u00e9diterran\u00e9e, Universit\u00e9 C\u00f4te d'Azur; VRVis Forschungs-GmbH; Technische Universit\u00e4t Wien (TU Wien)",
+        "aff": "VRVis Forschungs-GmbH; Technische Universit\u00e4t Wien (TU Wien); Graz University of Technology; INRIA M\u00e9diterran\u00e9e, Universit\u00e9 C\u00f4te d'Azur",
         "track": "main",
         "sess": "Your GPU Is Somewhere Else",
-        "doi": "https://doi.org/10.1145/3592434"
+        "doi": "https://doi.org/10.1145/3592434",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_687&sess=sess136",
+        "url_sess": ""
     },
     {
         "ssid": "paperstog_123",
@@ -2469,10 +2917,12 @@
         "status": "TOG Paper",
         "title": "Ultra-high Resolution SVBRDF Recovery From a Single Image",
         "author": "Jie Guo, Shuichang Lai, Qinghao Tu, Chengzhi Tao, Changqing Zou, Yanwen Guo, Jie Guo",
-        "aff": "State Key Lab of CAD&CG, Zhejiang University; Nanjing University; State Key Lab for Novel Software Technology, Nanjing University",
+        "aff": "State Key Lab for Novel Software Technology, Nanjing University; Nanjing University; State Key Lab of CAD&CG, Zhejiang University",
         "track": "main",
         "sess": "Material Acquisition",
-        "doi": "https://doi.org/10.1145/3593798"
+        "doi": "https://doi.org/10.1145/3593798",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=paperstog_123&sess=sess123",
+        "url_sess": ""
     },
     {
         "ssid": "papers_806",
@@ -2483,7 +2933,9 @@
         "aff": "Google Inc.",
         "track": "main",
         "sess": "Text-Guided Generation",
-        "doi": "https://doi.org/10.1145/3592451"
+        "doi": "https://doi.org/10.1145/3592451",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_806&sess=sess120",
+        "url_sess": ""
     },
     {
         "ssid": "papers_213",
@@ -2494,7 +2946,9 @@
         "aff": "University of Bonn",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3592107"
+        "doi": "https://doi.org/10.1145/3592107",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_213&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_380",
@@ -2505,7 +2959,9 @@
         "aff": "Shenzhen University; The Chinese University of Hong Kong",
         "track": "main",
         "sess": "Procedural Modeling",
-        "doi": "https://doi.org/10.1145/3588432.3591508"
+        "doi": "https://doi.org/10.1145/3588432.3591508",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_380&sess=sess110",
+        "url_sess": ""
     },
     {
         "ssid": "papers_206",
@@ -2516,7 +2972,9 @@
         "aff": "MIT",
         "track": "main",
         "sess": "Marvelous Mappings",
-        "doi": "https://doi.org/10.1145/3592105"
+        "doi": "https://doi.org/10.1145/3592105",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_206&sess=sess141",
+        "url_sess": ""
     },
     {
         "ssid": "papers_549",
@@ -2524,10 +2982,12 @@
         "status": "Technical Paper",
         "title": "Variational Shape Reconstruction via Quadric Error Metrics",
         "author": "Tong Zhao, Laurent Bus\u00e9, David Cohen-Steiner, Tamy Boubekeur, Jean-Marc Thiery, Pierre Alliez",
-        "aff": "Adobe Research; INRIA",
+        "aff": "INRIA; Adobe Research",
         "track": "main",
         "sess": "Surface Reconstruction",
-        "doi": "https://doi.org/10.1145/3588432.3591529"
+        "doi": "https://doi.org/10.1145/3588432.3591529",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_549&sess=sess116",
+        "url_sess": ""
     },
     {
         "ssid": "papers_625",
@@ -2538,7 +2998,9 @@
         "aff": "Indian Institute of Science",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3588432.3591539"
+        "doi": "https://doi.org/10.1145/3588432.3591539",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_625&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_558",
@@ -2549,7 +3011,9 @@
         "aff": "Universit\u00e9 C\u00f4te d'Azur, INRIA; Adobe Research; TU Delft",
         "track": "main",
         "sess": "Magical Sketching",
-        "doi": "https://doi.org/10.1145/3592413"
+        "doi": "https://doi.org/10.1145/3592413",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_558&sess=sess108",
+        "url_sess": ""
     },
     {
         "ssid": "papers_642",
@@ -2557,10 +3021,12 @@
         "status": "Technical Paper",
         "title": "Virtual Mirrors: Non-line-of-sight Imaging Beyond the Third Bounce",
         "author": "Diego Royo, Talha Sultan, Adolfo Mu\u00f1oz, Khadijeh Masumnia-Bisheh, Eric Brandt, Diego Gutierrez, Andreas Velten, Julio Marco",
-        "aff": "University of Wisconsin-Madison; Universidad de Zaragoza - I3A",
+        "aff": "Universidad de Zaragoza - I3A; University of Wisconsin-Madison",
         "track": "main",
         "sess": "NeRFs on Earth",
-        "doi": "https://doi.org/10.1145/3592429"
+        "doi": "https://doi.org/10.1145/3592429",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_642&sess=sess134",
+        "url_sess": ""
     },
     {
         "ssid": "papers_496",
@@ -2568,10 +3034,12 @@
         "status": "Technical Paper",
         "title": "Walk on Stars: A Grid-free Monte Carlo Method for PDEs With Neumann Boundary Conditions",
         "author": "Rohan Sawhney, Bailey Miller, Ioannis Gkioulekas, Keenan Crane",
-        "aff": "NVIDIA; Carnegie Mellon University",
+        "aff": "Carnegie Mellon University; NVIDIA",
         "track": "main",
         "sess": "Pushing the Boundaries",
-        "doi": "https://doi.org/10.1145/3592398"
+        "doi": "https://doi.org/10.1145/3592398",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_496&sess=sess135",
+        "url_sess": ""
     },
     {
         "ssid": "papers_499",
@@ -2582,7 +3050,9 @@
         "aff": "Carnegie Mellon University",
         "track": "main",
         "sess": "Geometric Optimization",
-        "doi": "https://doi.org/10.1145/3592401"
+        "doi": "https://doi.org/10.1145/3592401",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_499&sess=sess113",
+        "url_sess": ""
     },
     {
         "ssid": "papers_301",
@@ -2590,10 +3060,12 @@
         "status": "Technical Paper",
         "title": "Word-as-image for Semantic Typography",
         "author": "Shir Iluz, Yael Vinker, Amir Hertz, Daniel Berio, Daniel Cohen-Or, Ariel Shamir",
-        "aff": "Tel Aviv University; Reichman University; Goldsmiths University of London",
+        "aff": "Reichman University; Goldsmiths University of London; Tel Aviv University",
         "track": "main",
         "sess": "Neural Image Generation and Editing",
-        "doi": "https://doi.org/10.1145/3592123"
+        "doi": "https://doi.org/10.1145/3592123",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_301&sess=sess125",
+        "url_sess": ""
     },
     {
         "ssid": "papers_431",
@@ -2601,10 +3073,12 @@
         "status": "Technical Paper",
         "title": "Zero-shot Image-to-image Translation",
         "author": "Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu",
-        "aff": "Adobe; Carnegie Mellon University",
+        "aff": "Carnegie Mellon University; Adobe",
         "track": "main",
         "sess": "Image and Video Editing",
-        "doi": "https://doi.org/10.1145/3588432.3591513"
+        "doi": "https://doi.org/10.1145/3588432.3591513",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_431&sess=sess105",
+        "url_sess": ""
     },
     {
         "ssid": "papers_721",
@@ -2615,7 +3089,9 @@
         "aff": "Seoul National University",
         "track": "main",
         "sess": "Seeing What's in Front of Your Eyes",
-        "doi": "https://doi.org/10.1145/3592441"
+        "doi": "https://doi.org/10.1145/3592441",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_721&sess=sess109",
+        "url_sess": ""
     },
     {
         "ssid": "papers_448",
@@ -2623,9 +3099,11 @@
         "status": "Technical Paper",
         "title": "\u2207-Prox: Differentiable Proximal Algorithm Modeling for Large-scale Optimization",
         "author": "Zeqiang Lai, Kaixuan Wei, Ying Fu, Philipp H\u00e4rtel, Felix Heide",
-        "aff": "Fraunhofer IEE; McGill University; Princeton University; Beijing Institute of Technology; University of Kassel",
+        "aff": "Fraunhofer IEE; McGill University; Beijing Institute of Technology; Princeton University; University of Kassel",
         "track": "main",
         "sess": "Surfaces, Strips, Lights",
-        "doi": "https://doi.org/10.1145/3592144"
+        "doi": "https://doi.org/10.1145/3592144",
+        "url_paper": "https://s2023.siggraph.org/presentation/?id=papers_448&sess=sess137",
+        "url_sess": ""
     }
 ]
