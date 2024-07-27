@@ -1536,7 +1536,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "adversarial;robustness;generative",
-        "author": "",
+        "author": "Sven Gowal, Sylvestre-Alvise Rebuffi, Olivia Wiles, Florian Stimberg, Dan Andrei Calian, Timothy A Mann",
         "aff": "DeepMind, London",
         "rating": "6;6;7;7",
         "confidence": "4;4;4;4",
@@ -1553,7 +1553,9 @@
         "corr_rating_confidence": 0.0,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/31622",
+        "openreview": ""
     },
     {
         "id": "0O5jpovbdHO",
@@ -5920,7 +5922,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "Out-of-Distribution;Regularization;Task-Agnostic",
-        "author": "",
+        "author": "Dongmin Park, Hwanjun Song, Minseok Kim, Jae-Gil Lee",
         "aff": "KAIST; NAVER AI Lab",
         "rating": "6;6;7;7",
         "confidence": "5;4;5;4",
@@ -5937,7 +5939,9 @@
         "corr_rating_confidence": 0.0,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/33051",
+        "openreview": ""
     },
     {
         "id": "4pf_pOo0Dt",
@@ -5972,7 +5976,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "Deep Reinforcement Learning;Interpretability;Attention;Eye Tracking",
-        "author": "",
+        "author": "Sihang Guo, Ruohan Zhang, Bo Liu, Yifeng Zhu, Dana Ballard, Mary Hayhoe, Peter Stone",
         "aff": "Stanford University; UT Austin, Sony AI; UT Austin",
         "rating": "5;7;7;7",
         "confidence": "4;4;3;4",
@@ -5989,7 +5993,9 @@
         "corr_rating_confidence": -0.3333333333333333,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/34847",
+        "openreview": ""
     },
     {
         "id": "4vUZPUKZsr5",
@@ -11493,7 +11499,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "behavioral stylometry;player identification;chess;few-shot classification;transformer",
-        "author": "",
+        "author": "Reid McIlroy-Young, Russell Wang, Siddhartha Sen, Jon Kleinberg, Ashton Anderson",
         "aff": "Cornell University; Microsoft Research; University of Toronto",
         "rating": "4;6;7;7",
         "confidence": "3;4;4;4",
@@ -11510,7 +11516,9 @@
         "corr_rating_confidence": 0.9428090415820632,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/33030",
+        "openreview": ""
     },
     {
         "id": "9RFGrW9z9te",
@@ -13319,7 +13327,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "speech analysis;speech synthesis;voice conversion;self-supervised;information perturbation",
-        "author": "",
+        "author": "Hyeong-Seok Choi, Juheon Lee, Wansoo Kim, Jie Lee, Hoon Heo, Kyogu Lee",
         "aff": "Supertone Inc.; MARG, Department of Intelligence and Information, Seoul National University; GSAI; AIIS; Supertone Inc.; MARG, Department of Intelligence and Information, Seoul National University; Supertone Inc.",
         "rating": "6;6;7;7;7",
         "confidence": "4;4;4;4;2",
@@ -13336,7 +13344,9 @@
         "corr_rating_confidence": -0.40824829046386296,
         "corr_rating_correctness": 0,
         "project": "https://tinyurl.com/eytw7hmb",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/37777",
+        "openreview": ""
     },
     {
         "id": "Ayf90B1yESX",
@@ -24070,7 +24080,7 @@
         "track": "main",
         "status": "Spotlight",
         "keywords": "Fairness;Evolution;Qualification Rate Disparity;Intervention;Replicator Dynamics;Feedback Control",
-        "author": "",
+        "author": "Reilly Raab, Yang Liu",
         "aff": "Computer Science and Engineering, University of California, Santa Cruz, Santa Cruz, CA 95064",
         "rating": "6;8;9",
         "confidence": "3;3;5",
@@ -24087,7 +24097,9 @@
         "corr_rating_confidence": 0.7559289460184546,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/31630",
+        "openreview": ""
     },
     {
         "id": "LDuzgy4iOXr",
@@ -46547,7 +46559,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "offline reinforcement learning;model-based reinforcement learning;deep reinforcement learning",
-        "author": "",
+        "author": "Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn",
         "aff": "Stanford University; Facebook AI Research; UC Berkeley",
         "rating": "6;6;7;8",
         "confidence": "4;4;2;4",
@@ -46564,7 +46576,9 @@
         "corr_rating_confidence": -0.17407765595569782,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/30476",
+        "openreview": ""
     },
     {
         "id": "dUk5Foj5CLf",
@@ -49876,7 +49890,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "GAN;image generation;stylized face synthesis;arbitrary style transfer",
-        "author": "",
+        "author": "Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng",
         "aff": "Y-tech, Kuaishou Technology",
         "rating": "6;6;7;7",
         "confidence": "4;4;4;3",
@@ -49893,7 +49907,9 @@
         "corr_rating_confidence": -0.5773502691896257,
         "corr_rating_correctness": 0,
         "project": "https://onion-liu.github.io/BlendGAN/",
-        "github": "https://github.com/onion-liu/BlendGAN"
+        "github": "https://github.com/onion-liu/BlendGAN",
+        "site": "https://nips.cc/virtual/2021/poster/33053",
+        "openreview": ""
     },
     {
         "id": "gKyyBfMM4Y",
@@ -53832,7 +53848,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "generative models;decoder;representations;out-of-distribution;compositionality",
-        "author": "",
+        "author": "Mike Wu, Noah Goodman, Stefano Ermon",
         "aff": "Department of Computer Science, Stanford University, Stanford, CA 94303",
         "rating": "7;7;8",
         "confidence": "4;4;2",
@@ -53849,7 +53865,9 @@
         "corr_rating_confidence": -1.0,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/33041",
+        "openreview": ""
     },
     {
         "id": "jg9LM8QItms",
@@ -54892,7 +54910,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "Interpretability;Explainability;Deep Neural Networks",
-        "author": "",
+        "author": "Jayneel Parekh, Pavlo Mozharovskyi, Florence d'Alch\u00e9-Buc",
         "aff": "LTCI, T\u00e9l\u00e9com Paris, Institut Polytechnique de Paris, France",
         "rating": "6;6;6;7",
         "confidence": "4;2;5;3",
@@ -54909,7 +54927,9 @@
         "corr_rating_confidence": -0.2581988897471611,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/30495",
+        "openreview": ""
     },
     {
         "id": "kaIcRYq-NpG",
@@ -63017,7 +63037,7 @@
         "track": "main",
         "status": "Poster",
         "keywords": "noisy labels;weakly supervised learning;open-set noisy labels;Out-of-Distribution detection;deep learning",
-        "author": "",
+        "author": "Hongxin Wei, Lue Tao, RENCHUNZI XIE, Bo An",
         "aff": "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China; School of Computer Science and Engineering, Nanyang Technological University, Singapore",
         "rating": "5;6;6;7",
         "confidence": "4;4;4;3",
@@ -63034,7 +63054,9 @@
         "corr_rating_confidence": -0.816496580927726,
         "corr_rating_correctness": 0,
         "project": "",
-        "github": ""
+        "github": "",
+        "site": "https://nips.cc/virtual/2021/poster/37791",
+        "openreview": ""
     },
     {
         "id": "sKWgT8WppC3",
