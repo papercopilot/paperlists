@@ -1,5 +1,9 @@
 # Paper Lists
 
+This repository powers Paper Copilot, combining data from multiple sources to ensure coherence, consistency, and comprehensiveness.
+
+Typically, records from OpenReview, official conference sources, or open access sites are scattered, leading to fragmented information and extra effort to navigate between them. The aim of this repository is to serve as a comprehensive link collection for major conferences, enabling easier access to relevant information, and statistical analysis will be based on these records.
+
 ## [ICLR](https://papercopilot.com/statistics/iclr-statistics/)
 | Year | 2024 | 2023 | 2022 | 2021 | 2020 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
