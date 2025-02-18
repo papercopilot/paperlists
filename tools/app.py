@@ -8,6 +8,24 @@ import json
 import os
 from extract import load_data, filter_data, count_results
 
+def load_conference_data(conference_name):
+    """Load conference data (with automatic path handling)"""
+    possible_paths = [
+        f"paperlists/{conference_name}/{conference_name}2025.json",
+        f"../paperlists/{conference_name}/{conference_name}2025.json",
+        f"{conference_name}/{conference_name}2025.json"
+    ]
+    
+    for path in possible_paths:
+        try:
+            with open(path, encoding='utf-8') as f:
+                return json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            continue
+    
+    st.error(f"Could not find data file for {conference_name}")
+    return None
+
 def main():
     """Main function that sets up the Streamlit interface and handles user interactions."""
     st.title("Paper Search Tool")
@@ -52,7 +70,7 @@ def main():
                 ["iclr", "nips", "icml", "cvpr", "iccv", "eccv", "emnlp", "corl", 
                  "siggraph", "siggraphasia", "www", "wacv", "aistats", "colm"]
             )
-            data = load_data(conference)
+            data = load_conference_data(conference)
             source = conference
         else:  # Multiple Conferences
             conferences = st.multiselect(
@@ -63,7 +81,7 @@ def main():
             if conferences:
                 data = []
                 for conf in conferences:
-                    conf_data = load_data(conf)
+                    conf_data = load_conference_data(conf)
                     if conf_data:
                         data.extend(conf_data)
                 source = "+".join(conferences)
