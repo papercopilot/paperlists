@@ -8,52 +8,31 @@ import argparse
 import os
 import glob
 from typing import List, Dict, Tuple, Optional, Any
+from config import DATA_DIR
 
 
-def load_data(input_path: str) -> Optional[List[Dict[str, Any]]]:
+def load_data(input_file: str) -> Optional[List[Dict[str, Any]]]:
     """
-    Load data from a JSON file or directory.
+    Load JSON data using unified configuration path.
 
     Args:
-        input_path (str): Path to the input JSON file or directory.
+        input_file (str): Path to the JSON file relative to DATA_DIR.
 
     Returns:
-        Optional[List[Dict[str, Any]]]: List containing the data if successful, None otherwise.
+        Optional[List[Dict[str, Any]]]: List of paper data if successful, None otherwise.
     """
+    # Build absolute path
+    absolute_path = os.path.join(DATA_DIR, input_file)
+    
+    # Try to load the file
     try:
-        # Check if input_path is a directory
-        if os.path.isdir(input_path):
-            # Find all JSON files in the directory
-            json_files = glob.glob(os.path.join(input_path, "*.json"))
-            if not json_files:
-                print(f"Error: No JSON files found in directory '{input_path}'.")
-                return None
-            
-            # Load and combine data from all JSON files
-            combined_data = []
-            for json_file in json_files:
-                with open(json_file, encoding='utf-8') as f:
-                    file_data = json.load(f)
-                    if isinstance(file_data, list):
-                        combined_data.extend(file_data)
-                    else:
-                        combined_data.append(file_data)
-            return combined_data
-        else:
-            # Load single JSON file
-            with open(input_path, encoding='utf-8') as f:
-                data = json.load(f)
-            return data if isinstance(data, list) else [data]
-            
+        with open(absolute_path, encoding='utf-8') as f:
+            return json.load(f)
     except FileNotFoundError:
-        print(f"Error: Path '{input_path}' does not exist.")
-        return None
+        print(f"Error: File not found: {absolute_path}")
     except json.JSONDecodeError:
-        print(f"Error: Invalid JSON format in '{input_path}'.")
-        return None
-    except Exception as e:
-        print(f"Error: Failed to load data - {str(e)}")
-        return None
+        print(f"Error: Invalid JSON format in file: {absolute_path}")
+    return None
 
 
 def filter_data(
@@ -142,8 +121,8 @@ def main():
     )
     parser.add_argument(
         "-i", "--input_path",
-        default="iclr2025.json",
-        help="Input JSON file or directory path (default: iclr2025.json)"
+        default="iclr/iclr2025.json",
+        help="Input path relative to paperlists directory (e.g. 'iclr/iclr2025.json')"
     )
     parser.add_argument(
         "-o", "--output_file",

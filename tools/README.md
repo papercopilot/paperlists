@@ -28,10 +28,8 @@ pip install -r requirements.txt
 ## Usage
 
 1. Start the Streamlit application:
-
-For example, to extract papers related to "retrieval" from iclr2025.json:
 ```bash
-python extract.py retrieval -i iclr/iclr2025.json -o retrieval_results.json -f keywords title primary_area topic
+streamlit run app.py
 ```
 
 2. Access the web interface through your browser (typically at `http://localhost:8501`)
