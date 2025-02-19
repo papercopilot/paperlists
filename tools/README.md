@@ -30,6 +30,7 @@ cd paperlists/tools
 ### Command Line
 
 ```bash
+cd tools
 python extract.py [keyword] [-i INPUT_PATH] [-o OUTPUT_FILE] [-f FIELDS...]
 ```
 
@@ -40,5 +41,6 @@ python extract.py [keyword] [-i INPUT_PATH] [-o OUTPUT_FILE] [-f FIELDS...]
 
 Example:
 ```bash
-python extract.py retrieval -i iclr -o results.json -f title keywords
+cd tools
+python extract.py retrieval -i iclr/iclr2025.json -o results.json -f title keywords
 ``` 
