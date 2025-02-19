@@ -24,6 +24,10 @@ def load_data(input_file: str) -> Optional[List[Dict[str, Any]]]:
     # Build absolute path
     absolute_path = os.path.join(DATA_DIR, input_file)
     
+    # Handle case where input_file is a list of lists
+    if isinstance(input_file, list):
+        absolute_path = os.path.join(DATA_DIR, *input_file)
+    
     # Try to load the file
     try:
         with open(absolute_path, encoding='utf-8') as f:
