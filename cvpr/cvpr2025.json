@@ -26,7 +26,7 @@
     {
         "id": "site_c010e35b18",
         "title": "$\\beta$-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation",
-        "author": "Ming Hu, Jianfu Yin, Zhuangzhuang Ma, Jianheng Ma, Feiyu Zhu, Wubingbing, Ya Wen, Meng Wu, C Hu, Bingliang Hu, Quan Wang",
+        "author": "Ming Hu, Jianfu Yin, Zhuangzhuang Ma, Jianheng Ma, Feiyu Zhu, Bingbing Wu, Ya Wen, Meng Wu, C Hu, Bingliang Hu, Quan Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33464"
@@ -216,8 +216,8 @@
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35189"
     },
     {
-        "id": "site_ecb6f1965f",
-        "title": "4DTAM: Non-Rigid Tracking and Mapping via Surface Gaussian Splatting",
+        "id": "site_a0585508bf",
+        "title": "4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians",
         "author": "Hidenobu Matsuki, Gwangbin Bae, Andrew J. Davison",
         "status": "Poster",
         "track": "main",
@@ -682,7 +682,7 @@
     {
         "id": "site_e9651b1d2b",
         "title": "AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion",
-        "author": "Mingzhen Sun, Weining Wang, Gen Li, Jiawei Liu, Jiahui Sun, Wanquan Feng, Shanshan Lao, SiYu Zhou, Qian HE, Jing Liu",
+        "author": "Mingzhen Sun, Weining Wang, Li, Jiawei Liu, Jiahui Sun, Wanquan Feng, Shanshan Lao, SiYu Zhou, Qian HE, Jing Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34977"
@@ -1194,7 +1194,7 @@
     {
         "id": "site_993237395a",
         "title": "Align3R: Aligned Monocular Depth Estimation for Dynamic Videos",
-        "author": "Edward Loo, Tianyu HUANG, Peng Li, Zhiyang Dou, Cheng Lin, Zhiming Cui, Zhen Dong, Sai-Kit Yeung, Wenping Wang, Yuan Liu",
+        "author": "Edward LOO, Tianyu HUANG, Peng Li, Zhiyang Dou, Cheng Lin, Zhiming Cui, Zhen Dong, Sai-Kit Yeung, Wenping Wang, Yuan Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32671"
@@ -1282,7 +1282,7 @@
     {
         "id": "site_d3ff62bbc8",
         "title": "Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model",
-        "author": "Yejee Shin, Ye eun Lee, Hanbyol Jang, Geonhui Son, Hyeongyu Kim, Dosik Hwang",
+        "author": "Yejee Shin, Yeeun Lee, Hanbyol Jang, Geonhui Son, Hyeongyu Kim, Dosik Hwang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34126"
@@ -1970,7 +1970,7 @@
     {
         "id": "site_f1b4b03808",
         "title": "BWFormer: Building Wireframe Reconstruction from airborne LiDAR point clouds with Transformer",
-        "author": "yuzhou liu, Lingjie Zhu, Hanqiao Ye, Shangfeng Huang, Xiang Gao, Xianwei Zheng, Shuhan Shen",
+        "author": "Yuzhou Liu, Lingjie Zhu, Hanqiao Ye, Shangfeng Huang, Xiang Gao, Xianwei Zheng, Shuhan Shen",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32868"
@@ -2082,7 +2082,7 @@
     {
         "id": "site_e17940ae42",
         "title": "Beyond Human Perception: Understanding Multi-Object World from Monocular View",
-        "author": "Keyu Guo, yongle huang, Shijie Sun, Xiangyu Song, Mingtao Feng, Zedong Liu, Huansheng Song, Tiantian Wang, Jianxin Li, Naveed Akhtar, Ajmal Mian",
+        "author": "Keyu Guo, Yongle Huang, Shijie Sun, Xiangyu Song, Mingtao Feng, Zedong Liu, Huansheng Song, Tiantian Wang, Jianxin Li, Naveed Akhtar, Ajmal Mian",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34458"
@@ -4114,7 +4114,7 @@
     {
         "id": "site_c9a7eabe8d",
         "title": "DFM: Differentiable Feature Matching for Anomaly Detection",
-        "author": "Sheng Wu, Yimi Wang, Xudong Liu, Yuguang Yang, Runqi Wang, Guodong Guo, David Doermann, Baochang Zhang",
+        "author": "Wu Sheng, Yimi Wang, Xudong Liu, Yuguang Yang, Runqi Wang, Guodong Guo, David Doermann, Baochang Zhang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34032"
@@ -6050,7 +6050,7 @@
     {
         "id": "site_abfd8c1e86",
         "title": "ESCAPE: Equivariant Shape Completion via Anchor Point Encoding",
-        "author": "Burak Bekci, Nassir Navab, Federico Tombari, Saleh",
+        "author": "Burak Bekci, Nassir Navab, Federico Tombari, Mahdi Saleh",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32806"
@@ -6066,7 +6066,7 @@
     {
         "id": "site_238cfc3455",
         "title": "EVPGS: Enhanced View Prior Guidance for Splatting-based Extrapolated View Synthesis",
-        "author": "Jiahe Li, Feiyu Wang, Xiaochao Qu, WU CHENGJING, Xiaochao Qu, Ting Liu",
+        "author": "Jiahe Li, Feiyu Wang, Xiaochao Qu, WU CHENGJING, Luoqi Liu, Ting Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32538"
@@ -7866,7 +7866,7 @@
     {
         "id": "site_f5bfc74beb",
         "title": "FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation",
-        "author": "Sen Wang, Sen Wang, Le Wang, Sanping Zhou, Jingyi Tian, lijiayi, Haowen Sun, Wei Tang",
+        "author": "Sen Wang, Le Wang, Sanping Zhou, Jingyi Tian, lijiayi, Haowen Sun, Wei Tang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33579"
@@ -8170,7 +8170,7 @@
     {
         "id": "site_4193b450b6",
         "title": "From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification",
-        "author": "Jiang Yan, Hao Yu, Xu Cheng, Haoyu Chen, Zhaodong Sun, Guoying Zhao",
+        "author": "Yan Jiang, Hao Yu, Xu Cheng, Haoyu Chen, Zhaodong Sun, Guoying Zhao",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34454"
@@ -9034,7 +9034,7 @@
     {
         "id": "site_43aaa4bc75",
         "title": "GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing",
-        "author": "Tong Wang, Ting Liu, Xiaochao Qu, WU CHENGJING, Xiaochao Qu, Xiaolin Hu",
+        "author": "Tong Wang, Ting Liu, Xiaochao Qu, WU CHENGJING, Luoqi Liu, Xiaolin Hu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32899"
@@ -9330,7 +9330,7 @@
     {
         "id": "site_0307826451",
         "title": "HSI-GPT: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction",
-        "author": "Yuan Wang, Yali Li, Lixiang, Shengjin Wang",
+        "author": "Yuan Wang, Yali Li, Lixiang Li, Shengjin Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35243"
@@ -9466,7 +9466,7 @@
     {
         "id": "site_707c5b0746",
         "title": "HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration",
-        "author": "Shaocheng Yan, Shaocheng Yan, Yiming Wang, Kaiyan Zhao, Pengcheng Shi, Zhenjun Zhao, Yongjun Zhang, Jiayuan Li",
+        "author": "Shaocheng Yan, Yiming Wang, Kaiyan Zhao, Pengcheng Shi, Zhenjun Zhao, Yongjun Zhang, Jiayuan Li",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33591"
@@ -9818,7 +9818,7 @@
     {
         "id": "site_5a84255756",
         "title": "HumanMM: Global Human Motion Recovery from Multi-shot Videos",
-        "author": "Yuhong Zhang, Guanlin Wu, Ling-Hao Chen, Zhuokai Zhao, Jing Lin, Xiaoke Jiang, Jiamin WU, Zhuoheng Li, Hao Frank Yang, Haoqian Wang, Lei Zhang",
+        "author": "Guanlin Wu, Guanlin Wu, Ling-Hao Chen, Zhuokai Zhao, Jing Lin, Xiaoke Jiang, Jiamin WU, Zhuoheng Li, Hao Frank Yang, Haoqian Wang, Lei Zhang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32816"
@@ -10202,7 +10202,7 @@
     {
         "id": "site_51b773712b",
         "title": "Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation",
-        "author": "Hejin Oh, Woo-Shik Kim, Sangyoon Lee, YungKyung Park, Jewon Kang",
+        "author": "Hyejin Oh, Woo-Shik Kim, Sangyoon Lee, YungKyung Park, Jewon Kang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35200"
@@ -10330,7 +10330,7 @@
     {
         "id": "site_662c6b9592",
         "title": "Implicit Correspondence Learning for Image-to-Point Cloud Registration",
-        "author": "Xinjun Li, Wenfei Yang, Eric Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang",
+        "author": "Xinjun Li, Wenfei Yang, Jiacheng Deng, Zhixin Cheng, Xu Zhou, Tianzhu Zhang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32978"
@@ -10730,7 +10730,7 @@
     {
         "id": "site_3d3d457b88",
         "title": "Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline",
-        "author": "Junlong Cheng, Bin Fu, Jin Ye, Guoan Wang, Tianbin Tianbin, Haoyu Wang, Ruoyu Li, He Yao, Chen Junren, Jingwen Li, Yanzhou Su, Min Zhu, Junjun He",
+        "author": "Junlong Cheng, Bin Fu, Jin Ye, Guoan Wang, Tianbin Li, Haoyu Wang, Ruoyu Li, He Yao, Chen Junren, Jingwen Li, Yanzhou Su, Min Zhu, Junjun He",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32437"
@@ -11098,7 +11098,7 @@
     {
         "id": "site_60021c2c02",
         "title": "LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living",
-        "author": "Dominick Reilly, Rajatsubhra Chakraborty, A Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das",
+        "author": "Dominick Reilly, Rajatsubhra Chakraborty, Arkaprava Sinha, Manish Kumar Govind, Pu Wang, Francois Bremond, Le Xue, Srijan Das",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33501"
@@ -11130,7 +11130,7 @@
     {
         "id": "site_c04a947a66",
         "title": "LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding",
-        "author": "Hongyu Li, Jinyu Chen, Ziyu Wei, Shaofei Huang, Tianrui Hui, Jialin Gao, Jialin Gao, Xiaoming Wei, Si Liu",
+        "author": "Hongyu Li, Jinyu Chen, Ziyu Wei, Shaofei Huang, Tianrui Hui, Jialin Gao, Xiaoming Wei, Si Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33958"
@@ -12266,7 +12266,7 @@
     {
         "id": "site_bb3b2fe25c",
         "title": "MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Genaration",
-        "author": "Jinnan Chen, Lingting Zhu, Tao Hu, Zeyu HU, Hao Zhang, Shengju Qian, Yugang Chen, Xin Wang, Gim Hee Lee",
+        "author": "Jinnan Chen, Lingting Zhu, Zeyu HU, Shengju Qian, Yugang Chen, Xin Wang, Gim Hee Lee",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32965"
@@ -12498,7 +12498,7 @@
     {
         "id": "site_025cd0511e",
         "title": "MLLM-as-a-Judge for Image Safety without Human Labeling",
-        "author": "Zhenting Wang, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Jack Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, nan jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain",
+        "author": "Zhenting Wang, Shuming Hu, Shiyu Zhao, Xiaowen Lin, Felix Juefei-Xu, Zhuowei Li, Ligong Han, Harihar Subramanyam, Li Chen, Jianfa Chen, nan jiang, Lingjuan Lyu, Shiqing Ma, Dimitris N. Metaxas, Ankit Jain",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34185"
@@ -12506,7 +12506,7 @@
     {
         "id": "site_a64c198480",
         "title": "MLVU: Benchmarking Multi-task Long Video Understanding",
-        "author": "Junjie Zhou, Junjie Zhou, Yan Shu, Bo Zhao, Boya Wu, Zhengyang Liang, Shitao Xiao, Minghao Qin, Xi Yang, yongping xiong, Bo Zhang, Tiejun Huang, Zheng Liu",
+        "author": "Junjie Zhou, Yan Shu, Bo Zhao, Boya Wu, Zhengyang Liang, Shitao Xiao, Minghao Qin, Xi Yang, yongping xiong, Bo Zhang, Tiejun Huang, Zheng Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33659"
@@ -12578,7 +12578,7 @@
     {
         "id": "site_8ef3f81959",
         "title": "MOS-Attack: A Scalable Multi-objective Adversarial Attack Framework",
-        "author": "Ping Guo, Cheng Gong, Fei Liu, Xi Lin, Zhichao Lu, and Kalyanmoy Deb, Zhenkun Wang",
+        "author": "Ping Guo, Cheng Gong, Fei Liu, Xi Lin, Zhichao Lu, Qingfu Zhang, Zhenkun Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33923"
@@ -12618,7 +12618,7 @@
     {
         "id": "site_8bd68eb557",
         "title": "MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting",
-        "author": "jun huang, Ting Liu, Yihang Wu, Xiaochao Qu, Xiaochao Qu, Xiaolin Hu",
+        "author": "jun huang, Ting Liu, Yihang Wu, Xiaochao Qu, Luoqi Liu, Xiaolin Hu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35066"
@@ -12674,7 +12674,7 @@
     {
         "id": "site_c5c6cb0bfd",
         "title": "MVDoppler-Pose: Multi-Modal Multi-View mmWave Sensing for Long-Distance Self-Occluded Human Walking Pose Estimation",
-        "author": "Jae-Ho Choi, Jae-Ho Choi, Soheil Hor, Shubo Yang, Amin Arbabian",
+        "author": "Jae-Ho Choi, Soheil Hor, Shubo Yang, Amin Arbabian",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33124"
@@ -13930,7 +13930,7 @@
     {
         "id": "site_0857434662",
         "title": "NTClick: Achieving Precise Interactive Segmentation With Noise-tolerant Clicks",
-        "author": "Chenyi Zhang, Ting Liu, Xiaochao Qu, Xiaochao Qu, Yao Zhao, Yunchao Wei",
+        "author": "Chenyi Zhang, Ting Liu, Xiaochao Qu, Luoqi Liu, Yao Zhao, Yunchao Wei",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34710"
@@ -14850,7 +14850,7 @@
     {
         "id": "site_7c377d4869",
         "title": "Optimal Transport-Guided Source-Free Adaptation for Face Anti-Spoofing",
-        "author": "Jack Li, Tianchen Zhao, Xiang Xu, Zheng Zhang, Zhihua Li, Xuanbai Chen, Qin ZHANG, Alessandro Bergamo, Anil Kumar Jain, Yifan Xing",
+        "author": "Zhuowei Li, Tianchen Zhao, Xiang Xu, Zheng Zhang, Zhihua Li, Xuanbai Chen, Qin ZHANG, Alessandro Bergamo, Anil Kumar Jain, Yifan Xing",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32641"
@@ -14970,7 +14970,7 @@
     {
         "id": "site_a8b58ea54b",
         "title": "PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation",
-        "author": "Jingyi Tian, Le Wang, Sanping Zhou, Sen Wang, Sen Wang, lijiayi, Haowen Sun, Wei Tang",
+        "author": "Jingyi Tian, Le Wang, Sanping Zhou, Sen Wang, lijiayi, Haowen Sun, Wei Tang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33943"
@@ -15506,7 +15506,7 @@
     {
         "id": "site_38ace1fafa",
         "title": "PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset",
-        "author": "Jiazhen Liu, Yuhan Fu, Ruobing Xie, RunquanXie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li",
+        "author": "Jiazhen Liu, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33126"
@@ -16834,7 +16834,7 @@
     {
         "id": "site_5103f01e4c",
         "title": "Recreating 1940s Tom and Jerry with Test-Time Training",
-        "author": "Jiarui Xu, Shihao Han, Karan Dalal, Daniel Koceja, Xinhao Li, Yue Zhao, Ka Chun Cheung, Yejin Choi, Jan Kautz, Yu Sun, Sifei Liu, Xiaolong Wang",
+        "author": "Jiarui Xu, Shihao Han, Karan Dalal, Daniel Koceja, Yue Zhao, Ka Chun Cheung, Yejin Choi, Jan Kautz, Yu Sun, Xiaolong Wang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33506"
@@ -16930,7 +16930,7 @@
     {
         "id": "site_c0981c37d4",
         "title": "Relation3D : Enhancing Relation Modeling for Point Cloud Instance Segmentation",
-        "author": "Edward Loo, Jiacheng Deng",
+        "author": "Edward LOO, Jiacheng Deng",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33783"
@@ -17442,7 +17442,7 @@
     {
         "id": "site_f4eb053713",
         "title": "Rotation-Equivariant Self-Supervised Method in Image Denoising",
-        "author": "Liu Hanze, Jiahong Fu, Qi Xie, Deyu Meng",
+        "author": "Hanze Liu, Jiahong Fu, Qi Xie, Deyu Meng",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33832"
@@ -17522,7 +17522,7 @@
     {
         "id": "site_2246dd4b87",
         "title": "SAM-REF: Introducing Image-Prompt Synergy during Interaction for Detail Enhancement in the Segment Anything Model",
-        "author": "Chongkai Yu, Ting Liu, Li Anqi, Xiaochao Qu, WU CHENGJING, Xiaochao Qu, Xiaolin Hu",
+        "author": "Chongkai Yu, Ting Liu, Li Anqi, Xiaochao Qu, WU CHENGJING, Luoqi Liu, Xiaolin Hu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34301"
@@ -18138,7 +18138,7 @@
     {
         "id": "site_c8e78cedd0",
         "title": "Scaling Mesh Generation via Compressive Tokenization",
-        "author": "Haohan Weng, Zibo Zhao, Biwen Lei, Xianghui Yang, Xianghui Yang, Jian Liu, Zeqiang Lai, Zhuo Chen, Liu Yuhong, Jie Jiang, Chunchao Guo, Tong Zhang, Shenghua Gao, C.L.Philip Chen",
+        "author": "Haohan Weng, Zibo Zhao, Biwen Lei, Xianghui Yang, Jian Liu, Zeqiang Lai, Zhuo Chen, Liu Yuhong, Jie Jiang, Chunchao Guo, Tong Zhang, Shenghua Gao, C.L.Philip Chen",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33503"
@@ -18786,7 +18786,7 @@
     {
         "id": "site_f44aae05df",
         "title": "Show and Segment: Universal Medical Image Segmentation via In-Context Learning",
-        "author": "Yunhe Gao, Di Liu, Jack Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas",
+        "author": "Yunhe Gao, Di Liu, Zhuowei Li, Yunsheng Li, Dongdong Chen, Mu Zhou, Dimitris N. Metaxas",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32547"
@@ -19002,7 +19002,7 @@
     {
         "id": "site_b34a666d02",
         "title": "SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding",
-        "author": "Ying Chen, Guoan Wang, Yuanfeng Ji, Yanjun Li, Jin Ye, Tianbin Tianbin, Ming Hu, Rongshan Yu, Yu Qiao, Junjun He",
+        "author": "Ying Chen, Guoan Wang, Yuanfeng Ji, Yanjun Li, Jin Ye, Tianbin Li, Ming Hu, Rongshan Yu, Yu Qiao, Junjun He",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35105"
@@ -19042,7 +19042,7 @@
     {
         "id": "site_46fa5c0653",
         "title": "SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning",
-        "author": "Seokju Yun, SeunghyeChae, Dongheon Lee, Youngmin Ro",
+        "author": "Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34157"
@@ -19506,7 +19506,7 @@
     {
         "id": "site_42ea3fc60a",
         "title": "Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic",
-        "author": "JIANWEI TANG, Hong Yang, Tengyue Chen, Jian-Fang Hu",
+        "author": "Jianwei Tang, Hong Yang, Tengyue Chen, Jian-Fang Hu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32852"
@@ -19738,7 +19738,7 @@
     {
         "id": "site_cbd4febc05",
         "title": "SyncSDE: A Probabilistic Framework for Why Diffusion Synchronization Works",
-        "author": "",
+        "author": "Hyunjun Lee, Hyunsoo Lee, Sookwan Han",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/35264"
@@ -19946,7 +19946,7 @@
     {
         "id": "site_ebf8f6955d",
         "title": "TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation",
-        "author": "Yabiao Wang, Shuo Wang, Jiangning Zhang, Ke Fan, Jiafu Wu, Xuezhucun, Yong Liu",
+        "author": "Yabiao Wang, Shuo Wang, Jiangning Zhang, Ke Fan, Jiafu Wu, Xuezhucun Xue, Yong Liu",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32570"
@@ -20706,7 +20706,7 @@
     {
         "id": "site_10ceaf3496",
         "title": "Towards Generalizable Scene Change Detection",
-        "author": "JAEWOO KIM, Ue-Hwan Kim",
+        "author": "Jae-Woo KIM, Ue-Hwan Kim",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34711"
@@ -20954,7 +20954,7 @@
     {
         "id": "site_00ee98438a",
         "title": "Towards Vision Language Models For Extra-Long Video Understanding",
-        "author": "Yan Shu, Zheng Liu, Peitian Zhang, Minghao Qin, Junjie Zhou, Junjie Zhou, Zhengyang Liang, Tiejun Huang, Bo Zhao",
+        "author": "Yan Shu, Zheng Liu, Peitian Zhang, Minghao Qin, Junjie Zhou, Zhengyang Liang, Tiejun Huang, Bo Zhao",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33367"
@@ -21434,7 +21434,7 @@
     {
         "id": "site_15453c239e",
         "title": "Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion",
-        "author": "ZhiFei Chen, Tianshuo Xu, Tianshuo Xu, Wenhang Ge, Leyi Wu, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Ying-Cong Chen",
+        "author": "ZhiFei Chen, Tianshuo Xu, Wenhang Ge, Leyi Wu, Dongyu Yan, Jing He, Luozhou Wang, Lu Zeng, Shunsi Zhang, Ying-Cong Chen",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32575"
@@ -21466,7 +21466,7 @@
     {
         "id": "site_fba5baf46d",
         "title": "UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping",
-        "author": "Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo",
+        "author": "Wenbo Wang, Fangyun Wei, Lei Zhou, Xi Chen, Lin Luo, Xiaohan Yi, Yizhong Zhang, Yaobo Liang, Chang Xu, Yan Lu, Jiaolong Yang, Baining Guo",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34554"
@@ -21538,7 +21538,7 @@
     {
         "id": "site_1f68d07559",
         "title": "UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior",
-        "author": "I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang",
+        "author": "I-Hsiang (Aaron) Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33166"
@@ -21546,7 +21546,7 @@
     {
         "id": "site_d0908485ef",
         "title": "UniSTD: Towards Unified Spatio-Temporal Prediction across Diverse Disciplines",
-        "author": "Chen Tang, Xinzhu Ma, Xinzhu Ma, Encheng Su, Xiufeng Song, Xiaohong Liu, Wei-Hong Li, Lei Bai, Wanli Ouyang, Xiangyu Yue",
+        "author": "Chen Tang, Xinzhu Ma, Encheng Su, Xiufeng Song, Xiaohong Liu, Wei-Hong Li, Lei Bai, Wanli Ouyang, Xiangyu Yue",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/32957"
@@ -22338,7 +22338,7 @@
     {
         "id": "site_54cb626115",
         "title": "VideoSPatS: Video Spatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing",
-        "author": "Juan Luis Gonzalez Bello, Xu YAO, Alex Whelan, Kyle Olszewski, Hyeongwoo Kim, Pablo Garrido",
+        "author": "Juan Luis Gonzalez Bello, Xu Yao, Alex Whelan, Kyle Olszewski, Hyeongwoo Kim, Pablo Garrido",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34725"
@@ -22450,7 +22450,7 @@
     {
         "id": "site_8194fbe684",
         "title": "VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving",
-        "author": "Haiming Zhang, Wending Zhou, Shenzhen The Chinese University of Hongkong",
+        "author": "Haiming Zhang, Wending Zhou, Shenzhen The Chinese University of Hongkong, Hong Kong University of Science and Technology, Huawei Technologies Ltd., Huawei Technologies Ltd., Huawei Technologies Ltd., Huawei Technologies Ltd., Huawei Technologies Ltd., Shenzhen The Chinese University of Hong Kong",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/34998"
@@ -22546,7 +22546,7 @@
     {
         "id": "site_c08a75c8a7",
         "title": "Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution",
-        "author": "ZELIN LI, Chenwei Wang, Zhaoke Huang, Centre for Intelligent Multidimensional Data Analysis, Hong Kong Baptist University, Hong Kong Baptist University",
+        "author": "ZELIN LI, Chenwei Wang, Zhaoke Huang, Centre for Intelligent Multidimensional Data Analysis, Hong Kong Baptist University, Hong Kong Baptist University, Hong Kong Baptist University",
         "status": "Poster",
         "track": "main",
         "site": "https://cvpr.thecvf.com/virtual/2025/poster/33499"
