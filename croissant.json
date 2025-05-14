@@ -1,0 +1,75 @@
+{
+    "@context": {
+        "@language": "en",
+        "@vocab": "https://schema.org/",
+        "arrayShape": "cr:arrayShape",
+        "citeAs": "cr:citeAs",
+        "column": "cr:column",
+        "conformsTo": "dct:conformsTo",
+        "cr": "http://mlcommons.org/croissant/",
+        "data": {
+            "@id": "cr:data",
+            "@type": "@json"
+        },
+        "dataBiases": "cr:dataBiases",
+        "dataCollection": "cr:dataCollection",
+        "dataType": {
+            "@id": "cr:dataType",
+            "@type": "@vocab"
+        },
+        "dct": "http://purl.org/dc/terms/",
+        "extract": "cr:extract",
+        "field": "cr:field",
+        "fileProperty": "cr:fileProperty",
+        "fileObject": "cr:fileObject",
+        "fileSet": "cr:fileSet",
+        "format": "cr:format",
+        "includes": "cr:includes",
+        "isArray": "cr:isArray",
+        "isLiveDataset": "cr:isLiveDataset",
+        "jsonPath": "cr:jsonPath",
+        "key": "cr:key",
+        "md5": "cr:md5",
+        "parentField": "cr:parentField",
+        "path": "cr:path",
+        "personalSensitiveInformation": "cr:personalSensitiveInformation",
+        "recordSet": "cr:recordSet",
+        "references": "cr:references",
+        "regex": "cr:regex",
+        "repeated": "cr:repeated",
+        "replace": "cr:replace",
+        "sc": "https://schema.org/",
+        "separator": "cr:separator",
+        "source": "cr:source",
+        "subField": "cr:subField",
+        "transform": "cr:transform"
+    },
+    "@type": "sc:Dataset",
+    "distribution": [
+        {
+            "@type": "cr:FileObject",
+            "@id": "repo",
+            "name": "repo",
+            "description": "The Hugging Face git repository.",
+            "contentUrl": "https://huggingface.co/datasets/papercopilot/paperlists/tree/refs%2Fconvert%2Fparquet",
+            "encodingFormat": "git+https",
+            "sha256": "https://github.com/mlcommons/croissant/issues/80"
+        }
+    ],
+    "recordSet": [],
+    "conformsTo": "http://mlcommons.org/croissant/1.1",
+    "name": "paperlists",
+    "description": "\n\t\n\t\t\n\t\tPaper Lists\n\t\n\nThis repository powers Paper Copilot, combining data from multiple sources to ensure coherence, consistency, and comprehensiveness.\nTypically, records from OpenReview, official conference sources, or open access sites are scattered, leading to fragmented information and extra effort to navigate between them. The aim of this repository is to serve as a comprehensive link collection for major conferences, enabling easier access to relevant information, and statistical\u2026 See the full description on the dataset page: https://huggingface.co/datasets/papercopilot/paperlists.",
+    "alternateName": [
+        "papercopilot/paperlists"
+    ],
+    "creator": {
+        "@type": "Organization",
+        "name": "Paper Copilot",
+        "url": "https://huggingface.co/papercopilot"
+    },
+    "keywords": [
+        "\ud83c\uddfa\ud83c\uddf8 Region: US"
+    ],
+    "url": "https://huggingface.co/datasets/papercopilot/paperlists"
+}
