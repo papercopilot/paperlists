@@ -449,15 +449,15 @@
         "github": "",
         "project": "https://gitlab.com/marvl-hipt/hipt",
         "author_num": 3,
-        "aff_unique_index": "0;0;0",
-        "aff_unique_norm": "Singapore University of Technology and Design",
+        "aff_unique_index": "",
+        "aff_unique_norm": "",
         "aff_unique_dep": "",
-        "aff_unique_url": "https://www.sutd.edu.sg",
-        "aff_unique_abbr": "SUTD",
+        "aff_unique_url": "",
+        "aff_unique_abbr": "",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
-        "aff_country_unique_index": "0;0;0",
-        "aff_country_unique": "Singapore"
+        "aff_country_unique_index": "",
+        "aff_country_unique": ""
     },
     {
         "id": "paper835",
@@ -520,10 +520,10 @@
         "aff_unique_dep": ";",
         "aff_unique_url": "https://www.um.edu.mo;http://www.siat.cas.cn",
         "aff_unique_abbr": "UM;SIAT",
-        "aff_campus_unique_index": "1;1",
-        "aff_campus_unique": ";Shenzhen",
-        "aff_country_unique_index": "0;0+1;1;0",
-        "aff_country_unique": "Macau;China"
+        "aff_campus_unique_index": "0;0+1;1;0",
+        "aff_campus_unique": "Macau SAR;Shenzhen",
+        "aff_country_unique_index": "0;0+0;0;0",
+        "aff_country_unique": "China"
     },
     {
         "id": "paper408",
@@ -1143,8 +1143,8 @@
         "aff_unique_dep": "School of Computing;Department of Computer Science and Engineering",
         "aff_unique_url": "https://www.mq.edu.au;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "MQ;CUHK",
-        "aff_campus_unique_index": "0;0;0",
-        "aff_campus_unique": "Sydney;",
+        "aff_campus_unique_index": "0;0;0;1",
+        "aff_campus_unique": "Sydney;Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;1",
         "aff_country_unique": "Australia;China"
     },
@@ -1174,7 +1174,7 @@
         "aff_unique_index": "0;1;2;3+4;3+4;3+4;0",
         "aff_unique_norm": "Bielefeld University;Paderborn University;Leibniz University Hannover;LMU Munich;Munich Center for Machine Learning",
         "aff_unique_dep": "Decision and Operation Technologies Group;Department of Computer Science;Institute of Artificial Intelligence;Institute of Informatics;",
-        "aff_unique_url": "https://www.uni-bielefeld.de;https://www.uni-paderborn.de;https://www.uni-hannover.de;https://www.lmu.de;",
+        "aff_unique_url": "https://www.uni-bielefeld.de;https://www.uni-paderborn.de;https://www.uni-hannover.de;https://www.lmu.de;https://www.munich-center-for-machine-learning.de",
         "aff_unique_abbr": ";Uni Paderborn;LUH;LMU;",
         "aff_campus_unique_index": "0;1;2;3+3;3+3;3+3;0",
         "aff_campus_unique": "Bielefeld;Paderborn;Hannover;Munich",
@@ -1374,8 +1374,8 @@
         "aff_unique_dep": ";;",
         "aff_unique_url": "https://www.nus.edu.sg;https://www.scu.edu.cn;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "NUS;SCU;CUHK",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;1;1;0",
         "aff_country_unique": "Singapore;China"
     },
@@ -1405,7 +1405,7 @@
         "aff_unique_index": "0;0;0;1;0;0;0",
         "aff_unique_norm": "Huawei Noah\u2019s Ark Lab;Shanghai Jiao Tong University",
         "aff_unique_dep": ";",
-        "aff_unique_url": "https://www.huawei.com/en/ai/noahs-ark-lab;https://www.sjtu.edu.cn",
+        "aff_unique_url": "https://www.huawei.com/en/research/labs/noahs-ark-lab;https://www.sjtu.edu.cn",
         "aff_unique_abbr": "HNA Lab;SJTU",
         "aff_campus_unique_index": "0;0;2;3;3;0",
         "aff_campus_unique": "Shenzhen;;Shanghai;Montreal",
@@ -1539,8 +1539,8 @@
         "aff_unique_dep": ";Tencent AI Lab",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://ai.tencent.com",
         "aff_unique_abbr": "CUHK;Tencent AI Lab",
-        "aff_campus_unique_index": ";",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;0+0;0;0+0",
         "aff_country_unique": "China"
     },
@@ -1570,7 +1570,7 @@
         "aff_unique_index": "0+1+2;1+2;1+2;3+2",
         "aff_unique_norm": "University of Paderborn;Technische Universit\u00e4t Dresden;Centre for Tactile Internet with Human-in-the-Loop;Eindhoven University of Technology",
         "aff_unique_dep": ";;;",
-        "aff_unique_url": "https://www.uni-paderborn.de;https://tu-dresden.de;;https://www.tue.nl",
+        "aff_unique_url": "https://www.upb.de/;https://tu-dresden.de;;https://www.tue.nl",
         "aff_unique_abbr": "UPB;TUD;CeTI;TU/e",
         "aff_campus_unique_index": ";;;",
         "aff_campus_unique": "",
@@ -1901,7 +1901,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0",
-        "aff_country_unique": "Korea"
+        "aff_country_unique": "South Korea"
     },
     {
         "id": "paper406",
@@ -1962,7 +1962,7 @@
         "aff_unique_index": "0;0;1+2;0+2;2;3;1;1",
         "aff_unique_norm": "Jilin University;Zhejiang University;Zhejiang Lab;Black Sesame Technologies",
         "aff_unique_dep": "College of Computer Science and Technology;School of Cyber Science and Technology;;",
-        "aff_unique_url": "http://www.jlu.edu.cn;https://www.zju.edu.cn;http://www.zhejianglab.com;",
+        "aff_unique_url": "http://www.jlu.edu.cn;http://www.zju.edu.cn;http://www.zhejianglab.com;",
         "aff_unique_abbr": "JLU;ZJU;;",
         "aff_campus_unique_index": ";",
         "aff_campus_unique": "",
@@ -2130,9 +2130,9 @@
         "aff_unique_url": "http://www.cas.cn;http://www.ucas.ac.cn;https://www.um.edu.mo;https://www.ust.hk;https://www.ucf.edu",
         "aff_unique_abbr": "CAS;UCAS;UM;HKUST;UCF",
         "aff_campus_unique_index": "0+0;0+0;1;2;0+0;0+0;3",
-        "aff_campus_unique": "Beijing;Macau;Guangzhou;Orlando",
-        "aff_country_unique_index": "0+0;0+0;1;0;0+0;0+0;2",
-        "aff_country_unique": "China;Macau;United States"
+        "aff_campus_unique": "Beijing;Macau SAR;Hong Kong SAR;Orlando",
+        "aff_country_unique_index": "0+0;0+0;0;0;0+0;0+0;1",
+        "aff_country_unique": "China;United States"
     },
     {
         "id": "paper514",
@@ -2440,8 +2440,8 @@
         "gs_citation": 0,
         "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:hcm2zD4V0_oJ:scholar.google.com/&scioq=Algorithmic+Motion+Planning+Meets+Minimially-Invasive+Robotic+Surgery&hl=en&as_sdt=0,5",
         "gs_version_total": 3,
-        "aff_domain": "uci.edu;uci.edu;dgist.ac.kr;ucsd.edu",
-        "email": "uci.edu;uci.edu;dgist.ac.kr;ucsd.edu",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -2578,8 +2578,8 @@
         "aff_unique_index": "0+0;0+0;1;0+2;0+2",
         "aff_unique_norm": "Huazhong University of Science and Technology;Beijing Institute of Technology;Ping An Property & Casualty Insurance Company of China, Ltd",
         "aff_unique_dep": "School of Computer Science and Technology;Department of Computer Science and Technology;",
-        "aff_unique_url": ";http://www.bit.edu.cn/;https://www.pingan.com",
-        "aff_unique_abbr": ";BIT;Ping An",
+        "aff_unique_url": "http://www.hust.edu.cn;http://www.bit.edu.cn/;https://www.pingan.com",
+        "aff_unique_abbr": "HUST;BIT;Ping An",
         "aff_campus_unique_index": ";;;",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+0;0+0;0;0+0;0+0",
@@ -3631,7 +3631,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+1;2;2",
-        "aff_country_unique": "Japan;United Kingdom;The Netherlands"
+        "aff_country_unique": "Japan;United Kingdom;Netherlands"
     },
     {
         "id": "paper218",
@@ -3829,7 +3829,7 @@
         "aff_campus_unique_index": ";;;",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0+1;0;0+1;0+0+0;0+0",
-        "aff_country_unique": "Germany;the Netherlands"
+        "aff_country_unique": "Germany;Netherlands"
     },
     {
         "id": "paper234",
@@ -3860,7 +3860,7 @@
         "aff_unique_url": "http://www.ustc.edu.cn;;https://www.huawei.com;https://www.ust.hk",
         "aff_unique_abbr": "USTC;;Huawei;HKUST",
         "aff_campus_unique_index": ";1;;;1;",
-        "aff_campus_unique": ";Guangzhou",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0+0;0;0;0+0;0+0;0;0+0",
         "aff_country_unique": "China"
     },
@@ -4090,10 +4090,10 @@
         "aff_unique_dep": ";SKLSDE Lab;;;Department of Computer and Information Science",
         "aff_unique_url": ";http://www.buaa.edu.cn;;;https://www.um.edu.mo",
         "aff_unique_abbr": ";;;;UM",
-        "aff_campus_unique_index": ";;;;",
-        "aff_campus_unique": "",
-        "aff_country_unique_index": "0+0+0;0+0;1;0+0;0+0;0+0",
-        "aff_country_unique": "China;Macau"
+        "aff_campus_unique_index": ";;1;;;",
+        "aff_campus_unique": ";Macau SAR",
+        "aff_country_unique_index": "0+0+0;0+0;0;0+0;0+0;0+0",
+        "aff_country_unique": "China"
     },
     {
         "id": "paper187",
@@ -4156,8 +4156,8 @@
         "aff_unique_dep": ";;;;",
         "aff_unique_url": "http://www.dlut.edu.cn/;https://www.polyu.edu.hk;https://www.psu.edu;http://www.msubit.edu.cn/;http://www.zhejianglab.com",
         "aff_unique_abbr": "DUT;PolyU;PSU;;",
-        "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Shenzhen",
+        "aff_campus_unique_index": "1;2",
+        "aff_campus_unique": ";Hong Kong SAR;Shenzhen",
         "aff_country_unique_index": "0;0;0;0;1;0;0;0;0",
         "aff_country_unique": "China;United States"
     },
@@ -4386,7 +4386,7 @@
         "aff_unique_norm": "Griffith University;University of Warwick",
         "aff_unique_dep": "School of Engineering and Built Environment;Department of Computer Science",
         "aff_unique_url": "https://www.griffith.edu.au;https://warwick.ac.uk",
-        "aff_unique_abbr": ";Warwick",
+        "aff_unique_abbr": "Griffith;Warwick",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;1;0",
@@ -5872,8 +5872,8 @@
         "aff_unique_dep": ";;;;",
         "aff_unique_url": "http://www.nuaa.edu.cn;https://www.cuhk.edu.hk;https://www.oppo.com/en;http://www.zhejianglab.com;https://www.shanghaitech.edu.cn",
         "aff_unique_abbr": "NUAA;CUHK;OPPO RI;;ShanghaiTech",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "1;1;",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;0+0;0",
         "aff_country_unique": "China"
     },
@@ -5938,10 +5938,10 @@
         "aff_unique_dep": "",
         "aff_unique_url": "https://www.nycu.edu.tw",
         "aff_unique_abbr": "NYCU",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Taiwan",
         "aff_country_unique_index": "0;0;0",
-        "aff_country_unique": "Taiwan, China"
+        "aff_country_unique": "China"
     },
     {
         "id": "paper85",
@@ -6104,7 +6104,7 @@
         "aff_unique_url": "https://www.utwente.nl",
         "aff_unique_abbr": "UT",
         "aff_country_unique_index": "0",
-        "aff_country_unique": "The Netherlands"
+        "aff_country_unique": "Netherlands"
     },
     {
         "id": "paper67",
@@ -6264,7 +6264,7 @@
         "aff_unique_index": "0;0;1;0;2;0;3",
         "aff_unique_norm": "Wuhan University;Macquarie University;JD Explore Academy;Zhongnan University of Economics and Law",
         "aff_unique_dep": ";;;",
-        "aff_unique_url": "http://www.whu.edu.cn;https://www.mq.edu.au;;http://www.zuel.edu.cn/",
+        "aff_unique_url": "http://www.whu.edu.cn/;https://www.mq.edu.au;;http://www.zuel.edu.cn/",
         "aff_unique_abbr": "WHU;MQ;;ZUEL",
         "aff_campus_unique_index": "1",
         "aff_campus_unique": ";Sydney",
@@ -6661,7 +6661,7 @@
         "aff_unique_norm": "Delft University of Technology;Utrecht University;University of Aberdeen",
         "aff_unique_dep": ";;",
         "aff_unique_url": "https://www.tudelft.nl;https://www.uu.nl;https://www.abdn.ac.uk",
-        "aff_unique_abbr": "TUDelft;UU;Aberdeen",
+        "aff_unique_abbr": "TU Delft;UU;Aberdeen",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;0;0+1",
@@ -6957,7 +6957,7 @@
         "aff_unique_index": "0;1;1;2;0;0;3;0",
         "aff_unique_norm": "Zhejiang University;Beijing University of Technology;Wuhan University;Beijing Jiaotong University",
         "aff_unique_dep": ";;;",
-        "aff_unique_url": "https://www.zju.edu.cn;http://www.bjut.edu.cn;http://www.whu.edu.cn/;http://www.bjtu.edu.cn",
+        "aff_unique_url": "https://www.zju.edu.cn;http://www.bjut.edu.cn;http://www.whu.edu.cn/;http://www.njtu.edu.cn/en",
         "aff_unique_abbr": "ZJU;BJUT;WHU;BJTU",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -7025,8 +7025,8 @@
         "aff_unique_dep": "School of Computer Science and Technology",
         "aff_unique_url": "http://www.ecnu.edu.cn",
         "aff_unique_abbr": "ECNU",
-        "aff_campus_unique_index": "1;1",
-        "aff_campus_unique": ";Shanghai",
+        "aff_campus_unique_index": "",
+        "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0+0;0",
         "aff_country_unique": "China"
     },
@@ -7223,8 +7223,8 @@
         "aff_unique_dep": "",
         "aff_unique_url": "https://www.hku.hk",
         "aff_unique_abbr": "HKU",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Hong Kong SAR",
         "aff_country_unique_index": "0;0;0",
         "aff_country_unique": "China"
     },
@@ -7290,7 +7290,7 @@
         "aff_unique_url": "http://www.sysu.edu.cn;https://www.polyu.edu.hk",
         "aff_unique_abbr": "SYSU;PolyU",
         "aff_campus_unique_index": "0;0;1+1;0;0;0",
-        "aff_campus_unique": "Guangzhou;Hong Kong",
+        "aff_campus_unique": "Guangzhou;Hong Kong SAR",
         "aff_country_unique_index": "0;0;0+0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -7325,7 +7325,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;0",
-        "aff_country_unique": "Korea"
+        "aff_country_unique": "South Korea"
     },
     {
         "id": "paper353",
@@ -7454,8 +7454,8 @@
         "aff_unique_dep": "Department of Computer Science and Engineering;Department of Computer Science and Engineering;School of Medicine",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://www.ust.hk;https://www.ntu.edu.sg",
         "aff_unique_abbr": "CUHK;HKUST;NTU",
-        "aff_campus_unique_index": "0;2;0",
-        "aff_campus_unique": "Hong Kong;;Lee Kong Chian",
+        "aff_campus_unique_index": "0;0;1;0",
+        "aff_campus_unique": "Hong Kong SAR;Lee Kong Chian",
         "aff_country_unique_index": "0;0;1;0",
         "aff_country_unique": "China;Singapore"
     },
@@ -7683,7 +7683,7 @@
         "aff_unique_index": "0;0+1;2;3;3;0;0;0",
         "aff_unique_norm": "Tsinghua University;The Chinese University of Hong Kong;Huawei Cloud Computing Technologies Co., Ltd;Huawei Noah\u2019s Ark Lab",
         "aff_unique_dep": "Shenzhen International Graduate School;;;",
-        "aff_unique_url": "https://www.tsinghua.edu.cn;https://www.cuhk.edu.hk;https://www.huawei.com/en/cloud;https://www.huawei.com/en/ai/noahs-ark-lab",
+        "aff_unique_url": "https://www.tsinghua.edu.cn;https://www.cuhk.edu.hk;https://www.huawei.com/en/cloud;https://www.huawei.com/en/research/labs/noahs-ark-lab",
         "aff_unique_abbr": "THU;CUHK;Huawei Cloud;HNA Lab",
         "aff_campus_unique_index": "0;0+1;0;0;0;0;0;0",
         "aff_campus_unique": "Shenzhen;Hong Kong SAR",
@@ -7783,7 +7783,7 @@
         "aff_unique_norm": "Chinese Academy of Sciences;Beihang University;Alibaba Group;University of Chinese Academy of Sciences",
         "aff_unique_dep": "Institute of Information Engineering;School of Computer Science and Engineering;;School of Cyber Security",
         "aff_unique_url": "http://www.cas.cn;http://www.buaa.edu.cn;https://www.alibaba.com;http://www.ucas.ac.cn",
-        "aff_unique_abbr": "CAS;BUAA;Alibaba;UCAS",
+        "aff_unique_abbr": "CAS;Beihang;Alibaba;UCAS",
         "aff_campus_unique_index": "1",
         "aff_campus_unique": ";Hangzhou",
         "aff_country_unique_index": "0;0;0;0;0;0;0;0+0",
@@ -7817,8 +7817,8 @@
         "aff_unique_dep": "College of Computer Science and Technology;Department of CSE",
         "aff_unique_url": "http://www.jlu.edu.cn;https://www.ust.hk",
         "aff_unique_abbr": "JLU;HKUST",
-        "aff_campus_unique_index": ";",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": ";;1;1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0+0;0+0;0;0",
         "aff_country_unique": "China"
     },
@@ -8051,7 +8051,7 @@
         "aff_campus_unique_index": "0;1;1;1;0;0+2",
         "aff_campus_unique": "Brussels;Galway;Amsterdam",
         "aff_country_unique_index": "0;1;1;1;0;0+2",
-        "aff_country_unique": "Belgium;Ireland;The Netherlands"
+        "aff_country_unique": "Belgium;Ireland;Netherlands"
     },
     {
         "id": "paper617",
@@ -8279,8 +8279,8 @@
         "aff_unique_dep": ";Tencent AI Lab",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://ai.tencent.com",
         "aff_unique_abbr": "CUHK;Tencent AI Lab",
-        "aff_campus_unique_index": ";",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;0+0;0;0+0",
         "aff_country_unique": "China"
     },
@@ -8409,7 +8409,7 @@
         "aff_unique_index": "0+1;0;0;0",
         "aff_unique_norm": "Hefei University of Technology;Hefei Comprehensive National Science Center",
         "aff_unique_dep": ";Institute of Artificial Intelligence",
-        "aff_unique_url": "http://www.hfut.edu.cn/;http://www.hfcnst.ac.cn",
+        "aff_unique_url": "http://www.hfut.edu.cn;http://www.hfcnst.ac.cn",
         "aff_unique_abbr": "HUT;",
         "aff_campus_unique_index": "1",
         "aff_campus_unique": ";Hefei",
@@ -8511,7 +8511,7 @@
         "aff_unique_url": "https://www.stanford.edu;https://www.uakron.edu;https://www.ism.ac.jp;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "Stanford;UA;ISM;CUHK",
         "aff_campus_unique_index": "0;0;2",
-        "aff_campus_unique": "Stanford;;Shatin",
+        "aff_campus_unique": "Stanford;;Hong Kong SAR",
         "aff_country_unique_index": "0;0;1;0;2",
         "aff_country_unique": "United States;Japan;China"
     },
@@ -8579,7 +8579,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;1;0;0",
-        "aff_country_unique": "France;The Netherlands"
+        "aff_country_unique": "France;Netherlands"
     },
     {
         "id": "paper722",
@@ -9989,7 +9989,7 @@
         "aff_unique_index": "0;0;0;1;2;3+4;5;6+0",
         "aff_unique_norm": "Nanyang Technological University;New Jersey Institute of Technology;Beihang University;A*STAR Institute of High Performance Computing;A*STAR;Chinese Academy of Sciences;Zhejiang Sci-Tech University",
         "aff_unique_dep": ";;;Institute of High Performance Computing;Centre for Frontier AI Research (CFAR);Institute of Information Engineering;",
-        "aff_unique_url": "https://www.ntu.edu.sg;https://www.njit.edu;http://www.buaa.edu.cn;https://www.ihpc.a-star.edu.sg;https://www.a-star.edu.sg;http://www.iiis.cas.cn;http://www.zstu.edu.cn",
+        "aff_unique_url": "https://www.ntu.edu.sg;https://www.njit.edu;http://www.buaa.edu.cn/;https://www.ihpc.a-star.edu.sg;https://www.a-star.edu.sg;http://www.iiis.cas.cn;http://www.zstu.edu.cn",
         "aff_unique_abbr": "NTU;NJIT;BUAA;IHPC;A*STAR;CAS;",
         "aff_campus_unique_index": ";",
         "aff_campus_unique": "",
@@ -10123,8 +10123,8 @@
         "aff_unique_dep": ";;;Noah\u2019s Ark Lab",
         "aff_unique_url": "https://www.cuhk.edu.hk;http://www.pku.edu.cn;https://www.hisilicon.com;https://www.huawei.com",
         "aff_unique_abbr": "CUHK;Peking U;HiSilicon;Huawei",
-        "aff_campus_unique_index": ";",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0+0;0;0+0;0;0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -10353,7 +10353,7 @@
         "aff_unique_url": "http://www.hust.edu.cn;http://www.ict.ac.cn;https://www.ust.hk",
         "aff_unique_abbr": "HUST;CAS;HKUST",
         "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Hong Kong",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -10419,7 +10419,7 @@
         "aff_unique_url": "https://www.webank.com;https://www.ust.hk",
         "aff_unique_abbr": ";HKUST",
         "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Hong Kong",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;0+0",
         "aff_country_unique": "China"
     },
@@ -11010,7 +11010,7 @@
         "aff_unique_index": "0;0;1",
         "aff_unique_norm": "The Australian National University;LAAS-CNRS",
         "aff_unique_dep": "School of Computing;",
-        "aff_unique_url": "https://www.anu.edu.au;https://www.laas.fr",
+        "aff_unique_url": "https://www.anu.edu.au;https://www.laas.fr/",
         "aff_unique_abbr": "ANU;LAAS-CNRS",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -11705,8 +11705,8 @@
         "aff_unique_dep": ";",
         "aff_unique_url": "https://www.polyu.edu.hk;https://www.msu.edu",
         "aff_unique_abbr": "PolyU;MSU",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0;0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;0;0;0;1;1;1;0",
         "aff_country_unique": "China;United States"
     },
@@ -11836,9 +11836,9 @@
         "aff_unique_norm": "Fuzhou University;The Hong Kong University of Science and Technology",
         "aff_unique_dep": "College of Computer and Data Science;Department of Computer Science and Engineering",
         "aff_unique_url": "https://www.fzu.edu.cn;https://www.ust.hk",
-        "aff_unique_abbr": ";HKUST",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_unique_abbr": "FZU;HKUST",
+        "aff_campus_unique_index": "1;1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;0;0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -12394,7 +12394,7 @@
         "aff_unique_index": "0;0;1;1;2;0",
         "aff_unique_norm": "Nanyang Technological University;Tsinghua University;Beijing Jiaotong University",
         "aff_unique_dep": ";;",
-        "aff_unique_url": "https://www.ntu.edu.sg;https://www.tsinghua.edu.cn;http://www.bjtu.edu.cn",
+        "aff_unique_url": "https://www.ntu.edu.sg;https://www.tsinghua.edu.cn;http://www.njtu.edu.cn/en",
         "aff_unique_abbr": "NTU;THU;BJTU",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -12757,7 +12757,7 @@
         "aff_unique_index": "0;0;0+1;2;3;4",
         "aff_unique_norm": "Beihang University;Zhongguancun Laboratory;Didi Chuxing;Lehigh University;University of Illinois at Chicago",
         "aff_unique_dep": "State Key Laboratory of Software Development Environment;;;Department of Computer Science & Engineering;Department of Computer Science",
-        "aff_unique_url": "http://www.buaa.edu.cn;;https://www.didichuxing.com/;https://www.lehigh.edu;https://www.uic.edu",
+        "aff_unique_url": "http://www.buaa.edu.cn;;https://www.didi.cn;https://www.lehigh.edu;https://www.uic.edu",
         "aff_unique_abbr": "Beihang;;Didi;Lehigh;UIC",
         "aff_campus_unique_index": ";1",
         "aff_campus_unique": ";Chicago",
@@ -12825,8 +12825,8 @@
         "aff_unique_dep": ";;",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://www.stanford.edu;https://www.shanghai-ai-lab.com",
         "aff_unique_abbr": "CUHK;Stanford;SAIL",
-        "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Stanford",
+        "aff_campus_unique_index": "0;1;0",
+        "aff_campus_unique": "Hong Kong SAR;Stanford;",
         "aff_country_unique_index": "0;1;0;0",
         "aff_country_unique": "China;United States"
     },
@@ -13123,7 +13123,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;0",
-        "aff_country_unique": "Republic of Korea"
+        "aff_country_unique": "South Korea"
     },
     {
         "id": "paper647",
@@ -13152,7 +13152,7 @@
         "aff_unique_norm": "Instituto Patag\u00f3nico de Ciencias Sociales y Humanas;IBM Research Africa;University of Ja\u00e9n;Universidad Nacional del Sur",
         "aff_unique_dep": ";Research;Institute for Iberian Archaeology;",
         "aff_unique_url": ";https://www.ibm.com/research/africa;https://www.ujaen.es;https://www.uns.edu.ar",
-        "aff_unique_abbr": "IPCSH;IBM Research Africa;;UNS",
+        "aff_unique_abbr": "IPCSH;IBM;;UNS",
         "aff_campus_unique_index": "0;1;0;3",
         "aff_campus_unique": "Puerto Madryn;Nairobi;;Bah\u00eda Blanca",
         "aff_country_unique_index": "0;1;2;2;2;2;2;0;0",
@@ -13908,8 +13908,8 @@
         "aff_unique_index": "0;1",
         "aff_unique_norm": "Tartu University;Houston Methodist DeBakey Heart & Vascular Center",
         "aff_unique_dep": "Institute of Computer Science;Heart & Vascular Center",
-        "aff_unique_url": "https://www.ut.ee;https://www.houstonmethodist.org/departments/heart/",
-        "aff_unique_abbr": "UT;HMDC",
+        "aff_unique_url": "https://www.ut.ee;https://www.houstonmethodist.org/heartvascular",
+        "aff_unique_abbr": "UT;HMHVC",
         "aff_campus_unique_index": "1",
         "aff_campus_unique": ";Houston",
         "aff_country_unique_index": "0;1",
@@ -13941,7 +13941,7 @@
         "aff_unique_index": "0;0;1;0;0;2",
         "aff_unique_norm": "South China University of Technology;Beijing Jiaotong University;Tsinghua University",
         "aff_unique_dep": ";;",
-        "aff_unique_url": "https://www.scut.edu.cn;http://www.bjtu.edu.cn;https://www.tsinghua.edu.cn",
+        "aff_unique_url": "https://www.scut.edu.cn;http://www.njtu.edu.cn/en;https://www.tsinghua.edu.cn",
         "aff_unique_abbr": "SCUT;BJTU;THU",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -13974,7 +13974,7 @@
         "aff_unique_index": "0;1;2;0;1",
         "aff_unique_norm": "Renmin University of China;Huawei Noah\u2019s Ark Lab;Tsinghua University",
         "aff_unique_dep": "School of Information;;",
-        "aff_unique_url": "http://www.ruc.edu.cn;https://www.huawei.com/en/ai/noahs-ark-lab;https://www.tsinghua.edu.cn",
+        "aff_unique_url": "http://www.ruc.edu.cn;https://www.huawei.com/en/research/labs/noahs-ark-lab;https://www.tsinghua.edu.cn",
         "aff_unique_abbr": "RUC;HNA Lab;THU",
         "aff_campus_unique_index": "0;1;0;1",
         "aff_campus_unique": "Beijing;Shenzhen;",
@@ -14009,8 +14009,8 @@
         "aff_unique_dep": "Department of Computer Science and Engineering;MMLab;;",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://www.cuhk.edu.hk;https://www.shanghaitech.edu.cn;http://www.hust.edu.cn",
         "aff_unique_abbr": "CUHK;CUHK;ShanghaiTech;HUST",
-        "aff_campus_unique_index": "0",
-        "aff_campus_unique": "Hong Kong;",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -14177,7 +14177,7 @@
         "aff_campus_unique_index": "1;",
         "aff_campus_unique": ";Seoul",
         "aff_country_unique_index": "0;0;1;0;0;0+0;0;0",
-        "aff_country_unique": "Ireland;Republic of Korea"
+        "aff_country_unique": "Ireland;South Korea"
     },
     {
         "id": "paper596",
@@ -14372,8 +14372,8 @@
         "aff_unique_dep": "School of Computer Science and Engineering;;;School of Artificial Intelligence;Institute of Information Engineering",
         "aff_unique_url": "http://www.sysu.edu.cn;https://www.ust.hk;https://www.ust.hk;;http://www.cas.cn",
         "aff_unique_abbr": "SYSU;HKUST;HKUST;;CAS",
-        "aff_campus_unique_index": "0;0;0;2",
-        "aff_campus_unique": "Guangzhou;;Shenzhen",
+        "aff_campus_unique_index": "0;0+1;1;0+1;3",
+        "aff_campus_unique": "Guangzhou;Hong Kong SAR;;Shenzhen",
         "aff_country_unique_index": "0;0+0;0;0;0+0;0;0",
         "aff_country_unique": "China"
     },
@@ -14798,7 +14798,7 @@
         "aff_unique_norm": "Tsinghua University;Renmin University of China;Chinese Academy of Sciences",
         "aff_unique_dep": "Department of Computer Science and Technology;Gaoling School of Arti\ufb01cial Intelligence;Institute of Computing Technology",
         "aff_unique_url": "https://www.tsinghua.edu.cn;http://www.ruc.edu.cn;http://www.cas.ac.cn",
-        "aff_unique_abbr": "THU;RUC;CAS",
+        "aff_unique_abbr": "Tsinghua;RUC;CAS",
         "aff_campus_unique_index": "0;0;0;0;0;0",
         "aff_campus_unique": "Beijing",
         "aff_country_unique_index": "0;0;0;0;0;0",
@@ -14832,8 +14832,8 @@
         "aff_unique_dep": "Department of Electrical & Computer Engineering;Electrical and Computer Engineering;Electrical & Systems Engineering",
         "aff_unique_url": "https://www.washington.edu;https://www.wwu.edu;https://wustl.edu",
         "aff_unique_abbr": "UW;;WUSTL",
-        "aff_campus_unique_index": "0;0;2;0",
-        "aff_campus_unique": "Seattle;;St. Louis",
+        "aff_campus_unique_index": "1",
+        "aff_campus_unique": ";St. Louis",
         "aff_country_unique_index": "0;0;0;0;0",
         "aff_country_unique": "United States"
     },
@@ -15162,8 +15162,8 @@
         "aff_unique_dep": "School of Computer Science and Engineering;;Noah\u2019s Ark Lab;",
         "aff_unique_url": "http://www.sysu.edu.cn;;https://www.huawei.com;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "SYSU;;Huawei;CUHK",
-        "aff_campus_unique_index": "0+0;0+0",
-        "aff_campus_unique": "Guangzhou;",
+        "aff_campus_unique_index": "0+0;0+0;2",
+        "aff_campus_unique": "Guangzhou;;Hong Kong SAR",
         "aff_country_unique_index": "0+0;0;0;0+0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -15687,7 +15687,7 @@
         "author_num": 3,
         "aff_unique_index": "0;0;1+2",
         "aff_unique_norm": "Google;University of Alberta;Alberta Machine Intelligence Institute",
-        "aff_unique_dep": "Google DeepMind;Department of Computing Science;Machine Intelligence",
+        "aff_unique_dep": "DeepMind;Department of Computing Science;Machine Intelligence",
         "aff_unique_url": "https://deepmind.com;https://www.ualberta.ca;https://amiilabs.ca",
         "aff_unique_abbr": "DeepMind;UAlberta;Amii",
         "aff_campus_unique_index": "",
@@ -16021,7 +16021,7 @@
         "aff_unique_url": "http://www.sysu.edu.cn;https://www.polyu.edu.hk",
         "aff_unique_abbr": "SYSU;PolyU",
         "aff_campus_unique_index": "0;1+1;0;0+2;0;0",
-        "aff_campus_unique": "Guangzhou;Hong Kong;Shenzhen",
+        "aff_campus_unique": "Guangzhou;Hong Kong SAR;Shenzhen",
         "aff_country_unique_index": "0;0+0;0;0+0;0;0",
         "aff_country_unique": "China"
     },
@@ -16482,8 +16482,8 @@
         "aff_unique_dep": "Department of Computer Science;Department of Computing;School of Mathematical Sciences",
         "aff_unique_url": "https://www.cityu.edu.hk;https://www.polyu.edu.hk;http://www.ouc.edu.cn",
         "aff_unique_abbr": "CityU;PolyU;",
-        "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Hong Kong",
+        "aff_campus_unique_index": "0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;0;0",
         "aff_country_unique": "China"
     },
@@ -17110,7 +17110,7 @@
         "aff_campus_unique_index": "0;2;2;3;0;2",
         "aff_campus_unique": "Dresden;;Nijmegen;Eindhoven",
         "aff_country_unique_index": "0;2;2;2;0;2",
-        "aff_country_unique": "Germany;;The Netherlands"
+        "aff_country_unique": "Germany;;Netherlands"
     },
     {
         "id": "paper792",
@@ -17634,8 +17634,8 @@
         "aff_unique_dep": ";;Research;Institute of Science & Innovation",
         "aff_unique_url": "https://www.hkbu.edu.hk;https://www.ust.hk;https://www.microsoft.com/en-us/research/group/asia;http://www.cas.cn",
         "aff_unique_abbr": "HKBU;HKUST;MSR Asia;CAS",
-        "aff_campus_unique_index": "1;2",
-        "aff_campus_unique": ";Asia;Hong Kong",
+        "aff_campus_unique_index": "0;0;1;0+2;0",
+        "aff_campus_unique": "Hong Kong SAR;Asia;Hong Kong",
         "aff_country_unique_index": "0;0;0;0+0;0",
         "aff_country_unique": "China"
     },
@@ -17864,11 +17864,11 @@
         "aff_unique_norm": "IBM Research;Imperial College London;ILASP Limited;Universitat Pompeu Fabra",
         "aff_unique_dep": "Research;;;ICREA",
         "aff_unique_url": "https://www.ibm.com/research/europe;https://www.imperial.ac.uk;;https://www.upf.edu",
-        "aff_unique_abbr": "IBM Research;ICL;;UPF",
+        "aff_unique_abbr": "IBM Research Europe;ICL;;UPF",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+1;1;2;1",
-        "aff_country_unique": "Europe;United Kingdom;Spain"
+        "aff_country_unique": "Unknown;United Kingdom;Spain"
     },
     {
         "id": "paper302",
@@ -18193,7 +18193,7 @@
         "aff_unique_index": "0;0;0;0;0",
         "aff_unique_norm": "Dalian University of Technology",
         "aff_unique_dep": "",
-        "aff_unique_url": "http://www.dlut.edu.cn",
+        "aff_unique_url": "http://www.dlut.edu.cn/",
         "aff_unique_abbr": "DUT",
         "aff_campus_unique_index": "0;0;0;0;0",
         "aff_campus_unique": "Dalian",
@@ -18556,8 +18556,8 @@
         "aff_unique_dep": ";;",
         "aff_unique_url": "https://www.cuhk.edu.hk;https://www.deeproute.ai;https://www.smartmore.com/",
         "aff_unique_abbr": "CUHK;Deeproute.ai;",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0",
+        "aff_campus_unique": "Hong Kong SAR;",
         "aff_country_unique_index": "0;1;0;0",
         "aff_country_unique": "China;United States"
     },
@@ -19246,7 +19246,7 @@
         "aff_unique_norm": "Macquarie University;CSIRO;Qufu Normal University;Nanjing University;Nanjing University of Information Science and Technology",
         "aff_unique_dep": ";Data61;;;",
         "aff_unique_url": "https://www.mq.edu.au;https://www.csiro.au;http://www.qfnu.edu.cn;https://www.nju.edu.cn;http://www.nuist.edu.cn",
-        "aff_unique_abbr": "MQ;CSIRO;QFNU;Nanjing U;NUIST",
+        "aff_unique_abbr": "MQ;CSIRO;QFNU;Nanjing U;",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;1;1;0;0;1",
@@ -19312,7 +19312,7 @@
         "aff_unique_norm": "Delft University of Technology",
         "aff_unique_dep": "",
         "aff_unique_url": "https://www.tudelft.nl",
-        "aff_unique_abbr": "TUDelft",
+        "aff_unique_abbr": "TU Delft",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0",
@@ -20759,8 +20759,8 @@
         "aff_unique_dep": "Laboratoire d'Informatique et Syst\u00e8mes;",
         "aff_unique_url": "https://www.univ-amu.fr;https://www.uca.fr",
         "aff_unique_abbr": "AMU;UCA",
-        "aff_campus_unique_index": "0+1;0;0",
-        "aff_campus_unique": "Marseille;Clermont-Ferrand",
+        "aff_campus_unique_index": "1",
+        "aff_campus_unique": ";Clermont-Ferrand",
         "aff_country_unique_index": "0+0;0;0",
         "aff_country_unique": "France"
     },
@@ -20795,7 +20795,7 @@
         "aff_campus_unique_index": "0+1;2;2;1",
         "aff_campus_unique": "Coventry;Berlin;Athens;",
         "aff_country_unique_index": "0+1;2+3;2;1",
-        "aff_country_unique": "United Kingdom;Germany;Greece;Global"
+        "aff_country_unique": "United Kingdom;Germany;Greece;Unknown"
     },
     {
         "id": "paper3",
@@ -21284,7 +21284,7 @@
         "aff_unique_norm": "Jilin University;University of Trento;ETH Zurich",
         "aff_unique_dep": "College of Computer Science and Technology;DISI;Computer Vision Laboratory",
         "aff_unique_url": "http://www.jlu.edu.cn;https://www.unitn.it;https://www.ethz.ch",
-        "aff_unique_abbr": "JLU;UniTN;ETHZ",
+        "aff_unique_abbr": "JLU;;ETHZ",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+1;1;2;0;0;0;0",
@@ -21453,7 +21453,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;1+2;2",
-        "aff_country_unique": "the Netherlands;France;Germany"
+        "aff_country_unique": "Netherlands;France;Germany"
     },
     {
         "id": "paper385",
@@ -21615,8 +21615,8 @@
         "aff_unique_dep": "Beijing Key Lab of Traffic Data Analysis and Mining;Department of Mathematics;",
         "aff_unique_url": "http://www.bjtu.edu.cn;https://www.shu.edu.cn;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "BJTU;SHU;CUHK",
-        "aff_campus_unique_index": "0;0;0;0;1;0",
-        "aff_campus_unique": "Beijing;Shanghai;",
+        "aff_campus_unique_index": "0;0;0;0;1;2;0",
+        "aff_campus_unique": "Beijing;Shanghai;Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -21684,7 +21684,7 @@
         "aff_campus_unique_index": "0;0;0;0",
         "aff_campus_unique": "Nijmegen",
         "aff_country_unique_index": "0;0;0;0",
-        "aff_country_unique": "The Netherlands"
+        "aff_country_unique": "Netherlands"
     },
     {
         "id": "paper519",
@@ -21846,8 +21846,8 @@
         "aff_unique_dep": ";Microsoft Research;",
         "aff_unique_url": "https://www.hku.hk;https://www.microsoft.com/en-us/research;http://www.hit.edu.cn/",
         "aff_unique_abbr": "HKU;MSR;HIT",
-        "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Harbin",
+        "aff_campus_unique_index": "0;2",
+        "aff_campus_unique": "Hong Kong SAR;;Harbin",
         "aff_country_unique_index": "0;1;0;1",
         "aff_country_unique": "China;United States"
     },
@@ -22044,8 +22044,8 @@
         "aff_unique_dep": ";",
         "aff_unique_url": "https://uwaterloo.ca;https://www.ust.hk",
         "aff_unique_abbr": "UW;HKUST",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "1;1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0+1;0;0;0;1",
         "aff_country_unique": "Canada;China"
     },
@@ -22075,7 +22075,7 @@
         "aff_unique_index": "0;1;2+3;4+5;6",
         "aff_unique_norm": "Spotify;East China Normal University;CENTAI Institute;Eurecat;Institucio Catalana de Recerca i Estudis Avancats;Universitat Pompeu Fabra;University of Helsinki",
         "aff_unique_dep": ";;;;;;",
-        "aff_unique_url": "https://www.spotify.com;http://www.ecnu.edu.cn;;https://www.eurecat.org;https://www.icrea.cat;https://www.upf.edu;https://www.helsinki.fi",
+        "aff_unique_url": "https://www.spotify.com;http://www.ecnu.edu.cn;;https://www.eurecat.org;https://www.icrea.cat;https://www.upf.edu/;https://www.helsinki.fi",
         "aff_unique_abbr": "Spotify;ECNU;;;ICREA;UPF;UH",
         "aff_campus_unique_index": "0;1;2+0;0+0;3",
         "aff_campus_unique": "Barcelona;Shanghai;Turin;Helsinki",
@@ -22109,7 +22109,7 @@
         "aff_unique_norm": "Zhejiang University;Alibaba Group;Shandong University;University of Notre Dame;Second Affiliated Hospital",
         "aff_unique_dep": "School of Software Technology;;School of Computer Science and Technology;Department of Computer Science and Engineering;School of Medicine",
         "aff_unique_url": "http://www.zju.edu.cn;https://www.alibaba.com;http://www.sdu.edu.cn;https://www.nd.edu;",
-        "aff_unique_abbr": "ZJU;Alibaba;;Notre Dame;",
+        "aff_unique_abbr": "ZJU;Alibaba;SDU;Notre Dame;",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;0;0;0;1;0+0",
@@ -22339,7 +22339,7 @@
         "aff_unique_index": "0;1;1;2",
         "aff_unique_norm": "INSA Centre Val de Loire;Universit\u00e9 Clermont Auvergne;Universit\u00e9 d\u2019Orl\u00e9ans",
         "aff_unique_dep": "LIFO EA 4022;LIMOS UMR 6158;",
-        "aff_unique_url": ";https://www.uca.fr;https://www.univ-orleans.fr",
+        "aff_unique_url": "https://www.insa-cvl.fr;https://www.uca.fr;https://www.univ-orleans.fr",
         "aff_unique_abbr": ";;UO",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -22537,7 +22537,7 @@
         "aff_unique_index": "0;0;0;1;1;0+2",
         "aff_unique_norm": "Harbin Institute of Technology;Huawei Noah\u2019s Ark Lab;Peng Cheng Lab",
         "aff_unique_dep": "School of Computer Science and Technology;;Department of Network Intelligence",
-        "aff_unique_url": "http://en.hhit.edu.cn/;https://www.huawei.com/en/ai/noahs-ark-lab;",
+        "aff_unique_url": "http://en.hust.edu.cn/;https://www.huawei.com/en/research/labs/noahs-ark-lab;",
         "aff_unique_abbr": "HIT;HNA Lab;",
         "aff_campus_unique_index": "0;0;0;0;0;0+0",
         "aff_campus_unique": "Shenzhen",
@@ -22769,7 +22769,7 @@
         "aff_unique_norm": "Delft University of Technology",
         "aff_unique_dep": "",
         "aff_unique_url": "https://www.tudelft.nl",
-        "aff_unique_abbr": "TUDelft",
+        "aff_unique_abbr": "TU Delft",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0",
@@ -22802,7 +22802,7 @@
         "aff_unique_norm": "KU Leuven;Stellenbosch University;Orebro University",
         "aff_unique_dep": "Leuven AI;;Centre for Applied Autonomous Sensor Systems",
         "aff_unique_url": "https://www.kuleuven.be;https://www.sun.ac.za;https://www.oru.se",
-        "aff_unique_abbr": "KU Leuven;SU;ORU",
+        "aff_unique_abbr": "KU Leuven;SU;",
         "aff_campus_unique_index": "0;0;0",
         "aff_campus_unique": "Leuven;",
         "aff_country_unique_index": "0;0;1;0+2",
@@ -22966,8 +22966,8 @@
         "aff_unique_dep": ";;;",
         "aff_unique_url": "https://www.ust.hk;http://www.bupt.edu.cn/;https://www.sjtu.edu.cn;https://www.polyu.edu.hk",
         "aff_unique_abbr": "HKUST;BUPT;SJTU;PolyU",
-        "aff_campus_unique_index": "1",
-        "aff_campus_unique": ";Beijing",
+        "aff_campus_unique_index": "0;0;1;0;0",
+        "aff_campus_unique": "Hong Kong SAR;Beijing;",
         "aff_country_unique_index": "0;0;0;0;0;0",
         "aff_country_unique": "China"
     },
@@ -23062,7 +23062,7 @@
         "author_num": 5,
         "aff_unique_index": "0+1+2+3;0+1+2+3;0+1+2+3;0+1+2+3;0+1+2+3",
         "aff_unique_norm": "National Engineering Research Center for Big Data Technology and System;Services Computing Technology and System Lab;Cluster and Grid Computing Lab;Huazhong University of Science and Technology",
-        "aff_unique_dep": ";Services Computing Technology and System;Computer Science;School of Computer Science and Technology",
+        "aff_unique_dep": ";Services Computing Technology and System;;School of Computer Science and Technology",
         "aff_unique_url": ";;;http://www.hust.edu.cn",
         "aff_unique_abbr": ";;;HUST",
         "aff_campus_unique_index": ";;;;",
@@ -23163,7 +23163,7 @@
         "aff_unique_norm": "University of L'Aquila;University of Salento;Hasso Plattner Institute",
         "aff_unique_dep": ";;",
         "aff_unique_url": "https://www.univaq.it;https://www.unisalento.it;https://www.hpi.de",
-        "aff_unique_abbr": ";;HPI",
+        "aff_unique_abbr": ";UniSalento;HPI",
         "aff_campus_unique_index": "0;1;2;2;2;2",
         "aff_campus_unique": "L'Aquila;Lecce;Potsdam",
         "aff_country_unique_index": "0;0;1;1;1;1",
@@ -23428,8 +23428,8 @@
         "aff_unique_dep": "Carbon Science and Technology;;Fok Ying Tung Research Institute;;;",
         "aff_unique_url": ";https://www.ust.hk;https://www.ust.hk;;http://www.ucas.ac.cn;https://www.cas.cn",
         "aff_unique_abbr": ";HKUST;HKUST;;UCAS;CAS",
-        "aff_campus_unique_index": "1+1;1;2;2+2;2+2;1+1",
-        "aff_campus_unique": ";Guangzhou;Beijing",
+        "aff_campus_unique_index": "1+2;1;3;3+3;3+3;1+2",
+        "aff_campus_unique": ";Hong Kong SAR;Guangzhou;Beijing",
         "aff_country_unique_index": "0+0+0;0;0;0+0;0+0;0+0",
         "aff_country_unique": "China;"
     },
@@ -24151,7 +24151,7 @@
         "author_num": 1,
         "aff_unique_index": "0",
         "aff_unique_norm": "Universit\u00e9 d\u2019Artois",
-        "aff_unique_dep": "CRIL - CNRS",
+        "aff_unique_dep": "CRIL",
         "aff_unique_url": "https://www.univ-artois.fr",
         "aff_unique_abbr": "",
         "aff_country_unique_index": "0",
@@ -24221,7 +24221,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+1;1;1;1",
-        "aff_country_unique": "United States;Africa"
+        "aff_country_unique": "United States;Unknown"
     },
     {
         "id": "paper190",
@@ -24746,8 +24746,8 @@
         "aff_unique_dep": "School of Computation, Information and Technology;Universal Village Program;School of Computer Science",
         "aff_unique_url": "https://www.tum.de;https://www.mit.edu;http://www.pku.edu.cn",
         "aff_unique_abbr": "TUM;MIT;Peking U",
-        "aff_campus_unique_index": "0;0",
-        "aff_campus_unique": "Munich;",
+        "aff_campus_unique_index": "",
+        "aff_campus_unique": "",
         "aff_country_unique_index": "0;1;2;0",
         "aff_country_unique": "Germany;United States;China"
     },
@@ -25041,8 +25041,8 @@
         "aff_unique_index": "0+1+0;0+1+0;0+1+0;1;1;2;3;0+1+0+2",
         "aff_unique_norm": "Peking University;Shanghai AI Laboratory;Peng Cheng Laboratory;Tsinghua University",
         "aff_unique_dep": "School of Electronic and Computer Engineering;;;Department of Automation and BNRist",
-        "aff_unique_url": "http://www.pku.edu.cn;https://www.shanghaiailab.com;;https://www.tsinghua.edu.cn",
-        "aff_unique_abbr": "PKU;SAIL;;THU",
+        "aff_unique_url": "http://www.pku.edu.cn;;;https://www.tsinghua.edu.cn",
+        "aff_unique_abbr": "PKU;;;THU",
         "aff_campus_unique_index": "0+1+0;0+1+0;0+1+0;1;1;0;0+1+0+0",
         "aff_campus_unique": "Shenzhen;Shanghai;",
         "aff_country_unique_index": "0+0+0;0+0+0;0+0+0;0;0;0;0;0+0+0+0",
@@ -25206,7 +25206,7 @@
         "aff_unique_index": "0;0;0;0;1;0;0;0",
         "aff_unique_norm": "Zhejiang University;Zhejiang Gongshang University",
         "aff_unique_dep": ";",
-        "aff_unique_url": "https://www.zju.edu.cn;http://www.hzic.edu.cn",
+        "aff_unique_url": "https://www.zju.edu.cn;http://www.hgh.edu.cn",
         "aff_unique_abbr": "ZJU;",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -26194,8 +26194,8 @@
         "aff_unique_index": "0+0;0+0;0+0;0+0;0+0;1;2;2;2",
         "aff_unique_norm": "Huazhong University of Science and Technology;Beijing Institute of Technology;Ant Group",
         "aff_unique_dep": "School of Computer Science and Technology;School of Computer Science and Technology;",
-        "aff_unique_url": ";http://www.bit.edu.cn/;https://www.antgroup.com",
-        "aff_unique_abbr": ";BIT;Ant Group",
+        "aff_unique_url": "http://www.hust.edu.cn;http://www.bit.edu.cn/;https://www.antgroup.com",
+        "aff_unique_abbr": "HUST;BIT;Ant Group",
         "aff_campus_unique_index": ";;;;",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0+0;0+0;0+0;0+0;0+0;0;0;0;0",
@@ -26395,7 +26395,7 @@
         "aff_unique_url": "https://www.cuhk.edu.hk;https://illinois.edu;http://www.sysu.edu.cn",
         "aff_unique_abbr": "CUHK;UIUC;SYSU",
         "aff_campus_unique_index": "0;1;0",
-        "aff_campus_unique": "Hong Kong;Urbana-Champaign;",
+        "aff_campus_unique": "Hong Kong SAR;Urbana-Champaign;",
         "aff_country_unique_index": "0;1;0;0",
         "aff_country_unique": "China;United States"
     },
@@ -27153,8 +27153,8 @@
         "aff_unique_dep": ";",
         "aff_unique_url": "http://www.zhejianglab.com;https://www.hku.hk",
         "aff_unique_abbr": ";HKU",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0",
         "aff_country_unique": "China"
     },
@@ -27679,8 +27679,8 @@
         "aff_unique_dep": "",
         "aff_unique_url": "https://www.cuhk.edu.hk",
         "aff_unique_abbr": "CUHK",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0;0",
+        "aff_campus_unique": "Hong Kong SAR",
         "aff_country_unique_index": "0;0;0",
         "aff_country_unique": "China"
     },
@@ -27814,7 +27814,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;1+0;0;0",
-        "aff_country_unique": "The Netherlands;Belgium"
+        "aff_country_unique": "Netherlands;Belgium"
     },
     {
         "id": "paper27",
@@ -27910,8 +27910,8 @@
         "aff_unique_dep": ";;;",
         "aff_unique_url": "https://www.huya.com;https://www.ust.hk;https://www.cmu.edu;https://www.tencent.com",
         "aff_unique_abbr": "Huya;HKUST;CMU;Tencent",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "1",
+        "aff_campus_unique": ";Hong Kong SAR",
         "aff_country_unique_index": "0;0;0;0;1;0;0;0;0",
         "aff_country_unique": "China;United States"
     },
