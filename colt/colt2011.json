@@ -1,5 +1,6 @@
 [
     {
+        "id": "e27a715970",
         "title": "A Close Look to Margin Complexity and Related Parameters",
         "site": "https://proceedings.mlr.press/v19/kallweit11a.html",
         "author": "Michael Kallweit; Hans Ulrich Simon",
@@ -30,6 +31,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "8222151d00",
         "title": "A Finite-Time Analysis of Multi-armed Bandits Problems with Kullback-Leibler Divergences",
         "site": "https://proceedings.mlr.press/v19/maillard11a.html",
         "author": "Odalric-Ambrym Maillard; R\u00e9mi Munos; Gilles Stoltz",
@@ -60,6 +62,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "ae82fec671",
         "title": "A New Algorithm for Compressed Counting with Applications in Shannon Entropy Estimation in Dynamic Data",
         "site": "https://proceedings.mlr.press/v19/li11a.html",
         "author": "Ping Li; Cun-Hui Zhang",
@@ -90,6 +93,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "b5adb276f3",
         "title": "A simple multi-armed bandit algorithm with optimal variation-bounded regret",
         "site": "https://proceedings.mlr.press/v19/hazan11b.html",
         "author": "Elad Hazan; Satyen Kale",
@@ -120,6 +124,7 @@
         "aff_country_unique": "Israel;United States"
     },
     {
+        "id": "b7d26c8c9b",
         "title": "Adaptive Density Level Set Clustering",
         "site": "https://proceedings.mlr.press/v19/steinwart11a.html",
         "author": "Ingo Steinwart",
@@ -141,6 +146,7 @@
         "status": "Poster"
     },
     {
+        "id": "5ad4349178",
         "title": "Agnostic KWIK learning and efficient approximate reinforcement learning",
         "site": "https://proceedings.mlr.press/v19/szita11a.html",
         "author": "Istv\u00e1n Szita; Csaba Szepesv\u00e1ri",
@@ -171,6 +177,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "74b0a038b8",
         "title": "Bandits, Query Learning, and the Haystack Dimension",
         "site": "https://proceedings.mlr.press/v19/amin11a.html",
         "author": "Kareem Amin; Michael Kearns; Umar Syed",
@@ -201,6 +208,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c77bc172d9",
         "title": "Beyond the regret minimization barrier: an optimal algorithm for stochastic strongly-convex optimization",
         "site": "https://proceedings.mlr.press/v19/hazan11a.html",
         "author": "Elad Hazan; Satyen Kale",
@@ -231,6 +239,7 @@
         "aff_country_unique": "Israel;United States"
     },
     {
+        "id": "4f53f3a109",
         "title": "Blackwell Approachability and No-Regret Learning are Equivalent",
         "site": "https://proceedings.mlr.press/v19/abernethy11b.html",
         "author": "Jacob Abernethy; Peter L. Bartlett; Elad Hazan",
@@ -261,6 +270,7 @@
         "aff_country_unique": "United States;;Israel"
     },
     {
+        "id": "497740137e",
         "title": "Bounds on Individual Risk for Log-loss Predictors",
         "site": "https://proceedings.mlr.press/v19/grunwald11b.html",
         "author": "Peter D. Gr\u00fcnwald; Wojciech Kot\u0142owski",
@@ -291,6 +301,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "1ecdb741fa",
         "title": "Collaborative Filtering with the Trace Norm: Learning, Bounding, and Transducing",
         "site": "https://proceedings.mlr.press/v19/shamir11a.html",
         "author": "Ohad Shamir; Shai Shalev-Shwartz",
@@ -321,6 +332,7 @@
         "aff_country_unique": "United States;Israel"
     },
     {
+        "id": "f0317d7096",
         "title": "Competitive Closeness Testing",
         "site": "https://proceedings.mlr.press/v19/acharya11a.html",
         "author": "Jayadev Acharya; Hirakendu Das; Ashkan Jafarpour; Alon Orlitsky; Shengjun Pan",
@@ -351,6 +363,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "87e4f065bf",
         "title": "Complexity-Based Approach to Calibration with Checking Rules",
         "site": "https://proceedings.mlr.press/v19/foster11a.html",
         "author": "Dean P. Foster; Alexander Rakhlin; Karthik Sridharan; Ambuj Tewari",
@@ -372,6 +385,7 @@
         "status": "Poster"
     },
     {
+        "id": "090cb08f59",
         "title": "Concentration-Based Guarantees  for Low-Rank Matrix Reconstruction",
         "site": "https://proceedings.mlr.press/v19/foygel11a.html",
         "author": "Rina Foygel; Nathan Srebro",
@@ -402,6 +416,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "4a0ee7765b",
         "title": "Contextual Bandits with Similarity Information",
         "site": "https://proceedings.mlr.press/v19/slivkins11a.html",
         "author": "Aleksandrs Slivkins",
@@ -432,6 +447,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c2f3e896dd",
         "title": "Distribution-Independent Evolvability of Linear Threshold Functions",
         "site": "https://proceedings.mlr.press/v19/feldman11b.html",
         "author": "Vitaly Feldman",
@@ -462,6 +478,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "ce6ae978e6",
         "title": "Does an Efficient Calibrated Forecasting Strategy Exist?",
         "site": "https://proceedings.mlr.press/v19/abernethy11a.html",
         "author": "Jacob Abernethy; Shie Mannor",
@@ -492,6 +509,7 @@
         "aff_country_unique": "United States;Israel"
     },
     {
+        "id": "77a43fdeff",
         "title": "Identifiability of Priors from Bounded Sample Sizes  with Applications to Transfer Learning",
         "site": "https://proceedings.mlr.press/v19/yang11a.html",
         "author": "Liu Yang; Steve Hanneke; Jaime Carbonell",
@@ -522,6 +540,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c209b02002",
         "title": "Lower Bounds and Hardness Amplification for Learning Shallow Monotone Formulas",
         "site": "https://proceedings.mlr.press/v19/feldman11a.html",
         "author": "Vitaly Feldman; Homin K. Lee; Rocco A. Servedio",
@@ -552,6 +571,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "520db0501b",
         "title": "Maximum Likelihood vs. Sequential Normalized Maximum Likelihood  in On-line Density Estimation",
         "site": "https://proceedings.mlr.press/v19/kotlowski11a.html",
         "author": "Wojciech Kot\u0142owski; Peter Gr\u00fcnwald",
@@ -582,6 +602,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "daa63ae7d9",
         "title": "Minimax Algorithm for Learning Rotations",
         "site": "https://proceedings.mlr.press/v19/kotlowski11b.html",
         "author": "Wojciech Kot\u0142owski; Manfred K. Warmuth",
@@ -612,6 +633,7 @@
         "aff_country_unique": "Netherlands;United States"
     },
     {
+        "id": "b8c78579c7",
         "title": "Minimax Policies for Combinatorial Prediction Games",
         "site": "https://proceedings.mlr.press/v19/audibert11a.html",
         "author": "Jean-Yves Audibert; S\u00e9bastien Bubeck; G\u00e1bor Lugosi",
@@ -642,6 +664,7 @@
         "aff_country_unique": "France;United States;Spain"
     },
     {
+        "id": "b671d8e66c",
         "title": "Minimax Regret of Finite Partial-Monitoring Games in Stochastic Environments",
         "site": "https://proceedings.mlr.press/v19/bartok11a.html",
         "author": "G\u00e1bor Bart\u00f3k; D\u00e1vid P\u00e1l; Csaba Szepesv\u00e1ri",
@@ -672,6 +695,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "857882db68",
         "title": "Missing Information Impediments to Learnability",
         "site": "https://proceedings.mlr.press/v19/michael11a.html",
         "author": "Loizos Michael",
@@ -700,6 +724,7 @@
         "aff_country_unique": "Cyprus"
     },
     {
+        "id": "11b93a02a0",
         "title": "Mixability is Bayes Risk Curvature Relative to Log Loss",
         "site": "https://proceedings.mlr.press/v19/vanerven11a.html",
         "author": "Tim Erven; Mark D. Reid; Robert C. Williamson",
@@ -730,6 +755,7 @@
         "aff_country_unique": "Netherlands;Australia"
     },
     {
+        "id": "11b53267cc",
         "title": "Monotone multi-armed bandit allocations",
         "site": "https://proceedings.mlr.press/v19/slivkins11b.html",
         "author": "Aleksandrs Slivkins",
@@ -760,6 +786,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "9c89a0abe5",
         "title": "Multiclass Learnability and the ERM principle",
         "site": "https://proceedings.mlr.press/v19/daniely11a.html",
         "author": "Amit Daniely; Sivan Sabato; Shai Ben-David; Shai Shalev-Shwartz",
@@ -790,6 +817,7 @@
         "aff_country_unique": "Israel;Canada"
     },
     {
+        "id": "735efd34b1",
         "title": "Neyman-Pearson classification under a strict constraint",
         "site": "https://proceedings.mlr.press/v19/rigollet11a.html",
         "author": "Philippe Rigollet; Xin Tong",
@@ -820,6 +848,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a0d0defcb3",
         "title": "On the Consistency of Multi-Label Learning",
         "site": "https://proceedings.mlr.press/v19/gao11a.html",
         "author": "Wei Gao; Zhi-Hua Zhou",
@@ -850,6 +879,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "adcce05f45",
         "title": "Online Learning: Beyond Regret",
         "site": "https://proceedings.mlr.press/v19/rakhlin11a.html",
         "author": "Alexander Rakhlin; Karthik Sridharan; Ambuj Tewari",
@@ -871,6 +901,7 @@
         "status": "Poster"
     },
     {
+        "id": "c56e6bad7a",
         "title": "Optimal aggregation of affine estimators",
         "site": "https://proceedings.mlr.press/v19/salmon11a.html",
         "author": "Joseph Salmon; Arnak Dalalyan",
@@ -901,6 +932,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "5e4a19bb6e",
         "title": "Oracle inequalities for computationally budgeted model selection",
         "site": "https://proceedings.mlr.press/v19/agarwal11a.html",
         "author": "Alekh Agarwal; John C. Duchi; Peter L. Bartlett; Clement Levrard",
@@ -931,6 +963,7 @@
         "aff_country_unique": "United States;Australia;France"
     },
     {
+        "id": "5cf0682208",
         "title": "Preface",
         "site": "https://proceedings.mlr.press/v19/kakade11a.html",
         "author": "Sham M. Kakade; Ulrike von Luxburg",
@@ -952,6 +985,7 @@
         "status": "Poster"
     },
     {
+        "id": "277be6f3dd",
         "title": "Regret Bounds for the Adaptive Control of Linear Quadratic Systems",
         "site": "https://proceedings.mlr.press/v19/abbasi-yadkori11a.html",
         "author": "Yasin Abbasi-Yadkori; Csaba Szepesv\u00e1ri",
@@ -982,6 +1016,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "7b2f7b36de",
         "title": "Robust approachability and regret minimization in games with partial monitoring",
         "site": "https://proceedings.mlr.press/v19/mannor11a.html",
         "author": "Shie Mannor; Vianney Perchet; Gilles Stoltz",
@@ -1012,6 +1047,7 @@
         "aff_country_unique": "Israel;France"
     },
     {
+        "id": "87dc11db66",
         "title": "Safe Learning:    bridging the gap between Bayes, MDL and statistical learning theory via  empirical convexity",
         "site": "https://proceedings.mlr.press/v19/grunwald11a.html",
         "author": "Peter Gr\u00fcnwald",
@@ -1042,6 +1078,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "ed4de2c583",
         "title": "Sample Complexity Bounds for Differentially Private Learning",
         "site": "https://proceedings.mlr.press/v19/chaudhuri11a.html",
         "author": "Kamalika Chaudhuri; Daniel Hsu",
@@ -1072,6 +1109,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "31f05fef91",
         "title": "Sequential Event Prediction with Association Rules",
         "site": "https://proceedings.mlr.press/v19/rudin11a.html",
         "author": "Cynthia Rudin; Benjamin Letham; Ansaf Salleb-Aouissi; Eugene Kogan; David Madigan",
@@ -1102,6 +1140,7 @@
         "aff_country_unique": "United States;"
     },
     {
+        "id": "4d77545b44",
         "title": "Sparsity Regret Bounds for Individual Sequences in Online Linear Regression",
         "site": "https://proceedings.mlr.press/v19/gerchinovitz11a.html",
         "author": "S\u00e9bastien Gerchinovitz",
@@ -1130,6 +1169,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "5a38a51563",
         "title": "The KL-UCB Algorithm for Bounded Stochastic Bandits and Beyond",
         "site": "https://proceedings.mlr.press/v19/garivier11a.html",
         "author": "Aur\u00e9lien Garivier; Olivier Capp\u00e9",
@@ -1160,6 +1200,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "e196dc913d",
         "title": "The Rate of Convergence of Adaboost",
         "site": "https://proceedings.mlr.press/v19/mukherjee11a.html",
         "author": "Indraneel Mukherjee; Cynthia Rudin; Robert E. Schapire",
@@ -1190,6 +1231,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "230362fe2e",
         "title": "The Sample Complexity of Dictionary Learning",
         "site": "https://proceedings.mlr.press/v19/vainsencher11a.html",
         "author": "Daniel Vainsencher; Shie Mannor; Alfred M. Bruckstein",
@@ -1220,6 +1262,7 @@
         "aff_country_unique": "Israel"
     },
     {
+        "id": "ccca4e491a",
         "title": "Tight conditions for consistent variable selection in high dimensional nonparametric regression",
         "site": "https://proceedings.mlr.press/v19/comminges11a.html",
         "author": "La\u00ebtitia Comminges; Arnak S. Dalalyan",

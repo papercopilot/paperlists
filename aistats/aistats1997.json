@@ -1,5 +1,6 @@
 [
     {
+        "id": "d2d9d02ac7",
         "title": "A Bayesian approach to CART",
         "site": "https://proceedings.mlr.press/r1/chipman97a.html",
         "author": "Hugh Chipman; Edward I. George; Robert E. McCulloch",
@@ -21,6 +22,7 @@
         "status": "Poster"
     },
     {
+        "id": "1fdbe586cc",
         "title": "A Characterization of Bayesian Network Structures and its Application to Leaming",
         "site": "https://proceedings.mlr.press/r1/forbes97a.html",
         "author": "James I. G. Forbes",
@@ -51,6 +53,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "63934cdfc5",
         "title": "A Comparison of Decision Trees, Influence Diagrams and Valuation Networks for Asymmetric Decision Problems",
         "site": "https://proceedings.mlr.press/r1/bielza97b.html",
         "author": "Concha Bielza; Prakash P. Shenoy",
@@ -81,6 +84,7 @@
         "aff_country_unique": "Spain;United States"
     },
     {
+        "id": "4129a1112f",
         "title": "A Comparison of Scientific and Engineering Criteria for Bayesian Model Selection",
         "site": "https://proceedings.mlr.press/r1/heckerman97a.html",
         "author": "David Heckerman; David Maxwell Chickering",
@@ -111,6 +115,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "614f7164b8",
         "title": "A Distance Metric for Classification Trees",
         "site": "https://proceedings.mlr.press/r1/shannon97a.html",
         "author": "William D. Shannon; David Banks",
@@ -141,6 +146,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "5b59aaac07",
         "title": "A Family of Algorithms for Finding Temporal Structure in Data",
         "site": "https://proceedings.mlr.press/r1/oates97a.html",
         "author": "Tim Oates; Matthew J. Schmill; David Jensen; Paul R. Cohen",
@@ -162,6 +168,7 @@
         "status": "Poster"
     },
     {
+        "id": "30d77b505f",
         "title": "A Forward Monte Carlo Method for Solving Influence Diagrams using local Computation",
         "site": "https://proceedings.mlr.press/r1/charnes97a.html",
         "author": "John M. Charnes; Prakash P. Shenoy",
@@ -192,6 +199,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "7c5c436896",
         "title": "A Note on Cyclic Graphs and Dynamical Feedback Systems",
         "site": "https://proceedings.mlr.press/r1/richardson97b.html",
         "author": "Thomas S. Richardson; Peter Spirtes; Clark Glymour",
@@ -222,6 +230,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "70683235b5",
         "title": "A Polynomial Time Algorithm for Determining DAG Equivalence in the Presence of Latent Variables and Selection Bias",
         "site": "https://proceedings.mlr.press/r1/spirtes97b.html",
         "author": "Peter Spirtes; Thomas S. Richardson",
@@ -252,6 +261,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "799e5cd39b",
         "title": "A Variational Approach to Bayesian Logistic Regression Models and their Extensions",
         "site": "https://proceedings.mlr.press/r1/jaakkola97a.html",
         "author": "Tommi S. Jaakkola; Michael I. Jordan",
@@ -282,6 +292,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "7a6cabe85f",
         "title": "Adjusting for Multiple Testing in Decision Tree Pruning",
         "site": "https://proceedings.mlr.press/r1/jensen97a.html",
         "author": "David Jensen",
@@ -294,8 +305,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=18037853821163373624&as_sdt=5,33&sciodt=0,33&hl=en",
         "gs_version_total": 4,
         "aff": "",
-        "aff_domain": "psyche.mit.edu;psyche.mit.edu",
-        "email": "psyche.mit.edu;psyche.mit.edu",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -303,6 +314,7 @@
         "status": "Poster"
     },
     {
+        "id": "e8c15108d5",
         "title": "An Algorithm for Bayesian Network Construction from Data",
         "site": "https://proceedings.mlr.press/r1/cheng97a.html",
         "author": "Jie Cheng; David A. Bell; Weiru Liu",
@@ -333,6 +345,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "e27c4f2fe6",
         "title": "An Incremental Construction of a Nonparametric Regression Model",
         "site": "https://proceedings.mlr.press/r1/smid97a.html",
         "author": "Jan Smid; Petr Volf",
@@ -363,6 +376,7 @@
         "aff_country_unique": "United States;Czech Republic"
     },
     {
+        "id": "f0d26f7619",
         "title": "An Objective Function for Belief Net Triangulation",
         "site": "https://proceedings.mlr.press/r1/meila97a.html",
         "author": "Marina Meil\u0103; Michael I. Jordan",
@@ -384,6 +398,7 @@
         "status": "Poster"
     },
     {
+        "id": "add9ff5c47",
         "title": "Applying a Gaussian-Bernoulli Mixture Model Network to Binary and Continuous Missing Data in Medicine",
         "site": "https://proceedings.mlr.press/r1/rosen97a.html",
         "author": "David B. Rosen; Harry B. Burke",
@@ -414,6 +429,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "8231671412",
         "title": "Approximate Inference and Forecast Algorithms in Graphical Models for Partially Observed Dynamic Systems",
         "site": "https://proceedings.mlr.press/r1/lekuona97a.html",
         "author": "Alberto Lekuona; Beatrix Lacruz; Pilar Lasala",
@@ -444,6 +460,7 @@
         "aff_country_unique": "Spain"
     },
     {
+        "id": "4d5f8f2066",
         "title": "Asessing and Improving Classification Rules",
         "site": "https://proceedings.mlr.press/r1/hand97a.html",
         "author": "David J. Hand; Kerning Yu; Niall Ada",
@@ -474,6 +491,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "97d9b5367c",
         "title": "Bayesian Information Retrieval: Preliminary Evaluation",
         "site": "https://proceedings.mlr.press/r1/keim97a.html",
         "author": "Michelle Keim; David D. Lewis; David Madigan",
@@ -504,6 +522,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "2007375c35",
         "title": "Bayesian Model Averaging in Rule Induction",
         "site": "https://proceedings.mlr.press/r1/domingos97a.html",
         "author": "Pedro Domingos",
@@ -534,6 +553,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "2a77028575",
         "title": "Building an EDA Assistant: A Progress Report",
         "site": "https://proceedings.mlr.press/r1/amant97a.html",
         "author": "Robert St. Amant; Paul R. Cohen",
@@ -564,6 +584,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "7c6a82463b",
         "title": "Case-based Probability Factoring in Bayesian Belief Networks",
         "site": "https://proceedings.mlr.press/r1/portinale97a.html",
         "author": "Luigi Portinale",
@@ -576,8 +597,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:n6-4nlN0KE0J:scholar.google.com/&scioq=Case-based+Probability+Factoring+in+Bayesian+Belief+Networks&hl=en&as_sdt=0,33",
         "gs_version_total": 9,
         "aff": "Dipartimento di Informatica - Universita' di Torino",
-        "aff_domain": "csc.ncsu.edu;cs.umass.edu",
-        "email": "csc.ncsu.edu;cs.umass.edu",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -594,6 +615,7 @@
         "aff_country_unique": "Italy"
     },
     {
+        "id": "570c4a0d25",
         "title": "Combining Neural Network Regression Estimates Using Principal Components",
         "site": "https://proceedings.mlr.press/r1/merz97a.html",
         "author": "Christopher J. Merz; Michael J. Pazzani",
@@ -615,6 +637,7 @@
         "status": "Poster"
     },
     {
+        "id": "bdff447e7e",
         "title": "Comparing Predictive Inference Methods for Discrete Domains",
         "site": "https://proceedings.mlr.press/r1/kontkanen97a.html",
         "author": "Petri Kontkanen; Petri Myllym\u00e4ki; Tomi Silander; Henry Tirri; Peter Gr\u00fcnwald",
@@ -645,6 +668,7 @@
         "aff_country_unique": ";Netherlands"
     },
     {
+        "id": "2cc079a4c7",
         "title": "Comparing Tree-Simplification Procedures",
         "site": "https://proceedings.mlr.press/r1/breslow97a.html",
         "author": "Leonard A. Breslow; David W. Aha",
@@ -675,6 +699,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f5513e16c3",
         "title": "Conceptual Clustering with Numeric-and-Nominal Mixed Data - A New Similarity Based System",
         "site": "https://proceedings.mlr.press/r1/li97a.html",
         "author": "Cen Li; Gautam Biswas",
@@ -705,6 +730,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "88c6a4cc10",
         "title": "Cross-validated Likelihood for Model Selection in Unsupervised Learning",
         "site": "https://proceedings.mlr.press/r1/smyth97a.html",
         "author": "Padhraic Smyth",
@@ -735,6 +761,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f010785895",
         "title": "Dataset Cataloging Metadata for Machine Learning Applications Research",
         "site": "https://proceedings.mlr.press/r1/cunningham97a.html",
         "author": "Sally Jo Cunningham",
@@ -765,6 +792,7 @@
         "aff_country_unique": "New Zealand"
     },
     {
+        "id": "dd75bda13a",
         "title": "Estimating Latent Causal Inferences: Tetrad II model selection and Bayesian parameter estimation",
         "site": "https://proceedings.mlr.press/r1/scheines97a.html",
         "author": "Richard Scheines",
@@ -777,8 +805,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=14552444531109830375&as_sdt=5,33&sciodt=0,33&hl=en",
         "gs_version_total": 2,
         "aff": "Department of Philosophy, Carnegie Mellon University",
-        "aff_domain": "cs.waikato.ac.nz",
-        "email": "cs.waikato.ac.nz",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "http://hss.cmu.edu/philosophy/TETRAD/tetrad.html",
         "author_num": 1,
@@ -793,6 +821,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "1f97f1d150",
         "title": "Extensions of Undirected and Acyclic, Directed Graphical Models",
         "site": "https://proceedings.mlr.press/r1/richardson97a.html",
         "author": "Thomas S. Richardson",
@@ -823,6 +852,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "2e3dd8ff77",
         "title": "Finding Overlapping Distributions with MML",
         "site": "https://proceedings.mlr.press/r1/baxter97a.html",
         "author": "Rohan A. Baxter; Jonathan J. Oliver",
@@ -853,6 +883,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "9ec1517f73",
         "title": "Graphical Model Based Computer Adaptive Testing",
         "site": "https://proceedings.mlr.press/r1/almond97b.html",
         "author": "Russell G. Almond; Robert J. Mislevy",
@@ -883,6 +914,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "6d48b5e726",
         "title": "Heuristic Greedy Search Algorithms for Latent Variable Models",
         "site": "https://proceedings.mlr.press/r1/spirtes97a.html",
         "author": "Peter Spirtes; Thomas S.Richardson; Christopher Meek",
@@ -913,6 +945,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "eb01fa69b6",
         "title": "How to Find Big-Oh in Your Data Set (and How Not To)",
         "site": "https://proceedings.mlr.press/r1/mcgeoch97a.html",
         "author": "C. C. McGeoch; P. R. Cohen",
@@ -943,6 +976,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "523c01d9a6",
         "title": "Inductive Inference of First-Order Models from Numeric-Symbolic Data",
         "site": "https://proceedings.mlr.press/r1/esposito97a.html",
         "author": "Floriana Esposito; Sergio Caggese; Donato Malerba; Giovanni Semeraro",
@@ -964,6 +998,7 @@
         "status": "Poster"
     },
     {
+        "id": "8814b51cf6",
         "title": "Inference using Probabilistic Concept Trees",
         "site": "https://proceedings.mlr.press/r1/fisher97a.html",
         "author": "Doug Fisher; Doug Talbert",
@@ -985,6 +1020,7 @@
         "status": "Poster"
     },
     {
+        "id": "cebd9440da",
         "title": "Integrating Signal and Language Context to Improve Handwritten Phrase Recognition: Alternative Approaches",
         "site": "https://proceedings.mlr.press/r1/bouchaffra97a.html",
         "author": "Djamel Bouchaffra; Eugene Koontz; V. Krpasundar; Rohini K. Srihari; Sargur N. Srihari",
@@ -1015,6 +1051,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a4bf4502e3",
         "title": "Intelligent Assistant for Computational Scientists: Integrated Modelling, Experimentation and Analysis",
         "site": "https://proceedings.mlr.press/r1/gregory97a.html",
         "author": "Dawn E. Gregory; Paul R. Cohen",
@@ -1036,6 +1073,7 @@
         "status": "Poster"
     },
     {
+        "id": "4540c7724e",
         "title": "Intelligent Support of Secondary Data Analysis",
         "site": "https://proceedings.mlr.press/r1/almond97a.html",
         "author": "Russell G. Almond",
@@ -1048,8 +1086,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:BCynJ8PW6qcJ:scholar.google.com/&scioq=Intelligent+Support+of+Secondary+Data+Analysis&hl=en&as_sdt=0,5",
         "gs_version_total": 2,
         "aff": "Educational Testing Service",
-        "aff_domain": ";",
-        "email": ";",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -1064,6 +1102,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c6e6651556",
         "title": "Leaming Influence Diagram from Data",
         "site": "https://proceedings.mlr.press/r1/ezawa97a.html",
         "author": "Kazuo J. Ezawa; Narendra K. Gupta",
@@ -1094,6 +1133,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "0d724eb297",
         "title": "MML Mixture Modelling of Multi-state, Poisson, vonMises circular and Gaussian Distributions",
         "site": "https://proceedings.mlr.press/r1/wallace97a.html",
         "author": "Chris S. Wallace; David L. Dowe",
@@ -1124,6 +1164,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "95fa0ad863",
         "title": "Markov chain Monte Carlo methods for decision analysis",
         "site": "https://proceedings.mlr.press/r1/bielza97a.html",
         "author": "Concha Bielza; Peter Muller; David Rios Insua",
@@ -1145,6 +1186,7 @@
         "status": "Poster"
     },
     {
+        "id": "623c0de89c",
         "title": "Memory Based Stochastic Optimization for Validation and Tuning of Function Approximators",
         "site": "https://proceedings.mlr.press/r1/dubrawski97a.html",
         "author": "Artur Dubrawski; Jeff Schneider",
@@ -1175,6 +1217,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "d8f4059fc9",
         "title": "Mixed Memory Markov Models",
         "site": "https://proceedings.mlr.press/r1/saul97a.html",
         "author": "Lawrence K. Saul; Michael I. Jordan",
@@ -1205,6 +1248,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "e2247ece3b",
         "title": "Multivariate Density Factorization for Independent Component Analysis: An Unsupervised Artificial Neural Network Approach",
         "site": "https://proceedings.mlr.press/r1/girolami97a.html",
         "author": "Mark Girolami; Colin Fyfe",
@@ -1235,6 +1279,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "c1b064beee",
         "title": "On Predictive Classification of Binary Vectors",
         "site": "https://proceedings.mlr.press/r1/gyllenberg97a.html",
         "author": "Mats Gyllenberg; Timo Koski",
@@ -1265,6 +1310,7 @@
         "aff_country_unique": "Finland;Sweden"
     },
     {
+        "id": "32287759e0",
         "title": "On the Error Probability of Model Selection for Classification",
         "site": "https://proceedings.mlr.press/r1/suzuki97a.html",
         "author": "Joe Suzuki",
@@ -1295,6 +1341,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "e72a8980ba",
         "title": "Overfitting Explained",
         "site": "https://proceedings.mlr.press/r1/cohen97a.html",
         "author": "Paul R. Cohen; David Jensen",
@@ -1316,6 +1363,7 @@
         "status": "Poster"
     },
     {
+        "id": "6351e538cf",
         "title": "PAC Learning with Constant-Partition Classification Noise and Applications to Decision Tree Induction",
         "site": "https://proceedings.mlr.press/r1/decatur97a.html",
         "author": "Scott E. Decatur",
@@ -1328,8 +1376,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=9774849602010043722&as_sdt=2005&sciodt=0,5&hl=en",
         "gs_version_total": 3,
         "aff": "",
-        "aff_domain": ";",
-        "email": ";",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -1337,6 +1385,7 @@
         "status": "Poster"
     },
     {
+        "id": "5cf0682208",
         "title": "Preface",
         "site": "https://proceedings.mlr.press/r1/madigan97a.html",
         "author": "David Madigan; Padhraic Smyth",
@@ -1358,6 +1407,7 @@
         "status": "Poster"
     },
     {
+        "id": "97db67078c",
         "title": "Robust Interpretation of Neural Network models",
         "site": "https://proceedings.mlr.press/r1/intrator97a.html",
         "author": "Oma Intrator; Nathan Intrator",
@@ -1388,6 +1438,7 @@
         "aff_country_unique": "Israel;United States"
     },
     {
+        "id": "71ba11dfe0",
         "title": "Robust Parameter Learning in Bayesian Networks with Missing Data",
         "site": "https://proceedings.mlr.press/r1/ramoni97a.html",
         "author": "Marco Ramoni; Paola Sebastiani",
@@ -1418,6 +1469,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "c58a742e6b",
         "title": "Statistical Aspects of Classification in Drifting Populations",
         "site": "https://proceedings.mlr.press/r1/taylor97a.html",
         "author": "C. C. Taylor; G. Nakhaeizadeh; G. Kunisch",
@@ -1448,6 +1500,7 @@
         "aff_country_unique": "United Kingdom;Germany"
     },
     {
+        "id": "1007e6d080",
         "title": "Strategies for Model Mixing in Generalized Linear Models",
         "site": "https://proceedings.mlr.press/r1/clyde97a.html",
         "author": "Merlise Clyde",
@@ -1460,8 +1513,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?q=related:blapEYI__NIJ:scholar.google.com/&scioq=Strategies+for+Model+Mixing+in+Generalized+Linear+Models&hl=en&as_sdt=0,5",
         "gs_version_total": 4,
         "aff": "Institute of Statistics and Decision Sciences, Box 90251 Duke University, Durham, NC 27708-0251",
-        "aff_domain": "amsta.leeds.ac.uk;dbag.ulm.DaimlerBenz.com; ",
-        "email": "amsta.leeds.ac.uk;dbag.ulm.DaimlerBenz.com; ",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -1478,6 +1531,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "270741582a",
         "title": "The Effects of Training Set Size on Decision Tree Complexity",
         "site": "https://proceedings.mlr.press/r1/oates97b.html",
         "author": "Tim Oates; David Jensen",
@@ -1508,6 +1562,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "35f6a1da74",
         "title": "Using Classification Trees to Improve Causal Inferences in Observational Studies",
         "site": "https://proceedings.mlr.press/r1/cox97a.html",
         "author": "Louis Anthony Cox Jr",
@@ -1536,6 +1591,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "b70a397e9e",
         "title": "Using Prediction to Improve Combinatorial Optimization Search",
         "site": "https://proceedings.mlr.press/r1/boyan97a.html",
         "author": "Justin A. Boyan; Andrew W. Moore",
@@ -1566,6 +1622,7 @@
         "aff_country_unique": ";United States"
     },
     {
+        "id": "5fa81b5f35",
         "title": "Variational Inference for continuous Sigmoidal Bayesian Networks",
         "site": "https://proceedings.mlr.press/r1/frey97a.html",
         "author": "Brendan J. Frey",
@@ -1578,8 +1635,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=10615087786193365370&as_sdt=400005&sciodt=0,14&hl=en",
         "gs_version_total": 9,
         "aff": "Department of Computer Science, University of Toronto",
-        "aff_domain": "jab\u00a9ks.cmu.edu; awm\u00a9ks.cmu.edu",
-        "email": "jab\u00a9ks.cmu.edu; awm\u00a9ks.cmu.edu",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -1596,6 +1653,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "84948b7e1c",
         "title": "WWW Cache Layout to Ease Network Overload",
         "site": "https://proceedings.mlr.press/r1/yoshida97a.html",
         "author": "Kenichi Yoshida",
@@ -1624,6 +1682,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "1fde4350a5",
         "title": "Wavelet based Random Densities",
         "site": "https://proceedings.mlr.press/r1/insua97a.html",
         "author": "David Rios Insua; Brani Vidakovic",

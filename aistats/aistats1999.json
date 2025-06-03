@@ -1,5 +1,6 @@
 [
     {
+        "id": "25b6d29cfa",
         "title": "A Note on the Comparison of Polynomial Selection Methods",
         "site": "https://proceedings.mlr.press/r2/viswanathan99a.html",
         "author": "Murlikrishna Viswanathan; Chris S. Wallace",
@@ -21,6 +22,7 @@
         "status": "Poster"
     },
     {
+        "id": "a2493352ff",
         "title": "An experiment in causal discovery using a pneumonia database",
         "site": "https://proceedings.mlr.press/r2/spirtes99a.html",
         "author": "Peter Spirtes; Gregory F. Cooper",
@@ -51,6 +53,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a29bd4ea7f",
         "title": "Bayesian Graphical Models, Intention-to-Treat, and the Rubin Causal Model",
         "site": "https://proceedings.mlr.press/r2/madigan99a.html",
         "author": "David Madigan",
@@ -81,6 +84,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "3ee49c9f06",
         "title": "Boosting Methodology for Regression Problems",
         "site": "https://proceedings.mlr.press/r2/ridgeway99a.html",
         "author": "Greg Ridgeway; David Madigan; Thomas S. Richardson",
@@ -111,6 +115,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "39350d6465",
         "title": "Causal Mechanisms and Classification Trees for Predicting Chemical Carcinogens",
         "site": "https://proceedings.mlr.press/r2/cox99a.html",
         "author": "Louis Anthony Cox Jr",
@@ -139,6 +144,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "44e372da1f",
         "title": "Conditional products: An alternative approach to conditional independence",
         "site": "https://proceedings.mlr.press/r2/dawid99a.html",
         "author": "A. Philip Dawid; Milan Studen\u00fd",
@@ -169,6 +175,7 @@
         "aff_country_unique": "United Kingdom;Czech Republic"
     },
     {
+        "id": "99cf92f34c",
         "title": "Efficient Mining of Statistical Dependencies",
         "site": "https://proceedings.mlr.press/r2/oates99a.html",
         "author": "Tim Oates; Matthew D. Schmill; Paul R. Cohen; Casey Durfee",
@@ -190,6 +197,7 @@
         "status": "Poster"
     },
     {
+        "id": "ed7325d50f",
         "title": "Efficient learning using constrained sufficient statistics",
         "site": "https://proceedings.mlr.press/r2/friedman99a.html",
         "author": "Nir Friedman; Lise Getoor",
@@ -211,6 +219,7 @@
         "status": "Poster"
     },
     {
+        "id": "e5fa704075",
         "title": "Geometric modeling of a nuclear environment",
         "site": "https://proceedings.mlr.press/r2/geeter99a.html",
         "author": "Jan De Geeter; Marc Decr\u00e9ton; Joris De Schutter; Herman Bruyninckx; Hendrik Van Brussel",
@@ -241,6 +250,7 @@
         "aff_country_unique": "Belgium"
     },
     {
+        "id": "b2f90de0f9",
         "title": "Hierarchical IFA Belief Networks",
         "site": "https://proceedings.mlr.press/r2/attias99a.html",
         "author": "Hagai Attias",
@@ -253,8 +263,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=12419375960002715924&as_sdt=2005&sciodt=0,5&hl=en",
         "gs_version_total": 3,
         "aff": "",
-        "aff_domain": "sckcen.be; ; ; ; ",
-        "email": "sckcen.be; ; ; ; ",
+        "aff_domain": "",
+        "email": "",
         "github": "https://github.com/example-paper",
         "project": "https://example-project.com",
         "author_num": 1,
@@ -262,6 +272,7 @@
         "status": "Poster"
     },
     {
+        "id": "9599dc89e6",
         "title": "Hierarchical Mixtures-of-Experts for Generalized Linear Models: Some Results on Denseness and Consistency",
         "site": "https://proceedings.mlr.press/r2/jiang99a.html",
         "author": "Wenxin Jiang; Martin A. Tanner",
@@ -292,6 +303,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "6e41828bc7",
         "title": "Mean field inference in a general probabilistic setting",
         "site": "https://proceedings.mlr.press/r2/haft99a.html",
         "author": "Michael Haft; Reimar Hofmann; Volker Tresp",
@@ -313,6 +325,7 @@
         "status": "Poster"
     },
     {
+        "id": "4c3725f0c6",
         "title": "Model choice: A minimum posterior predictive loss approach",
         "site": "https://proceedings.mlr.press/r2/ghosh99a.html",
         "author": "Sujit Kumar Ghosh; Alan E. Gelfand",
@@ -334,6 +347,7 @@
         "status": "Poster"
     },
     {
+        "id": "21197f15e5",
         "title": "Modeling decision tree performance with the power law",
         "site": "https://proceedings.mlr.press/r2/frey99a.html",
         "author": "Lewis J. Frey; Douglas H. Fisher",
@@ -355,6 +369,7 @@
         "status": "Poster"
     },
     {
+        "id": "1bdd8037be",
         "title": "On the geometry of DAG models with hidden variables",
         "site": "https://proceedings.mlr.press/r2/geiger99a.html",
         "author": "Dan Geiger; David Heckerman; Henry King; Christopher Meek",
@@ -385,6 +400,7 @@
         "aff_country_unique": "United States;Israel"
     },
     {
+        "id": "ed464e8d87",
         "title": "Pattern Discovery via Entropy Minimization",
         "site": "https://proceedings.mlr.press/r2/brand99a.html",
         "author": "Matthew Brand",
@@ -397,8 +413,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=4360176387168914454&as_sdt=2005&sciodt=0,5&hl=en",
         "gs_version_total": 8,
         "aff": "",
-        "aff_domain": "microsoft.com;microsoft.com;math.umd.edu;microsoft.com",
-        "email": "microsoft.com;microsoft.com;math.umd.edu;microsoft.com",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -406,6 +422,7 @@
         "status": "Poster"
     },
     {
+        "id": "b49e54117b",
         "title": "Probabilistic Kernel Regression Models",
         "site": "https://proceedings.mlr.press/r2/jaakkola99a.html",
         "author": "Tommi S. Jaakkola; David Haussler",
@@ -427,6 +444,7 @@
         "status": "Poster"
     },
     {
+        "id": "9a8ba4d145",
         "title": "Process-oriented evaluation: The next step",
         "site": "https://proceedings.mlr.press/r2/domingos99a.html",
         "author": "Pedro M. Domingos",
@@ -457,6 +475,7 @@
         "aff_country_unique": "Portugal"
     },
     {
+        "id": "d9c2f11ca2",
         "title": "Stochastic Local Search for Bayesian Network",
         "site": "https://proceedings.mlr.press/r2/kask99a.html",
         "author": "Kalev Kask; Rina Dechter",
@@ -478,6 +497,7 @@
         "status": "Poster"
     },
     {
+        "id": "922a7d71e2",
         "title": "Tractable Structure Search in the Presence of Latent Variables",
         "site": "https://proceedings.mlr.press/r2/richardson99a.html",
         "author": "Thomas Richardson; Heiko Bailer; Moulinath Banarjees",

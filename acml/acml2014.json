@@ -1,5 +1,6 @@
 [
     {
+        "id": "2ba02d79f4",
         "title": "A Fast Hierarchical Alternating Least Squares Algorithm for Orthogonal Nonnegative Matrix Factorization",
         "site": "https://proceedings.mlr.press/v39/kimura14.html",
         "author": "Keigo Kimura; Yuzuru Tanaka; Mineichi Kudo",
@@ -30,6 +31,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "cab77daf15",
         "title": "A UCB-Like Strategy of Collaborative Filtering",
         "site": "https://proceedings.mlr.press/v39/nakamura14.html",
         "author": "Atsuyoshi Nakamura",
@@ -60,6 +62,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "b8d120cfe2",
         "title": "Bibliographic Analysis with the Citation Network Topic Model",
         "site": "https://proceedings.mlr.press/v39/lim14.html",
         "author": "Kar Wai Lim; Wray Buntine",
@@ -90,6 +93,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "65521d136f",
         "title": "Dual online inference for latent Dirichlet allocation",
         "site": "https://proceedings.mlr.press/v39/than14.html",
         "author": "Khoat Than; Tung Doan",
@@ -120,6 +124,7 @@
         "aff_country_unique": "Vietnam"
     },
     {
+        "id": "5c73420308",
         "title": "Efficient Sample Mining for Object Detection",
         "site": "https://proceedings.mlr.press/v39/canevet14a.html",
         "author": "Olivier Canevet; Francois Fleuret",
@@ -150,6 +155,7 @@
         "aff_country_unique": "Switzerland"
     },
     {
+        "id": "19bb738cda",
         "title": "Ensembles for Time Series Forecasting",
         "site": "https://proceedings.mlr.press/v39/oliveira14.html",
         "author": "Mariana Oliveira; Luis Torgo",
@@ -180,6 +186,7 @@
         "aff_country_unique": "Portugal"
     },
     {
+        "id": "372ec875a5",
         "title": "Interval Insensitive Loss for Ordinal Classification",
         "site": "https://proceedings.mlr.press/v39/antoniuk14.html",
         "author": "Kostiantyn Antoniuk; Vojtech Franc; Vaclav Hlavac",
@@ -210,6 +217,7 @@
         "aff_country_unique": "Czech Republic"
     },
     {
+        "id": "b751ce93cd",
         "title": "Learning with Augmented Multi-Instance View",
         "site": "https://proceedings.mlr.press/v39/zhu14.html",
         "author": "Yue Zhu; Jianxin Wu; Yuan Jiang; Zhi-Hua Zhou",
@@ -240,6 +248,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "607d703657",
         "title": "Nonlinear Dimensionality Reduction of Data by Deep Distributed Random Samplings",
         "site": "https://proceedings.mlr.press/v39/zhang14.html",
         "author": "Xiao-Lei Zhang",
@@ -270,6 +279,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "d0d65976a5",
         "title": "Online Passive Aggressive Active Learning and Its Applications",
         "site": "https://proceedings.mlr.press/v39/lu14.html",
         "author": "Jing Lu; Peilin Zhao; Steven Hoi",
@@ -300,6 +310,7 @@
         "aff_country_unique": "Singapore"
     },
     {
+        "id": "8ac1cda1e2",
         "title": "Online matrix prediction for sparse loss matrices",
         "site": "https://proceedings.mlr.press/v39/moridomi14.html",
         "author": "Ken-ichiro Moridomi; Kohei Hatano; Eiji Takimoto; Koji Tsuda",
@@ -330,6 +341,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "bec1aa5df6",
         "title": "Ordinal Random Fields for Recommender Systems",
         "site": "https://proceedings.mlr.press/v39/liu14.html",
         "author": "Shaowu Liu; Truyen Tran; Gang Li",
@@ -351,6 +363,7 @@
         "status": "Poster"
     },
     {
+        "id": "7615a98d33",
         "title": "Polya-gamma augmentations for factor models",
         "site": "https://proceedings.mlr.press/v39/klami14.html",
         "author": "Arto Klami",
@@ -363,8 +376,8 @@
         "gs_cited_by_link": "https://scholar.google.com/scholar?cites=5319263951717729565&as_sdt=5,33&sciodt=0,33&hl=en",
         "gs_version_total": 13,
         "aff": "",
-        "aff_domain": ";;",
-        "email": ";;",
+        "aff_domain": "",
+        "email": "",
         "github": "",
         "project": "",
         "author_num": 1,
@@ -372,6 +385,7 @@
         "status": "Poster"
     },
     {
+        "id": "5cf0682208",
         "title": "Preface",
         "site": "https://proceedings.mlr.press/v39/preface.html",
         "author": "Dinh Phung; Hang Li",
@@ -393,6 +407,7 @@
         "status": "Poster"
     },
     {
+        "id": "02e1c42b7b",
         "title": "Pseudo-reward Algorithms for Contextual Bandits with Linear Payoff Functions",
         "site": "https://proceedings.mlr.press/v39/chou14.html",
         "author": "Ku-Chun Chou; Hsuan-Tien Lin; Chao-Kai Chiang; Chi-Jen Lu",
@@ -423,6 +438,7 @@
         "aff_country_unique": "China;Austria"
     },
     {
+        "id": "655106af44",
         "title": "Quasi Newton Temporal Difference Learning",
         "site": "https://proceedings.mlr.press/v39/givchi14.html",
         "author": "Arash Givchi; Maziar Palhang",
@@ -453,6 +469,7 @@
         "aff_country_unique": "Iran"
     },
     {
+        "id": "f868e6b950",
         "title": "Reduction from Cost-Sensitive Multiclass Classification to One-versus-One Binary Classification",
         "site": "https://proceedings.mlr.press/v39/lin14.html",
         "author": "Hsuan-Tien Lin",
@@ -483,6 +500,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "263336b177",
         "title": "Reinforcement learning with value advice",
         "site": "https://proceedings.mlr.press/v39/daswani14.html",
         "author": "Mayank Daswani; Peter Sunehag; Marcus Hutter",
@@ -513,6 +531,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "b80afd35f4",
         "title": "Sample Distillation for Object Detection and Image Classification",
         "site": "https://proceedings.mlr.press/v39/canevet14b.html",
         "author": "Olivier Canevet; Leonidas Lefakis; Francois Fleuret",
@@ -543,6 +562,7 @@
         "aff_country_unique": "Switzerland"
     },
     {
+        "id": "92d0d27e0c",
         "title": "Sparse binary zero-sum games",
         "site": "https://proceedings.mlr.press/v39/auger14.html",
         "author": "David Auger; Jianlin Liu; Sylkvie Ruette; David Saint-Pierre; Oliver Teytaud",
@@ -573,6 +593,7 @@
         "aff_country_unique": "France;Belgium;China"
     },
     {
+        "id": "02f498fcf8",
         "title": "Sparsity on Statistical Simplexes and Diversity in Social Ranking",
         "site": "https://proceedings.mlr.press/v39/sun14.html",
         "author": "Ke Sun; Hisham Mohamed; Stephane Marchand-Maillet",
@@ -603,6 +624,7 @@
         "aff_country_unique": "Switzerland"
     },
     {
+        "id": "815a9807ae",
         "title": "Structured Denoising Autoencoder for Fault Detection and Analysis",
         "site": "https://proceedings.mlr.press/v39/tagawa14.html",
         "author": "Takaaki Tagawa; Yukihiro Tadokoro; Takehisa Yairi",
@@ -633,6 +655,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "96d4ede84b",
         "title": "Support vector machines with indefinite kernels",
         "site": "https://proceedings.mlr.press/v39/alabdulmohsin14.html",
         "author": "Ibrahim Alabdulmohsin; Xin Gao; Xiangliang Zhang Zhang",
@@ -663,6 +686,7 @@
         "aff_country_unique": "Saudi Arabia"
     },
     {
+        "id": "6d89ca451f",
         "title": "Theoretical Analyses on Ensemble and Multiple Kernel Regressors",
         "site": "https://proceedings.mlr.press/v39/tanaka14.html",
         "author": "Akira Tanaka; Ichigaku Takigawa; Hideyuki Imai; Mineichi Kudo",
@@ -684,6 +708,7 @@
         "status": "Poster"
     },
     {
+        "id": "128b060812",
         "title": "Towards Maximum Likelihood: Learning Undirected Graphical Models using Persistent Sequential Monte Carlo",
         "site": "https://proceedings.mlr.press/v39/xiong14.html",
         "author": "Hanchen Xiong; Sandor Szedmak; Justus Piater",
@@ -714,6 +739,7 @@
         "aff_country_unique": "Austria"
     },
     {
+        "id": "a4cb05fed2",
         "title": "Variational Gaussian Inference for Bilinear Models of Count Data",
         "site": "https://proceedings.mlr.press/v39/ko14.html",
         "author": "Young-Jun Ko; Mohammad Khan",

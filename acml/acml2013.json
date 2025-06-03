@@ -1,5 +1,6 @@
 [
     {
+        "id": "c2d0580604",
         "title": "Accelerated Coordinate Descent with Adaptive Coordinate Frequencies",
         "site": "https://proceedings.mlr.press/v29/Glasmachers13.html",
         "author": "Tobias Glasmachers; Urun Dogan",
@@ -30,6 +31,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "2df56b1afc",
         "title": "Achievability of Asymptotic Minimax Regret in Online and Batch Prediction",
         "site": "https://proceedings.mlr.press/v29/Watanabe13.html",
         "author": "Kazuho Watanabe; Teemu Roos; Petri Myllym\u00e4ki",
@@ -60,6 +62,7 @@
         "aff_country_unique": "Japan;Finland"
     },
     {
+        "id": "bfc3ea208e",
         "title": "Active Sampling of Pairs and Points for Large-scale Linear Bipartite Ranking",
         "site": "https://proceedings.mlr.press/v29/Shen13.html",
         "author": "Wei-Yuan Shen; Hsuan-Tien Lin",
@@ -90,6 +93,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "2b2ba2fb74",
         "title": "Aggregating Predictions via Sequential Mini-Trading",
         "site": "https://proceedings.mlr.press/v29/Premachandra13.html",
         "author": "Mindika Premachandra; Mark Reid",
@@ -120,6 +124,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "148ba0eb31",
         "title": "Co-Training with Insufficient Views",
         "site": "https://proceedings.mlr.press/v29/Wang13b.html",
         "author": "Wei Wang; Zhi-Hua Zhou",
@@ -150,6 +155,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "12fa07dbd1",
         "title": "Coinciding Walk Kernels: Parallel Absorbing Random Walks for Learning with Graphs and Few Labels",
         "site": "https://proceedings.mlr.press/v29/Neumann13.html",
         "author": "Marion Neumann; Roman Garnett; Kristian Kersting",
@@ -180,6 +186,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "f1b04c6374",
         "title": "EPMC: Every Visit Preference Monte Carlo for Reinforcement Learning",
         "site": "https://proceedings.mlr.press/v29/Wirth13.html",
         "author": "Christian Wirth; Johannes F\u00fcrnkranz",
@@ -210,6 +217,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "e9c268f109",
         "title": "Exploration vs Exploitation vs Safety: Risk-Aware Multi-Armed Bandits",
         "site": "https://proceedings.mlr.press/v29/Galichet13.html",
         "author": "Nicolas Galichet; Mich\u00e8le Sebag; Olivier Teytaud",
@@ -240,6 +248,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "de366c2b21",
         "title": "Generalized Aitchison Embeddings for Histograms",
         "site": "https://proceedings.mlr.press/v29/Le13.html",
         "author": "Tam Le; Marco Cuturi",
@@ -270,6 +279,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "b06724ef54",
         "title": "Guided Monte Carlo Tree Search for Planning in Learned Environments",
         "site": "https://proceedings.mlr.press/v29/Eyck13.html",
         "author": "Jelle Van Eyck; Jan Ramon; Fabian Guiza; Geert MeyFroidt; Maurice Bruynooghe; Greet Van den Berghe",
@@ -300,6 +310,7 @@
         "aff_country_unique": "Belgium"
     },
     {
+        "id": "98a0b106d4",
         "title": "Improving Predictive Specificity of Description Logic Learners by Fortification",
         "site": "https://proceedings.mlr.press/v29/Tran13.html",
         "author": "An Tran; Jens Dietrich; Hans Guesgen; Stephen Marsland",
@@ -330,6 +341,7 @@
         "aff_country_unique": "New Zealand"
     },
     {
+        "id": "e39431377b",
         "title": "Information Retrieval Perspective to Meta-visualization",
         "site": "https://proceedings.mlr.press/v29/Peltonen13.html",
         "author": "Jaakko Peltonen; Ziyuan Lin",
@@ -360,6 +372,7 @@
         "aff_country_unique": "Finland"
     },
     {
+        "id": "a973677e89",
         "title": "Learning Parts-based Representations with Nonnegative Restricted Boltzmann Machine",
         "site": "https://proceedings.mlr.press/v29/Nguyen13.html",
         "author": "Tu Dinh Nguyen; Truyen Tran; Dinh Phung; Svetha Venkatesh",
@@ -390,6 +403,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "c6023383ed",
         "title": "Learning a Metric Space for Neighbourhood Topology Estimation: Application to Manifold Learning",
         "site": "https://proceedings.mlr.press/v29/Moustafa13.html",
         "author": "Karim Abou- Moustafa; Dale Schuurmans; Frank Ferrie",
@@ -420,6 +434,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "1f51130ab4",
         "title": "Linear Approximation to ADMM for MAP inference",
         "site": "https://proceedings.mlr.press/v29/Forouzan13.html",
         "author": "Sholeh Forouzan; Alexander Ihler",
@@ -450,6 +465,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a16be8a092",
         "title": "Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning",
         "site": "https://proceedings.mlr.press/v29/Liu13.html",
         "author": "Risheng Liu; Zhouchen Lin; Zhixun Su",
@@ -480,6 +496,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "fc15da1faf",
         "title": "Locally-Linear Learning Machines (L3M)",
         "site": "https://proceedings.mlr.press/v29/Wang13a.html",
         "author": "Joseph Wang; Venkatesh Saligrama",
@@ -510,6 +527,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f8a0c7109c",
         "title": "Multi-Label Classification with Unlabeled Data: An Inductive Approach",
         "site": "https://proceedings.mlr.press/v29/Wu13.html",
         "author": "Le Wu; Min-Ling Zhang",
@@ -540,6 +558,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "7e786441fc",
         "title": "Multi-armed Bandit Problem with Lock-up Periods",
         "site": "https://proceedings.mlr.press/v29/Komiyama13.html",
         "author": "Junpei Komiyama; Issei Sato; Hiroshi Nakagawa",
@@ -570,6 +589,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "dae235b2d5",
         "title": "Multiclass Latent Locally Linear Support Vector Machines",
         "site": "https://proceedings.mlr.press/v29/Fornoni13.html",
         "author": "Marco Fornoni; Barbara Caputo; Francesco Orabona",
@@ -600,6 +620,7 @@
         "aff_country_unique": "Switzerland;Italy;United States"
     },
     {
+        "id": "af667d1daf",
         "title": "Multilabel Classification through Random Graph Ensembles",
         "site": "https://proceedings.mlr.press/v29/Su13.html",
         "author": "Hongyu Su; Juho Rousu",
@@ -630,6 +651,7 @@
         "aff_country_unique": "Finland"
     },
     {
+        "id": "16142104c6",
         "title": "Novel Boosting Frameworks to Improve the Performance of Collaborative Filtering",
         "site": "https://proceedings.mlr.press/v29/Jiang13.html",
         "author": "Xiaotian Jiang; Zhendong Niu; Jiamin Guo; Ghulam Mustafa; Zihan Lin; Baomi Chen; Qian Zhou",
@@ -660,6 +682,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "df2b3d869e",
         "title": "On multi-class classification through the minimization of the confusion matrix norm",
         "site": "https://proceedings.mlr.press/v29/Koco13.html",
         "author": "Sokol Ko\u00e7o; C\u00e9cile Capponi",
@@ -690,6 +713,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "6aeb39d51b",
         "title": "Polynomial Runtime Bounds for Fixed-Rank Unsupervised Least-Squares Classification",
         "site": "https://proceedings.mlr.press/v29/Gieseke13.html",
         "author": "Fabian Gieseke; Tapio Pahikkala; Christian Igel",
@@ -720,6 +744,7 @@
         "aff_country_unique": "Denmark;Finland"
     },
     {
+        "id": "ecbe35ca70",
         "title": "Predictive Simulation Framework of Stochastic Diffusion Model for Identifying Top-K Influential Nodes",
         "site": "https://proceedings.mlr.press/v29/Ohara13.html",
         "author": "Kouzou Ohara; Kazumi Saito; Masahiro Kimura; Hiroshi Motoda",
@@ -750,6 +775,7 @@
         "aff_country_unique": "Japan;Australia"
     },
     {
+        "id": "5cf0682208",
         "title": "Preface",
         "site": "https://proceedings.mlr.press/v29/Ong13.html",
         "author": "Cheng Soon Ong; Tu Bao Ho",
@@ -771,6 +797,7 @@
         "status": "Poster"
     },
     {
+        "id": "4f673f7b19",
         "title": "Q-learning for history-based reinforcement learning",
         "site": "https://proceedings.mlr.press/v29/Daswani13.html",
         "author": "Mayank Daswani; Peter Sunehag; Marcus Hutter",
@@ -801,6 +828,7 @@
         "aff_country_unique": "Australia"
     },
     {
+        "id": "b45d8d355b",
         "title": "Random Projections as Regularizers: Learning a Linear Discriminant Ensemble from Fewer Observations than Dimensions",
         "site": "https://proceedings.mlr.press/v29/Durrant13.html",
         "author": "Robert Durrant; Ata Kaban",
@@ -831,6 +859,7 @@
         "aff_country_unique": "New Zealand;United Kingdom"
     },
     {
+        "id": "19663c90cb",
         "title": "Second Order Online Collaborative Filtering",
         "site": "https://proceedings.mlr.press/v29/Lu13.html",
         "author": "Jing Lu; Steven Hoi; Jialei Wang",
@@ -852,6 +881,7 @@
         "status": "Poster"
     },
     {
+        "id": "7632a27f20",
         "title": "Stability of Multi-Task Kernel Regression Algorithms",
         "site": "https://proceedings.mlr.press/v29/Audiffren13.html",
         "author": "Julien Audiffren; Hachem Kadri",
@@ -882,6 +912,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "f65533650f",
         "title": "The Multi-Task Learning View of Multimodal Data",
         "site": "https://proceedings.mlr.press/v29/Kadri13.html",
         "author": "Hachem Kadri; Stephane Ayache; C\u00e9cile Capponi; Sokol Ko\u00e7o; Fran\u00e7ois-Xavier Dup\u00e9; Emilie Morvant",
@@ -912,6 +943,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "b712c68cdd",
         "title": "Unconfused Ultraconservative Multiclass Algorithms",
         "site": "https://proceedings.mlr.press/v29/Louche13.html",
         "author": "Ugo Louche; Liva Ralaivola",
@@ -942,6 +974,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "10f3c5231c",
         "title": "Using Hyperbolic Cross Approximation to measure and compensate Covariate Shift",
         "site": "https://proceedings.mlr.press/v29/Vanck13.html",
         "author": "Thomas Vanck; Jochen Garcke",
