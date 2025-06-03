@@ -1,5 +1,6 @@
 [
     {
+        "id": "596b56d1b0",
         "title": "$\\ell_\u221e$-Bounds of the MLE in the BTL Model under General Comparison Graphs",
         "site": "https://proceedings.mlr.press/v180/li22g.html",
         "author": "Wanshan Li; Shamindra Shrotriya; Alessandro Rinaldo",
@@ -21,6 +22,7 @@
         "status": "Poster"
     },
     {
+        "id": "82259d6ed8",
         "title": "A causal bandit approach to learning good atomic interventions in presence of unobserved confounders",
         "site": "https://proceedings.mlr.press/v180/maiti22a.html",
         "author": "Aurghya Maiti; Vineet Nair; Gaurav Sinha",
@@ -42,6 +44,7 @@
         "status": "Poster"
     },
     {
+        "id": "917c7dc0e9",
         "title": "A competitive analysis of online failure-aware assignment",
         "site": "https://proceedings.mlr.press/v180/chen22a.html",
         "author": "Mengjing Chen; Pingzhong Tang; Zihe Wang; Shenke Xiao; Xiwang Yang",
@@ -63,6 +66,7 @@
         "status": "Poster"
     },
     {
+        "id": "394b316fcc",
         "title": "A free lunch from the noise: Provable and practical exploration for representation learning",
         "site": "https://proceedings.mlr.press/v180/ren22a.html",
         "author": "Tongzheng Ren; Tianjun Zhang; Csaba Szepesv\u00e1ri; Bo Dai",
@@ -93,6 +97,7 @@
         "aff_country_unique": "United States;United Kingdom;Canada"
     },
     {
+        "id": "a17de98404",
         "title": "A geometric method for improved uncertainty estimation in real-time",
         "site": "https://proceedings.mlr.press/v180/chouraqui22a.html",
         "author": "Gabriella Chouraqui; Liron Cohen; Gil Einziger; Liel Leman",
@@ -114,6 +119,7 @@
         "status": "Poster"
     },
     {
+        "id": "990075d7ce",
         "title": "A label efficient two-sample test",
         "site": "https://proceedings.mlr.press/v180/li22f.html",
         "author": "Weizhi Li; Gautam Dasarathy; Karthikeyan Natesan Ramamurthy; Visar Berisha",
@@ -135,6 +141,7 @@
         "status": "Poster"
     },
     {
+        "id": "6408997038",
         "title": "A mutually exciting latent space Hawkes process model for continuous-time networks",
         "site": "https://proceedings.mlr.press/v180/huang22b.html",
         "author": "Zhipeng Huang; Hadeel Soliman; Subhadeep Paul; Kevin S. Xu",
@@ -156,6 +163,7 @@
         "status": "Poster"
     },
     {
+        "id": "03fa7183d1",
         "title": "A new constructive criterion for Markov equivalence of MAGs",
         "site": "https://proceedings.mlr.press/v180/wienobst22a.html",
         "author": "Marcel Wien\u00f6bst; Max Bannach; Maciej Li\u015bkiewicz",
@@ -177,6 +185,7 @@
         "status": "Poster"
     },
     {
+        "id": "db0d577c32",
         "title": "A robustness test for estimating total effects with covariate adjustment",
         "site": "https://proceedings.mlr.press/v180/su22a.html",
         "author": "Zehao Su; Leonard Henckel",
@@ -207,6 +216,7 @@
         "aff_country_unique": "Denmark"
     },
     {
+        "id": "073a40a59c",
         "title": "AND/OR branch-and-bound for computational protein design optimizing K*",
         "site": "https://proceedings.mlr.press/v180/pezeshki22a.html",
         "author": "Bobak Pezeshki; Radu Marinescu; Alexander Ihler; Rina Dechter",
@@ -228,6 +238,7 @@
         "status": "Poster"
     },
     {
+        "id": "6c070fdad3",
         "title": "AUTM flow: atomic unrestricted time machine for monotonic normalizing flows",
         "site": "https://proceedings.mlr.press/v180/cai22a.html",
         "author": "Difeng Cai; Yuliang Ji; Huan He; Qiang Ye; Yuanzhe Xi",
@@ -258,6 +269,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f24fb32a2d",
         "title": "Accelerating training of batch normalization: A manifold perspective",
         "site": "https://proceedings.mlr.press/v180/yi22a.html",
         "author": "Mingyang Yi",
@@ -288,6 +300,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "a40790d718",
         "title": "Active approximately metric-fair learning",
         "site": "https://proceedings.mlr.press/v180/cao22a.html",
         "author": "Yiting Cao; Chao Lan",
@@ -318,6 +331,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "86b6076011",
         "title": "Active learning with label comparisons",
         "site": "https://proceedings.mlr.press/v180/yona22a.html",
         "author": "Gal Yona; Shay Moran; Gal Elidan; Amir Globerson",
@@ -339,6 +353,7 @@
         "status": "Poster"
     },
     {
+        "id": "cd2669874d",
         "title": "AdaCat: Adaptive categorical discretization for autoregressive models",
         "site": "https://proceedings.mlr.press/v180/li22h.html",
         "author": "Qiyang Li; Ajay Jain; Pieter Abbeel",
@@ -360,6 +375,7 @@
         "status": "Poster"
     },
     {
+        "id": "1d2da9c694",
         "title": "Addressing token uniformity in transformers via singular value transformation",
         "site": "https://proceedings.mlr.press/v180/yan22b.html",
         "author": "Hanqi Yan; Lin Gui; Wenjie Li; Yulan He",
@@ -381,6 +397,7 @@
         "status": "Poster"
     },
     {
+        "id": "62c8f4982a",
         "title": "An explore-then-commit algorithm for submodular maximization under full-bandit feedback",
         "site": "https://proceedings.mlr.press/v180/nie22a.html",
         "author": "Guanyu Nie; Mridul Agarwal; Abhishek Kumar Umrawal; Vaneet Aggarwal; Christopher John Quinn",
@@ -411,6 +428,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "8e321a08f6",
         "title": "Asymmetric DQN for partially observable reinforcement learning",
         "site": "https://proceedings.mlr.press/v180/baisero22a.html",
         "author": "Andrea Baisero; Brett Daley; Christopher Amato",
@@ -432,6 +450,7 @@
         "status": "Poster"
     },
     {
+        "id": "fa1db2190a",
         "title": "Asymptotic optimality for active learning processes",
         "site": "https://proceedings.mlr.press/v180/zhan22a.html",
         "author": "Xueying Zhan; Yaowei Wang; Antoni B. Chan",
@@ -462,6 +481,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "87e9fc9e34",
         "title": "Attribution of predictive uncertainties in classification models",
         "site": "https://proceedings.mlr.press/v180/perez22a.html",
         "author": "Iker Perez; Piotr Skalski; Alec Barns-Graham; Jason Wong; David Sutton",
@@ -492,6 +512,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "fd39e8f24e",
         "title": "Balancing adaptability and non-exploitability in repeated games",
         "site": "https://proceedings.mlr.press/v180/digiovanni22a.html",
         "author": "Anthony DiGiovanni; Ambuj Tewari",
@@ -522,6 +543,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "658d66554a",
         "title": "Balancing utility and scalability in metric differential privacy",
         "site": "https://proceedings.mlr.press/v180/imola22a.html",
         "author": "Jacob Imola; Shiva Kasiviswanathan; Stephen White; Abhinav Aggarwal; Nathanael Teissier",
@@ -552,6 +574,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "29f2da6705",
         "title": "Bayesian federated estimation of causal effects from observational data",
         "site": "https://proceedings.mlr.press/v180/vo22a.html",
         "author": "Thanh Vinh Vo; Young Lee; Trong Nghia Hoang; Tze-Yun Leong",
@@ -573,6 +596,7 @@
         "status": "Poster"
     },
     {
+        "id": "ba6215ebfa",
         "title": "Bayesian quantile and expectile optimisation",
         "site": "https://proceedings.mlr.press/v180/picheny22a.html",
         "author": "Victor Picheny; Henry Moss; L\u00e9onard Torossian; Nicolas Durrande",
@@ -594,6 +618,7 @@
         "status": "Poster"
     },
     {
+        "id": "c7415ab3b0",
         "title": "Bayesian spillover graphs for dynamic networks",
         "site": "https://proceedings.mlr.press/v180/deng22a.html",
         "author": "Grace Deng; David S. Matteson",
@@ -624,6 +649,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "0d80af439f",
         "title": "Bayesian structure learning with generative flow networks",
         "site": "https://proceedings.mlr.press/v180/deleu22a.html",
         "author": "Tristan Deleu; Ant\u00f3nio G\u00f3is; Chris Emezue; Mansi Rankawat; Simon Lacoste-Julien; Stefan Bauer; Yoshua Bengio",
@@ -654,6 +680,7 @@
         "aff_country_unique": "Canada;Germany;Sweden"
     },
     {
+        "id": "337db22b3b",
         "title": "Bias aware probabilistic Boolean matrix factorization",
         "site": "https://proceedings.mlr.press/v180/wan22a.html",
         "author": "Changlin Wan; Pengtao Dang; Tong Zhao; Yong Zang; Chi Zhang; Sha Cao",
@@ -675,6 +702,7 @@
         "status": "Poster"
     },
     {
+        "id": "f582ee2d34",
         "title": "Binary independent component analysis: a non-stationarity-based approach",
         "site": "https://proceedings.mlr.press/v180/hyttinen22a.html",
         "author": "Antti Hyttinen; Vit\u00f3ria Barin Pacela; Aapo Hyv\u00e4rinen",
@@ -696,6 +724,7 @@
         "status": "Poster"
     },
     {
+        "id": "ef52e23a39",
         "title": "Byzantine-tolerant distributed multiclass sparse linear discriminant analysis",
         "site": "https://proceedings.mlr.press/v180/bao22b.html",
         "author": "Yajie Bao; Weidong Liu; Xiaojun Mao; Weijia Xiong",
@@ -726,6 +755,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "cf444799f6",
         "title": "CIGMO: Categorical invariant representations in a deep generative framework",
         "site": "https://proceedings.mlr.press/v180/hosoya22a.html",
         "author": "Haruo Hosoya",
@@ -756,6 +786,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "85be16287e",
         "title": "Calibrated ensembles can mitigate accuracy tradeoffs under distribution shift",
         "site": "https://proceedings.mlr.press/v180/kumar22a.html",
         "author": "Ananya Kumar; Tengyu Ma; Percy Liang; Aditi Raghunathan",
@@ -777,6 +808,7 @@
         "status": "Poster"
     },
     {
+        "id": "1f0f29711e",
         "title": "Can mean field control (mfc) approximate cooperative multi agent reinforcement learning (marl) with non-uniform interaction?",
         "site": "https://proceedings.mlr.press/v180/mondal22a.html",
         "author": "Washim Uddin Mondal; Vaneet Aggarwal; Satish V. Ukkusuri",
@@ -798,6 +830,7 @@
         "status": "Poster"
     },
     {
+        "id": "e7f13aa330",
         "title": "Capturing actionable dynamics with structured latent ordinary differential equations",
         "site": "https://proceedings.mlr.press/v180/chapfuwa22a.html",
         "author": "Paidamoyo Chapfuwa; Sherri Rose; Lawrence Carin; Edward Meeds; Ricardo Henao",
@@ -828,6 +861,7 @@
         "aff_country_unique": "United States;Saudi Arabia;United Kingdom"
     },
     {
+        "id": "db9766681e",
         "title": "Case-based off-policy evaluation using prototype learning",
         "site": "https://proceedings.mlr.press/v180/matsson22a.html",
         "author": "Anton Matsson; Fredrik D. Johansson",
@@ -858,6 +892,7 @@
         "aff_country_unique": "Sweden"
     },
     {
+        "id": "965bf581cb",
         "title": "Causal discovery under a confounder blanket",
         "site": "https://proceedings.mlr.press/v180/watson22a.html",
         "author": "David S. Watson; Ricardo Silva",
@@ -888,6 +923,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "a0176ac9b5",
         "title": "Causal discovery with heterogeneous observational data",
         "site": "https://proceedings.mlr.press/v180/zhou22a.html",
         "author": "Fangting Zhou; Kejun He; Yang Ni",
@@ -909,6 +945,7 @@
         "status": "Poster"
     },
     {
+        "id": "a1a8dd249e",
         "title": "Causal forecasting: generalization bounds for autoregressive models",
         "site": "https://proceedings.mlr.press/v180/vankadara22a.html",
         "author": "Leena Chennuru Vankadara; Philipp Michael Faller; Michaela Hardt; Lenon Minorics; Debarghya Ghoshdastidar; Dominik Janzing",
@@ -939,6 +976,7 @@
         "aff_country_unique": "Germany;United States"
     },
     {
+        "id": "982759faf9",
         "title": "Causal inference with treatment measurement error: a nonparametric instrumental variable approach",
         "site": "https://proceedings.mlr.press/v180/zhu22a.html",
         "author": "Yuchen Zhu; Limor Gultchin; Arthur Gretton; Matt J. Kusner; Ricardo Silva",
@@ -969,6 +1007,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "3b435a2ef6",
         "title": "Clustering a union of linear subspaces via matrix factorization and innovation search",
         "site": "https://proceedings.mlr.press/v180/rahmani22a.html",
         "author": "Mostafa Rahmani",
@@ -999,6 +1038,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "712a3afee6",
         "title": "CoSPA: An improved masked language model with copy mechanism for Chinese spelling correction",
         "site": "https://proceedings.mlr.press/v180/yang22d.html",
         "author": "Shoujian Yang; Lian Yu",
@@ -1029,6 +1069,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "a3b7c41aeb",
         "title": "Combating the instability of mutual information-based losses via regularization",
         "site": "https://proceedings.mlr.press/v180/choi22a.html",
         "author": "Kwanghee Choi; Siyeong Lee",
@@ -1059,6 +1100,7 @@
         "aff_country_unique": "South Korea"
     },
     {
+        "id": "30cfd11eb6",
         "title": "Combinatorial Bayesian optimization with random mapping functions to convex polytopes",
         "site": "https://proceedings.mlr.press/v180/kim22a.html",
         "author": "Jungtaek Kim; Seungjin Choi; Minsu Cho",
@@ -1080,6 +1122,7 @@
         "status": "Poster"
     },
     {
+        "id": "651ce78a6f",
         "title": "Conditional simulation using diffusion Schr\u00f6dinger bridges",
         "site": "https://proceedings.mlr.press/v180/shi22a.html",
         "author": "Yuyang Shi; Valentin De Bortoli; George Deligiannidis; Arnaud Doucet",
@@ -1110,6 +1153,7 @@
         "aff_country_unique": "United Kingdom;France"
     },
     {
+        "id": "6bddb03368",
         "title": "Contrastive latent variable models for neural text generation",
         "site": "https://proceedings.mlr.press/v180/teng22a.html",
         "author": "Zhiyang Teng; Chenhua Chen; Yan Zhang; Yue Zhang",
@@ -1131,6 +1175,7 @@
         "status": "Poster"
     },
     {
+        "id": "1914a907d4",
         "title": "Convergence Analysis of Linear Coupling with Inexact Proximal Operator",
         "site": "https://proceedings.mlr.press/v180/zhou22b.html",
         "author": "Qiang Zhou; Sinno Jialin Pan",
@@ -1152,6 +1197,7 @@
         "status": "Poster"
     },
     {
+        "id": "1fb3a48dd0",
         "title": "CounteRGAN: Generating counterfactuals for real-time recourse and interpretability using residual GANs",
         "site": "https://proceedings.mlr.press/v180/nemirovsky22a.html",
         "author": "Daniel Nemirovsky; Nicolas Thiebaut; Ye Xu; Abhishek Gupta",
@@ -1182,6 +1228,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c12608b498",
         "title": "Counterfactual inference of second Opinions",
         "site": "https://proceedings.mlr.press/v180/corvelo-benz22a.html",
         "author": "Nina L. Corvelo Benz; Manuel Gomez Rodriguez",
@@ -1212,6 +1259,7 @@
         "aff_country_unique": "Germany;Switzerland"
     },
     {
+        "id": "36161572a5",
         "title": "Cross-domain adaptive transfer reinforcement learning based on state-action correspondence",
         "site": "https://proceedings.mlr.press/v180/you22a.html",
         "author": "Heng You; Tianpei Yang; Yan Zheng; Jianye Hao; E. Taylor Matthew",
@@ -1242,6 +1290,7 @@
         "aff_country_unique": "China;Canada"
     },
     {
+        "id": "46016f16c5",
         "title": "Cycle class consistency with distributional optimal transport and knowledge distillation for unsupervised domain adaptation",
         "site": "https://proceedings.mlr.press/v180/nguyen22c.html",
         "author": "Tuan Nguyen; Van Nguyen; Trung Le; He Zhao; Quan Hung Tran; Dinh Phung",
@@ -1263,6 +1312,7 @@
         "status": "Poster"
     },
     {
+        "id": "9fc1dd010c",
         "title": "Cyclic test time augmentation with entropy weight method",
         "site": "https://proceedings.mlr.press/v180/chun22a.html",
         "author": "Sewhan Chun; Jae Young Lee; Junmo Kim",
@@ -1284,6 +1334,7 @@
         "status": "Poster"
     },
     {
+        "id": "eb3d78c152",
         "title": "Data augmentation in Bayesian neural networks and the cold posterior effect",
         "site": "https://proceedings.mlr.press/v180/nabarro22a.html",
         "author": "Seth Nabarro; Stoil Ganev; Adri\u00e0 Garriga-Alonso; Vincent Fortuin; Mark van der Wilk; Laurence Aitchison",
@@ -1305,6 +1356,7 @@
         "status": "Poster"
     },
     {
+        "id": "82f1b6f586",
         "title": "Data dependent randomized smoothing",
         "site": "https://proceedings.mlr.press/v180/alfarra22a.html",
         "author": "Motasem Alfarra; Adel Bibi; Philip H. S. Torr; Bernard Ghanem",
@@ -1335,6 +1387,7 @@
         "aff_country_unique": "Saudi Arabia;United Kingdom"
     },
     {
+        "id": "d9d83c6d1f",
         "title": "Data poisoning attacks on off-policy policy evaluation methods",
         "site": "https://proceedings.mlr.press/v180/lobo22a.html",
         "author": "Elita Lobo; Harvineet Singh; Marek Petrik; Cynthia Rudin; Himabindu Lakkaraju",
@@ -1365,6 +1418,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a52d903446",
         "title": "Data sampling affects the complexity of online SGD over dependent data",
         "site": "https://proceedings.mlr.press/v180/ma22a.html",
         "author": "Shaocong Ma; Ziyi Chen; Yi Zhou; Kaiyi Ji; Yingbin Liang",
@@ -1395,6 +1449,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f1572fc666",
         "title": "Decision-theoretic planning with communication in open multiagent systems",
         "site": "https://proceedings.mlr.press/v180/kakarlapudi22a.html",
         "author": "Anirudh Kakarlapudi; Gayathri Anil; Adam Eck; Prashant Doshi; Leen-Kiat Soh",
@@ -1425,6 +1480,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "556d5aa032",
         "title": "Deep Dirichlet process mixture models",
         "site": "https://proceedings.mlr.press/v180/li22c.html",
         "author": "Naiqi Li; Wenjie Li; Yong Jiang; Shu-Tao Xia",
@@ -1446,6 +1502,7 @@
         "status": "Poster"
     },
     {
+        "id": "3a794af196",
         "title": "Detecting textual adversarial examples through randomized substitution and vote",
         "site": "https://proceedings.mlr.press/v180/wang22b.html",
         "author": "Xiaosen Wang; Xiong Yifeng; Kun He",
@@ -1476,6 +1533,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "190769d793",
         "title": "Deterministic policy gradient: Convergence analysis",
         "site": "https://proceedings.mlr.press/v180/xiong22a.html",
         "author": "Huaqing. Xiong; Tengyu Xu; Lin Zhao; Yingbin Liang; Wei Zhang",
@@ -1506,6 +1564,7 @@
         "aff_country_unique": "United States;Singapore;China"
     },
     {
+        "id": "10375c7b5a",
         "title": "Differentially private SGDA for minimax problems",
         "site": "https://proceedings.mlr.press/v180/yang22a.html",
         "author": "Zhenhuan Yang; Shu Hu; Yunwen Lei; Kush R Vashney; Siwei Lyu; Yiming Ying",
@@ -1527,6 +1586,7 @@
         "status": "Poster"
     },
     {
+        "id": "e87a559e1f",
         "title": "Differentially private multi-party data release for linear regression",
         "site": "https://proceedings.mlr.press/v180/wu22b.html",
         "author": "Ruihan Wu; Xin Yang; Yuanshun Yao; Jiankai Sun; Tianyi Liu; Q. Kilian Weinberger; Chong Wang",
@@ -1557,6 +1617,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "7555151f3f",
         "title": "Dimension reduction for high-dimensional small counts with KL divergence",
         "site": "https://proceedings.mlr.press/v180/ling22a.html",
         "author": "Yurong Ling; Jing-Hao Xue",
@@ -1587,6 +1648,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "27265878c4",
         "title": "Discovery of extended summary graphs in time series",
         "site": "https://proceedings.mlr.press/v180/assaad22a.html",
         "author": "Charles K. Assaad; Emilie Devijver; Eric Gaussier",
@@ -1617,6 +1679,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "d65fb3fcbb",
         "title": "Distributed adversarial training to robustify deep neural networks at scale",
         "site": "https://proceedings.mlr.press/v180/zhang22a.html",
         "author": "Gaoyuan Zhang; Songtao Lu; Yihua Zhang; Xiangyi Chen; Pin-Yu Chen; Quanfu Fan; Lee Martie; Lior Horesh; Mingyi Hong; Sijia Liu",
@@ -1638,6 +1701,7 @@
         "status": "Poster"
     },
     {
+        "id": "1ea00113af",
         "title": "Do Bayesian variational autoencoders know what they don\u2019t know?",
         "site": "https://proceedings.mlr.press/v180/glazunov22a.html",
         "author": "Misha Glazunov; Apostolis Zarras",
@@ -1668,6 +1732,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "4d2410f9bc",
         "title": "Dynamic relocation in ridesharing via fixpoint construction",
         "site": "https://proceedings.mlr.press/v180/kash22a.html",
         "author": "Ian A. Kash; Zhongkai Wen; Lenore D. Zuck",
@@ -1689,6 +1754,7 @@
         "status": "Poster"
     },
     {
+        "id": "5e17cf67ff",
         "title": "Efficient and accurate top-k recovery from choice data",
         "site": "https://proceedings.mlr.press/v180/nguyen22b.html",
         "author": "Duc Nguyen",
@@ -1717,6 +1783,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "f2098cb4ef",
         "title": "Efficient and transferable adversarial examples from bayesian neural networks",
         "site": "https://proceedings.mlr.press/v180/gubri22a.html",
         "author": "Martin Gubri; Maxime Cordy; Mike Papadakis; Yves Le Traon; Koushik Sen",
@@ -1747,6 +1814,7 @@
         "aff_country_unique": "Luxembourg;United States"
     },
     {
+        "id": "841975cd46",
         "title": "Efficient inference for dynamic topic modeling with large vocabularies",
         "site": "https://proceedings.mlr.press/v180/tomasi22a.html",
         "author": "Federico Tomasi; Mounia Lalmas; Zhenwen Dai",
@@ -1768,6 +1836,7 @@
         "status": "Poster"
     },
     {
+        "id": "499f91056a",
         "title": "Efficient learning of sparse and decomposable PDEs using random projection",
         "site": "https://proceedings.mlr.press/v180/nasim22a.html",
         "author": "Md Nasim; Xinghang Zhang; Anter El-Azab; Yexiang Xue",
@@ -1789,6 +1858,7 @@
         "status": "Poster"
     },
     {
+        "id": "b5945d0036",
         "title": "Efficient resource allocation with fairness constraints in restless multi-armed bandits",
         "site": "https://proceedings.mlr.press/v180/li22e.html",
         "author": "Dexun. Li; Pradeep Varakantham",
@@ -1819,6 +1889,7 @@
         "aff_country_unique": "Singapore"
     },
     {
+        "id": "7349aa4e3f",
         "title": "Empirical bayes approach to truth discovery problems",
         "site": "https://proceedings.mlr.press/v180/ben-shabat22a.html",
         "author": "Tsviel Ben Shabat; Reshef Meir; David Azriel",
@@ -1840,6 +1911,7 @@
         "status": "Poster"
     },
     {
+        "id": "9702e1ea7e",
         "title": "Enhanced adaptive optics control with image to image translation",
         "site": "https://proceedings.mlr.press/v180/smith22a.html",
         "author": "Jeffrey Smith; Jesse Cranney; Charles Gretton; Damien Gratadour",
@@ -1861,6 +1933,7 @@
         "status": "Poster"
     },
     {
+        "id": "cdc9563301",
         "title": "Equilibrium aggregation: encoding sets via optimization",
         "site": "https://proceedings.mlr.press/v180/bartunov22a.html",
         "author": "Sergey Bartunov; Fabian B. Fuchs; Timothy P. Lillicrap",
@@ -1882,6 +1955,7 @@
         "status": "Poster"
     },
     {
+        "id": "728c4c41c7",
         "title": "Estimating transfer entropy under long ranged dependencies",
         "site": "https://proceedings.mlr.press/v180/garg22a.html",
         "author": "Sahil Garg; Umang Gupta; Yu Chen; Syamantak Datta Gupta; Yeshaya Adler; Anderson Schneider; Yuriy Nevmyvaka",
@@ -1912,6 +1986,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "d2bab10483",
         "title": "Evaluating high-order predictive distributions in deep learning",
         "site": "https://proceedings.mlr.press/v180/osband22a.html",
         "author": "Ian Osband; Zheng Wen; Seyed Mohammad Asghari; Vikranth Dwaracherla; Xiuyuan Lu; Benjamin Van Roy",
@@ -1933,6 +2008,7 @@
         "status": "Poster"
     },
     {
+        "id": "fd37ed1a64",
         "title": "Expectation programming: Adapting probabilistic programming systems to estimate expectations efficiently",
         "site": "https://proceedings.mlr.press/v180/reichelt22a.html",
         "author": "Tim Reichelt; Adam Goli\u0144ski; Luke Ong; Tom Rainforth",
@@ -1954,6 +2030,7 @@
         "status": "Poster"
     },
     {
+        "id": "74f6a8898f",
         "title": "Fast inference and transfer of compositional task structures for few-shot task generalization",
         "site": "https://proceedings.mlr.press/v180/sohn22a.html",
         "author": "Sungryull Sohn; Hyunjae Woo; Jongwook Choi; Lyubing Qiang; Izzeddin Gur; Aleksandra Faust; Honglak Lee",
@@ -1984,6 +2061,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "e777bae2ee",
         "title": "Fast predictive uncertainty for classification with Bayesian deep networks",
         "site": "https://proceedings.mlr.press/v180/hobbhahn22a.html",
         "author": "Marius Hobbhahn; Agustinus Kristiadi; Philipp Hennig",
@@ -2014,6 +2092,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "ec9297a989",
         "title": "Faster non-convex federated learning via global and local momentum",
         "site": "https://proceedings.mlr.press/v180/das22b.html",
         "author": "Rudrajit Das; Anish Acharya; Abolfazl Hashemi; Sujay Sanghavi; Inderjit S. Dhillon; Ufuk Topcu",
@@ -2044,6 +2123,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "5a372f27ce",
         "title": "Feature learning and random features in standard finite-width convolutional neural networks: An empirical study",
         "site": "https://proceedings.mlr.press/v180/samarin22a.html",
         "author": "Maxim Samarin; Volker Roth; David Belius",
@@ -2065,6 +2145,7 @@
         "status": "Poster"
     },
     {
+        "id": "e02676a921",
         "title": "Feature selection for discovering distributional treatment effect modifiers",
         "site": "https://proceedings.mlr.press/v180/chikahara22a.html",
         "author": "Yoichi Chikahara; Makoto Yamada; Hisashi Kashima",
@@ -2086,6 +2167,7 @@
         "status": "Poster"
     },
     {
+        "id": "de6e2aecf7",
         "title": "Federated online clustering of bandits",
         "site": "https://proceedings.mlr.press/v180/liu22a.html",
         "author": "Xutong Liu; Haoru Zhao; Tong Yu; Shuai Li; John C.S. Lui",
@@ -2116,6 +2198,7 @@
         "aff_country_unique": "China;United States"
     },
     {
+        "id": "80376341c1",
         "title": "Fedvarp: Tackling the variance due to partial client participation in federated learning",
         "site": "https://proceedings.mlr.press/v180/jhunjhunwala22a.html",
         "author": "Divyansh Jhunjhunwala; Pranay Sharma; Aushim Nagarkatti; Gauri Joshi",
@@ -2137,6 +2220,7 @@
         "status": "Poster"
     },
     {
+        "id": "be6c0381dc",
         "title": "Fine-Grained matching with multi-perspective similarity modeling for cross-modal retrieval",
         "site": "https://proceedings.mlr.press/v180/xie22a.html",
         "author": "Xiumin Xie; Chuanwen Hou; Zhixin Li",
@@ -2167,6 +2251,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "09b1f5f496",
         "title": "Finite-horizon equilibria for neuro-symbolic concurrent stochastic games",
         "site": "https://proceedings.mlr.press/v180/yan22a.html",
         "author": "Rui Yan; Gabriel Santos; Xiaoming Duan; David Parker; Marta Kwiatkowska",
@@ -2197,6 +2282,7 @@
         "aff_country_unique": "United Kingdom;China"
     },
     {
+        "id": "54ca8461d7",
         "title": "Fixing the Bethe approximation: How structural modifications in a graph improve belief propagation",
         "site": "https://proceedings.mlr.press/v180/leisenberger22a.html",
         "author": "Harald Leisenberger; Franz Pernkopf; Christian Knoll",
@@ -2218,6 +2304,7 @@
         "status": "Poster"
     },
     {
+        "id": "8ba0b1d292",
         "title": "Forget-me-not! Contrastive critics for mitigating posterior collapse",
         "site": "https://proceedings.mlr.press/v180/menon22a.html",
         "author": "Sachit Menon; David Blei; Carl Vondrick",
@@ -2239,6 +2326,7 @@
         "status": "Poster"
     },
     {
+        "id": "71b48b4818",
         "title": "Future gradient descent for adapting the temporal shifting data distribution in online recommendation systems",
         "site": "https://proceedings.mlr.press/v180/ye22b.html",
         "author": "Mao Ye; Ruichen Jiang; Haoxiang Wang; Dhruv Choudhary; Xiaocong Du; Bhargav Bhushanam; Aryan Mokhtari; Arun Kejariwal; Qiang Liu",
@@ -2269,6 +2357,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "d00ea8bba2",
         "title": "GNN2GNN: Graph neural networks to generate neural networks",
         "site": "https://proceedings.mlr.press/v180/agiollo22a.html",
         "author": "Andrea Agiollo; Andrea Omicini",
@@ -2299,6 +2388,7 @@
         "aff_country_unique": "Italy"
     },
     {
+        "id": "613ff95e25",
         "title": "Generalized Bayesian quadrature with spectral kernels",
         "site": "https://proceedings.mlr.press/v180/warren22a.html",
         "author": "Houston Warren; Rafael Oliveira; Fabio Ramos",
@@ -2329,6 +2419,7 @@
         "aff_country_unique": "Australia;United States"
     },
     {
+        "id": "d86104b2e6",
         "title": "Generalizing off-policy learning under sample selection bias",
         "site": "https://proceedings.mlr.press/v180/hatt22a.html",
         "author": "Tobias Hatt; Daniel Tschernutter; Stefan Feuerriegel",
@@ -2359,6 +2450,7 @@
         "aff_country_unique": "Switzerland;Germany"
     },
     {
+        "id": "b2658ba6c3",
         "title": "Greedy equivalence search in the presence of latent confounders",
         "site": "https://proceedings.mlr.press/v180/claassen22a.html",
         "author": "Tom Claassen; Ioan G. Bucur",
@@ -2389,6 +2481,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "72d8691762",
         "title": "Greedy modality selection via approximate submodular maximization",
         "site": "https://proceedings.mlr.press/v180/cheng22a.html",
         "author": "Runxiang Cheng; Gargi Balasubramaniam; Yifei He; Yao-Hung Hubert Tsai; Han Zhao",
@@ -2419,6 +2512,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "a0bbb655fc",
         "title": "Greedy relaxations of the sparsest permutation algorithm",
         "site": "https://proceedings.mlr.press/v180/lam22a.html",
         "author": "Wai-Yin Lam; Bryan Andrews; Joseph Ramsey",
@@ -2440,6 +2534,7 @@
         "status": "Poster"
     },
     {
+        "id": "5dc9bef217",
         "title": "High-probability bounds for robust stochastic Frank-Wolfe algorithm",
         "site": "https://proceedings.mlr.press/v180/tang22a.html",
         "author": "Tongyi Tang; Krishna Balasubramanian; Thomas Chun Man Lee",
@@ -2461,6 +2556,7 @@
         "status": "Poster"
     },
     {
+        "id": "7ed2852024",
         "title": "Hitting times for continuous-time imprecise-Markov chains",
         "site": "https://proceedings.mlr.press/v180/krak22a.html",
         "author": "Thomas Krak",
@@ -2491,6 +2587,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "a75c5b3a12",
         "title": "How unfair is private learning?",
         "site": "https://proceedings.mlr.press/v180/sanyal22a.html",
         "author": "Amartya Sanyal; Yaxi Hu; Fanny Yang",
@@ -2521,6 +2618,7 @@
         "aff_country_unique": "Switzerland"
     },
     {
+        "id": "72941ca8f1",
         "title": "Identifiability of sparse causal effects using instrumental variables",
         "site": "https://proceedings.mlr.press/v180/pfister22a.html",
         "author": "Niklas Pfister; Jonas Peters",
@@ -2551,6 +2649,7 @@
         "aff_country_unique": "Denmark"
     },
     {
+        "id": "3cfe056384",
         "title": "Identifying near-optimal decisions in linear-in-parameter  bandit models with continuous decision sets",
         "site": "https://proceedings.mlr.press/v180/bhat22a.html",
         "author": "Sanjay P. Bhat; Chaitanya Amballa",
@@ -2581,6 +2680,7 @@
         "aff_country_unique": "India"
     },
     {
+        "id": "c2e19d13ed",
         "title": "If you\u2019ve trained one you\u2019ve trained them all: inter-architecture similarity increases with robustness",
         "site": "https://proceedings.mlr.press/v180/jones22a.html",
         "author": "Haydn T. Jones; Jacob M. Springer; Garrett T. Kenyon; Juston S. Moore",
@@ -2611,6 +2711,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "ba42bc95cb",
         "title": "Implicit kernel meta-learning using kernel integral forms",
         "site": "https://proceedings.mlr.press/v180/falk22a.html",
         "author": "John Isak Texas Falk; Carlo Cilibert; Massimiliano Pontil",
@@ -2632,6 +2733,7 @@
         "status": "Poster"
     },
     {
+        "id": "f9205267c2",
         "title": "Improved feature importance computation for tree models based on the Banzhaf value",
         "site": "https://proceedings.mlr.press/v180/karczmarz22a.html",
         "author": "Adam Karczmarz; Tomasz Michalak; Anish Mukherjee; Piotr Sankowski; Piotr Wygocki",
@@ -2662,6 +2764,7 @@
         "aff_country_unique": "Poland"
     },
     {
+        "id": "1e1babbf1e",
         "title": "Improving sign-random-projection via count sketch",
         "site": "https://proceedings.mlr.press/v180/dubey22a.html",
         "author": "Punit Pankaj Dubey; Bhisham Dev Verma; Rameshwar Pratap; Keegan Kang",
@@ -2683,6 +2786,7 @@
         "status": "Poster"
     },
     {
+        "id": "f1f46dbcb4",
         "title": "Individual fairness in feature-based pricing for monopoly markets",
         "site": "https://proceedings.mlr.press/v180/das22a.html",
         "author": "Shantanu Das; Swapnil Dhamal; Ganesh Ghalme; Shweta Jain; Sujit Gujar",
@@ -2713,6 +2817,7 @@
         "aff_country_unique": "India;France"
     },
     {
+        "id": "090cbfc468",
         "title": "Inductive synthesis of finite-state controllers for POMDPs",
         "site": "https://proceedings.mlr.press/v180/andriushchenko22a.html",
         "author": "Roman Andriushchenko; Milan \u010ce\u0161ka; Sebastian Junges; Joost-Pieter Katoen",
@@ -2734,6 +2839,7 @@
         "status": "Poster"
     },
     {
+        "id": "1be7ac1d49",
         "title": "Information design for multiple independent and self-interested defenders: Work less, pay off more",
         "site": "https://proceedings.mlr.press/v180/zhou22c.html",
         "author": "Chenghan Zhou; Andrew Spivey; Haifeng Xu; Thanh Hong Nguyen",
@@ -2755,6 +2861,7 @@
         "status": "Poster"
     },
     {
+        "id": "a90490d815",
         "title": "Information theoretic approach to detect collusion in multi-agent games",
         "site": "https://proceedings.mlr.press/v180/bonjour22a.html",
         "author": "Trevor Bonjour; Vaneet Aggarwal; Bharat Bhargava",
@@ -2785,6 +2892,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "500caf3e81",
         "title": "Interpolating between sampling and variational inference with infinite stochastic mixtures",
         "site": "https://proceedings.mlr.press/v180/lange22a.html",
         "author": "Richard D. Lange; Ari S. Benjamin; Ralf M. Haefner; Xaq Pitkow",
@@ -2806,6 +2914,7 @@
         "status": "Poster"
     },
     {
+        "id": "af4db2782a",
         "title": "Intervention target estimation in the presence of latent variables",
         "site": "https://proceedings.mlr.press/v180/varici22a.html",
         "author": "Burak Varici; Karthikeyan Shanmugam; Prasanna Sattigeri; Ali Tajer",
@@ -2827,6 +2936,7 @@
         "status": "Poster"
     },
     {
+        "id": "316fe24b47",
         "title": "Knowledge representation combining quaternion path integration and depth-wise atrous circular convolution",
         "site": "https://proceedings.mlr.press/v180/chen22c.html",
         "author": "Xinyuan Chen; Zhongmei Zhou; Meichun Gao; Daya Shi; Mohd N. Husen",
@@ -2857,6 +2967,7 @@
         "aff_country_unique": "China;Malaysia"
     },
     {
+        "id": "29024d296c",
         "title": "Laplace approximated Gaussian process state-space models",
         "site": "https://proceedings.mlr.press/v180/lindinger22a.html",
         "author": "Jakob Lindinger; Barbara Rakitsch; Christoph Lippert",
@@ -2878,6 +2989,7 @@
         "status": "Poster"
     },
     {
+        "id": "7ad0fbc6c4",
         "title": "Learning a neural Pareto manifold extractor with constraints",
         "site": "https://proceedings.mlr.press/v180/gupta22a.html",
         "author": "Soumyajit Gupta; Gurpreet Singh; Raghu Bollapragada; \\Matthew Lease",
@@ -2899,6 +3011,7 @@
         "status": "Poster"
     },
     {
+        "id": "491904fcce",
         "title": "Learning binary multi-scale games on networks",
         "site": "https://proceedings.mlr.press/v180/yu22a.html",
         "author": "Sixie Yu; P. Jeffrey Brantingham; Matthew Valasik; Yevgeniy Vorobeychik",
@@ -2929,6 +3042,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "fe052fa72c",
         "title": "Learning explainable templated graphical models",
         "site": "https://proceedings.mlr.press/v180/embar22a.html",
         "author": "Varun Embar; Sriram Srinivasa; Lise Getoor",
@@ -2959,6 +3073,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "42dbea66bc",
         "title": "Learning functions on multiple sets using multi-set transformers",
         "site": "https://proceedings.mlr.press/v180/selby22a.html",
         "author": "Kira A. Selby; Ahmad Rashid; Ivan Kobyzev; Mehdi Rezagholizadeh; Pascal Poupart",
@@ -2989,6 +3104,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "166d63dc4a",
         "title": "Learning in Markov games: Can we exploit a general-sum opponent?",
         "site": "https://proceedings.mlr.press/v180/ramponi22a.html",
         "author": "Giorgia Ramponi; Marcello Restelli",
@@ -3019,6 +3135,7 @@
         "aff_country_unique": "Switzerland;Italy"
     },
     {
+        "id": "60320012e1",
         "title": "Learning invariant weights in neural networks",
         "site": "https://proceedings.mlr.press/v180/ouderaa22a.html",
         "author": "Tycho F.A. van der Ouderaa; Mark van der Wilk",
@@ -3049,6 +3166,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "6387812c64",
         "title": "Learning large Bayesian networks with expert constraints",
         "site": "https://proceedings.mlr.press/v180/peruvemba-ramaswamy22a.html",
         "author": "Vaidyanathan Peruvemba Ramaswamy; Stefan Szeider",
@@ -3079,6 +3197,7 @@
         "aff_country_unique": "Austria"
     },
     {
+        "id": "85dfce20e0",
         "title": "Learning linear non-Gaussian polytree models",
         "site": "https://proceedings.mlr.press/v180/tramontano22a.html",
         "author": "Daniele Tramontano; Anthea Monod; Mathias Drton",
@@ -3109,6 +3228,7 @@
         "aff_country_unique": "Germany;United Kingdom"
     },
     {
+        "id": "1e22d03408",
         "title": "Learning soft interventions in complex equilibrium systems",
         "site": "https://proceedings.mlr.press/v180/besserve22a.html",
         "author": "Michel Besserve; Bernhard Sch\u00f6lkopf",
@@ -3139,6 +3259,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "e29588968d",
         "title": "Learning sparse representations of preferences within Choquet expected utility theory",
         "site": "https://proceedings.mlr.press/v180/herin22a.html",
         "author": "Margot Herin; Patrice Perny; Nataliya Sokolovska",
@@ -3160,6 +3281,7 @@
         "status": "Poster"
     },
     {
+        "id": "0d434e48a7",
         "title": "Lifting in multi-agent systems under uncertainty",
         "site": "https://proceedings.mlr.press/v180/braun22a.html",
         "author": "Tanya Braun; Marcel Gehrke; Florian Lau; Ralf M\u00f6ller",
@@ -3181,6 +3303,7 @@
         "status": "Poster"
     },
     {
+        "id": "861c76d2fe",
         "title": "Linearizing contextual bandits with latent state dynamics",
         "site": "https://proceedings.mlr.press/v180/nelson22a.html",
         "author": "Elliot Nelson; Debarun Bhattacharjya; Tian Gao; Miao Liu; Djallel Bouneffouf; Pascal Poupart",
@@ -3211,6 +3334,7 @@
         "aff_country_unique": "United States;Canada"
     },
     {
+        "id": "632b5a60a0",
         "title": "Local calibration: metrics and recalibration",
         "site": "https://proceedings.mlr.press/v180/luo22a.html",
         "author": "Rachel Luo; Aadyot Bhatnagar; Yu Bai; Shengjia Zhao; Huan Wang; Caiming Xiong; Silvio Savarese; Stefano Ermon; Edward Schmerling; Marco Pavone",
@@ -3232,6 +3356,7 @@
         "status": "Poster"
     },
     {
+        "id": "7c62b12050",
         "title": "Low-precision arithmetic for fast Gaussian processes",
         "site": "https://proceedings.mlr.press/v180/maddox22a.html",
         "author": "Wesley J. Maddox; Andres Potapcynski; Andrew Gordon Wilson",
@@ -3262,6 +3387,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "06e9e5a5eb",
         "title": "Marginal MAP estimation for inverse RL under occlusion with observer noise",
         "site": "https://proceedings.mlr.press/v180/suresh22a.html",
         "author": "Prasanth Sengadu Suresh; Prashant Doshi",
@@ -3292,6 +3418,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "6519f59a20",
         "title": "Meta-learning without data via Wasserstein distributionally-robust model fusion",
         "site": "https://proceedings.mlr.press/v180/wang22a.html",
         "author": "Zhenyi Wang; Xiaoyang Wang; Li Shen; Qiuling Suo; Kaiqiang Song; Dong Yu; Yan Shen; Mingchen Gao",
@@ -3313,6 +3440,7 @@
         "status": "Poster"
     },
     {
+        "id": "fe23f94af1",
         "title": "Mitigating statistical bias within differentially private synthetic data",
         "site": "https://proceedings.mlr.press/v180/ghalebikesabi22a.html",
         "author": "Sahra Ghalebikesabi; Harry Wilde; Jack Jewson; Arnaud Doucet; Sebastian Vollmer; Chris Holmes",
@@ -3343,6 +3471,7 @@
         "aff_country_unique": "United Kingdom;Spain;Germany"
     },
     {
+        "id": "5495e6fc78",
         "title": "Modeling extremes with $d$-max-decreasing neural networks",
         "site": "https://proceedings.mlr.press/v180/hasan22a.html",
         "author": "Ali Hasan; Khalil Elkhalil; Yuting Ng; Jo\u00e3o M. Pereira; Sina Farsiu; Jose Blanchet; Vahid Tarokh",
@@ -3364,6 +3493,7 @@
         "status": "Poster"
     },
     {
+        "id": "dd456c8a92",
         "title": "Monotonicity regularization: Improved penalties and novel applications to disentangled representation learning and robust classification",
         "site": "https://proceedings.mlr.press/v180/monteiro22a.html",
         "author": "Jo\u00e3o Monteiro; Mohamed Osama Ahmed; Hoseein Hajimirsadeghi; Greg Mori",
@@ -3394,6 +3524,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "34c0191db9",
         "title": "Multi-objective Bayesian optimization over high-dimensional search spaces",
         "site": "https://proceedings.mlr.press/v180/daulton22a.html",
         "author": "Samuel Daulton; David Eriksson; Maximilian Balandat; Eytan Bakshy",
@@ -3424,6 +3555,7 @@
         "aff_country_unique": "United Kingdom;United States"
     },
     {
+        "id": "50d1346839",
         "title": "Multi-source domain adaptation via weighted joint distributions optimal transport",
         "site": "https://proceedings.mlr.press/v180/turrisi22a.html",
         "author": "Rosanna Turrisi; R\u00e9mi Flamary; Alain Rakotomamonjy; Massimiliano Pontil",
@@ -3445,6 +3577,7 @@
         "status": "Poster"
     },
     {
+        "id": "63b1f83abb",
         "title": "Multi-winner approval voting goes epistemic",
         "site": "https://proceedings.mlr.press/v180/allouche22a.html",
         "author": "Tahar Allouche; J\u00e9r\u00f4me Lang; Florian Yger",
@@ -3466,6 +3599,7 @@
         "status": "Poster"
     },
     {
+        "id": "7a52d10ba3",
         "title": "Multiclass classification for Hawkes processes",
         "site": "https://proceedings.mlr.press/v180/denis22a.html",
         "author": "Christophe Denis; Charlotte Dion-Blanc; Laure Sansonnet",
@@ -3487,6 +3621,7 @@
         "status": "Poster"
     },
     {
+        "id": "64d812ab42",
         "title": "Multistate analysis with infinite mixtures of Markov chains",
         "site": "https://proceedings.mlr.press/v180/maystre22a.html",
         "author": "Lucas Maystre; Tiffany Wu; Roberto Sanchis-Ojeda; Tony Jebara",
@@ -3508,6 +3643,7 @@
         "status": "Poster"
     },
     {
+        "id": "8b6d01171a",
         "title": "Mutation-driven follow the regularized leader for last-iterate convergence in zero-sum games",
         "site": "https://proceedings.mlr.press/v180/abe22a.html",
         "author": "Kenshi Abe; Mitsuki Sakamoto; Atsushi Iwasaki",
@@ -3529,6 +3665,7 @@
         "status": "Poster"
     },
     {
+        "id": "20084ed428",
         "title": "Mutual information based Bayesian graph neural network for few-shot learning",
         "site": "https://proceedings.mlr.press/v180/song22a.html",
         "author": "Kaiyu Song; Kun Yue; Liang Duan; Mingze Yang; Angsheng Li",
@@ -3550,6 +3687,7 @@
         "status": "Poster"
     },
     {
+        "id": "fbfbe689f7",
         "title": "Near-optimal Thompson sampling-based algorithms for differentially private stochastic bandits",
         "site": "https://proceedings.mlr.press/v180/hu22a.html",
         "author": "Bingshan Hu; Nidhi Hegde",
@@ -3580,6 +3718,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "346dd47ca6",
         "title": "Neural ensemble search via Bayesian sampling",
         "site": "https://proceedings.mlr.press/v180/shu22a.html",
         "author": "Yao Shu; Yizhou Chen; Zhongxiang Dai; Bryan Kian Hsiang Low",
@@ -3601,6 +3740,7 @@
         "status": "Poster"
     },
     {
+        "id": "524f758320",
         "title": "Neural-progressive hedging: Enforcing constraints in reinforcement learning with stochastic programming",
         "site": "https://proceedings.mlr.press/v180/ghosh22a.html",
         "author": "Supriyo Ghosh; Laura Wynter; Shiau Hong Lim; Duc Thien Nguyen",
@@ -3631,6 +3771,7 @@
         "aff_country_unique": "India;Singapore"
     },
     {
+        "id": "3b145266d6",
         "title": "Neuro-symbolic entropy regularization",
         "site": "https://proceedings.mlr.press/v180/ahmed22a.html",
         "author": "Kareem Ahmed; Eric Wang; Kai-Wei Chang; Guy Van den Broeck",
@@ -3652,6 +3793,7 @@
         "status": "Poster"
     },
     {
+        "id": "1a76635810",
         "title": "NeuroBE: Escalating neural network approximations of Bucket Elimination",
         "site": "https://proceedings.mlr.press/v180/agarwal22a.html",
         "author": "Sakshi Agarwal; Kalev Kask; Alex Ihler; Rina Dechter",
@@ -3673,6 +3815,7 @@
         "status": "Poster"
     },
     {
+        "id": "5f73dc12af",
         "title": "Noisy L0-sparse subspace clustering on dimensionality reduced data",
         "site": "https://proceedings.mlr.press/v180/yang22e.html",
         "author": "Yingzhen Yang; Ping Li",
@@ -3703,6 +3846,7 @@
         "aff_country_unique": "United States;China"
     },
     {
+        "id": "596b50c4fc",
         "title": "Non-parametric inference of relational dependence",
         "site": "https://proceedings.mlr.press/v180/ahsan22a.html",
         "author": "Ragib Ahsan; Zahra Fatemi; David Arbour; Elena Zheleva",
@@ -3724,6 +3868,7 @@
         "status": "Poster"
     },
     {
+        "id": "0709d43ead",
         "title": "Nonparametric exponential family graph embeddings for multiple representation learning",
         "site": "https://proceedings.mlr.press/v180/lu22a.html",
         "author": "Chien Lu; Jaakko Peltonen; Timo Nummenmaa; Jyrki Nummenmaa",
@@ -3745,6 +3890,7 @@
         "status": "Poster"
     },
     {
+        "id": "0d19a513a0",
         "title": "Offline change detection under contamination",
         "site": "https://proceedings.mlr.press/v180/bhatt22a.html",
         "author": "Sujay Bhatt; Guanhua Fang; Ping Li",
@@ -3775,6 +3921,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "c8e3d7ee92",
         "title": "Offline policy optimization with eligible actions",
         "site": "https://proceedings.mlr.press/v180/liu22d.html",
         "author": "Yao Liu; Yannis Flet-Berliac; Emma Brunskill",
@@ -3805,6 +3952,7 @@
         "aff_country_unique": "China;United States"
     },
     {
+        "id": "207199cfbc",
         "title": "Offline reinforcement learning under value and density-ratio realizability: The power of gaps",
         "site": "https://proceedings.mlr.press/v180/chen22g.html",
         "author": "Jinglin Chen; Nan Jiang",
@@ -3835,6 +3983,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "e37bcb2151",
         "title": "Offline stochastic shortest path: Learning, evaluation and towards optimality",
         "site": "https://proceedings.mlr.press/v180/yin22b.html",
         "author": "Ming Yin; Wenjing Chen; Mengdi Wang; Yu-Xiang Wang",
@@ -3865,6 +4014,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "8c6f0098a2",
         "title": "On early extinction and the effect of travelling in the SIR model",
         "site": "https://proceedings.mlr.press/v180/berenbrink22a.html",
         "author": "Petra Berenbrink; Colin Cooper; Cristina Gava; David Kohan Marzag\u00e3o; Frederik Mallmann-Trenn; Tomasz Radzik",
@@ -3886,6 +4036,7 @@
         "status": "Poster"
     },
     {
+        "id": "fb125c5b19",
         "title": "On provably robust meta-Bayesian optimization",
         "site": "https://proceedings.mlr.press/v180/dai22a.html",
         "author": "Zhongxiang Dai; Yizhou Chen; Haibin Yu; Bryan Kian Hsiang Low; Patrick Jaillet",
@@ -3916,6 +4067,7 @@
         "aff_country_unique": "Singapore;China;United States"
     },
     {
+        "id": "174bfefa94",
         "title": "On testability of the front-door model via Verma constraints",
         "site": "https://proceedings.mlr.press/v180/bhattacharya22a.html",
         "author": "Rohit Bhattacharya; Razieh Nabi",
@@ -3946,6 +4098,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "6a4e99e440",
         "title": "On the definition and computation of causal treewidth",
         "site": "https://proceedings.mlr.press/v180/chen22f.html",
         "author": "Yizuo Chen; Adnan Darwiche",
@@ -3976,6 +4129,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "c397f11759",
         "title": "On the effectiveness of adversarial training against common corruptions",
         "site": "https://proceedings.mlr.press/v180/kireev22a.html",
         "author": "Klim Kireev; Maksym Andriushchenko; Nicolas Flammarion",
@@ -3997,6 +4151,7 @@
         "status": "Poster"
     },
     {
+        "id": "610c58a41b",
         "title": "On the inductive bias of neural networks for learning read-once DNFs",
         "site": "https://proceedings.mlr.press/v180/bronstein22a.html",
         "author": "Ido Bronstein; Alon Brutzkus; Amir Globerson",
@@ -4018,6 +4173,7 @@
         "status": "Poster"
     },
     {
+        "id": "4c6a081540",
         "title": "On-the-fly adaptation of patrolling strategies in changing environments",
         "site": "https://proceedings.mlr.press/v180/brazdil22a.html",
         "author": "Tom\u00e1\u0161 Br\u00e1zdil; David Kla\u0161ka; Anton\u0131\u0301n Ku\u010dera; V\u0131\u0301t Musil; Petr Novotn\u00fd; Vojt\u011bch \u0158eh\u00e1k",
@@ -4039,6 +4195,7 @@
         "status": "Poster"
     },
     {
+        "id": "270e6c71a0",
         "title": "Optimal control of partially observable Markov decision processes with finite linear temporal logic constraints",
         "site": "https://proceedings.mlr.press/v180/kalagarla22a.html",
         "author": "Krishna C. Kalagarla; Kartik Dhruva; Dongming Shen; Rahul Jain; Ashutosh Nayyar; Pierluigi Nuzzo",
@@ -4060,6 +4217,7 @@
         "status": "Poster"
     },
     {
+        "id": "a55ed37340",
         "title": "Ordinal causal discovery",
         "site": "https://proceedings.mlr.press/v180/ni22a.html",
         "author": "Yang Ni; Bani Mallick",
@@ -4090,6 +4248,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "3c5b543383",
         "title": "Orthogonal Gromov-Wasserstein discrepancy with efficient lower bound",
         "site": "https://proceedings.mlr.press/v180/jin22a.html",
         "author": "Hongwei Jin; Zishun Yu; Xinhua Zhang",
@@ -4111,6 +4270,7 @@
         "status": "Poster"
     },
     {
+        "id": "d34c496e22",
         "title": "PAC-Bayesian domain adaptation bounds for multiclass learners",
         "site": "https://proceedings.mlr.press/v180/sicilia22a.html",
         "author": "Anthony Sicilia; Katherine Atwell; Malihe Alikhani; Seong Jae Hwang",
@@ -4132,6 +4292,7 @@
         "status": "Poster"
     },
     {
+        "id": "ac9b304c38",
         "title": "PDQ-Net: Deep probabilistic dual quaternion network for absolute pose regression on $SE(3)$",
         "site": "https://proceedings.mlr.press/v180/li22b.html",
         "author": "Wenjie Li; Wasif Naeem; Jia Liu; Dequan Zheng; Wei Hao; Lijun Chen",
@@ -4153,6 +4314,7 @@
         "status": "Poster"
     },
     {
+        "id": "365f38b9fa",
         "title": "Pareto navigation gradient descent: a first-order algorithm for optimization in pareto set",
         "site": "https://proceedings.mlr.press/v180/ye22a.html",
         "author": "Mao Ye; Qiang Liu",
@@ -4183,6 +4345,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "05fe982ab1",
         "title": "Partial likelihood Thompson sampling",
         "site": "https://proceedings.mlr.press/v180/wu22c.html",
         "author": "Han Wu; Stefan Wager",
@@ -4213,6 +4376,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "6b93500b5b",
         "title": "Partially adaptive regularized multiple regression analysis for estimating linear causal effects",
         "site": "https://proceedings.mlr.press/v180/nanmo22a.html",
         "author": "Hisayoshi Nanmo; Manabu Kuroki",
@@ -4243,6 +4407,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "fc226aadcc",
         "title": "PathFlow: A normalizing flow generator that finds transition paths",
         "site": "https://proceedings.mlr.press/v180/liu22b.html",
         "author": "Tianyi Liu; Weihao Gao; Zhirui Wang; Chong Wang",
@@ -4264,6 +4429,7 @@
         "status": "Poster"
     },
     {
+        "id": "1dbfbad940",
         "title": "Perturbation type categorization for multiple adversarial perturbation robustness",
         "site": "https://proceedings.mlr.press/v180/maini22a.html",
         "author": "Pratyush Maini; Xinyun Chen; Bo Li; Dawn Song",
@@ -4285,6 +4451,7 @@
         "status": "Poster"
     },
     {
+        "id": "6a990b3664",
         "title": "Physics guided neural networks for spatio-temporal super-resolution of turbulent flows",
         "site": "https://proceedings.mlr.press/v180/bao22a.html",
         "author": "Tianshu Bao; Shengyu Chen; Taylor T Johnson; Peyman Givi; Shervin Sammak; Xiaowei Jia",
@@ -4306,6 +4473,7 @@
         "status": "Poster"
     },
     {
+        "id": "c80bec7cd2",
         "title": "Predictive Whittle networks for time series",
         "site": "https://proceedings.mlr.press/v180/yu22b.html",
         "author": "Zhongjie Yu; Fabrizio Ventola; Nils Thoma; Devendra Singh Dhami; Martin Mundt; Kristian Kersting",
@@ -4327,6 +4495,7 @@
         "status": "Poster"
     },
     {
+        "id": "944f8671fc",
         "title": "Principle of relevant information for graph sparsification",
         "site": "https://proceedings.mlr.press/v180/yu22c.html",
         "author": "Shujian Yu; Francesco Alesiani; Wenzhe Yin; Robert Jenssen; Jose C. Principe",
@@ -4357,6 +4526,7 @@
         "aff_country_unique": "Norway;Germany;Netherlands;Denmark;United States"
     },
     {
+        "id": "2548ecfb6e",
         "title": "Privacy-aware compression for federated data analysis",
         "site": "https://proceedings.mlr.press/v180/chaudhuri22a.html",
         "author": "Kamalika Chaudhuri; Chuan Guo; Mike Rabbat",
@@ -4378,6 +4548,7 @@
         "status": "Poster"
     },
     {
+        "id": "b705e17b15",
         "title": "Probabilistic spatial transformer networks",
         "site": "https://proceedings.mlr.press/v180/schwobel22a.html",
         "author": "Pola Schw\u00f6bel; Frederik Rahb\u00e6k Warburg; Martin J\u00f8rgensen; Kristoffer Hougaard Madsen; S\u00f8ren Hauberg",
@@ -4408,6 +4579,7 @@
         "aff_country_unique": "Denmark;United Kingdom"
     },
     {
+        "id": "c93db330e7",
         "title": "Probabilistic surrogate networks for simulators with unbounded randomness",
         "site": "https://proceedings.mlr.press/v180/munk22a.html",
         "author": "Andreas Munk; Berend Zwartsenberg; Adam \u015acibior; At\u0131l\u0131m G\u00fcne\u015f G. Baydin; Andrew Stewart; Goran Fernlund; Anoush Poursartip; Frank Wood",
@@ -4429,6 +4601,7 @@
         "status": "Poster"
     },
     {
+        "id": "d0a121c2bf",
         "title": "Proportional allocation of indivisible resources under ordinal and uncertain preferences.",
         "site": "https://proceedings.mlr.press/v180/li22d.html",
         "author": "Zihao Li; Xiaohui Bei; Zhenzhen Yan",
@@ -4450,6 +4623,7 @@
         "status": "Poster"
     },
     {
+        "id": "3148212ed2",
         "title": "Quadratic metric elicitation for fairness and beyond",
         "site": "https://proceedings.mlr.press/v180/hiranandani22a.html",
         "author": "Gaurush Hiranandani; Jatin Mathur; Harikrishna Narasimhan; Oluwasanmi Koyejo",
@@ -4471,6 +4645,7 @@
         "status": "Poster"
     },
     {
+        "id": "59d552fb4a",
         "title": "Quantification of Credal Uncertainty in Machine Learning: A Critical Analysis and Empirical Comparison",
         "site": "https://proceedings.mlr.press/v180/hullermeier22a.html",
         "author": "Eyke H\u00fcllermeier; S\u00e9bastien Destercke; Mohammad Hossein Shaker",
@@ -4492,6 +4667,7 @@
         "status": "Poster"
     },
     {
+        "id": "c40adb939b",
         "title": "Quantum perceptron revisited: Computational-statistical tradeoffs",
         "site": "https://proceedings.mlr.press/v180/roget22a.html",
         "author": "Mathieu Roget; Giuseppe Di Molfetta; Hachem Kadri",
@@ -4513,6 +4689,7 @@
         "status": "Poster"
     },
     {
+        "id": "e38357d3e9",
         "title": "ReVar: Strengthening policy evaluation via reduced variance sampling",
         "site": "https://proceedings.mlr.press/v180/mukherjee22b.html",
         "author": "Subhojyoti Mukherjee; Josiah P. Hanna; Robert D Nowak",
@@ -4543,6 +4720,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "ebefba5f0e",
         "title": "Recursive Monte Carlo and variational inference with auxiliary variables",
         "site": "https://proceedings.mlr.press/v180/lew22a.html",
         "author": "Alexander K. Lew; Marco Cusumano-Towner; Vikash K. Mansinghka",
@@ -4564,6 +4742,7 @@
         "status": "Poster"
     },
     {
+        "id": "4662062ade",
         "title": "Reframed GES with a neural conditional dependence measure",
         "site": "https://proceedings.mlr.press/v180/shen22a.html",
         "author": "Xinwei Shen; Shengyu Zhu; Jiji Zhang; Shoubo Hu; Zhitang Chen",
@@ -4594,6 +4773,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "75a17ada87",
         "title": "Regret guarantees for model-based reinforcement learning with long-term average constraints",
         "site": "https://proceedings.mlr.press/v180/agarwal22b.html",
         "author": "Mridul Agarwal; Qinbo Bai; Vaneet Aggarwal",
@@ -4624,6 +4804,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "340e31bd76",
         "title": "Reinforcement learning in many-agent settings under partial observability",
         "site": "https://proceedings.mlr.press/v180/he22a.html",
         "author": "Keyang He; Prashant Doshi; Bikramjit Banerjee",
@@ -4645,6 +4826,7 @@
         "status": "Poster"
     },
     {
+        "id": "cbe6b72cf1",
         "title": "ResIST: Layer-wise decomposition of ResNets for distributed training",
         "site": "https://proceedings.mlr.press/v180/dun22a.html",
         "author": "Chen Dun; Cameron R. Wolfe; Christopher M. Jermaine; Anastasios Kyrillidis",
@@ -4666,6 +4848,7 @@
         "status": "Poster"
     },
     {
+        "id": "1ea0b9f2e2",
         "title": "Research on video adversarial attack with long living cycle",
         "site": "https://proceedings.mlr.press/v180/zhao22a.html",
         "author": "Zeyu Zhao; Ke Xu; Xinghao Jiang; Tanfeng Sun",
@@ -4696,6 +4879,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "4bbbd27140",
         "title": "Residual bootstrap exploration for stochastic linear bandit",
         "site": "https://proceedings.mlr.press/v180/wu22a.html",
         "author": "Shuang Wu; Chi-Hua Wang; Yuantong Li; Guang Cheng",
@@ -4717,6 +4901,7 @@
         "status": "Poster"
     },
     {
+        "id": "2c25a298fd",
         "title": "Resolving label uncertainty with implicit posterior models",
         "site": "https://proceedings.mlr.press/v180/rolf22a.html",
         "author": "Esther Rolf; Nikolay Malkin; Alexandros Graikos; Ana Jojic; Caleb Robinson; Nebojsa Jojic",
@@ -4747,6 +4932,7 @@
         "aff_country_unique": "United States;Canada"
     },
     {
+        "id": "d04426e176",
         "title": "Restless and uncertain: Robust policies for restless bandits via deep multi-agent reinforcement learning",
         "site": "https://proceedings.mlr.press/v180/killian22a.html",
         "author": "Jackson A. Killian; Lily Xu; Arpita Biswas; Milind Tambe",
@@ -4768,6 +4954,7 @@
         "status": "Poster"
     },
     {
+        "id": "20b2b708c5",
         "title": "Revisiting DP-Means: fast scalable algorithms via parallelism and delayed cluster creation",
         "site": "https://proceedings.mlr.press/v180/dinari22b.html",
         "author": "Or Dinari; Oren Freifeld",
@@ -4798,6 +4985,7 @@
         "aff_country_unique": "Israel"
     },
     {
+        "id": "70267581ec",
         "title": "Revisiting the general identifiability problem",
         "site": "https://proceedings.mlr.press/v180/kivva22a.html",
         "author": "Yaroslav Kivva; Ehsan Mokhtarian; Jalal Etesami; Negar Kiyavash",
@@ -4819,6 +5007,7 @@
         "status": "Poster"
     },
     {
+        "id": "e410a3cc4e",
         "title": "Robust Bayesian recourse",
         "site": "https://proceedings.mlr.press/v180/nguyen22a.html",
         "author": "Tuan-Duy H. Nguyen; Ngoc Bui; Duy Nguyen; Man-Chung Yue; Viet Anh Nguyen",
@@ -4849,6 +5038,7 @@
         "aff_country_unique": "Vietnam;China"
     },
     {
+        "id": "c26a853c7b",
         "title": "Robust expected information gain for optimal Bayesian experimental design using ambiguity sets",
         "site": "https://proceedings.mlr.press/v180/go22a.html",
         "author": "Jinwoo Go; Tobin Isaac",
@@ -4879,6 +5069,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "41b4f4af35",
         "title": "Robust identifiability in linear structural equation models of causal inference",
         "site": "https://proceedings.mlr.press/v180/sankararaman22a.html",
         "author": "Karthik A. Sankararaman; Anand Louis; Navin Goyal",
@@ -4900,6 +5091,7 @@
         "status": "Poster"
     },
     {
+        "id": "e2e4f63261",
         "title": "Robust learning of tractable probabilistic models",
         "site": "https://proceedings.mlr.press/v180/peddi22a.html",
         "author": "Rohith Peddi; Tahrima Rahman; Vibhav Gogate",
@@ -4921,6 +5113,7 @@
         "status": "Poster"
     },
     {
+        "id": "3e129f3129",
         "title": "Robust textual embedding against word-level adversarial attacks",
         "site": "https://proceedings.mlr.press/v180/yang22c.html",
         "author": "Yichen Yang; Xiaosen Wang; Kun He",
@@ -4951,6 +5144,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "1b78fe794f",
         "title": "Robustness of model predictions under extension",
         "site": "https://proceedings.mlr.press/v180/blom22a.html",
         "author": "Tineke Blom; Joris M. Mooij",
@@ -4981,6 +5175,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "3a9845f7e3",
         "title": "SASH: Efficient secure aggregation based on SHPRG for federated learning",
         "site": "https://proceedings.mlr.press/v180/liu22c.html",
         "author": "Zizhen Liu; Si Chen; Jing Ye; Junfeng Fan; Huawei Li; Xiaowei Li",
@@ -5002,6 +5197,7 @@
         "status": "Poster"
     },
     {
+        "id": "0476a2f251",
         "title": "SENTINEL: taming uncertainty with ensemble based distributional reinforcement learning",
         "site": "https://proceedings.mlr.press/v180/eriksson22a.html",
         "author": "Hannes Eriksson; Debabrota Basu; Mina Alibeigi; Christos Dimitrakakis",
@@ -5023,6 +5219,7 @@
         "status": "Poster"
     },
     {
+        "id": "f4d6698a2a",
         "title": "SMT-based weighted model integration with structure awareness",
         "site": "https://proceedings.mlr.press/v180/spallitta22a.html",
         "author": "Giuseppe Spallitta; Gabriele Masina; Paolo Morettin; Andrea Passerini; Roberto Sebastiani",
@@ -5053,6 +5250,7 @@
         "aff_country_unique": "Italy;Belgium"
     },
     {
+        "id": "cac6c9491d",
         "title": "ST-MAML : A stochastic-task based method for task-heterogeneous meta-learning",
         "site": "https://proceedings.mlr.press/v180/wang22c.html",
         "author": "Zhe Wang; Jake Grigsby; Arshdeep Sekhon; Yanjun Qi",
@@ -5074,6 +5272,7 @@
         "status": "Poster"
     },
     {
+        "id": "cbcd4b0a55",
         "title": "Safety aware changepoint detection for piecewise i.i.d. bandits",
         "site": "https://proceedings.mlr.press/v180/mukherjee22a.html",
         "author": "Subhojyoti Mukherjee",
@@ -5104,6 +5303,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "483a134dd6",
         "title": "Self-distribution distillation: efficient uncertainty estimation",
         "site": "https://proceedings.mlr.press/v180/fathullah22a.html",
         "author": "Yassir Fathullah; Mark J. F. Gales",
@@ -5134,6 +5334,7 @@
         "aff_country_unique": "United Kingdom"
     },
     {
+        "id": "c10da76eb0",
         "title": "Self-supervised representations for multi-view reinforcement learning",
         "site": "https://proceedings.mlr.press/v180/yang22b.html",
         "author": "Huanhuan Yang; Dianxi Shi; Guojun Xie; Yingxuan Peng; Yi Zhang; Yantai Yang; Shaowu Yang",
@@ -5164,6 +5365,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "dfbcafd394",
         "title": "Semi-supervised novelty detection using ensembles with regularized disagreement",
         "site": "https://proceedings.mlr.press/v180/tifrea22a.html",
         "author": "Alexandru Tifrea; Eric Stavarache; Fanny Yang",
@@ -5185,6 +5387,7 @@
         "status": "Poster"
     },
     {
+        "id": "148f00cf87",
         "title": "Semiparametric causal sufficient dimension reduction of multidimensional treatments",
         "site": "https://proceedings.mlr.press/v180/nabi22a.html",
         "author": "Razieh Nabi; Todd McNutt; Ilya Shpitser",
@@ -5206,6 +5409,7 @@
         "status": "Poster"
     },
     {
+        "id": "218bddcde0",
         "title": "Sequential algorithmic modification with test data reuse",
         "site": "https://proceedings.mlr.press/v180/feng22a.html",
         "author": "Jean Feng; Gene Pennllo; Nicholas Petrick; Berkman Sahiner; Romain Pirracchio; Alexej Gossmann",
@@ -5227,6 +5431,7 @@
         "status": "Poster"
     },
     {
+        "id": "635d5adde2",
         "title": "Set-valued prediction in hierarchical classification with constrained representation complexity",
         "site": "https://proceedings.mlr.press/v180/mortier22a.html",
         "author": "Thomas Mortier; Eyke H\u00fcllermeier; Krzysztof Dembczy\u0144ski; Willem Waegeman",
@@ -5248,6 +5453,7 @@
         "status": "Poster"
     },
     {
+        "id": "173a2c0c00",
         "title": "Shifted compression framework: generalizations and improvements",
         "site": "https://proceedings.mlr.press/v180/shulgin22a.html",
         "author": "Egor Shulgin; Peter Richt\u00e1rik",
@@ -5278,6 +5484,7 @@
         "aff_country_unique": "Saudi Arabia"
     },
     {
+        "id": "bf62fd257a",
         "title": "Shoring up the foundations: fusing model embeddings and weak supervision",
         "site": "https://proceedings.mlr.press/v180/chen22e.html",
         "author": "Mayee F. Chen; Daniel Y. Fu; Dyah Adila; Michael Zhang; Frederic Sala; Kayvon Fatahalian; Christopher R\u00e9",
@@ -5299,6 +5506,7 @@
         "status": "Poster"
     },
     {
+        "id": "ffb376f079",
         "title": "Simplified and unified analysis of various learning problems by reduction to Multiple-Instance Learning",
         "site": "https://proceedings.mlr.press/v180/suehiro22a.html",
         "author": "Daiki Suehiro; Eiji Takimoto",
@@ -5329,6 +5537,7 @@
         "aff_country_unique": "Japan"
     },
     {
+        "id": "43ec112fe2",
         "title": "Solving structured hierarchical games using differential backward induction",
         "site": "https://proceedings.mlr.press/v180/li22a.html",
         "author": "Zun Li; Feiran Jia; Aditya Mate; Shahin Jabbari; Mithun Chakraborty; Milind Tambe; Yevgeniy Vorobeychik",
@@ -5359,6 +5568,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "d996bc62c1",
         "title": "Stability of SGD: Tightness analysis and improved bounds",
         "site": "https://proceedings.mlr.press/v180/zhang22b.html",
         "author": "Yikai Zhang; Wenjia Zhang; Sammy Bald; Vamsi Pingali; Chao Chen; Mayank Goswami",
@@ -5389,6 +5599,7 @@
         "aff_country_unique": "United States;India"
     },
     {
+        "id": "cf8e14db98",
         "title": "Stackmix: a complementary mix algorithm",
         "site": "https://proceedings.mlr.press/v180/chen22b.html",
         "author": "John Chen; Samarth Sinha; Anastasios Kyrillidis",
@@ -5419,6 +5630,7 @@
         "aff_country_unique": "United States;Canada"
     },
     {
+        "id": "3dfd72b0a6",
         "title": "Sublinear time algorithms for greedy selection in high dimensions",
         "site": "https://proceedings.mlr.press/v180/chen22d.html",
         "author": "Qi Chen; Kai Liu; Ruilong Yao; Hu Ding",
@@ -5449,6 +5661,7 @@
         "aff_country_unique": "China"
     },
     {
+        "id": "801bcea167",
         "title": "Superposing many tickets into one: A performance booster for sparse neural network training",
         "site": "https://proceedings.mlr.press/v180/yin22a.html",
         "author": "Lu Yin; Vlado Menkovski; Meng Fang; Tianjin Huang; Yulong Pei; Mykola Pechenizkiy",
@@ -5470,6 +5683,7 @@
         "status": "Poster"
     },
     {
+        "id": "95a118c6fe",
         "title": "SymNet 2.0: Effectively handling Non-Fluents and Actions in Generalized Neural Policies for RDDL Relational MDPs",
         "site": "https://proceedings.mlr.press/v180/sharma22a.html",
         "author": "Vishal Sharma; Daman Arora; Florian Gei\u00dfer; Mausam ; Parag Singla",
@@ -5500,6 +5714,7 @@
         "aff_country_unique": "India;"
     },
     {
+        "id": "e9195833d6",
         "title": "Systematized event-aware learning for multi-object tracking",
         "site": "https://proceedings.mlr.press/v180/lee22a.html",
         "author": "Hyemin Lee; Daijin Kim",
@@ -5530,6 +5745,7 @@
         "aff_country_unique": "South Korea"
     },
     {
+        "id": "36aff8816e",
         "title": "Temporal abstractions-augmented temporally contrastive learning: An alternative to the Laplacian in RL",
         "site": "https://proceedings.mlr.press/v180/erraqabi22a.html",
         "author": "Akram Erraqabi; Marlos C. Machado; Mingde Zhao; Sainbayar Sukhbaatar; Alessandro Lazaric; Denoyer Ludovic; Yoshua Bengio",
@@ -5560,6 +5776,7 @@
         "aff_country_unique": "Canada;United States"
     },
     {
+        "id": "5c532f3ded",
         "title": "Test for non-negligible adverse shifts",
         "site": "https://proceedings.mlr.press/v180/kamulete22a.html",
         "author": "Vathy M Kamulete",
@@ -5590,6 +5807,7 @@
         "aff_country_unique": "Canada"
     },
     {
+        "id": "4d05662251",
         "title": "The optimal noise in noise-contrastive learning is not what you think",
         "site": "https://proceedings.mlr.press/v180/chehab22a.html",
         "author": "Omar Chehab; Alexandre Gramfort; Aapo Hyv\u00e4rinen",
@@ -5620,6 +5838,7 @@
         "aff_country_unique": "France;Finland"
     },
     {
+        "id": "5d63b5d950",
         "title": "Toward learning human-aligned cross-domain robust models by countering misaligned features",
         "site": "https://proceedings.mlr.press/v180/wang22d.html",
         "author": "Haohan Wang; Zeyi Huang; Hanlin Zhang; Yong Jae Lee; Eric P. Xing",
@@ -5650,6 +5869,7 @@
         "aff_country_unique": "United States;United Arab Emirates"
     },
     {
+        "id": "1f3977ee3c",
         "title": "Towards painless policy optimization for constrained MDPs",
         "site": "https://proceedings.mlr.press/v180/jain22a.html",
         "author": "Arushi Jain; Sharan Vaswani; Reza Babanezhad; Csaba Szepesv\u00e1ri; Doina Precup",
@@ -5680,6 +5900,7 @@
         "aff_country_unique": "Canada;United Kingdom"
     },
     {
+        "id": "65553b4b4b",
         "title": "Towards unsupervised open world semantic segmentation",
         "site": "https://proceedings.mlr.press/v180/uhlemeyer22a.html",
         "author": "Svenja Uhlemeyer; Matthias Rottmann; Hanno Gottschalk",
@@ -5701,6 +5922,7 @@
         "status": "Poster"
     },
     {
+        "id": "fdbfe1293e",
         "title": "Uncertainty-aware pseudo-labeling for quantum calculations",
         "site": "https://proceedings.mlr.press/v180/huang22a.html",
         "author": "Kexin Huang; Vishnu Sresht; Brajesh Rai; Mykola Bordyuh",
@@ -5722,6 +5944,7 @@
         "status": "Poster"
     },
     {
+        "id": "7f5c005271",
         "title": "Understanding and mitigating the limitations of prioritized experience replay",
         "site": "https://proceedings.mlr.press/v180/pan22a.html",
         "author": "Yangchen Pan; Jincheng Mei; Amir-massoud Farahmand; Martha White; Hengshuai Yao; Mohsen Rohani; Jun Luo",
@@ -5752,6 +5975,7 @@
         "aff_country_unique": "Canada;China"
     },
     {
+        "id": "cd85afff07",
         "title": "Using hierarchies to efficiently combine evidence with Dempster\u2019s rule of combination",
         "site": "https://proceedings.mlr.press/v180/pinto-prieto22a.html",
         "author": "Daira Pinto Prieto; Ronald de Haan",
@@ -5782,6 +6006,7 @@
         "aff_country_unique": "Netherlands"
     },
     {
+        "id": "de7e36dc1a",
         "title": "VQ-Flows: Vector quantized local normalizing flows",
         "site": "https://proceedings.mlr.press/v180/sidheekh22a.html",
         "author": "Sahil Sidheekh; Chris B. Dock; Tushar Jain; Radu Balan; Maneesh K. Singh",
@@ -5812,6 +6037,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "cd68e0972f",
         "title": "Variational message passing neural network for Maximum-A-Posteriori (MAP) inference",
         "site": "https://proceedings.mlr.press/v180/cui22a.html",
         "author": "Zijun Cui; Hanjing Wang; Tian Gao; Kartik Talamadupula; Qiang Ji",
@@ -5842,6 +6068,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "d5a6b5ca53",
         "title": "Variational multiple shooting for Bayesian ODEs with Gaussian processes",
         "site": "https://proceedings.mlr.press/v180/hegde22a.html",
         "author": "Pashupati Hegde; \u00c7a\u011fatay Y\u0131ld\u0131z; Harri L\u00e4hdesm\u00e4ki; Samuel Kaski; Markus Heinonen",
@@ -5872,6 +6099,7 @@
         "aff_country_unique": "Finland"
     },
     {
+        "id": "bf36b57e8d",
         "title": "Variational- and metric-based deep latent space for out-of-distribution detection",
         "site": "https://proceedings.mlr.press/v180/dinari22a.html",
         "author": "Or Dinari; Oren Freifeld",
@@ -5902,6 +6130,7 @@
         "aff_country_unique": "Israel"
     },
     {
+        "id": "3622d74dbe",
         "title": "Voronoi density estimator for high-dimensional data: Computation, compactification and convergence",
         "site": "https://proceedings.mlr.press/v180/polianskii22a.html",
         "author": "Vladislav Polianskii; Giovanni Luca Marchetti; Alexander Kravberg; Anastasiia Varava; Florian T. Pokorny; Danica Kragic",
@@ -5932,6 +6161,7 @@
         "aff_country_unique": "Sweden"
     },
     {
+        "id": "5b165fd760",
         "title": "X-MEN: guaranteed XOR-maximum entropy constrained inverse reinforcement learning",
         "site": "https://proceedings.mlr.press/v180/ding22a.html",
         "author": "Fan Ding; Yexiang Xue",

@@ -1,5 +1,6 @@
 [
     {
+        "id": "a7a0e02bf3",
         "title": "ASML: A Scalable and Efficient AutoML Solution for Data Streams",
         "site": "https://proceedings.mlr.press/v256/verma24a.html",
         "author": "Nilesh Verma; Albert Bifet; Bernhard Pfahringer; Maroua Bahri",
@@ -21,6 +22,7 @@
         "status": "Poster"
     },
     {
+        "id": "43c3d6beb6",
         "title": "Analyzing Few-Shot Neural Architecture Search in a Metric-Driven Framework",
         "site": "https://proceedings.mlr.press/v256/ly-manson24a.html",
         "author": "Timot\u00e9e Ly-Manson; Mathieu L\u00e9onardon; Abdeldjalil Aissa El Bey; Ghouthi Boukli Hacene; Lukas Mauch",
@@ -51,6 +53,7 @@
         "aff_country_unique": "France;Germany"
     },
     {
+        "id": "bd004de3cd",
         "title": "AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models",
         "site": "https://proceedings.mlr.press/v256/tang24a.html",
         "author": "Zhiqiang Tang; Haoyang Fang; Su Zhou; Taojiannan Yang; Zihan Zhong; Cuixiong Hu; Katrin Kirchhoff; George Karypis",
@@ -81,6 +84,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "505101b7ce",
         "title": "Automated Deep Learning for load forecasting",
         "site": "https://proceedings.mlr.press/v256/keisler24a.html",
         "author": "Julie Keisler; Sandra Claudel; Gilles Cabriel; Margaux Br\u00e9g\u00e8re",
@@ -111,6 +115,7 @@
         "aff_country_unique": "France"
     },
     {
+        "id": "34ccc41d4f",
         "title": "Bi-Level One-Shot Architecture Search for Probabilistic Time Series Forecasting",
         "site": "https://proceedings.mlr.press/v256/seng24a.html",
         "author": "Jonas Seng; Fabian Kalter; Zhongjie Yu; Fabrizio Ventola; Kristian Kersting",
@@ -141,6 +146,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "d67af59fdf",
         "title": "Confidence Interval Estimation of Predictive Performance in the Context of AutoML",
         "site": "https://proceedings.mlr.press/v256/paraschakis24a.html",
         "author": "Konstantinos Paraschakis; Andrea Castellani; Giorgos Borboudakis; Ioannis Tsamardinos",
@@ -162,6 +168,7 @@
         "status": "Poster"
     },
     {
+        "id": "7bfd5b18a6",
         "title": "Don\u2019t Waste Your Time: Early Stopping Cross-Validation",
         "site": "https://proceedings.mlr.press/v256/bergman24a.html",
         "author": "Edward Bergman; Lennart Purucker; Frank Hutter",
@@ -192,6 +199,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "310af8c135",
         "title": "FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search",
         "site": "https://proceedings.mlr.press/v256/dotzel24a.html",
         "author": "Jordan Dotzel; Gang Wu; Andrew Li; Muhammad Umar; Yun Ni; Mohamed S Abdelfattah; Zhiru Zhang; Liqun Cheng; Martin G Dixon; Norman P Jouppi; Quoc V Le; Sheng Li",
@@ -213,6 +221,7 @@
         "status": "Poster"
     },
     {
+        "id": "454538eb6d",
         "title": "Fast Benchmarking of Asynchronous Multi-Fidelity Optimization on Zero-Cost Benchmarks",
         "site": "https://proceedings.mlr.press/v256/watanabe24a.html",
         "author": "Shuhei Watanabe; Neeratyoy Mallik; Edward Bergman; Frank Hutter",
@@ -234,6 +243,7 @@
         "status": "Poster"
     },
     {
+        "id": "2132f5fa2a",
         "title": "HPO-RL-Bench: A Zero-Cost Benchmark for HPO in Reinforcement Learning",
         "site": "https://proceedings.mlr.press/v256/shala24a.html",
         "author": "Gresa Shala; Sebastian Pineda Arango; Andr\u00e9 Biedenkapp; Frank Hutter; Josif Grabocka",
@@ -264,6 +274,7 @@
         "aff_country_unique": "Germany"
     },
     {
+        "id": "314fa77685",
         "title": "HPOD: Hyperparameter Optimization for Unsupervised Outlier Detection",
         "site": "https://proceedings.mlr.press/v256/zhao24a.html",
         "author": "Yue Zhao; Leman Akoglu",
@@ -294,6 +305,7 @@
         "aff_country_unique": "United States"
     },
     {
+        "id": "bb82f0547e",
         "title": "Improving Transfer Learning by means of Ensemble Learning and Swarm Intelligence-based Neuroevolution",
         "site": "https://proceedings.mlr.press/v256/gomez24a.html",
         "author": "Adri G\u00f3mez; Monica Abella; Manuel Desco",
@@ -315,6 +327,7 @@
         "status": "Poster"
     },
     {
+        "id": "2039f090fd",
         "title": "Introducing HoNCAML: Holistic No-Code Auto Machine Learning",
         "site": "https://proceedings.mlr.press/v256/piras24a.html",
         "author": "Luca Piras; Joan Albert Err\u00e1ez Castelltort; Jordi Casals Grifell; Xavier de Juan Pulido; Cirus Iniesta; Marina Rosell Murillo; Cristina Soler Arenys",
@@ -336,6 +349,7 @@
         "status": "Poster"
     },
     {
+        "id": "e9eea96d90",
         "title": "Is Mamba Capable of In-Context Learning?",
         "site": "https://proceedings.mlr.press/v256/grazzi24a.html",
         "author": "Riccardo Grazzi; Julien Niklas Siems; Simon Schrodi; Thomas Brox; Frank Hutter",
@@ -366,6 +380,7 @@
         "aff_country_unique": "Italy;Germany"
     },
     {
+        "id": "54818908f8",
         "title": "Sequence Alignment-based Similarity Metric in Evolutionary Neural Architecture Search",
         "site": "https://proceedings.mlr.press/v256/pava24a.html",
         "author": "Mateo Avila Pava; Ren\u00e9 Groh; Andreas M Kist",
@@ -387,6 +402,7 @@
         "status": "Poster"
     },
     {
+        "id": "74da733c8c",
         "title": "Speeding up NAS with Adaptive Subset Selection",
         "site": "https://proceedings.mlr.press/v256/c24a.html",
         "author": "Vishak Prasad C; Colin White; Sibasis Nayak; Paarth Jain; Aziz Shameem; Prateek Garg; Ganesh Ramakrishnan",
@@ -408,6 +424,7 @@
         "status": "Poster"
     },
     {
+        "id": "d8f00a7053",
         "title": "TabRepo: A Large Scale Repository of Tabular Model Evaluations and its AutoML Applications",
         "site": "https://proceedings.mlr.press/v256/salinas24a.html",
         "author": "David Salinas; Nick Erickson",
@@ -438,6 +455,7 @@
         "aff_country_unique": "Germany;United States"
     },
     {
+        "id": "64b0f09925",
         "title": "Training and Cross-Validating Machine Learning Pipelines with Limited Memory",
         "site": "https://proceedings.mlr.press/v256/hirzel24a.html",
         "author": "Martin Hirzel; Kiran Kate; Louis Mandel; Avraham Shinnar",
@@ -459,6 +477,7 @@
         "status": "Poster"
     },
     {
+        "id": "4d1e3ce16b",
         "title": "Weight-Entanglement Meets Gradient-Based Neural Architecture Search",
         "site": "https://proceedings.mlr.press/v256/sukthanker24a.html",
         "author": "Rhea Sanjay Sukthanker; Arjun Krishnakumar; Mahmoud Safari; Frank Hutter",
