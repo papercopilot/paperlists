@@ -83,7 +83,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0+1;2;1",
-        "aff_unique_norm": "Nara Institute of Science and Technology;ATR Computational Neuroscience Laboratories;IBM Research",
+        "aff_unique_norm": "Nara Institute of Science and Technology;ATR Computational Neuroscience Laboratories;IBM",
         "aff_unique_dep": "Graduate School of Information Science;Department of Brain Robot Interface;Research",
         "aff_unique_url": "https://www.nist.go.jp;https://www.atr.jp/en/research/labs/cnl/;https://www.ibm.com/research",
         "aff_unique_abbr": "NIST;ATR-CNL;IBM",
@@ -209,7 +209,7 @@
         "aff_unique_index": "0;0;1",
         "aff_unique_norm": "Northwest Agriculture and Forest University;Northwestern Polytechnical University",
         "aff_unique_dep": "College of Mechanical and Electric Engineering;Department of Automation",
-        "aff_unique_url": "https://www.nwsuaf.edu.cn;https://www.nwpu.edu.cn",
+        "aff_unique_url": ";https://www.nwpu.edu.cn",
         "aff_unique_abbr": ";NWPU",
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
@@ -242,8 +242,8 @@
         "aff_unique_dep": "Department of Informatics",
         "aff_unique_url": "https://www.tum.de",
         "aff_unique_abbr": "TUM",
-        "aff_campus_unique_index": "",
-        "aff_campus_unique": "",
+        "aff_campus_unique_index": "0;0",
+        "aff_campus_unique": "Munich",
         "aff_country_unique_index": "0;0",
         "aff_country_unique": "Germany"
     },
@@ -694,13 +694,13 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0;1;2;3",
-        "aff_unique_norm": "Dorodnicyn Computing Centre;Lomonosov Moscow State University;The Tel-Aviv University;The Open University of Israel",
+        "aff_unique_norm": "Dorodnicyn Computing Centre;Lomonosov Moscow State University;Tel-Aviv University;Open University of Israel",
         "aff_unique_dep": "Russian Academy of Sciences;;Blavatnik School of Computer Science;Computer Science Division",
-        "aff_unique_url": "http://www.ccas.ru/eng/dccc/;https://www.msu.ru;https://www.tau.ac.il;https://www.openu.ac.il",
-        "aff_unique_abbr": "DCCC;MSU;TAU;OUI",
+        "aff_unique_url": "http://www.ccas.ru;https://www.msu.ru;https://www.tau.ac.il;https://www.openu.ac.il",
+        "aff_unique_abbr": "DCC RAS;MSU;TAU;OUI",
         "aff_campus_unique_index": "1;2",
         "aff_campus_unique": ";Moscow;Tel-Aviv",
         "aff_country_unique_index": "0;0;1;1",
-        "aff_country_unique": "Russia;Israel"
+        "aff_country_unique": "Russian Federation;Israel"
     }
 ]

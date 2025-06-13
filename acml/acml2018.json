@@ -25,8 +25,8 @@
         "aff_unique_dep": "Department of Computer Science and Engineering",
         "aff_unique_url": "https://www.sjtu.edu.cn",
         "aff_unique_abbr": "SJTU",
-        "aff_campus_unique_index": "0;0;0",
-        "aff_campus_unique": "Shanghai",
+        "aff_campus_unique_index": "",
+        "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0",
         "aff_country_unique": "China"
     },
@@ -176,7 +176,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0;0;1;1;0;0",
-        "aff_unique_norm": "Xidian University;The Chinese University of Hong Kong",
+        "aff_unique_norm": "Xidian University;Chinese University of Hong Kong",
         "aff_unique_dep": "School of Artificial Intelligence;Department of Computer Science and Engineering",
         "aff_unique_url": "http://www.xidian.edu.cn/;https://www.cuhk.edu.hk",
         "aff_unique_abbr": "Xidian;CUHK",
@@ -207,7 +207,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0;1;2;2;2;0;2",
-        "aff_unique_norm": "Sun Yat-sen University;University of Science and Technology of China;Microsoft Corporation",
+        "aff_unique_norm": "Sun Yat-sen University;University of Science and Technology of China;Microsoft",
         "aff_unique_dep": ";;Microsoft Research",
         "aff_unique_url": "http://www.sysu.edu.cn/;http://www.ustc.edu.cn;https://www.microsoft.com/en-us/research",
         "aff_unique_abbr": "SYSU;USTC;MSR",
@@ -331,7 +331,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0+1+2;3;2;0+1;0+1",
-        "aff_unique_norm": "Chinese Academy of Sciences;University of Chinese Academy of Sciences;Microsoft Research Asia;University of Michigan",
+        "aff_unique_norm": "Chinese Academy of Sciences;University of Chinese Academy of Sciences;Microsoft;University of Michigan",
         "aff_unique_dep": "Institute of Computing Technology;;Research;",
         "aff_unique_url": "http://www.ict.ac.cn;http://www.ucas.ac.cn;https://www.microsoft.com/en-us/research/group/microsoft-research-asia;https://www.umich.edu",
         "aff_unique_abbr": "CAS;UCAS;MSRA;UM",
@@ -517,7 +517,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0;1;2;0",
-        "aff_unique_norm": "Beijing University of Technology;Worcester Polytechnic Institute;Beijing Jiaotong University",
+        "aff_unique_norm": "Beijing University of Technology;Worcester Polytechnic Institute;Beijing Jiao Tong University",
         "aff_unique_dep": ";;",
         "aff_unique_url": "http://www.bjut.edu.cn;https://www.wpi.edu;http://www.bjtu.edu.cn",
         "aff_unique_abbr": "BJUT;WPI;BJTU",
@@ -613,11 +613,11 @@
         "aff_unique_norm": "Moscow State University;National Research University Higher School of Economics;Mail.ru;Neuromation OU;Steklov Mathematical Institute",
         "aff_unique_dep": ";;;;",
         "aff_unique_url": "https://www.msu.ru;https://www.hse.ru;https://mail.ru;;http://www.pdmi.ras.ru",
-        "aff_unique_abbr": "MSU;HSE;Mail.ru;;",
+        "aff_unique_abbr": "MSU;HSE;Mail.ru;;SMI",
         "aff_campus_unique_index": "0+0;0;2",
         "aff_campus_unique": "Moscow;;St. Petersburg",
         "aff_country_unique_index": "0+0;0;1+0",
-        "aff_country_unique": "Russia;Estonia"
+        "aff_country_unique": "Russian Federation;Estonia"
     },
     {
         "id": "5365603699",
@@ -734,7 +734,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0+1;0;0;2;0",
-        "aff_unique_norm": "University of Oxford;Federal University of Rio Grande;Samsung Research America",
+        "aff_unique_norm": "University of Oxford;Federal University of Rio Grande;Samsung",
         "aff_unique_dep": ";;Think Tank Team",
         "aff_unique_url": "https://www.ox.ac.uk;https://www.ufrgs.br;https://www.samsung.com/us/research/",
         "aff_unique_abbr": "Oxford;UFRG;SRA",
@@ -982,7 +982,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0;0+1;0;0",
-        "aff_unique_norm": "Xi'an Jiaotong University;Beijing Advanced Innovation Center for Intelligent Robots and Systems",
+        "aff_unique_norm": "Xi'an Jiao Tong University;Beijing Advanced Innovation Center for Intelligent Robots and Systems",
         "aff_unique_dep": "State Key Laboratory for Manufacturing System Engineering, System Engineering Institute;",
         "aff_unique_url": "http://www.xjtu.edu.cn;",
         "aff_unique_abbr": "XJTU;",
@@ -1106,7 +1106,7 @@
         "track": "main",
         "status": "Poster",
         "aff_unique_index": "0+1;2;3;4;0",
-        "aff_unique_norm": "University of Electronic Science and Technology of China;Nanjing University;Nokia Bell Labs;University of Illinois at Urbana-Champaign;University of Macau",
+        "aff_unique_norm": "University of Electronic Science and Technology of China;Nanjing University;Nokia Bell Labs;University of Illinois Urbana-Champaign;University of Macau",
         "aff_unique_dep": "School of Information and Communication Engineering;School of Electronic Science and Engineering;;Department of Electrical and Computer Engineering;Department of Computer and Information Science",
         "aff_unique_url": "http://www.uestc.edu.cn;http://www.nju.edu.cn;https://www.nokia.com bell-labs/;https://illinois.edu;https://www.um.edu.mo",
         "aff_unique_abbr": "UESTC;Nanjing U;Nokia Bell Labs;UIUC;UM",
@@ -1467,7 +1467,7 @@
         "aff_campus_unique_index": "0+0;0+0;0",
         "aff_campus_unique": "Moscow",
         "aff_country_unique_index": "0+0;0+0;0",
-        "aff_country_unique": "Russia"
+        "aff_country_unique": "Russian Federation"
     },
     {
         "id": "8b4da7f1cc",
@@ -1622,7 +1622,7 @@
         "aff_campus_unique_index": "0;0;0+0",
         "aff_campus_unique": "\u0130stanbul",
         "aff_country_unique_index": "0;0;0+0",
-        "aff_country_unique": "Turkey"
+        "aff_country_unique": "T\u00fcrkiye"
     },
     {
         "id": "544fcab023",
