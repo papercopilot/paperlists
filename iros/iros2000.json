@@ -262,7 +262,7 @@
         "aff_unique_index": "0;0",
         "aff_unique_norm": "Aristotle University of Thessaloniki",
         "aff_unique_dep": "Department of Electrical & Computer Engineering",
-        "aff_unique_url": "https://www.auth.gr",
+        "aff_unique_url": "http://www.auth.gr",
         "aff_unique_abbr": "AUTH",
         "aff_campus_unique_index": "0;0",
         "aff_campus_unique": "Thessaloniki",
@@ -357,7 +357,7 @@
         "aff_campus_unique_index": "0;1",
         "aff_campus_unique": "Istanbul;Bebek, Istanbul;",
         "aff_country_unique_index": "0;0",
-        "aff_country_unique": "Turkey;"
+        "aff_country_unique": "T\u00fcrkiye;"
     },
     {
         "id": "895299",
@@ -833,7 +833,7 @@
         "aff_unique_norm": "Osaka University;Hitachi Zosen Company Limited;Mechanical Engineering Laboratory",
         "aff_unique_dep": "Department of Systems and Human Science;;Mechanical Engineering",
         "aff_unique_url": "https://www.osaka-u.ac.jp;https://www.hitachi-zosen.com;",
-        "aff_unique_abbr": "Osaka U;;",
+        "aff_unique_abbr": "Osaka U;Hitachi Zosen;",
         "aff_campus_unique_index": "0;0;0;0",
         "aff_campus_unique": "Toyonaka;",
         "aff_country_unique_index": "0;0;0;0;0;0",
@@ -1043,9 +1043,9 @@
         "aff_unique_norm": "University of Tsukuba",
         "aff_unique_dep": "Institute of Engineering Mechanics and Systems",
         "aff_unique_url": "https://www.tsukuba.ac.jp",
-        "aff_unique_abbr": "UT",
-        "aff_campus_unique_index": "0;0;0;0",
-        "aff_campus_unique": "Tsukuba",
+        "aff_unique_abbr": "",
+        "aff_campus_unique_index": "",
+        "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0;0",
         "aff_country_unique": "Japan"
     },
@@ -1370,7 +1370,7 @@
         "project": "",
         "author_num": 6,
         "aff_unique_index": "0;0;0",
-        "aff_unique_norm": "Shanghai Jiaotong University",
+        "aff_unique_norm": "Shanghai Jiao Tong University",
         "aff_unique_dep": "Information storage research center",
         "aff_unique_url": "https://www.sjtu.edu.cn",
         "aff_unique_abbr": "SJTU",
@@ -1970,8 +1970,8 @@
         "aff_unique_index": "0;0",
         "aff_unique_norm": "K.N. Toosi University of Technology",
         "aff_unique_dep": "Department of Mechanical Engineer",
-        "aff_unique_url": "https://www.kntu.ac.ir",
-        "aff_unique_abbr": "KNTU",
+        "aff_unique_url": "",
+        "aff_unique_abbr": "",
         "aff_campus_unique_index": "0;0",
         "aff_campus_unique": "Tehran",
         "aff_country_unique_index": "0;0",
@@ -3205,7 +3205,7 @@
         "aff_campus_unique_index": "",
         "aff_campus_unique": "",
         "aff_country_unique_index": "0;0;0",
-        "aff_country_unique": "Turkey"
+        "aff_country_unique": "T\u00fcrkiye"
     },
     {
         "id": "895203",
@@ -3505,7 +3505,7 @@
         "aff_campus_unique_index": "0;0",
         "aff_campus_unique": "Ankara;",
         "aff_country_unique_index": "0;0",
-        "aff_country_unique": "Turkey;"
+        "aff_country_unique": "T\u00fcrkiye;"
     },
     {
         "id": "895275",
@@ -3531,7 +3531,7 @@
         "aff_unique_norm": "Nara Institute of Science and Technology;National Institute of Information",
         "aff_unique_dep": "Department of Information Systems;",
         "aff_unique_url": "https://www.nist.go.jp;https://www.nii.ac.jp",
-        "aff_unique_abbr": "NIST;NII",
+        "aff_unique_abbr": "NIST;",
         "aff_campus_unique_index": "0;0;1;0",
         "aff_campus_unique": "Ikoma;Tokyo",
         "aff_country_unique_index": "0;0;0;0",
@@ -3798,7 +3798,7 @@
         "project": "",
         "author_num": 8,
         "aff_unique_index": "0;0;0;1",
-        "aff_unique_norm": "Korea Advanced Institute of Science and Technology;Samsung Heavy Industries Company Limited",
+        "aff_unique_norm": "Korea Advanced Institute of Science and Technology;Samsung",
         "aff_unique_dep": "Department of Mechanical Engineering;Automation Research Department",
         "aff_unique_url": "https://www.kaist.ac.kr;https://www.samsunghi.com",
         "aff_unique_abbr": "KAIST;SHI",
