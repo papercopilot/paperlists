@@ -23075,7 +23075,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            10,
             0
         ],
         "authors#_avg": [
@@ -804515,7 +804515,7 @@
             0
         ],
         "replies_avg": [
-            13,
+            16,
             0
         ],
         "authors#_avg": [
@@ -1118090,7 +1118090,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1275044,7 +1275044,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1367507,7 +1367507,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1468184,7 +1468184,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            12,
             0
         ],
         "authors#_avg": [
@@ -2037614,7 +2037614,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            10,
             0
         ],
         "authors#_avg": [
@@ -2088119,7 +2088119,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            9,
             0
         ],
         "authors#_avg": [
@@ -2161286,7 +2161286,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "We introduce SealQA, a challenge benchmark for evaluating SEarch-Augmented Language models on fact-seeking questions where web search yields conflicting, noisy, or unhelpful results. SealQA comes in three flavors: (1) Seal-0 (main) and (2) Seal-Hard, which assess factual accuracy and reasoning capabilities, with Seal-0 targeting the most challenging questions where frontier non-reasoning models (e.g., GPT-4.1) achieve near-zero accuracy; and (3) LongSeal, which extends SealQA to test long-context, multi-document reasoning in \"needle-in-a-haystack\" settings. Our evaluation reveals critical limitations in current models. Even frontier reasoning models face significant challenges across SealQA flavors. On Seal-0, GPT-5 with tools achieves only 43.2% accuracy at its best reasoning effort. We also find that even advanced reasoning models (e.g., DeepSeek-R1) can be vulnerable to noisy search results. Notably, increasing test-time compute does not yield reliable gains across GPT-5 and the o-series of models, with performance often plateauing or even declining early. Finally, while current models are less affected by the \"lost-in-the-middle\" issue, they still fail to reliably identify relevant documents in LongSeal when faced with numerous distractors. To facilitate future work, we release SealQA at https://anonymous.4open.science/r/SealQA.",
+        "abstract": "We introduce SealQA, a challenge benchmark for evaluating SEarch-Augmented Language models on fact-seeking questions where web search yields conflicting, noisy, or unhelpful results. SealQA comes in three flavors: (1) SEAL-0 (main) and (2) SEAL-HARD, both of which assess factual accuracy and reasoning capabilities, where SEAL-0 targets the most challenging questions that frontier non-reasoning models (e.g., GPT-4.1) answer with near-zero accuracy; and (3) LongSeal, which extends SealQA to test long-context, multi-document reasoning in \"needle-in-a-haystack\" settings. Our evaluation reveals critical limitations in current models. Even frontier reasoning models face significant challenges across SealQA flavors. On SEAL-0, GPT-5 with tools achieves only 43.2% accuracy at its best reasoning effort. We also find that even advanced reasoning models (e.g., DeepSeek-R1) can be vulnerable to noisy search results. Notably, increasing test-time compute does not yield reliable gains across GPT-5 and the o-series of models, with performance often plateauing or even declining early. Finally, while current models are less affected by the \"lost-in-the-middle\" issue, they still fail to reliably identify relevant documents in LongSeal when faced with numerous distractors. To facilitate future work, we release SealQA at https://anonymous.4open.science/r/SealQA.",
         "keywords": "LLM evaluation;search-augmented LLMs;question answering;reasoning",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "",
