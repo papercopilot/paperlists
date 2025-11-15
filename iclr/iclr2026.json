@@ -21680,8 +21680,8 @@
         "wc_summary": "128;63;38;77",
         "wc_strengths": "58;49;21;73",
         "wc_weaknesses": "271;99;4;169",
-        "wc_questions": "2;64;129;106",
-        "wc_review": "459;275;192;425",
+        "wc_questions": "163;64;129;106",
+        "wc_review": "620;275;192;425",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
@@ -21719,12 +21719,12 @@
             97.6047514212295
         ],
         "wc_questions_avg": [
-            75.25,
-            48.28755015529365
+            115.5,
+            35.98958182585621
         ],
         "wc_review_avg": [
-            337.75,
-            108.96645125909167
+            378.0,
+            162.77131196866358
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -38078,7 +38078,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "Given the query, key and value matrices $Q, K, V\\in \\mathbb{R}^{n\\times d}$, the attention matrix is defined as $\\mathrm{Att}(Q, K, V)=D^{-1}AV$ where $A=\\exp(QK^\\top/\\sqrt{d})$ with $\\exp(\\cdot)$ applied entrywise, $D=\\mathrm{diag}(A{\\bf 1}_n)$. The attention matrix is the backbone of modern transformers and large language models, but explicitly forming the softmax matrix $D^{-1}A$ incurs $\\Omega(n^2)$, motivating numerous approximation schemes that reduce runtime to $\\widetilde O(nd)$ via sparsity or low-rank factorization.\n\nWe propose a quantum data structure that approximates any row of $\\mathrm{Att}(Q, K, V)$ using only row queries to $Q, K, V$. Our algorithm preprocesses these matrices in\n$\\widetilde{O}\\left( \\epsilon^{-1} n^{0.5} \\left( s_\\lambda^{2.5} + s_\\lambda^{1.5} d + \\alpha^{0.5} d \\right) \\right)$\ntime, where $\\epsilon$ is the target accuracy, $s_\\lambda$ is the $\\lambda$-statistical dimension of the exponential kernel defined by $Q$ and $K$, and $\\alpha$ measures the row distortion of $V$. Each row query can be answered in\n$\\widetilde{O}(s_\\lambda^2 + s_\\lambda d)$\ntime.\n\nTo our knowledge, this is the first quantum data structure that approximates rows of the attention matrix in sublinear time with respect to $n$. Our approach relies on a quantum Nystr{\\\"o}m approximation of the exponential kernel, quantum multivariate mean estimation for computing $D$, and quantum leverage score sampling for the multiplication with $V$.",
+        "abstract": "Given the query, key and value matrices $Q, K, V\\in \\mathbb{R}^{n\\times d}$, the attention matrix is defined as $\\mathrm{Att}(Q, K, V)=D^{-1}AV$ where $A=\\exp(QK^\\top/\\sqrt{d})$ with $\\exp(\\cdot)$ applied entrywise, $D=\\mathrm{diag}(A{\\bf 1}_n)$. The attention matrix is the backbone of modern transformers and large language models, but explicitly forming the softmax matrix $D^{-1}A$ incurs $\\Omega(n^2)$, motivating numerous approximation schemes that reduce runtime to $\\widetilde O(nd)$ via sparsity or low-rank factorization.\n\nWe propose a quantum data structure that approximates any row of $\\mathrm{Att}(Q, K, V)$ using only row queries to $Q, K, V$. Our algorithm preprocesses these matrices in\n$\\widetilde{O}\\left( \\epsilon^{-1} n^{0.5} \\left( s_\\lambda^{2.5} + s_\\lambda^{1.5} d + \\alpha^{0.5} d \\right) \\right)$\ntime, where $\\epsilon$ is the target accuracy, $s_\\lambda$ is the $\\lambda$-statistical dimension of the exponential kernel defined by $Q$ and $K$, and $\\alpha$ measures the row distortion of $V$ that is at most $d/{\\rm srank}(V)$, the stable rank of $V$. Each row query can be answered in\n$\\widetilde{O}(s_\\lambda^2 + s_\\lambda d)$\ntime.\n\nTo our knowledge, this is the first quantum data structure that approximates rows of the attention matrix in sublinear time with respect to $n$. Our approach relies on a quantum Nystr{\\\"o}m approximation of the exponential kernel, quantum multivariate mean estimation for computing $D$, and quantum leverage score sampling for the multiplication with $V$.",
         "keywords": "quantum computing;attention approximation;numerical linear algebra",
         "primary_area": "optimization",
         "supplementary_material": "",
@@ -38171,7 +38171,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -41612,7 +41612,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -63384,14 +63384,14 @@
         "id": "1kpkaJKDXW",
         "title": "Learnable Tokenization for DNA Foundational Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "DNA language models have emerged as powerful tools for decoding the complex language of DNA sequences. However, the performance of these models is heavily affected by their tokenization strategy, i.e., a method used to parse DNA sequences into a shorter sequence of chunks. In this work, we propose DNAChunker, that integrates a learnable, dynamic DNA tokenization mechanism and is trained as a masked language model. Adopting the dynamic chunking procedure proposed by Hwang et al. (2025), our model learns to segment sequences into variable-length chunks. This dynamic chunking offers two key advantages: it's resilient to shifts and mutations in the DNA, and it allocates more detail to important functional areas. We demonstrate the performance of DNAChunker by training it on the human reference genome (HG38) and testing it on the Nucleotide Transformer and Genomic benchmarks. Further ablative experiments reveal that DNAChunker learns tokenization that grasps biological grammar and uses smaller chunks to preserve detail in important functional elements such as promoters and exons, while using larger chunks for repetitive, redundant regions.",
         "keywords": "Machine Learning;Deep Learning;DNA Language Modeling",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Taewon Kim;Hyomin Kim;Jihwan Shin;Youngmok Jung;Jonghoon Lee;Won-Chul Lee;Insu Han;Sungsoo Ahn",
+        "authorids": "~Taewon_Kim1;~Hyomin_Kim4;~Jihwan_Shin2;~Youngmok_Jung1;~Jonghoon_Lee1;~Won-Chul_Lee1;~Insu_Han1;~Sungsoo_Ahn1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -63402,7 +63402,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025learnable,\ntitle={Learnable Tokenization for {DNA} Foundational Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=1kpkaJKDXW},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkim2025learnable,\ntitle={Learnable Tokenization for {DNA} Foundational Models},\nauthor={Taewon Kim and Hyomin Kim and Jihwan Shin and Youngmok Jung and Jonghoon Lee and Won-Chul Lee and Insu Han and Sungsoo Ahn},\nyear={2025},\nurl={https://openreview.net/forum?id=1kpkaJKDXW}\n}",
         "github": "",
         "project": "",
         "reviewers": "54yt;nFMS;ssKV;qiYg",
@@ -63479,11 +63479,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.8528028654224417,
@@ -66381,14 +66381,14 @@
         "id": "1owD7pBbOh",
         "title": "TRUST \u2013 Transformer-Driven U-Net for Sparse Target Recovery",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Many inverse problems---from coded aperture optics to undersampled MRI---operate with unknown or poorly characterized sensing operators $ \\mathbf{A} $. Yet most sparse recovery methods assume $ \\mathbf{A} $ is precisely known, forcing costly calibration or restrictive acquisition protocols. We address the more realistic setting in which only limited number of observation--target pairs $ (\\mathbf{y},\\mathbf{x}) $ are available, necessitating joint operator learning and signal reconstruction. The core challenge is cross-domain dispersion: local structures in the signal $ \\mathbf{x} $ are spread globally into measurements $ \\mathbf{y} = \\mathbf{A}\\mathbf{x} $, while CNN architectures rely on local receptive fields. We propose TRUST, a hybrid model that uses multi-resolution attention to recover sparse support directly from measurements. Theoretically, under the standard RIP conditions on $ \\mathbf{A} $, we show that attention maps computed on $ \\mathbf{y} $ approximate those computed on the true signal $ \\mathbf{x} $, with error bounded by the RIP constant. Architecturally, a Vision Transformer encoder estimates global sparse support from $ \\bf y $, and attention-guided skip connections steer a U-Net decoder to concentrate reconstruction capacity on support-consistent regions, coupling global contexts with local details. TRUST resolves the mismatch between measurement dispersion and the locality bias of CNN-only approaches. Across optical imaging, FastMRI, and ImageNet benchmarks, it consistently surpasses strong baselines -- both objectively and subjectively -- with marked reductions in hallucination artifacts. These results establish attention-guided support estimation as a principled and effective approach to high-quality reconstruction while jointly learning unknown sensing operators, enabling robust performance on inverse problems where conventional methods require the precise knowledge of forward models.",
         "keywords": "Inverse Problem;Sparse recovery;Compressed sensing;Cross-domain reconstruction",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "/attachment/22cf81bee62b3657f4bfaac8b4e9b769cc9bc377.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Di An;Juyang Bai;Dylan Poppert;Jiayue Li;Mark Foster;Trac Tran",
+        "authorids": "~Di_An1;~Juyang_Bai1;~Dylan_Poppert1;~Jiayue_Li2;~Mark_Foster1;~Trac_Tran1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -66399,7 +66399,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025trust,\ntitle={{TRUST} {\\textendash} Transformer-Driven U-Net for Sparse Target Recovery},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=1owD7pBbOh},\nnote={under review}\n}",
+        "bibtex": "@misc{\nan2025trust,\ntitle={{TRUST} {\\textendash} Transformer-Driven U-Net for Sparse Target Recovery},\nauthor={Di An and Juyang Bai and Dylan Poppert and Jiayue Li and Mark Foster and Trac Tran},\nyear={2025},\nurl={https://openreview.net/forum?id=1owD7pBbOh}\n}",
         "github": "",
         "project": "",
         "reviewers": "jJLw;EBKL;ejiZ;AAAK",
@@ -66476,11 +66476,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.3333333333333333,
@@ -76836,26 +76836,26 @@
         "bibtex": "@inproceedings{\nanonymous2025mrvf,\ntitle={{MRVF}: Multi-Round Value Factorization with Guaranteed Iterative Improvement for Multi-Agent Reinforcement Learning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=27AArQArBG},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "59Yi;iyyU;RKef;HHAe",
+        "reviewers": "iyyU;59Yi;RKef;HHAe",
         "site": "https://openreview.net/forum?id=27AArQArBG",
         "pdf_size": 0,
-        "rating": "4;4;6;8",
+        "rating": "4;6;6;8",
         "confidence": "4;4;3;4",
-        "soundness": "2;3;3;3",
-        "contribution": "3;2;3;3",
-        "presentation": "3;1;3;3",
-        "wc_summary": "30;95;84;144",
-        "wc_strengths": "65;30;50;102",
-        "wc_weaknesses": "98;108;4;95",
-        "wc_questions": "3;180;41;18",
-        "wc_review": "196;413;179;359",
+        "soundness": "3;2;3;3",
+        "contribution": "2;3;3;3",
+        "presentation": "1;3;3;3",
+        "wc_summary": "95;30;84;144",
+        "wc_strengths": "30;65;50;102",
+        "wc_weaknesses": "108;98;4;95",
+        "wc_questions": "180;3;41;18",
+        "wc_review": "413;196;179;359",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            5.5,
-            1.6583123951777
+            6.0,
+            1.4142135623730951
         ],
         "confidence_avg": [
             3.75,
@@ -76917,7 +76917,7 @@
             0,
             0
         ],
-        "corr_rating_confidence": -0.17407765595569782,
+        "corr_rating_confidence": 0.0,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -89897,7 +89897,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            12,
             0
         ],
         "authors#_avg": [
@@ -128636,7 +128636,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            7,
             0
         ],
         "authors#_avg": [
@@ -143399,7 +143399,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -162951,14 +162951,14 @@
         "id": "4hGG49XXmk",
         "title": "Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Multimodal learning typically utilizes multimodal joint loss to integrate different modalities and enhance model performance. However, this joint learning strategy can induce modality imbalance, where strong modalities overwhelm weaker ones and limit exploitation of individual information from each modality and the inter\u2011modality interaction information. Existing strategies such as dynamic loss weighting, auxiliary objectives and gradient modulation mitigate modality imbalance based on joint loss. These methods remain fundamentally reactive, detecting and correcting imbalance after it arises, while leaving the competitive nature of the joint loss untouched. This limitation drives us to explore an alternative approach that avoids reliance on the joint loss, aiming to foster more effective modality interactions and to better exploit both per-modality information and inter-modality complementarity. In this paper, we introduce Unidirectional Dynamic Interaction (UDI), a proactive sequential training strategy that replaces conventional joint optimization. UDI first trains the anchor modality to convergence, then uses its learned representations to guide the other modality via unsupervised loss. Furthermore, the dynamic adjustment of modality interactions allows the model to adapt to the task at hand, ensuring that each modality contributes optimally. \nBy decoupling modality optimization and enabling directed information flow, UDI prevents domination by any single modality and fosters effective cross\u2010modal feature learning. Our experimental results demonstrate that UDI outperforms existing methods in handling modality imbalance, leading to performance improvement in multimodal learning tasks. (The code will be published.)",
         "keywords": "Multimoadal learning",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Shijie Wang;Li Zhang;Xinyan Liang;Yuhua Qian;Shen Hu",
+        "authorids": "~Shijie_Wang11;~Li_Zhang61;~Xinyan_Liang1;~Yuhua_Qian1;~Shen_Hu2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -162969,7 +162969,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025balanced,\ntitle={Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=4hGG49XXmk},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025balanced,\ntitle={Balanced Multimodal Learning: An Unidirectional Dynamic Interaction Perspective},\nauthor={Shijie Wang and Li Zhang and Xinyan Liang and Yuhua Qian and Shen Hu},\nyear={2025},\nurl={https://openreview.net/forum?id=4hGG49XXmk}\n}",
         "github": "",
         "project": "",
         "reviewers": "Ui4c;jLNT;wLSm;rBG4",
@@ -163046,11 +163046,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": -0.4714045207910316,
@@ -167597,7 +167597,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -170856,11 +170856,11 @@
         "reviewers": "9NL9;SsYg;dy5L;18ns",
         "site": "https://openreview.net/forum?id=4tasfBIPxp",
         "pdf_size": 0,
-        "rating": "4;4;8;8",
+        "rating": "4;6;8;8",
         "confidence": "3;3;3;4",
         "soundness": "2;2;3;3",
         "contribution": "2;2;4;3",
-        "presentation": "2;2;3;3",
+        "presentation": "2;3;3;3",
         "wc_summary": "186;70;168;52",
         "wc_strengths": "124;52;333;44",
         "wc_weaknesses": "99;94;244;37",
@@ -170871,8 +170871,8 @@
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            6.0,
-            2.0
+            6.5,
+            1.6583123951777
         ],
         "confidence_avg": [
             3.25,
@@ -170887,8 +170887,8 @@
             0.82915619758885
         ],
         "presentation_avg": [
-            2.5,
-            0.5
+            2.75,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
             119.0,
@@ -170927,14 +170927,14 @@
             0
         ],
         "replies_avg": [
-            11,
+            14,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.5773502691896257,
+        "corr_rating_confidence": 0.5222329678670935,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -177941,7 +177941,7 @@
         "abstract": "Protein structure is central to biological function, and enabling multimodal protein models requires joint reasoning over sequence, structure, and function. A key barrier is the lack of principled protein structure tokenizers (PSTs): existing approaches fix token size or rely on continuous vector codebooks, limiting interpretability, multi-scale control, and transfer across architectures. We introduce GeoBPE, a geometry-grounded PST that transforms continuous, noisy, multi-scale backbone conformations into discrete ``sentences'' of geometry while enforcing global constraints. Analogous to byte-pair encoding, GeoBPE generates a hierarchical vocabulary of geometric primitives by iteratively (i) clustering Geo-Pair occurrences with k-medoids to yield a resolution-controllable vocabulary; (ii) quantizing each Geo-Pair to its closest medoid prototype; and (iii) reducing drift through differentiable inverse kinematics that optimizes boundary glue angles under an $\\mathrm{SE}(3)$ end-frame loss. GeoBPE offers compression ($>$10\u00d7 reduction in bits-per-residue at similar distortion rate), data efficiency ($>$10\u00d7 less training data), and generalization (maintains test/train distortion ratio of $1.0-1.1$). It is architecture-agnostic: (a) its hierarchical vocabulary provides a strong inductive bias for coarsening residue-level embeddings from large PLMs into motif- and protein-level representations, consistently outperforming leading PSTs across $12$ tasks and $24$ test splits; (b) paired with a transformer, GeoBPE supports unconditional backbone generation via language modeling; and (c) tokens align with CATH functional families and support expert-interpretable case studies, offering functional meaning absent in prior PSTs.",
         "keywords": "protein;geometry;structure;byte pair encoding;tokenizers;multi-scale protein structure;folds;backbones;motifs",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/53c8a011394508d032fa25e8e6c922fb68a85649.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -188909,7 +188909,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -201008,7 +201008,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -213107,7 +213107,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -220470,62 +220470,62 @@
         "bibtex": "@inproceedings{\nanonymous2025we,\ntitle={We Generate What You Need: Efficient Data Supplement via Model Prediction Discrepancy for Heterogeneous Federated Learning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=6DdkSELUh0},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "kKa6;Fv9H;croB",
+        "reviewers": "Fv9H;kKa6;croB;zK2q",
         "site": "https://openreview.net/forum?id=6DdkSELUh0",
         "pdf_size": 0,
-        "rating": "4;4;6",
-        "confidence": "3;3;3",
-        "soundness": "2;2;3",
-        "contribution": "3;2;2",
-        "presentation": "3;2;3",
-        "wc_summary": "127;90;75",
-        "wc_strengths": "337;57;14",
-        "wc_weaknesses": "618;143;35",
-        "wc_questions": "375;51;8",
-        "wc_review": "1457;341;132",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "4;4;6;6",
+        "confidence": "3;3;3;4",
+        "soundness": "2;2;3;3",
+        "contribution": "2;3;2;3",
+        "presentation": "2;3;3;3",
+        "wc_summary": "90;127;75;268",
+        "wc_strengths": "57;337;14;128",
+        "wc_weaknesses": "143;618;35;393",
+        "wc_questions": "51;375;8;90",
+        "wc_review": "341;1457;132;879",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            4.666666666666667,
-            0.9428090415820634
+            5.0,
+            1.0
         ],
         "confidence_avg": [
-            3.0,
-            0.0
+            3.25,
+            0.4330127018922193
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "contribution_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "presentation_avg": [
-            2.6666666666666665,
-            0.4714045207910317
+            2.75,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
-            97.33333333333333,
-            21.85304453744502
+            140.0,
+            76.2856474050001
         ],
         "wc_strengths_avg": [
-            136.0,
-            143.2084727474833
+            134.0,
+            124.07054444951872
         ],
         "wc_weaknesses_avg": [
-            265.3333333333333,
-            253.24077256415268
+            297.25,
+            226.17291504510436
         ],
         "wc_questions_avg": [
-            144.66666666666666,
-            163.81357968400815
+            131.0,
+            143.82802230441743
         ],
         "wc_review_avg": [
-            643.3333333333334,
-            581.6415467355207
+            702.25,
+            513.9491098348162
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -220544,14 +220544,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.0,
+        "corr_rating_confidence": 0.5773502691896257,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -237543,14 +237543,14 @@
         "id": "6i6cuKURtr",
         "title": "Self-Disguise Attack: Induce the LLM to disguise itself for AIGT detection evasion",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "AI-generated text (AIGT) detection evasion aims to reduce the detection probability of AIGT, helping to identify weaknesses in detectors and enhance their effectiveness and reliability in practical applications.\nHowever, existing evasion methods still require high training costs due to fine-tuning and result in text quality reduction owing to the text modification.\nTo address these challenges, we propose Self-Disguise Attack (SDA), a novel approach that enables large language models (LLMs) to actively disguise their output, reducing the detection probability of AIGT.\nThe SDA comprises two main components: the adversarial feature extractor and the retrieval-based context examples optimizer.\nThe former generates disguise features that enable LLMs to understand how to produce more human-like text.\nThe latter retrieves the most relevant examples from an external knowledge base as in-context examples, further enhancing the self-disguise ability of LLMs and mitigating the impact of the disguise process on the diversity of the generated text.\nThe SDA directly employs prompts containing disguise features and optimized context examples to guide the LLM in generating detection-resistant text, thereby reducing resource consumption.\nExperimental results demonstrate that the SDA effectively reduces the average detection accuracy of various AIGT detectors across texts generated by three different LLMs, while maintaining the quality of AIGT.",
         "keywords": "AI generated text detection evasion;large language model",
         "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
         "supplementary_material": "/attachment/6323e2dd7724590366d384212afaec2ad0645f40.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Yinghan Zhou;Juan Wen;Wanli Peng;Wu Zhengxian;ZiWei Zhang;Xue yiming",
+        "authorids": "~Yinghan_Zhou1;~Juan_Wen1;~Wanli_Peng2;~Wu_Zhengxian1;~ZiWei_Zhang3;~Xue_yiming1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -237561,7 +237561,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025selfdisguise,\ntitle={Self-Disguise Attack: Induce the {LLM} to disguise itself for {AIGT} detection evasion},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=6i6cuKURtr},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhou2025selfdisguise,\ntitle={Self-Disguise Attack: Induce the {LLM} to disguise itself for {AIGT} detection evasion},\nauthor={Yinghan Zhou and Juan Wen and Wanli Peng and Wu Zhengxian and ZiWei Zhang and Xue yiming},\nyear={2025},\nurl={https://openreview.net/forum?id=6i6cuKURtr}\n}",
         "github": "",
         "project": "",
         "reviewers": "VmS7;yWpt;xQpQ;yTBL",
@@ -237638,11 +237638,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -258284,7 +258284,7 @@
             0
         ],
         "replies_avg": [
-            22,
+            21,
             0
         ],
         "authors#_avg": [
@@ -275646,10 +275646,10 @@
         "contribution": "1;1;1;1;2",
         "presentation": "2;3;4;3;3",
         "wc_summary": "74;145;79;120;128",
-        "wc_strengths": "11;74;46;66;189",
+        "wc_strengths": "11;74;49;66;189",
         "wc_weaknesses": "154;721;305;231;88",
         "wc_questions": "2;272;3;104;25",
-        "wc_review": "241;1212;433;521;430",
+        "wc_review": "241;1212;436;521;430",
         "wc_reply_reviewers": "0;0;0;0;0",
         "wc_reply_authors": "0;0;0;0;0",
         "reply_reviewers": "0;0;0;0;0",
@@ -275679,8 +275679,8 @@
             27.938503896951964
         ],
         "wc_strengths_avg": [
-            77.2,
-            59.98466470690656
+            77.8,
+            59.68383365702977
         ],
         "wc_weaknesses_avg": [
             299.8,
@@ -275691,8 +275691,8 @@
             102.44100741402342
         ],
         "wc_review_avg": [
-            567.4,
-            335.0048357859928
+            568.0,
+            334.76618706195524
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -303255,14 +303255,14 @@
         "id": "8fxgi5Vfpz",
         "title": "PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Existing reactive Graphical User Interface (GUI) agents often fail in long-horizon, dynamic scenarios where unexpected disturbances trigger attention hijacking and cascading failures. To address this, we propose \\textbf{Precog-UI}, an agent based on a pre-cognitive architecture that shifts the paradigm from reactive execution to proactive decision-making. Specifically, we first design a Proactive Experience Pool (PEP) which caches frequently occurring anomaly and success patterns as \"state-action-result\" tuples within a graph structure, forming a composable prior memory. Furthermore, we introduce a Proactive Modelling Executor (PME) that learns a predictive foresight model to forecast the next symbolic UI layout following a candidate action, enabling the avoidance of potential anomalies and the evaluation of policy success rates. Finally, a Pre-cognitive Execution Controller (PEC) fuses these priors and predictions, prioritises handling of foreseen anomalies, and ensures execution robustness through a closed-loop error correction mechanism. For robust evaluation, we developed an automatic engine, AutoTraj, to construct InterfereBench, a benchmark for long-horizon tasks with strong disturbances. Experiments demonstrate that PRECOG-UI surpasses existing state-of-the-art methods on InterfereBench while maintaining competitive performance on public benchmarks. The code and models will be publicly available.",
         "keywords": "Multi-modal Large Language Models; GUI Agents;",
         "primary_area": "applications to robotics, autonomy, planning",
         "supplementary_material": "/attachment/7c8cf92bc116e5782a50892abc322a1d2c6a4aef.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Bin Kang;Jiarui Ouyang;Junjie Wang;Yulin Li;Junzhi Zhao;Muhammad Rashid;yunxin li;Li Jiang;Baotian Hu;Zhuotao Tian",
+        "authorids": "~Bin_Kang4;~Jiarui_Ouyang1;~Junjie_Wang13;~Yulin_Li4;~Junzhi_Zhao1;~Muhammad_Rashid2;~yunxin_li1;~Li_Jiang3;~Baotian_Hu1;~Zhuotao_Tian1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -303273,7 +303273,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025precogui,\ntitle={Precog{UI}: Proactive {GUI} Agents via Pre-cognitive Simulation and Experience Retrieval},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=8fxgi5Vfpz},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkang2025precogui,\ntitle={Precog{UI}: Proactive {GUI} Agents via Pre-cognitive Simulation and Experience Retrieval},\nauthor={Bin Kang and Jiarui Ouyang and Junjie Wang and Yulin Li and Junzhi Zhao and Muhammad Rashid and yunxin li and Li Jiang and Baotian Hu and Zhuotao Tian},\nyear={2025},\nurl={https://openreview.net/forum?id=8fxgi5Vfpz}\n}",
         "github": "",
         "project": "",
         "reviewers": "7LgD;zbha;XcCT;osCS;caRX",
@@ -303350,11 +303350,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            10,
             0
         ],
         "corr_rating_confidence": -0.7905694150420948,
@@ -330323,7 +330323,7 @@
             0
         ],
         "replies_avg": [
-            13,
+            15,
             0
         ],
         "authors#_avg": [
@@ -366331,12 +366331,12 @@
         "confidence": "3;2;3;4",
         "soundness": "2;2;2;3",
         "contribution": "3;2;3;2",
-        "presentation": "2;1;2;3",
-        "wc_summary": "124;42;49;143",
-        "wc_strengths": "116;78;58;102",
-        "wc_weaknesses": "313;80;68;123",
-        "wc_questions": "127;13;88;79",
-        "wc_review": "680;213;263;447",
+        "presentation": "2;2;2;3",
+        "wc_summary": "124;67;49;143",
+        "wc_strengths": "116;74;58;102",
+        "wc_weaknesses": "313;35;68;123",
+        "wc_questions": "127;24;88;79",
+        "wc_review": "680;200;263;447",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
@@ -366358,28 +366358,28 @@
             0.5
         ],
         "presentation_avg": [
-            2.0,
-            0.7071067811865476
+            2.25,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
-            89.5,
-            44.57858230136979
+            95.75,
+            38.86756359742658
         ],
         "wc_strengths_avg": [
-            88.5,
-            22.242976419535225
+            87.5,
+            22.776083947860748
         ],
         "wc_weaknesses_avg": [
-            146.0,
-            98.56216312561327
+            134.75,
+            107.60663315985683
         ],
         "wc_questions_avg": [
-            76.75,
-            40.99009026581913
+            79.5,
+            36.77295201639379
         ],
         "wc_review_avg": [
-            400.75,
-            183.26534724273435
+            397.5,
+            186.65007366727718
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -366398,7 +366398,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -387488,7 +387488,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            9,
             0
         ],
         "authors#_avg": [
@@ -392282,7 +392282,7 @@
         "abstract": "We prove that a minimal Transformer with frozen weights emulates a broad class of algorithms by in-context prompting. We formalize two modes of in-context algorithm emulation. In the *task-specific mode*, for any continuous function $f: \\mathbb{R} \\to \\mathbb{R}$, we show the existence of a single-head softmax attention layer whose forward pass reproduces reproduces functions of the form $f(w^\\top x - y)$ to arbitrary precision. This general template subsumes many popular machine learning algorithms (e.g., gradient descent, linear regression, ridge regression). In the *prompt-programmable mode*, we prove universality:  a single fixed-weight two-layer softmax attention module emulates all algorithms from the task-specific class (i.e., each implementable by a single softmax attention) via only prompting. Our key idea is to construct prompts that encode an algorithm\u2019s parameters into token representations, creating sharp dot-product gaps that force the softmax attention to follow the intended computation. This construction requires no feed-forward layers and no parameter updates.  All adaptation happens through the prompt alone.  Numerical results corroborate our theory. These findings forge a direct link between in-context learning and algorithmic emulation, and offer a simple mechanism for large Transformers to serve as prompt-programmable libraries of algorithms.  They illuminate how GPT-style foundation models may swap algorithms via prompts alone, and establish a form of algorithmic universality in modern Transformer models.",
         "keywords": "In-Context Learning;Attention Mechanism;In-Context Gradient Descent;Transformer;Universal Approximation",
         "primary_area": "foundation or frontier models, including LLMs",
-        "supplementary_material": "/attachment/7b92b140c89acb014374da7cf5c9a31902d4080c.zip",
+        "supplementary_material": "/attachment/e4ece152e5cc00193793c23be8605a8e4d0e87e4.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -392372,7 +392372,7 @@
             0
         ],
         "replies_avg": [
-            16,
+            17,
             0
         ],
         "authors#_avg": [
@@ -399381,14 +399381,14 @@
         "id": "BQNxNpcUXD",
         "title": "Self-Attention-Guided Genetic Programming: Leveraging BERT for Enhanced Tree-Structured Data Operations",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "This study investigates the application of BERT to tree-structured data which presents a significant challenge due to its lack of explicit sequential order and complex topological dependencies. While BERT has demonstrated strong performance in learning rich representations from sequential and grid-based inputs like natural language and images, its extension to non-sequential topologies remains an open research question. In this paper, we integrate BERT with genetic programming whose classic data representation is tree data structure to solve the dynamic flexible job shop scheduling (DFJSS) problem. The DFJSS problem's inherent computational complexity and highly dynamic, uncertain nature provide a rigorous testbed for our methodology. Our experiments demonstrate that BERT can effectively capture and integrate the structural information embedded in these tree-based representations. This finding highlights the versatility and adaptability of the self-attention mechanism, extending its utility beyond conventional sequential or grid-based data structures to a broader class of complex, non-sequential topologies.",
         "keywords": "BERT;Tree Data Structure;Optimization",
         "primary_area": "optimization",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Shanshi Mao;Fangfang Zhang;Yi Mei;Mengjie Zhang",
+        "authorids": "~Shanshi_Mao1;~Fangfang_Zhang2;~Yi_Mei1;~Mengjie_Zhang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -399399,7 +399399,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025selfattentionguided,\ntitle={Self-Attention-Guided Genetic Programming: Leveraging {BERT} for Enhanced Tree-Structured Data Operations},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=BQNxNpcUXD},\nnote={under review}\n}",
+        "bibtex": "@misc{\nmao2025selfattentionguided,\ntitle={Self-Attention-Guided Genetic Programming: Leveraging {BERT} for Enhanced Tree-Structured Data Operations},\nauthor={Shanshi Mao and Fangfang Zhang and Yi Mei and Mengjie Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=BQNxNpcUXD}\n}",
         "github": "",
         "project": "",
         "reviewers": "AGgt;hXRT;szRp;7dyi",
@@ -399476,11 +399476,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": 0.5773502691896257,
@@ -401717,7 +401717,7 @@
         "abstract": "Featurizing odorants to enable robust prediction of their properties is difficult due to the complex activation patterns that odorants evoke in the olfactory system. Structurally similar odorants can elicit distinct activation patterns in both the sensory periphery (i.e., at the receptor level) and downstream brain circuits (i.e., at a perceptual level). Despite efforts to design or discover features for odorants to better predict how they activate the olfactory system, we lack a universally accepted way to featurize odorants. In this work, we demonstrate that feature-based approaches that rely on pre-trained foundation models $\\textit{do not}$ significantly outperform classical hand-designed features, but that targeted foundation model fine-turning can increase model performance beyond these limits. To show this, we introduce a new model that creates olfaction-specific representations: $\\textbf{L}$oRA-based $\\textbf{O}$dorant-$\\textbf{R}$eceptor $\\textbf{A}$ffinity prediction with $\\textbf{CROSS}$-attention ($\\textbf{LORAX}$). We compare existing chemical foundation model representations to hand-designed physicochemical descriptors using feature-based methods and identify large information overlap between these representations, highlighting the necessity of fine-tuning to generate novel and superior odorant representations. We show that LORAX produces a feature space more closely aligned with olfactory neural representation, enabling it to outperform existing models on predictive tasks.",
         "keywords": "chemical foundation models;protein foundation models;low rank adaptation;olfaction;multi-modal model;computational neuroscience",
         "primary_area": "foundation or frontier models, including LLMs",
-        "supplementary_material": "/attachment/c1cc7f6c8924b8a3883bec2ca7712397d197920c.pdf",
+        "supplementary_material": "/attachment/fb0f3170a7bf77c9881b44a85562f17c38377863.pdf",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -401807,7 +401807,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -406469,7 +406469,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -415238,7 +415238,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -416903,7 +416903,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -472292,7 +472292,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -479967,14 +479967,14 @@
         "id": "DnmSQE20EQ",
         "title": "SwiftHome: Fast Real-Time Multi-Floor 3D House Generation from Text",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "We introduce SwiftHome, the first system that transforms free-form natural-language descriptions into fully textured, navigable multi-floor 3-D houses in under ten seconds per floor. Starting from a large-language-model (LLM) parse of the input text, SwiftHome assembles a hierarchical scene graph, lays out rooms across multiple stories, retrieves or generates furniture meshes, and applies style-consistent materials\u2014all in a single forward pass. A lightweight multi-agent feedback loop couples an LLM \u201cplanner\u201d with a rule-based \u201cvalidator,\u201d eliminating object collisions and enforcing ergonomic spacing without resorting to time-consuming diffusion optimization. Key viewpoints are then textured via a depth-conditioned inpainting module, yielding coherent, high-fidelity appearances while preserving real-time performance. SwiftHome achieves near-zero out-of-bounds object placement (3 %), high text-scene alignment (30.5 CLIP-score), and state-consistent textures, outperforming previous pipelines by two orders of magnitude in speed. An interactive interface lets users iteratively refine layouts by mixing text edits with direct object manipulation, making SwiftHome a practical tool for game design, VR/AR prototyping, and rapid architectural visualization.",
         "keywords": "text-to-3D;LLM;scene understanding;3D vision",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/83124a14e323fa1cea4fe832bdba7f81ac73eb88.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Seemandhar Jain;Rahul Vasanth",
+        "authorids": "~Seemandhar_Jain1;~Rahul_Vasanth1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -479985,7 +479985,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025swifthome,\ntitle={SwiftHome: Fast Real-Time Multi-Floor 3D House Generation from Text},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=DnmSQE20EQ},\nnote={under review}\n}",
+        "bibtex": "@misc{\njain2025swifthome,\ntitle={SwiftHome: Fast Real-Time Multi-Floor 3D House Generation from Text},\nauthor={Seemandhar Jain and Rahul Vasanth},\nyear={2025},\nurl={https://openreview.net/forum?id=DnmSQE20EQ}\n}",
         "github": "",
         "project": "",
         "reviewers": "aZsM;HFH6;a2bW;gA2S",
@@ -480062,11 +480062,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -529362,14 +529362,14 @@
         "id": "FA2R2KwyTH",
         "title": "Speech Codecs Beyond Compression: Towards Autoregressive Generative Modeling",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Recent advances in speech language models have leveraged discrete speech representations from pretrained codecs to enable scalable training and generation. However, existing codecs are primarily designed for compression, without accounting for the autoregressive nature of language model training. This mismatch leads to suboptimal performance when using compressed speech tokens for sequence modeling. In this work, we revisit speech discretization from the perspective of generative modeling and propose a novel framework to align tokenization with the autoregressive training paradigm. Specifically, we introduce autoregressive-compatible constraints into the codec training process, encouraging token sequences that better reflect the temporal consistency and predictability expected by language models. In addition, we propose using heterogeneous sampling strategy for different layers of audio tokens (semantic versus acoustic) to enhance the alignment between semantic tokens and the speech's textual content. Experiments across multiple benchmarks demonstrate that our approach bridges the gap between audio compression and generative modeling, enabling more effective continued pretraining of existing large language models on audio data. Consistent performance gains across multiple codecs further validate the generalizability of our proposed method.",
         "keywords": "Speech Codec;Speech Tokenization;Speech Generation",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yazheng Yang;Yao Qiu;Hui Su;Qi Liu",
+        "authorids": "~Yazheng_Yang2;~Yao_Qiu1;~Hui_Su3;~Qi_Liu5",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -529380,7 +529380,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025speech,\ntitle={Speech Codecs Beyond Compression: Towards Autoregressive Generative Modeling},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=FA2R2KwyTH},\nnote={under review}\n}",
+        "bibtex": "@misc{\nyang2025speech,\ntitle={Speech Codecs Beyond Compression: Towards Autoregressive Generative Modeling},\nauthor={Yazheng Yang and Yao Qiu and Hui Su and Qi Liu},\nyear={2025},\nurl={https://openreview.net/forum?id=FA2R2KwyTH}\n}",
         "github": "",
         "project": "",
         "reviewers": "mWBg;8kZF;pofz;921X",
@@ -529457,11 +529457,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -539558,7 +539558,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -546773,7 +546773,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            18,
             0
         ],
         "authors#_avg": [
@@ -553544,7 +553544,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -570321,14 +570321,14 @@
         "id": "GJqZXRFdUg",
         "title": "SCOPE: Spatially-Constrained Parametric Editing for Text-Guided CAD Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Text-based CAD editing (e.g., CAD-Editor) has emerged as a promising approach for automating CAD modifications from natural language instructions. However, existing methods lack explicit spatial understanding, limiting their ability to accurately interpret instructions that involve relative positions or geometric constraints. To address this gap, we introduce $\\texttt{SCOPE}$, an extension of the locate-then-infill framework that integrates language-guided spatial reasoning into text-guided CAD editing. $\\texttt{SCOPE}$ enhances training by synthesizing spatially grounded editing samples and enables the model to learn spatial relations between CAD features (e.g., \u201cdrill a hole on the left panel above the rectangle\u201d). Furthermore, we integrate spatial context into both the locate and infill stages, improving target region identification and spatially consistent modifications. Experiments on a public CAD dataset demonstrate that incorporating spatial reasoning significantly improves the accuracy of text-based CAD editing with more precise region localization and control while retaining the efficiency of the original framework.",
         "keywords": "Text-based CAD editing;CAD feature;Spatial Reasoning",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Md Zahid Hasan;Soumalya Sarkar",
+        "authorids": "~Md_Zahid_Hasan1;~Soumalya_Sarkar1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -570339,7 +570339,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025scope,\ntitle={{SCOPE}: Spatially-Constrained Parametric Editing for Text-Guided {CAD} Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=GJqZXRFdUg},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhasan2025scope,\ntitle={{SCOPE}: Spatially-Constrained Parametric Editing for Text-Guided {CAD} Models},\nauthor={Md Zahid Hasan and Soumalya Sarkar},\nyear={2025},\nurl={https://openreview.net/forum?id=GJqZXRFdUg}\n}",
         "github": "",
         "project": "",
         "reviewers": "TFnr;pgxE;VkAU;xHVn",
@@ -570416,11 +570416,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -576188,7 +576188,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            13,
             0
         ],
         "authors#_avg": [
@@ -579740,7 +579740,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -595280,7 +595280,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            14,
             0
         ],
         "authors#_avg": [
@@ -627137,7 +627137,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -627692,7 +627692,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -629468,7 +629468,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -649115,7 +649115,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -653793,14 +653793,14 @@
         "id": "IdJakw2jta",
         "title": "Towards Long-Form Spatio-Temporal Video Grounding",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Videos can span several minutes or even hours in real scenarios, yet current research on spatio-temporal video grounding (STVG), given a textual query, mainly focuses on localizing target from a video of tens of seconds, typically less than one minute, limiting its applications. In this paper, we explore $\\textbf{L}$ong-$\\textbf{F}$orm $\\textbf{STVG}$ ($\\textbf{LF-STVG}$), that aims to locate the target in long-term videos. In LF-STVG, long-term videos encompass a much longer temporal span and more irrelevant information, making it challenging for current short-form STVG models that process all frames at once. Addressing these, we introduce a novel $\\textbf{A}$uto$\\textbf{R}$egressive $\\textbf{T}$ransformer framework for LF-$\\textbf{STVG}$ ($\\textbf{ART-STVG}$). Unlike current STVG methods requiring seeing the entire sequence to make a full prediction at once, our ART-STVG treats the video as a streaming input and processes its frames sequentially, making it capable of easily handling the long videos. To capture spatio-temporal context in ART-STVG, spatial and temporal memory banks are developed and applied to decoders of ART-STVG. Considering that memories at different moments are not always relevant for localizing the target in current frame, we propose simple yet effective memory selective strategies that enable more relevant information for the decoders, greatly improving performance. Moreover, rather than parallelizing spatial and temporal localization as done in existing approaches, we introduce a novel cascaded spatio-temporal design that connects spatial decoder to temporal decoder during grounding. This way, our ART-STVG leverages more fine-grained target information to assist with complicated temporal localization in complex long videos, further boosting the performance. On the newly extended datasets for LF-STVG, ART-STVG largely outperforms current state-of-the-art approaches, while showing competitive results on conventional Short-Form STVG. Our code and models will be released.",
         "keywords": "Spatio-Temporal Video Grounding",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Xin Gu;Bing Fan;Jiali Yao;Zhipeng Zhang;Yan Huang;Cheng Han;Heng Fan;Libo Zhang",
+        "authorids": "~Xin_Gu1;~Bing_Fan1;~Jiali_Yao2;~Zhipeng_Zhang2;~Yan_Huang5;~Cheng_Han1;~Heng_Fan3;~Libo_Zhang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -653811,7 +653811,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025towards,\ntitle={Towards Long-Form Spatio-Temporal Video Grounding},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=IdJakw2jta},\nnote={under review}\n}",
+        "bibtex": "@misc{\ngu2025towards,\ntitle={Towards Long-Form Spatio-Temporal Video Grounding},\nauthor={Xin Gu and Bing Fan and Jiali Yao and Zhipeng Zhang and Yan Huang and Cheng Han and Heng Fan and Libo Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=IdJakw2jta}\n}",
         "github": "",
         "project": "",
         "reviewers": "K7x2;He6Z;wm7F;c8Pk",
@@ -653888,11 +653888,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.5773502691896257,
@@ -686300,7 +686300,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -710276,7 +710276,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -726038,7 +726038,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -744369,14 +744369,14 @@
         "id": "LAejsDitr3",
         "title": "Generalizable Process Reward Models via Formally Verified Training Data",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Process Reward Models (PRMs), which provide step-level feedback on reasoning traces generated by Large Language Models (LLMs), are receiving increasing attention. However, two key research gaps remain: creating PRM training data requires costly human annotation to label accurate step-level errors, and existing PRMs are limited to math reasoning domains. In response to these gaps, this paper aims to enable automatic synthesis of accurate PRM training data and the generalization of PRMs to diverse reasoning tasks beyond math reasoning. We propose FoVer, an approach to synthesize PRM training data with accurate step-level error labels automatically annotated by formal verification tools, such as Z3 and Isabelle. To show the practical effectiveness of FoVer, we synthesize a training dataset by annotating step-level error labels on LLM responses to formal logic and theorem proving tasks, without relying on human annotation. While FoVer creates training data with symbolic tasks compatible with formal verification, our experiments show that PRMs trained on our dataset exhibit cross-task generalization, enabling a single PRM to effectively perform verification across diverse reasoning tasks. Specifically, LLM-based PRMs trained with FoVer significantly outperform PRMs based on the original LLMs and achieve competitive or superior results compared to state-of-the-art PRMs, as measured by step-level verification on ProcessBench and Best-of-K performance across 12 reasoning benchmarks, including MATH, AIME, ANLI, MMLU, and BBH. The dataset and code are in the supplementary material and will be made public.",
         "keywords": "large language model;process reward model;reasoning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/1f472653d4bf20659b3016d124f256f084393ad3.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Ryo Kamoi;Yusen Zhang;Nan Zhang;Sarkar Snigdha Sarathi Das;Rui Zhang",
+        "authorids": "~Ryo_Kamoi1;~Yusen_Zhang1;~Nan_Zhang9;~Sarkar_Snigdha_Sarathi_Das1;~Rui_Zhang7",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -744387,7 +744387,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025generalizable,\ntitle={Generalizable Process Reward Models via Formally Verified Training Data},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=LAejsDitr3},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkamoi2025generalizable,\ntitle={Generalizable Process Reward Models via Formally Verified Training Data},\nauthor={Ryo Kamoi and Yusen Zhang and Nan Zhang and Sarkar Snigdha Sarathi Das and Rui Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=LAejsDitr3}\n}",
         "github": "",
         "project": "",
         "reviewers": "DiVu;DQSh;uVpU",
@@ -744464,11 +744464,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -765570,14 +765570,14 @@
         "id": "LqpDVoYWtq",
         "title": "Scorpio: Serving the Right Requests at the Right Time for Heterogeneous SLOs in LLM Inference",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Existing Large Language Model (LLM) serving systems prioritize maximum throughput. They often neglect Service Level Objectives (SLOs) such as Time to First Token (TTFT) and Time Per Output Token (TPOT), which leads to suboptimal SLO attainment. This paper introduces SCORPIO, an SLO-oriented LLM serving system designed to maximize system goodput and SLO attainment for workloads with heterogeneous SLOs. Our core insight is to exploit SLO heterogeneity for adaptive scheduling across admission control, queue management, and batch selection. SCORPIO features a TTFT Guard, which employs least-deadline-first reordering and rejects unattainable requests, and a TPOT Guard, which utilizes a VBS-based admission control and a novel credit-based batching mechanism. Both guards are supported by a predictive module. Evaluations demonstrate that SCORPIO improves system goodput by up to 14.4X and SLO adherence by up to 46.5% compared to state-of-the-art baselines.",
         "keywords": "Machine Learning System; Large Language Model; Service Level Objectives",
         "primary_area": "infrastructure, software libraries, hardware, systems, etc.",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yinghao Tang;Tingfeng Lan;Bo Pan;Xiuqi Huang;Hui Lu;Wei Chen",
+        "authorids": "~Yinghao_Tang2;~Tingfeng_Lan1;~Bo_Pan3;~Xiuqi_Huang1;~Hui_Lu11;~Wei_Chen34",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -765588,7 +765588,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025scorpio,\ntitle={Scorpio: Serving the Right Requests at the Right Time for Heterogeneous {SLO}s in {LLM} Inference},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=LqpDVoYWtq},\nnote={under review}\n}",
+        "bibtex": "@misc{\ntang2025scorpio,\ntitle={Scorpio: Serving the Right Requests at the Right Time for Heterogeneous {SLO}s in {LLM} Inference},\nauthor={Yinghao Tang and Tingfeng Lan and Bo Pan and Xiuqi Huang and Hui Lu and Wei Chen},\nyear={2025},\nurl={https://openreview.net/forum?id=LqpDVoYWtq}\n}",
         "github": "",
         "project": "",
         "reviewers": "rwj6;JqYo;Kq9r;2u6u",
@@ -765665,11 +765665,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.4545454545454545,
@@ -768218,7 +768218,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -770232,14 +770232,14 @@
         "id": "Lxlz6v2frb",
         "title": "Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Vision-language models (VLMs) are widely assumed to exhibit in-context learning (ICL), a property similar to that of their language-only counterparts. While recent work suggests VLMs can perform multimodal ICL (MM-ICL), studies show they often rely on shallow heuristics such as copying or majority voting, rather than true task understanding. \nWe revisit this assumption by evaluating VLMs under distribution shifts, where support examples come from a dataset different from the query. Surprisingly, performance often degrades with more demonstrations, and models tend to copy answers rather than learn from them. \nTo investigate further, we propose a new MM-ICL with reasoning pipeline that augments each demonstration with a generated rationale alongside the answer. We conduct extensive and comprehensive experiments on both perception- and reasoning-required datasets with open-source VLMs ranging from $3\\mathrm{B}$ to $72\\mathrm{B}$ and proprietary models such as Gemini 2.0 and 2.5. We conduct controlled studies varying shot count, retrieval method, rationale quality, and distribution. Our results show limited performance sensitivity across these factors, indicating that current VLMs fail to effectively utilize demonstration-level information and thus do not inherit the strong few-shot abilities of large language models (LLMs).\nWe further conduct a mechanistic analysis showing that VLMs exhibit weak prefix matching and lack induction-head-like behavior, which potentially explains the failure of MM-ICL.",
         "keywords": "Vision-Language Models;In-Context Learning;Reasoning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Chengyue Huang;Yuchen Zhu;Sichen Zhu;Jingyun Xiao;Moises Andrade;Shivang Chopra;Molei Tao;Zsolt Kira",
+        "authorids": "~Chengyue_Huang2;~Yuchen_Zhu3;~Sichen_Zhu1;~Jingyun_Xiao1;~Moises_Andrade1;~Shivang_Chopra1;~Molei_Tao1;~Zsolt_Kira1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -770250,7 +770250,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025mimicking,\ntitle={Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Lxlz6v2frb},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhuang2025mimicking,\ntitle={Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models},\nauthor={Chengyue Huang and Yuchen Zhu and Sichen Zhu and Jingyun Xiao and Moises Andrade and Shivang Chopra and Molei Tao and Zsolt Kira},\nyear={2025},\nurl={https://openreview.net/forum?id=Lxlz6v2frb}\n}",
         "github": "",
         "project": "",
         "reviewers": "e1Df;xxAf;4EtJ;oFyH",
@@ -770327,11 +770327,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -770771,7 +770771,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -783536,7 +783536,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            12,
             0
         ],
         "authors#_avg": [
@@ -791084,7 +791084,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -841272,14 +841272,14 @@
         "id": "O2w7hjFz1p",
         "title": "ArgQA: Evaluation of Reasoning Over Elementary Logical Structures in Arguments",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "As large language models advance in their reasoning capabilities, their adequate evaluation is becoming increasingly important. Existing logical reasoning benchmarks are typically constructed by automatically converting symbolic logic into natural language or curating questions from standardized exams, such as LSAT. However, both synthetic and exam-style questions are composed of unnatural language, thereby limiting their applicability to real-world contexts. Also, the systematic assessment of reasoning over diverse logical structures remains underexplored. Thus, we present ArgQA, a novel dataset of 3,807 multiple-choice questions based on authentic arguments from four distinct domains\u2014product reviews, argumentative essays, e-rulemaking comments, and  medical research abstracts. Each question is designed to assess the ability to recognize and reconstruct one of three elementary logical structures\u2014linear, convergent, and divergent\u2014whose understanding is a prerequisite to both simple and complex reasoning. Experiments show that even the strongest LLMs still have considerable room for improvement with the overall 9-shot accuracy ranging from 29.2% (Qwen-2) to 61.8% (GPT-o3).",
         "keywords": "Logical Reasoning Benchmark;LLM evaluation",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "/attachment/f6a212df936cf0f530a8da628836d60962b26af3.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Tien Nguyen;Darshan Shah;Yixuan Zhai;Joonsuk Park",
+        "authorids": "~Tien_Nguyen4;~Darshan_Shah1;~Yixuan_Zhai1;~Joonsuk_Park1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -841290,7 +841290,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025argqa,\ntitle={Arg{QA}: Evaluation of Reasoning Over Elementary Logical Structures in Arguments},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=O2w7hjFz1p},\nnote={under review}\n}",
+        "bibtex": "@misc{\nnguyen2025argqa,\ntitle={Arg{QA}: Evaluation of Reasoning Over Elementary Logical Structures in Arguments},\nauthor={Tien Nguyen and Darshan Shah and Yixuan Zhai and Joonsuk Park},\nyear={2025},\nurl={https://openreview.net/forum?id=O2w7hjFz1p}\n}",
         "github": "",
         "project": "",
         "reviewers": "v3xo;MwTb;n2NV;XSW5",
@@ -841367,11 +841367,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -842810,7 +842810,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -886433,7 +886433,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -901862,7 +901862,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -903305,7 +903305,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -969572,7 +969572,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1009199,7 +1009199,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1009754,7 +1009754,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1024517,7 +1024517,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1046495,7 +1046495,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1050935,7 +1050935,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1077591,14 +1077591,14 @@
         "id": "UVgNkQTScp",
         "title": "Revisiting Conditional Whitney Forms: From Structure Preservation to Physics Recovery",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Conditional Whitney forms have recently emerged as a promising framework at the intersection of scientific machine learning and finite element analysis. They offer a solid theoretical foundation for enforcing conservation laws in complex machine learning settings. However, their use so far has been restricted to learning tasks where structural constraints can be satisfied with simple, yet inaccurate, physics representations. In this work, we analyze why existing formulations reduce to typical unconstrained reformulations, circumventing physics recovery, and highlight the necessity of incorporating additive structure pertaining to the governing physics of the system. Based on the theoretical insights we first attain, we proceed to the reformulation of the learning problem to enable data-driven physics recovery and employ conditional Whitney forms to turn a Transformer-based architecture into a structure-preserving reduced-order model. We demonstrate the validity of our theoretical insights and the effectiveness of the subsequent proposed reformulation in a range of advection-diffusion systems of increasing difficulty. Our contributions can be viewed as a step towards understanding the capacity of conditional Whitney forms to build reliable structure-preserving models by harnessing the modeling power of state-of-the-art machine learning architectures in physical sciences.",
         "keywords": "ai4science;physics-informed machine learning;finite elements;operator learning;interpretable scientific discovery",
         "primary_area": "neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)",
         "supplementary_material": "/attachment/f3a488b6854318552fb614324c5cfe32e93e6f30.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Pavlos Kallinikidis;Paris Perdikaris;George J. Pappas",
+        "authorids": "~Pavlos_Kallinikidis1;~Paris_Perdikaris1;~George_J._Pappas1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1077609,7 +1077609,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025revisiting,\ntitle={Revisiting Conditional Whitney Forms: From Structure Preservation to Physics Recovery},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=UVgNkQTScp},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkallinikidis2025revisiting,\ntitle={Revisiting Conditional Whitney Forms: From Structure Preservation to Physics Recovery},\nauthor={Pavlos Kallinikidis and Paris Perdikaris and George J. Pappas},\nyear={2025},\nurl={https://openreview.net/forum?id=UVgNkQTScp}\n}",
         "github": "",
         "project": "",
         "reviewers": "pg3J;bHgX;W241;ergg",
@@ -1077686,11 +1077686,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.7071067811865475,
@@ -1079018,7 +1079018,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1082903,7 +1082903,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1085694,14 +1085694,14 @@
         "id": "Uh8NGna3VE",
         "title": "Background Matters: Robust 3D Human Pose Estimation via Controllable Video Generation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
-        "abstract": "Deep learning models for 3D human pose estimation (HPE) often fail to generalize across domains with varying environments, camera setups, or data distributions. We address this challenge with a controllable video synthesis framework that systematically varies poses, scenes, and viewpoints to generate diverse human motion sequences. \nUnlike conventional methods that only augment skeletal data, our approach produces RGB video sequences, from which 2D poses can be extracted for both training and inference. This integration of video modality helps bridge the gap between idealized 2D pose inputs and real-world detection noise. We explore different combinations of ideal and real-world 2D inputs during training and evaluation, showing that while ideal conditions yield the best theoretical accuracy, using real-world detections leads to significantly stronger robustness and generalization.\nExperiments across multiple benchmarks, including corrupted 2D inputs, demonstrate that models trained with our synthetic videos consistently outperform baselines. These results highlight the importance of scene diversity in 3D HPE and establish controllable video generation as an effective strategy for domain-generalized pose estimation.",
+        "abstract": "n/a",
         "keywords": "3D Human Pose Estimation;Domain Generalization;Video Generation",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
-        "supplementary_material": "/attachment/3e41e10dacfbf724332ab10622c3270bf67e19ca.zip",
-        "author": "",
-        "authorids": "",
+        "supplementary_material": "",
+        "author": "Xinhao Hu;Yiyi Zhang;Liqing Zhang;Jianfu Zhang",
+        "authorids": "~Xinhao_Hu1;~Yiyi_Zhang1;~Liqing_Zhang2;~Jianfu_Zhang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1085712,7 +1085712,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025background,\ntitle={Background Matters: Robust 3D Human Pose Estimation via Controllable Video Generation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Uh8NGna3VE},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhu2025background,\ntitle={Background Matters: Robust 3D Human Pose Estimation via Controllable Video Generation},\nauthor={Xinhao Hu and Yiyi Zhang and Liqing Zhang and Jianfu Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=Uh8NGna3VE}\n}",
         "github": "",
         "project": "",
         "reviewers": "WKNr;Kei3;TW7p",
@@ -1085789,11 +1085789,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.5,
@@ -1119438,14 +1119438,14 @@
         "id": "VgNs9dzyp6",
         "title": "Feature-Level Adversarial Attack on Quantum Neural Networks",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Quantum Neural Networks (QNNs) have recently demonstrated promising performance in various tasks by leveraging the unique advantages of quantum computing. However, recent studies have also revealed the high sensitivity of QNNs to adversarial perturbations, posing a threat to their practical applications. Existing methods are developed under idealized assumptions, neglecting key practical constraints such as the inaccessibility of exact gradients and the stochasticity of quantum measurements in near-term noisy intermediate-scale quantum (NISQ) devices, thereby limiting their practical value. In this paper, we propose QMirage, a feature-level adversarial attack against QNNs that incorporates quantum-unique properties and resolves the gradient issue. Based on the definition of quantum latent features, we first introduce a new optimization objective to search for adversarial examples in feature space. We further employ natural evolution strategies (NES) with gradient priors for unbiased gradient estimation. Moreover, dynamic adjustment for the learning rate is combined to reduce failures caused by suboptimal fixed configurations. Experiments on benchmark datasets and QNNs demonstrate that QMirage achieves more effective and efficient attacks compared to baselines, while preserving comparable visual quality. It exhibits superior robustness under finite-shot and noisy settings with acceptable measurement costs. The results also reflect the influence of the model structure and encoding on adversarial robustness, providing insights for the future design of resilient QNNs.",
         "keywords": "quantum neural networks;adversarial attack;quantum computing",
         "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
         "supplementary_material": "/attachment/6bfbeb7ca1ef36b1691888cff864cfd8141e995f.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Minqi Shao;Xiaoyu Guo;Jianjun Zhao",
+        "authorids": "~Minqi_Shao2;~Xiaoyu_Guo9;~Jianjun_Zhao1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1119456,7 +1119456,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025featurelevel,\ntitle={Feature-Level Adversarial Attack on Quantum Neural Networks},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=VgNs9dzyp6},\nnote={under review}\n}",
+        "bibtex": "@misc{\nshao2025featurelevel,\ntitle={Feature-Level Adversarial Attack on Quantum Neural Networks},\nauthor={Minqi Shao and Xiaoyu Guo and Jianjun Zhao},\nyear={2025},\nurl={https://openreview.net/forum?id=VgNs9dzyp6}\n}",
         "github": "",
         "project": "",
         "reviewers": "B3hM;z8p1;xyT6",
@@ -1119533,11 +1119533,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.9999999999999998,
@@ -1130205,14 +1130205,14 @@
         "id": "W1whWBesWC",
         "title": "Mixture of Experts Characteristic Function Embeddings for Heterogeneous Fraud Graphs",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Fraud detection over heterogeneous graphs requires reasoning over multiplex relations, attribute polymorphism, and structural heterophily, yet prevailing detectors entangle these orthogonal biases into monolithic pipelines assumed to generalize across domains. We address this limitation by instantiating a decouple\u2013then\u2013fuse representation learning that isolates structural and attribute channels before reintroducing interaction through an adaptive fusion interface. On the structural side, we encode distributional neighborhood context via characteristic-function signatures compressed through randomized spectral factorization; on the attribute side, we deploy input-adaptive Mixture-of-Experts projections that specialize each instance to role-conditioned patterns. The two views are subsequently reconciled through a Bayesian mean\u2013difference fusion layer that models per-node consensus and discrepancy, enabling calibrated integration under heterophily and cross-modal conflict. Empirical evaluation across benchmark fraud graphs from telecom records, e-commerce reviews, and cryptocurrency transactions domains shows improved fraud node detection performance, attributable to the model\u2019s ability to disentangle structural and attribute features and reconcile their discrepancies.",
         "keywords": "Mixture-of-Experts;Characteristic Functions;Graph Representation Learning;Fraud Detection;Heterogeneous Graphs",
         "primary_area": "learning on graphs and other geometries & topologies",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Junliang Luo;Di Wu;Xue Liu",
+        "authorids": "~Junliang_Luo1;~Di_Wu11;~Xue_Liu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1130223,7 +1130223,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025mixture,\ntitle={Mixture of Experts Characteristic Function Embeddings for Heterogeneous Fraud Graphs},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=W1whWBesWC},\nnote={under review}\n}",
+        "bibtex": "@misc{\nluo2025mixture,\ntitle={Mixture of Experts Characteristic Function Embeddings for Heterogeneous Fraud Graphs},\nauthor={Junliang Luo and Di Wu and Xue Liu},\nyear={2025},\nurl={https://openreview.net/forum?id=W1whWBesWC}\n}",
         "github": "",
         "project": "",
         "reviewers": "iMsJ;L6Ks;J7gW;CKZw",
@@ -1130300,11 +1130300,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -1131299,7 +1131299,7 @@
             0
         ],
         "replies_avg": [
-            15,
+            16,
             0
         ],
         "authors#_avg": [
@@ -1140734,7 +1140734,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1202006,7 +1202006,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
@@ -1209924,62 +1209924,62 @@
         "bibtex": "@inproceedings{\nanonymous2025personaledger,\ntitle={PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned {LLM}s and Rule Grounded Feedback},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=YPfSfqVedI},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "NDhW;8asp;p5Pj",
+        "reviewers": "NDhW;8asp;p5Pj;pyCd",
         "site": "https://openreview.net/forum?id=YPfSfqVedI",
         "pdf_size": 0,
-        "rating": "4;4;4",
-        "confidence": "4;3;4",
-        "soundness": "3;2;2",
-        "contribution": "2;3;2",
-        "presentation": "2;2;3",
-        "wc_summary": "80;84;97",
-        "wc_strengths": "87;70;205",
-        "wc_weaknesses": "209;31;131",
-        "wc_questions": "41;87;142",
-        "wc_review": "417;272;575",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "4;4;4;6",
+        "confidence": "4;3;4;2",
+        "soundness": "3;2;2;3",
+        "contribution": "2;3;2;3",
+        "presentation": "2;2;3;4",
+        "wc_summary": "80;84;97;42",
+        "wc_strengths": "87;70;205;99",
+        "wc_weaknesses": "209;31;131;110",
+        "wc_questions": "41;87;142;54",
+        "wc_review": "417;272;575;305",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            4.0,
-            0.0
+            4.5,
+            0.8660254037844386
         ],
         "confidence_avg": [
-            3.6666666666666665,
-            0.4714045207910317
+            3.25,
+            0.82915619758885
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "contribution_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "presentation_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.75,
+            0.82915619758885
         ],
         "wc_summary_avg": [
-            87.0,
-            7.2571803523590805
+            75.75,
+            20.474068965401088
         ],
         "wc_strengths_avg": [
-            120.66666666666667,
-            60.035174874586836
+            115.25,
+            52.8316903004248
         ],
         "wc_weaknesses_avg": [
-            123.66666666666667,
-            72.85297218065682
+            120.25,
+            63.369452419916016
         ],
         "wc_questions_avg": [
-            90.0,
-            41.28760911782937
+            81.0,
+            39.00640972968417
         ],
         "wc_review_avg": [
-            421.3333333333333,
-            123.7371766644483
+            392.25,
+            118.40898403415173
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1209998,14 +1209998,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.0,
+        "corr_rating_confidence": -0.8703882797784891,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1225760,7 +1225760,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1242010,12 +1242010,12 @@
         "confidence": "4;4;3;3;3",
         "soundness": "2;2;3;4;2",
         "contribution": "2;3;3;3;3",
-        "presentation": "3;3;3;3;2",
-        "wc_summary": "65;43;128;65;45",
-        "wc_strengths": "46;68;28;37;47",
-        "wc_weaknesses": "92;77;149;191;43",
+        "presentation": "3;3;3;3;3",
+        "wc_summary": "65;43;128;65;54",
+        "wc_strengths": "46;68;28;37;16",
+        "wc_weaknesses": "92;77;149;191;35",
         "wc_questions": "94;34;4;28;11",
-        "wc_review": "297;222;309;321;146",
+        "wc_review": "297;222;309;321;116",
         "wc_reply_reviewers": "0;0;0;0;0",
         "wc_reply_authors": "0;0;0;0;0",
         "reply_reviewers": "0;0;0;0;0",
@@ -1242037,28 +1242037,28 @@
             0.39999999999999997
         ],
         "presentation_avg": [
-            2.8,
-            0.39999999999999997
+            3.0,
+            0.0
         ],
         "wc_summary_avg": [
-            69.2,
-            30.87005021051958
+            71.0,
+            29.644561052577586
         ],
         "wc_strengths_avg": [
-            45.2,
-            13.317657451669193
+            39.0,
+            17.57270610919104
         ],
         "wc_weaknesses_avg": [
-            110.4,
-            52.88326767513521
+            108.8,
+            54.97781370698547
         ],
         "wc_questions_avg": [
             34.2,
             31.827032535252165
         ],
         "wc_review_avg": [
-            259.0,
-            66.22084264036512
+            253.0,
+            76.7150571921836
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1242077,7 +1242077,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1259411,7 +1259411,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "Learning Hamiltonian neural networks (HNNs) that respect the intrinsic symplectic structure of physical systems has emerged as a foundational framework for robust long-term predictions in scientific machine learning. Nevertheless, existing HNN methods face critical limitations: (i) inherent sequential integration prevents parallel computation, causing significant computational bottlenecks, and (ii) unconstrained neural architectures lead to instability when extrapolating dynamics beyond training regimes. To address these fundamental challenges, we introduce \\emph{Poisson-Algebraic Parallel Scan (PAPS)}, a novel framework that leverages a carefully constructed Poisson algebraic decomposition of the learned Hamiltonian. By embedding polynomial generators explicitly closed under Poisson brackets, PAPS induces an associative Lie-group structure that naturally facilitates parallel-scan (prefix-sum) computation. Our method achieves exact symplectic integration with up to three orders-of-magnitude ($1000\\times$) speedup at $10^3$ integration steps, significantly outperforming existing HNN approaches. Moreover, the structured algebraic representation inherent in PAPS ensures intrinsic physical consistency, delivering stable and reliable extrapolation far beyond the training distribution. Extensive theoretical analyses and rigorous numerical experiments validate the superior computational scalability of our approach, highlighting PAPS as a powerful new direction for scalable and physically consistent neural Hamiltonian modeling.",
+        "abstract": "Learning Hamiltonian neural networks (HNNs) that respect the intrinsic symplectic structure of physical systems has emerged as a foundational framework for robust long-term predictions in scientific machine learning. Nevertheless, existing HNN methods face critical limitations: (i) inherent sequential integration prevents parallel computation, causing significant computational bottlenecks, and (ii) unconstrained neural architectures lead to instability when extrapolating dynamics beyond training regimes. To address these fundamental challenges, we introduce $\\textit{Poisson-Algebraic Parallel Scan (PAPS)}$, a novel framework that leverages a carefully constructed Poisson algebraic decomposition of the learned Hamiltonian. By embedding polynomial generators explicitly closed under Poisson brackets, PAPS induces an associative Lie-group structure that naturally facilitates parallel-scan (prefix-sum) computation. Our method achieves exact symplectic integration with up to three orders-of-magnitude ($1000\\times$) speedup at $10^3$ integration steps, significantly outperforming existing HNN approaches. Moreover, the structured algebraic representation inherent in PAPS ensures intrinsic physical consistency, delivering stable and reliable extrapolation far beyond the training distribution. Extensive theoretical analyses and rigorous numerical experiments validate the superior computational scalability of our approach, highlighting PAPS as a powerful new direction for scalable and physically consistent neural Hamiltonian modeling.",
         "keywords": "Lie-Poisson algebra;Hamiltonian geometry;Lie group;AI4Science",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "",
@@ -1259504,7 +1259504,7 @@
             0
         ],
         "replies_avg": [
-            16,
+            23,
             0
         ],
         "authors#_avg": [
@@ -1261502,7 +1261502,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1303682,7 +1303682,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1306790,7 +1306790,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1317002,7 +1317002,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1328213,7 +1328213,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1341533,7 +1341533,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1342199,7 +1342199,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1396700,7 +1396700,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1404026,7 +1404026,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1441100,7 +1441100,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1448315,7 +1448315,7 @@
             0
         ],
         "replies_avg": [
-            15,
+            16,
             0
         ],
         "authors#_avg": [
@@ -1480965,14 +1480965,14 @@
         "id": "g2ZWWJkGWr",
         "title": "I-Diff: Isotropy-Based Regularization for Generation of Complex Data Distributions",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Denoising Diffusion Probabilistic Models (DDPMs) have significantly advanced generative AI, achieving impressive results in high-quality image and data generation. However, enhancing consistency and fidelity remains a key challenge in the field. The conventional DDPM framework solely depends on the $L^2$ norm between additive and predicted noise to generate new data distributions. However, it does not explicitly impose structural information in the data distributions, limiting its ability to capture complex geometries (e.g., multimodality, asymmetry, anisotropy), which are commonly found in generation tasks. To address this limitation, we introduce I-Diff, an improved version of DDPM incorporating a carefully designed regularizer that effectively enables the model to encode structural information and capture the anisotropic nature, preserving the inherent structure of the data distribution. Notably, our method is model-agnostic and can be easily integrated into any DDPM variant. The proposed approach is validated through extensive experiments on DDPM and Latent Diffusion Models across multiple datasets. Empirical results demonstrate a 47% reduction in FID on CIFAR-100 dataset compared to the default DDPM, as well as significant improvements in fidelity (Density and Precision increase 27% and 16% in CIFAR-100 dataset respectively) across other tested datasets. These results highlight the effectiveness of our method in enhancing generative quality by capturing complex geometries in data distributions.",
         "keywords": "Generative Models;Diffusion Models;Structure;Image Generation;Gaussian Noise",
         "primary_area": "generative models",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Shakthi Perera;Dilum Fernando;Herath Mudiyanselage Pathum Shehara Madushan;H.L.P. Malshan;Roshan Godaliyadda;Mervyn Parakrama Bandara Ekanayake;Dhananjaya Jayasundara;Vijitha R. Herath;Wele Gedara Chaminda Bandara",
+        "authorids": "~Shakthi_Perera1;~Dilum_Fernando1;~Herath_Mudiyanselage_Pathum_Shehara_Madushan1;~H.L.P._Malshan1;~Roshan_Godaliyadda1;~Mervyn_Parakrama_Bandara_Ekanayake1;~Dhananjaya_Jayasundara1;~Vijitha_R._Herath1;~Wele_Gedara_Chaminda_Bandara1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1480983,7 +1480983,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025idiff,\ntitle={I-Diff: Isotropy-Based Regularization for Generation of Complex Data Distributions},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=g2ZWWJkGWr},\nnote={under review}\n}",
+        "bibtex": "@misc{\nperera2025idiff,\ntitle={I-Diff: Isotropy-Based Regularization for Generation of Complex Data Distributions},\nauthor={Shakthi Perera and Dilum Fernando and Herath Mudiyanselage Pathum Shehara Madushan and H.L.P. Malshan and Roshan Godaliyadda and Mervyn Parakrama Bandara Ekanayake and Dhananjaya Jayasundara and Vijitha R. Herath and Wele Gedara Chaminda Bandara},\nyear={2025},\nurl={https://openreview.net/forum?id=g2ZWWJkGWr}\n}",
         "github": "",
         "project": "",
         "reviewers": "FuCW;zJr9;jTT1;d1au",
@@ -1481060,11 +1481060,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            9,
             0
         ],
         "corr_rating_confidence": -0.7071067811865475,
@@ -1496489,7 +1496489,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1501167,14 +1501167,14 @@
         "id": "ghHdNfHfev",
         "title": "ALE: Adaptive Length Embedding for Text Retrieval",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Dense retrieval has become the dominant paradigm in modern text retrieval. It involves encoding text passages into high-dimensional vectors using an embedding model, and computing similarity via the dot product between query and passage vectors. For semantically complex texts, higher-dimensional vectors are often required to adequately capture their meaning. However, increasing vector dimensionality leads to higher storage costs and greater computational burden during online retrieval, which impacts its applicability in resource-constrained environments. \nIn this paper, we analyze the embeddings generated by mainstream dense retrieval models and observe that they tend to exhibit significant redundancy, with high correlations among vector dimensions. To address this issue, we propose ALE, an Adaptive-Length Embedding method that produces variable-length vector representations tailored to the semantic complexity of each individual text. Specifically, ALE applies a linear transformation to convert the original embeddings into representations with linearly independent dimensions. It then selects the minimal number of dimensions necessary to preserve the semantic content of each text. To compute similarity between variable-length vectors, ALE adopts a hybrid approach by dividing each vector into a dense part and a sparse part. We conduct experiments on four datasets and demonstrate that ALE can reduce the average vector length by 75\\% and retrieval time by 84.8\\%, with minimal loss in retrieval performance. Furthermore, compared to the best dense baseline models with the same vector dimensionality ($d$=768), ALE achieves an improvement of 20.5\\% in nDCG@10.",
         "keywords": "Dense retrieval;Text embedding;Adaptive length embedding",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "/attachment/70f4744d6915b4b849ca543cfed35dbfd41fa896.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Zhangchi Han;Shiyou Qian;Hanwen Hu;Jian Cao;Guangtao Xue;Wei Li;Zelin Qian",
+        "authorids": "~Zhangchi_Han2;~Shiyou_Qian1;~Hanwen_Hu1;~Jian_Cao1;~Guangtao_Xue1;~Wei_Li136;~Zelin_Qian2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1501185,7 +1501185,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025ale,\ntitle={{ALE}: Adaptive Length Embedding for Text Retrieval},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ghHdNfHfev},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhan2025ale,\ntitle={{ALE}: Adaptive Length Embedding for Text Retrieval},\nauthor={Zhangchi Han and Shiyou Qian and Hanwen Hu and Jian Cao and Guangtao Xue and Wei Li and Zelin Qian},\nyear={2025},\nurl={https://openreview.net/forum?id=ghHdNfHfev}\n}",
         "github": "",
         "project": "",
         "reviewers": "wvUk;ygH6;GADZ;X1mT",
@@ -1501262,11 +1501262,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": 0.0909090909090909,
@@ -1521020,7 +1521020,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1532582,7 +1532582,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "Large Language Models (LLMs) have achieved remarkable progress through Reinforcement Learning with Verifiable Rewards (RLVR), yet still rely heavily on external supervision (e.g., curated labels). Adversarial learning, particularly through self-play, offers a promising alternative that enables models to iteratively learn from themselves\u2014thus reducing reliance on external supervision. Dual-play extends adversarial learning by assigning specialized roles to two models and training them against each other, fostering sustained competition and mutual evolution. Despite its promise, adapting dual-play training to LLMs remains limited, largely due to their susceptibility to reward hacking and training instability. In this paper, we introduce PasoDoble, a novel LLM dual-play framework. PasoDoble adversarially trains two models initialized from the same base model: a Proposer, which generates challenging questions with ground-truth answers, and a Solver, which attempts to solve them. We enrich the Proposer with knowledge from a pre-training dataset to ensure the questions' quality and diversity. To avoid reward hacking, the Proposer is rewarded for producing only valid questions that push the Solver's limit, while the Solver is rewarded for solving them correctly, and both are updated jointly. To further enhance training stability, we introduce an optional offline paradigm that decouples Proposer and Solver updates, alternately updating each for several steps while holding the other fixed. Notably, PasoDoble operates without supervision during training. Experimental results show that \\ourmethod~substantially improves the reasoning performance of LLMs.",
+        "abstract": "Large Language Models (LLMs) have achieved remarkable progress through Reinforcement Learning with Verifiable Rewards (RLVR), yet still rely heavily on external supervision (e.g., curated labels). Adversarial learning, particularly through self-play, offers a promising alternative that enables models to iteratively learn from themselves\u2014thus reducing reliance on external supervision. Dual-play extends adversarial learning by assigning specialized roles to two models and training them against each other, fostering sustained competition and mutual evolution. Despite its promise, adapting dual-play training to LLMs remains limited, largely due to their susceptibility to reward hacking and training instability. In this paper, we introduce PasoDoble, a novel LLM dual-play framework. PasoDoble adversarially trains two models initialized from the same base model: a Proposer, which generates challenging questions with ground-truth answers, and a Solver, which attempts to solve them. We enrich the Proposer with knowledge from a pre-training dataset to ensure the questions' quality and diversity. To avoid reward hacking, the Proposer is rewarded for producing only valid questions that push the Solver's limit, while the Solver is rewarded for solving them correctly, and both are updated jointly. To further enhance training stability, we introduce an optional offline paradigm that decouples Proposer and Solver updates, alternately updating each for several steps while holding the other fixed. Notably, PasoDoble operates without supervision during training. Experimental results show that PasoDoble substantially improves the reasoning performance of LLMs.",
         "keywords": "LLM Reasoning; Adversarial Learning; Reinforcement Learning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
@@ -1535450,7 +1535450,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1540778,7 +1540778,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1579850,7 +1579850,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1609836,14 +1609836,14 @@
         "id": "jfZF7nJnqx",
         "title": "MergeMoE: Efficient Compression of MoE Models via Expert Output Merging",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The Mixture-of-Experts (MoE) technique has proven to be a promising solution to efficiently scale the model size, which has been widely applied in recent LLM advancements. However, the substantial memory overhead of MoE models has made their compression an important research direction. In this work, we provide a theoretical analysis of expert merging, a recently proposed technique for compressing MoE models. Rather than interpreting expert merging from the conventional perspective of parameter aggregation, we approach it from the perspective of merging experts' outputs. Our key insight is that the merging process can be interpreted as inserting additional matrices into the forward computation, which naturally leads to an optimization formulation. Building on this analysis, we introduce MergeMoE, a method that leverages mathematical optimization to construct the compression matrices. We evaluate MergeMoE on multiple MoE models and show that our algorithm consistently outperforms the baselines with the same compression ratios.",
         "keywords": "Mixture-of-Experts;Model Compression",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "/attachment/75daaddc5f9fee4b4e65cd41d3dd4ab2d8a26f5f.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Ruijie Miao;Yilun Yao;Zihan Wang;Zhiming Wang;Bairen Yi;LingJun Liu;Yikai Zhao;Tong Yang",
+        "authorids": "~Ruijie_Miao1;~Yilun_Yao1;~Zihan_Wang49;~Zhiming_Wang4;~Bairen_Yi1;~LingJun_Liu1;~Yikai_Zhao1;~Tong_Yang6",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1609854,7 +1609854,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025mergemoe,\ntitle={MergeMoE: Efficient Compression of MoE Models via Expert Output Merging},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=jfZF7nJnqx},\nnote={under review}\n}",
+        "bibtex": "@misc{\nmiao2025mergemoe,\ntitle={MergeMoE: Efficient Compression of MoE Models via Expert Output Merging},\nauthor={Ruijie Miao and Yilun Yao and Zihan Wang and Zhiming Wang and Bairen Yi and LingJun Liu and Yikai Zhao and Tong Yang},\nyear={2025},\nurl={https://openreview.net/forum?id=jfZF7nJnqx}\n}",
         "github": "",
         "project": "",
         "reviewers": "DVn9;Hg2e;BGKX;Dpo1",
@@ -1609931,11 +1609931,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.7071067811865475,
@@ -1614038,7 +1614038,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1614593,7 +1614593,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1617608,7 +1617608,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "The LLM unlearning aims to eliminate the influence of undesirable data without affecting causally unrelated information.\nThis process typically involves using a **forget set** to remove target information, alongside a **retain set** to maintain non-target capabilities. While recent localization-based methods demonstrate promise in identifying important neurons to be unlearned, they fail to disentangle neurons responsible for forgetting undesirable knowledge or retaining essential skills, often treating them as a single entangled group. As a result, these methods apply uniform interventions, risking catastrophic over-forgetting or incomplete erasure of the target knowledge. To address this, we turn to circuit discovery, a mechanistic interpretability technique, and propose the **C**onflict-guided **L**ocalization for LLM **U**nlearning fram**E**work (**CLUE**). This framework identifies the forget and retain circuit composed of important neurons, and then the circuits are transformed into conjunctive normal forms (CNF). The assignment of each neuron in the CNF satisfiability solution reveals whether it should be forgotten or retained. We then provide targeted fine-tuning strategies for different categories of neurons. Extensive experiments demonstrate that, compared to existing localization methods, CLUE achieves superior forget efficacy and retain utility through precise neural localization.",
+        "abstract": "The LLM unlearning aims to eliminate the influence of undesirable data without affecting causally unrelated information.\nThis process typically involves using a **forget set** to remove target information, alongside a **retain set** to maintain non-target capabilities. While recent localization-based methods demonstrate promise in identifying important nodes (neurons) to be unlearned, they fail to disentangle nodes responsible for forgetting undesirable knowledge or retaining essential skills, often treating them as a single entangled group. As a result, these methods apply uniform interventions, risking catastrophic over-forgetting or incomplete erasure of the target knowledge. To address this, we turn to circuit discovery, a mechanistic interpretability technique, and propose the **C**onflict-guided **L**ocalization for LLM **U**nlearning fram**E**work (**CLUE**). This framework identifies the forget and retain circuit composed of important nodes, and then the circuits are transformed into conjunctive normal forms (CNF). The assignment of each node in the CNF satisfiability solution reveals whether it should be forgotten or retained. We then provide targeted fine-tuning strategies for different categories of nodes. Extensive experiments demonstrate that, compared to existing localization methods, CLUE achieves superior forget efficacy and retain utility through precise neural localization.",
         "keywords": "LLM unlearning;circuit discovery;conjunctive normal form;interpretability",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
@@ -1617701,7 +1617701,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            14,
             0
         ],
         "authors#_avg": [
@@ -1668449,7 +1668449,7 @@
         "abstract": "Existing work in automatic music generation has mostly focused on end-to-end systems that generate either entire compositions or continuations of pieces, which are difficult for composers to iterate on. The area of computer-assisted composition, where generative models integrate into existing creative workflows, remains comparatively underexplored. In this study, we address the tasks of model style adaptation and multi-track, long-context, and controllable symbolic music infilling to enhance the process of computer-assisted composition. We present MIDI-RWKV, a small foundation model based on the RWKV-7 linear architecture, to enable efficient and coherent musical cocreation on edge devices. We also demonstrate that MIDI-RWKV admits an effective method of finetuning its initial state for style adaptation in the very-low-sample regime. We evaluate MIDI-RWKV and its state tuning on several quantitative and qualitative metrics with respect to existing models, and release model weights and code in the supplementary materials.",
         "keywords": "Generative Models;Music Modeling and Analysis;Symbolic Music;Musical Infilling;State Tuning",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
-        "supplementary_material": "/attachment/548f3bfdde36dd7c6c89901a19a49280dca3916e.zip",
+        "supplementary_material": "/attachment/7b50ce2128e0780c40c01787509061f3106c5286.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1668465,26 +1668465,26 @@
         "bibtex": "@inproceedings{\nanonymous2025adaptable,\ntitle={Adaptable Symbolic Music Infilling with {MIDI}-{RWKV}},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=lFn1Bb1ZMD},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "mHKN;1Rax;XRdF;4eqD",
+        "reviewers": "mHKN;XRdF;4eqD;1Rax",
         "site": "https://openreview.net/forum?id=lFn1Bb1ZMD",
         "pdf_size": 0,
-        "rating": "2;2;4;4",
-        "confidence": "4;4;3;3",
-        "soundness": "3;2;2;3",
+        "rating": "2;4;4;4",
+        "confidence": "4;3;3;4",
+        "soundness": "3;2;3;2",
         "contribution": "2;2;2;2",
         "presentation": "4;3;3;3",
-        "wc_summary": "16;78;68;190",
-        "wc_strengths": "33;125;68;176",
-        "wc_weaknesses": "163;227;197;253",
-        "wc_questions": "37;201;134;149",
-        "wc_review": "249;631;467;768",
+        "wc_summary": "16;68;190;78",
+        "wc_strengths": "33;68;176;125",
+        "wc_weaknesses": "163;197;253;227",
+        "wc_questions": "37;134;149;201",
+        "wc_review": "249;467;768;631",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            3.0,
-            1.0
+            3.5,
+            0.8660254037844386
         ],
         "confidence_avg": [
             3.5,
@@ -1668539,14 +1668539,14 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -1.0,
+        "corr_rating_confidence": -0.5773502691896257,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1758465,14 +1758465,14 @@
         "id": "nnRB90w2kv",
         "title": "Flow Marching for a Generative PDE Foundation Model",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Pretraining on large-scale collections of PDE-governed spatiotemporal trajectories has recently shown promise for building generalizable models of dynamical systems. Yet most existing PDE foundation models rely on deterministic Transformer architectures, which lack generative flexibility for many science and engineering applications. We propose Flow Marching, an algorithm that bridges neural operator learning with flow matching motivated by an analysis of error accumulation in physical dynamical systems, and we build a generative PDE foundation model on top of it. By jointly sampling the noise level and the physical time step between adjacent states, the model learns a unified velocity field that transports a noisy current state toward its clean successor, reducing long-term rollout drift while enabling\nuncertainty-aware ensemble generations . Alongside this core algorithm, we introduce a Physics-Pretrained Variational Autoencoder (P2VAE) to embed physical states into a compact latent space, and an efficient Flow Marching Transformer (FMT) that combines a diffusion-forcing scheme with latent temporal pyramids, achieving up to 15\u00d7 greater computational efficiency than full-length video diffusion models and thereby enabling large-scale pretraining at substantially reduced cost. We curate a corpus of\u223c2.5M trajectories across 12 distinct PDE families and train suites of P2VAEs and FMTs at multiple scales. On downstream evaluation, we benchmark on unseen Kolmogorov turbulence with few-shot adaptation, demonstrate long-term rollout stability over deterministic counterparts, and present uncertainty-stratified ensemble results, highlighting the importance of generative PDE foundation models for real-world applications.",
         "keywords": "PDE foundation models;Generative modeling;Neural operator learning",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Zituo Chen;Sili Deng",
+        "authorids": "~Zituo_Chen1;~Sili_Deng1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1758483,7 +1758483,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025flow,\ntitle={Flow Marching for a Generative {PDE} Foundation Model},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=nnRB90w2kv},\nnote={under review}\n}",
+        "bibtex": "@misc{\nchen2025flow,\ntitle={Flow Marching for a Generative {PDE} Foundation Model},\nauthor={Zituo Chen and Sili Deng},\nyear={2025},\nurl={https://openreview.net/forum?id=nnRB90w2kv}\n}",
         "github": "",
         "project": "",
         "reviewers": "RQeV;E8HE;9Hu6;AJHs",
@@ -1758560,11 +1758560,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -1795301,7 +1795301,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1820070,14 +1820070,14 @@
         "id": "pevl50z8qL",
         "title": "Symmetric Dual-Path Integration for Protein Inverse Folding",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Protein inverse folding aims to recover amino acid sequences for a given 3D protein structure, underpinning broad applications such as enzyme engineering and drug discovery.Current methods often follow a serial pipeline, in which a structure encoder predicts a coarse sequence, which is then refined by protein language models (PLMs). However, because PLMs only perform post-hoc sequence edits, the refinement is bounded by the quality of upstream predictions.Thanks to recent multimodal protein language models (MPLMs), we could directly encode structure to generate sequences with pretrained structural knowledge, but we observe that they are not effective for inverse folding. Therefore, we introduce a harmonic dual-path architecture that both leverages PLMs for pretrained sequence knowledge and MPLMs for pretrained structural knowledge to iteratively guide protein sequence generation.Through extensive experiments across standard protein inverse folding benchmarks, our method achieves state-of-the-art performance, surpassing prior approaches, and ablation studies validate the rationale of our symmetric design, revealing a promising direction for the community.",
         "keywords": "Protein Inverse Folding;Multimodal Protein Language Models;Protein Language Models",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Handong Wang;Jiaxin Qi;Baisheng Lai;Jianqiang Huang",
+        "authorids": "~Handong_Wang2;~Jiaxin_Qi1;~Baisheng_Lai1;~Jianqiang_Huang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1820088,7 +1820088,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025symmetric,\ntitle={Symmetric Dual-Path Integration for Protein Inverse Folding},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=pevl50z8qL},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025symmetric,\ntitle={Symmetric Dual-Path Integration for Protein Inverse Folding},\nauthor={Handong Wang and Jiaxin Qi and Baisheng Lai and Jianqiang Huang},\nyear={2025},\nurl={https://openreview.net/forum?id=pevl50z8qL}\n}",
         "github": "",
         "project": "",
         "reviewers": "gJGg;qS8d;igq6;xDMk",
@@ -1820165,11 +1820165,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.8703882797784891,
@@ -1824843,14 +1824843,14 @@
         "id": "pojbQAEvJQ",
         "title": "InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Text-to-image (T2I) diffusion models generate high-quality images but often fail to capture the spatial relations specified in text prompts. This limitation can be traced to two factors: lack of fine-grained spatial supervision in training data and inability of CLIP text embeddings to encode spatial semantics. We introduce InfSplign, a training-free inference-time method that improves spatial alignment by adjusting the noise through a compound loss in every denoising step. Our proposed loss leverages different levels of cross-attention maps extracted from the U-Net decoder to enforce accurate object placement and a balanced object presence during sampling. Our method is lightweight, plug-and-play, and compatible with any diffusion backbone. Our comprehensive quantitative and qualitative evaluations demonstrate that, on widely adopted spatial benchmarks (VISOR and T2I-CompBench), our approach establishes a new state-of-the-art (to the best of our knowledge), delivering substantial performance gains and even surpassing fine-tuning-based baselines.",
         "keywords": "Diffusion Models;Spatial Alignment;Inference-Time Guidance",
         "primary_area": "generative models",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Sarah Rastegar;Violeta Chatalbasheva;Sieger Falkena;Anuj Singh;Yanbo Wang;Tejas Gokhale;Hamid Palangi;Hadi J. Rad",
+        "authorids": "~Sarah_Rastegar1;~Violeta_Chatalbasheva1;~Sieger_Falkena1;~Anuj_Singh1;~Yanbo_Wang3;~Tejas_Gokhale1;~Hamid_Palangi1;~Hadi_J._Rad1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1824861,7 +1824861,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025infsplign,\ntitle={InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=pojbQAEvJQ},\nnote={under review}\n}",
+        "bibtex": "@misc{\nrastegar2025infsplign,\ntitle={InfSplign: Inference-Time Spatial Alignment of Text-to-Image Diffusion Models},\nauthor={Sarah Rastegar and Violeta Chatalbasheva and Sieger Falkena and Anuj Singh and Yanbo Wang and Tejas Gokhale and Hamid Palangi and Hadi J. Rad},\nyear={2025},\nurl={https://openreview.net/forum?id=pojbQAEvJQ}\n}",
         "github": "",
         "project": "",
         "reviewers": "RCVb;4aiC;8KSx;R376",
@@ -1824938,11 +1824938,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.9045340337332909,
@@ -1836971,11 +1836971,11 @@
         "soundness": "2;2;2;3",
         "contribution": "2;2;3;3",
         "presentation": "3;2;3;3",
-        "wc_summary": "71;121;78;37",
-        "wc_strengths": "49;38;83;65",
+        "wc_summary": "90;121;78;37",
+        "wc_strengths": "65;38;83;65",
         "wc_weaknesses": "213;120;362;353",
         "wc_questions": "53;54;17;2",
-        "wc_review": "386;333;540;457",
+        "wc_review": "421;333;540;457",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
@@ -1837001,12 +1837001,12 @@
             0.4330127018922193
         ],
         "wc_summary_avg": [
-            76.75,
-            29.88624265443885
+            81.5,
+            30.103986446980738
         ],
         "wc_strengths_avg": [
-            58.75,
-            16.97608612136496
+            62.75,
+            16.068213964221414
         ],
         "wc_weaknesses_avg": [
             262.0,
@@ -1837017,8 +1837017,8 @@
             22.63294059551255
         ],
         "wc_review_avg": [
-            429.0,
-            77.73351915358008
+            437.75,
+            74.29459939995638
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1849691,7 +1849691,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1862234,7 +1862234,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1876442,7 +1876442,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1895534,7 +1895534,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1903653,14 +1903653,14 @@
         "id": "s1H22o72kx",
         "title": "PED-X-Bench: A Benchmark of Adult-to-Pediatric Extrapolation Decisions in FDA Drug Labels",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Pediatric clinical trials are often ethically complex, expensive, and infeasible, leading the U.S. FDA to extrapolate adult efficacy and safety data when justified. However, no public resource systematically documents these regulatory decisions. We present PED-X-Bench, the first dataset and benchmark that encodes FDA pediatric extrapolation outcomes as a four-class classification task (Full, Partial, None, Unlabeled). PED-X-Bench comprises 737 drug-label sections (~1M words) from 2007\u20132024 across diverse therapeutic areas. A two-stage o3-mini prompting pipeline extracted evidence directly from FDA labels, and nine domain experts adjudicated a stratified sample of 135 records (\u03ba = 0.72, macro-F1 = 0.63). For each drug, we provide the gold-standard extrapolation label, concise efficacy and PK/safety summaries, and harmonized study metadata. We benchmark a range of models from metadata-only classifiers to domain-adapted transformers and show that significant headroom remains, underscoring the task\u2019s complexity. Beyond benchmarking, PED-X-Bench enables AI-assisted regulatory decision-support systems and safety-focused applications aimed at accelerating pediatric drug development and reducing off-label use. The dataset card, code, and annotations are attached in the supplementary material and will be released publicly upon acceptance.",
         "keywords": "Biomedical NLP;clinical pharmacology;pediatric drug development;healthcare AI;drug safety",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "/attachment/47d15a232e5236511de1d39e4c3bb52a2d9ea142.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Apoorva Srinivasan;Jacob S. Berkowitz;Nadine A. Friedrich;Kevin K Tsang;Aditi Kuchi;Jose Miguel Acitores Cortina;Michael Zietz;Ryan S Czarny;Hongyu Liu;Nicholas P Tatonetti",
+        "authorids": "~Apoorva_Srinivasan1;~Jacob_S._Berkowitz1;~Nadine_A._Friedrich1;~Kevin_K_Tsang1;~Aditi_Kuchi1;~Jose_Miguel_Acitores_Cortina1;~Michael_Zietz1;~Ryan_S_Czarny1;~Hongyu_Liu11;~Nicholas_P_Tatonetti1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1903671,7 +1903671,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025pedxbench,\ntitle={{PED}-X-Bench: A Benchmark of Adult-to-Pediatric Extrapolation Decisions in {FDA} Drug Labels},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=s1H22o72kx},\nnote={under review}\n}",
+        "bibtex": "@misc{\nsrinivasan2025pedxbench,\ntitle={{PED}-X-Bench: A Benchmark of Adult-to-Pediatric Extrapolation Decisions in {FDA} Drug Labels},\nauthor={Apoorva Srinivasan and Jacob S. Berkowitz and Nadine A. Friedrich and Kevin K Tsang and Aditi Kuchi and Jose Miguel Acitores Cortina and Michael Zietz and Ryan S Czarny and Hongyu Liu and Nicholas P Tatonetti},\nyear={2025},\nurl={https://openreview.net/forum?id=s1H22o72kx}\n}",
         "github": "",
         "project": "",
         "reviewers": "hZ4z;5sEZ;AU25",
@@ -1903748,11 +1903748,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            10,
             0
         ],
         "corr_rating_confidence": -0.9819805060619656,
@@ -1938951,14 +1938951,14 @@
         "id": "t4JdCfKraB",
         "title": "DiScan: a quad-directional SSM diffusion framework",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Text-to-image synthesis models often suffer from texture blurring, shape distortion, and poor alignment with textual prompts. These issues stem from limited spatial modeling, weak cross-modal interaction, and insufficient detail preservation. To address them, we propose DiScan, a framework combining directional state-space modeling with retrieval-based fusion for efficient, high-fidelity synthesis. First, we introduce a quad-directional SSM that jointly scans visual and textual features across directions. It shares dynamics for parameter efficiency and uses direction-specific projections to enhance spatial coherence and semantic consistency. Second, we design a dual-stage attention module using retrieved references. The first stage aligns prompt and image features via cross-attention. The second modulates features through direction-aware scanning, improving structure preservation. Third, we propose a spatial-frequency fusion block that combines wavelet decomposition with bidirectional scanning. It captures fine textures and enhances local details. Extensive experiments show DiScan outperforms Zigma and USM, achieving significant FID improvements (+6.3 on CelebA-HQ, +9.95 on COCO, +0.67 on CIFAR-10) while maintaining excellent visual quality. Our work establishes directional SSM diffusion as a scalable paradigm for efficient high-fidelity synthesis.",
         "keywords": "State Space Models;Text-to-Image Synthesis;Multi-directional Scanning;Retrieval-Augmented Generation;Spectral-Spatial Fusion;Wavelet Decomposition;Cross-Modal Alignment",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/31295814d3330330fd730ec8c0d9f3d71a3557e5.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Yaxiong Chen;Ruiming He;Yichen Zhao;Jirui Huang;Xiongbo Lu;Shengwu Xiong",
+        "authorids": "~Yaxiong_Chen2;~Ruiming_He1;~Yichen_Zhao1;~Jirui_Huang1;~Xiongbo_Lu1;~Shengwu_Xiong1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1938969,7 +1938969,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025discan,\ntitle={DiScan: a quad-directional {SSM} diffusion framework},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=t4JdCfKraB},\nnote={under review}\n}",
+        "bibtex": "@misc{\nchen2025discan,\ntitle={DiScan: a quad-directional {SSM} diffusion framework},\nauthor={Yaxiong Chen and Ruiming He and Yichen Zhao and Jirui Huang and Xiongbo Lu and Shengwu Xiong},\nyear={2025},\nurl={https://openreview.net/forum?id=t4JdCfKraB}\n}",
         "github": "",
         "project": "",
         "reviewers": "ZHq1;ty14;xdou;bhV9",
@@ -1939046,11 +1939046,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.3333333333333333,
@@ -1948592,7 +1948592,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1965369,14 +1965369,14 @@
         "id": "tpkBiKShwV",
         "title": "Semi-Supervised Diseased Detection from Speech Dialogues with Multi-Level Data Modeling",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Detecting medical conditions from speech acoustics is fundamentally a weakly-supervised learning problem: a single, often noisy, session-level label must be linked to nuanced patterns within a long, complex audio recording. This task is further hampered by severe data scarcity and the subjective nature of clinical annotations. While semi-supervised learning (SSL) offers a viable path to leverage unlabeled data, existing\naudio methods often fail to address the core challenge that pathological traits are not uniformly expressed in a patient's speech. We propose a novel, audio-only SSL framework that explicitly models this hierarchy by jointly learning from frame-level, segment-level, and session-level representations within unsegmented clinical dialogues. Our end-to-end approach dynamically aggregates these multi-granularity features and generates high-quality pseudo-labels to efficiently utilize unlabeled data. Extensive experiments show the framework is model-agnostic, robust across languages and conditions, and highly data-efficient\u2014achieving, for instance, 90\\% of fully-supervised performance using only 11 labeled samples. This work provides a principled approach to learning from weak, far-end supervision in medical speech analysis.\nThe code is available at \\url{https://anonymous.4open.science/r/semi_pathological-93F8}.",
         "keywords": "Pathological Speech Detection;Semi-Supervised Learning",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Xingyuan Li;Mengyue Wu",
+        "authorids": "~Xingyuan_Li3;~Mengyue_Wu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1965387,7 +1965387,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025semisupervised,\ntitle={Semi-Supervised Diseased Detection from Speech Dialogues with Multi-Level Data Modeling},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=tpkBiKShwV},\nnote={under review}\n}",
+        "bibtex": "@misc{\nli2025semisupervised,\ntitle={Semi-Supervised Diseased Detection from Speech Dialogues with Multi-Level Data Modeling},\nauthor={Xingyuan Li and Mengyue Wu},\nyear={2025},\nurl={https://openreview.net/forum?id=tpkBiKShwV}\n}",
         "github": "",
         "project": "",
         "reviewers": "PfDY;ZPiZ;CgfG",
@@ -1965464,11 +1965464,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -0.8660254037844387,
@@ -1966574,7 +1966574,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2031858,14 +2031858,14 @@
         "id": "vlpAgjkw39",
         "title": "DistPFN: Test-Time Posterior Adjustment for Tabular Foundation Models under Label Shift",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "TabPFN has recently gained attention as a foundation model for tabular datasets, achieving strong performance by leveraging in-context learning on synthetic data. However, we find that TabPFN is vulnerable to label shift, often overfitting to the majority class in the training distribution. To address this limitation, we propose DistPFN, the first test-time posterior adjustment method designed for in-context tabular foundation models. DistPFN rescales predicted class probabilities by downweighting the influence of the training prior (i.e., the class distribution of the context) and emphasizing the contribution of the model\u2019s predicted posterior, without modifying the architecture or requiring additional training. We further introduce DistPFN-T, which incorporates temperature scaling to adaptively control the adjustment strength based on the discrepancy between prior and posterior. We evaluate our methods on over 250 OpenML datasets, demonstrating substantial improvements for various TabPFN-based models in classification tasks under label shift, while maintaining strong performance in standard settings without label shift.",
         "keywords": "Tabular In-Context Learning;Tabular Foundation Model;Tabular Classification;Tabular Deep Learning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/5c84852eb6e76ce645d9db1b55fa644d6c682851.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Seunghan Lee",
+        "authorids": "~Seunghan_Lee1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2031876,7 +2031876,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025distpfn,\ntitle={Dist{PFN}: Test-Time Posterior Adjustment for Tabular Foundation Models under Label Shift},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=vlpAgjkw39},\nnote={under review}\n}",
+        "bibtex": "@misc{\nlee2025distpfn,\ntitle={Dist{PFN}: Test-Time Posterior Adjustment for Tabular Foundation Models under Label Shift},\nauthor={Seunghan Lee},\nyear={2025},\nurl={https://openreview.net/forum?id=vlpAgjkw39}\n}",
         "github": "",
         "project": "",
         "reviewers": "gH2E;Jtvb;cTey;DFHS",
@@ -2031953,11 +2031953,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            1,
             0
         ],
         "corr_rating_confidence": -0.6622661785325219,
@@ -2041055,7 +2041055,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -2077019,7 +2077019,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -2104991,7 +2104991,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -2118311,7 +2118311,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            12,
             0
         ],
         "authors#_avg": [
@@ -2122418,7 +2122418,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
