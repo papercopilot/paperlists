@@ -6203,7 +6203,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            9,
             0
         ],
         "authors#_avg": [
@@ -23075,7 +23075,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -28530,14 +28530,14 @@
         "id": "0kiFgLo5al",
         "title": "Generalizable LLM Learning of Graph Synthetic Data with Post-training Alignment",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Previous research has sought to enhance the graph reasoning capabilities of LLMs by supervised fine-tuning on synthetic graph data. While these led to specialized LLMs better at solving graph algorithm problems, we don't need LLMs for shortest path: we need generalization from synthetic graph data to real-world tasks with implicit graph structures. In this work, we propose to unlock generalizable learning of graph with post-training alignment with synthetic data. We first design solution-based and process-based rewards for synthetic graph problems: instead of rigid memorizing response patterns in direct fine-tuning, we posit that post-training alignment would help LLMs grasp the essentials underlying graph reasoning and alleviate overfitting on synthetic data. We employ post-training alignment algorithms such as GRPO and DPO, aligning both off-the-shelf LLMs and LLMs fine-tuned on synthetic graph data. We then compare them against existing settings on both in-domain synthetic tasks and out-of-domain real-world tasks with implicit graph structures such as multi-hop QA, structured planning, and more. Extensive experiments demonstrate that our post-training alignment recipe leads to statistically significant improvement on 5 datasets, with an average gain of 12.9% over baseline settings. Further analysis reveals that process-based rewards consistently outperform solution-based rewards on synthetic data but not on real-world tasks, and compositionality and explainable intermediate steps remains a critical challenge even after post-training alignment.",
         "keywords": "large language models;graph reasoning",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yizhuo Zhang;Heng Wang;Shangbin Feng;Zhaoxuan Tan;Xinyun Liu;Yulia Tsvetkov",
+        "authorids": "~Yizhuo_Zhang1;~Heng_Wang10;~Shangbin_Feng1;~Zhaoxuan_Tan1;~Xinyun_Liu1;~Yulia_Tsvetkov1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -28548,7 +28548,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025generalizable,\ntitle={Generalizable {LLM} Learning of Graph Synthetic Data with Post-training Alignment},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0kiFgLo5al},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhang2025generalizable,\ntitle={Generalizable {LLM} Learning of Graph Synthetic Data with Post-training Alignment},\nauthor={Yizhuo Zhang and Heng Wang and Shangbin Feng and Zhaoxuan Tan and Xinyun Liu and Yulia Tsvetkov},\nyear={2025},\nurl={https://openreview.net/forum?id=0kiFgLo5al}\n}",
         "github": "",
         "project": "",
         "reviewers": "NPgR;2sVL;bAPa;wCD2;qWNn",
@@ -28625,11 +28625,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.8017837257372732,
@@ -32637,14 +32637,14 @@
         "id": "0qrPON6rIN",
         "title": "Identity-Projection As A Way of Analyzing Attention Heads In Transformers",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Transformer-based large language models (LLMs) exhibit complex emergent be-\nhaviors, yet their internal mechanisms remain poorly understood. Existing inter-\npretability methods often rely on supervised probes or structural interventions such\nas pruning. We propose the notion of identity-projection, a property in tokens and\nprompts whereby the features they embed\u2014directly or indirectly\u2014reflect the same\nfeatures they carry independently, even in different contexts. Leveraging the local\nlinear separability of latent representations within LLM components, we introduce\na method to identify influential attention heads by measuring the alignment and\nclassification accuracy of hidden states relative to class prompts in each head\u2019s\nlatent space. We find that these alignments directly affect model outputs, steering\nthem towards distinct semantic directions based on the attention heads\u2019 activation\npatterns. In addition, we propose a novel unsupervised method, Head2Feat, which\nexploits this linear property to identify and align groups of datapoints with target\nclasses, without relying on labeled data. Head2Feat is, to our knowledge, the\nfirst unsupervised approach to extract high-level semantic structures directly from\nLLM latent spaces. Our approach enables the identification of global geometric\nstructures and emergent semantic directions, offering insights into the model\u2019s\nbehavior while maintaining flexibility in the absence of task-specific fine-tuning.",
         "keywords": "Interpretability;Attribution;Circuit Tracing;Attention Heads;Contrastive Learning;Representation Learning;Transformer;Large Language Models",
         "primary_area": "interpretability and explainable AI",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Andres Saurez;Neha Sengar;Dongsoo Har",
+        "authorids": "~Andres_Saurez1;~Neha_Sengar1;~Dongsoo_Har1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -32655,7 +32655,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025identityprojection,\ntitle={Identity-Projection As A Way of Analyzing Attention Heads In Transformers},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0qrPON6rIN},\nnote={under review}\n}",
+        "bibtex": "@misc{\nsaurez2025identityprojection,\ntitle={Identity-Projection As A Way of Analyzing Attention Heads In Transformers},\nauthor={Andres Saurez and Neha Sengar and Dongsoo Har},\nyear={2025},\nurl={https://openreview.net/forum?id=0qrPON6rIN}\n}",
         "github": "",
         "project": "",
         "reviewers": "vFJs;F3ZA;L6vA;vrB6",
@@ -32732,11 +32732,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.8528028654224418,
@@ -37410,14 +37410,14 @@
         "id": "0yjmQKUiUr",
         "title": "Topology aware optimization of soft prompts",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Soft prompt tuning achieves excellent performance in few-shot tasks. However, soft prompt tuning lacks interpretability, and traditional prompt tuning methods fail to analyze its internal structural features or optimize from this perspective. To address this limitation, this research proposes a topology-aware optimization method focused on the internal structure of soft prompts. By introducing persistent homology methods from topological data analysis (TDA), we characterize the structural evolution features of soft prompts during training, discovering that changes in connectivity persistence and redundancy affect soft prompt tuning performance. When both structural connectivity and persistent homology entropy simultaneously approach convergence, soft prompts can more easily guide models to output correct reasoning chains. Based on this phenomenon, we developed a new loss function with specific topological structure analysis, called TDA for Softprompt Loss Function (TSLoss), which introduces topological measurement tools through TDA to quantify connectivity and redundancy between semantic units, learning information related to topological structure transformations trending toward structural stability. Extensive experiments demonstrate that TSLoss can significantly accelerate the convergence speed of prompt tuning, outperforming traditional prompt tuning methods, and providing an interpretable research direction for soft prompt tuning from a new perspective.",
         "keywords": "soft prompts;parameter-efficient fine-tuning;large language models",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Zhenzhen Huang;Chaoning Zhang;Jiaquan Zhang;Songbo Zhang;Haoyu Bian;Yibei Liu;Guo Chen;Qigan Sun;Chenghao Li;Kuien Liu;Caiyan Qin;Yang Yang",
+        "authorids": "~Zhenzhen_Huang1;~Chaoning_Zhang1;~Jiaquan_Zhang2;~Songbo_Zhang2;~Haoyu_Bian4;~Yibei_Liu1;~Guo_Chen14;~Qigan_Sun1;~Chenghao_Li3;~Kuien_Liu2;~Caiyan_Qin1;~Yang_Yang37",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -37428,7 +37428,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025topology,\ntitle={Topology aware optimization of soft prompts},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0yjmQKUiUr},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhuang2025topology,\ntitle={Topology aware optimization of soft prompts},\nauthor={Zhenzhen Huang and Chaoning Zhang and Jiaquan Zhang and Songbo Zhang and Haoyu Bian and Yibei Liu and Guo Chen and Qigan Sun and Chenghao Li and Kuien Liu and Caiyan Qin and Yang Yang},\nyear={2025},\nurl={https://openreview.net/forum?id=0yjmQKUiUr}\n}",
         "github": "",
         "project": "",
         "reviewers": "6p7L;4vMW;JS2Q;X2pG;Qu19",
@@ -37505,11 +37505,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            12,
             0
         ],
         "corr_rating_confidence": -0.2886751345948129,
@@ -46829,7 +46829,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -49493,7 +49493,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            13,
             0
         ],
         "authors#_avg": [
@@ -51047,7 +51047,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -54488,7 +54488,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -76910,7 +76910,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -77021,7 +77021,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            5,
             0
         ],
         "authors#_avg": [
@@ -83015,7 +83015,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -89231,7 +89231,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -92117,7 +92117,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -99348,14 +99348,14 @@
         "id": "2nBjmUB5PM",
         "title": "Causally Steered Diffusion for Video Counterfactual Generation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Adapting text-to-image (T2I) latent diffusion models (LDMs) to video editing has shown strong visual fidelity and controllability, but challenges remain in maintaining causal relationships inherent to the video data generating process. In this work, we propose CSVC, a framework for counterfactual video generation grounded in structural causal models (SCMs) and formulated as an out-of-distribution (OOD) prediction task. CSVC builds on black-box counterfactual functions, which approximate SCM mechanisms without explicit structural equations. In our framework, large language models (LLMs) generate counterfactual prompts that are consistent with a predefined causal graph, while LDM-based video editors produce the corresponding video counterfactuals. To ensure faithful interventions, we introduce a vision\u2013language model (VLM)-based textual loss that refines prompts to enforce counterfactual conditioning, steering the LDM latent space toward causally meaningful OOD variations without internal model access or fine-tuning. Experiments on real-world facial videos show that CSVC achieves state-of-the-art causal effectiveness while preserving temporal consistency and visual quality. By combining SCM reasoning with black-box generative models, CSVC enables realistic \u201cwhat if\u201d hypothetical video scenarios with applications in digital media and healthcare.",
         "keywords": "counterfactual generation;causality;generative AI;diffusion models;VLMs",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/794ce3d2bc7ff1f831b2233210147c12c8f2d760.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Nikos Spyrou;Athanasios Vlontzos;Paraskevas Pegios;Thomas Melistas;Nefeli Gkouti;Yannis Panagakis;Giorgos Papanastasiou;Sotirios A. Tsaftaris",
+        "authorids": "~Nikos_Spyrou1;~Athanasios_Vlontzos1;~Paraskevas_Pegios1;~Thomas_Melistas1;~Nefeli_Gkouti1;~Yannis_Panagakis1;~Giorgos_Papanastasiou2;~Sotirios_A._Tsaftaris1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -99366,7 +99366,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025causally,\ntitle={Causally Steered Diffusion for Video Counterfactual Generation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=2nBjmUB5PM},\nnote={under review}\n}",
+        "bibtex": "@misc{\nspyrou2025causally,\ntitle={Causally Steered Diffusion for Video Counterfactual Generation},\nauthor={Nikos Spyrou and Athanasios Vlontzos and Paraskevas Pegios and Thomas Melistas and Nefeli Gkouti and Yannis Panagakis and Giorgos Papanastasiou and Sotirios A. Tsaftaris},\nyear={2025},\nurl={https://openreview.net/forum?id=2nBjmUB5PM}\n}",
         "github": "",
         "project": "",
         "reviewers": "vXJD;Tk7y;gSfz;mBFK",
@@ -99443,11 +99443,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.30151134457776363,
@@ -99903,14 +99903,14 @@
         "id": "2o6Eyf7Icr",
         "title": "UniForge: A Unified Multimodal Large Model for Detecting All-Domain Forged Image",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "With the rapid development and increasing diversification of image forged techniques, existing detection methods have exposed significant limitations in addressing emerging challenges. Current forged techniques encompass traditional methods like image manipulation, text manipulation, as well as emerging ones such as deepfake and artificial intelligence generated content. However, most existing detection models are designed to detect or localize only a single type of forgery, lacking a universal solution that can handle multiple forged methods. To address this challenge, this paper proposes a unified multimodal large model for detecting all-domain forged images named UniForge. This model aims to provide a general forged detection method to discriminate the authenticity of various types of images effectively. At its core is a novel Vision-Fusion Large Language Model, which skillfully combines the powerful feature extraction capabilities of pre-trained vision models with the outstanding semantic understanding and reasoning abilities of large language models. We have conducted extensive experimental evaluations on datasets covering various forged types, including image manipulation, text manipulation, artificial intelligence generated image, and deepfake. The results demonstrate that UniForge achieves state-of-the-art performance in the detection of all forged categories. Its comprehensive performance significantly surpasses existing methods, validating the advanced nature and excellent generalization capability of our framework.",
         "keywords": "Multimodal Large Model;Universal Forged Image Detection",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Wenbo Feng;Jiwei Zhang;Siwei Wang;Feifei Kou;Pengfei Zhang;ShaoZhang Niu",
+        "authorids": "~Wenbo_Feng1;~Jiwei_Zhang3;~Siwei_Wang4;~Feifei_Kou1;~Pengfei_Zhang5;~ShaoZhang_Niu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -99921,7 +99921,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025uniforge,\ntitle={UniForge: A Unified Multimodal Large Model for Detecting All-Domain Forged Image},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=2o6Eyf7Icr},\nnote={under review}\n}",
+        "bibtex": "@misc{\nfeng2025uniforge,\ntitle={UniForge: A Unified Multimodal Large Model for Detecting All-Domain Forged Image},\nauthor={Wenbo Feng and Jiwei Zhang and Siwei Wang and Feifei Kou and Pengfei Zhang and ShaoZhang Niu},\nyear={2025},\nurl={https://openreview.net/forum?id=2o6Eyf7Icr}\n}",
         "github": "",
         "project": "",
         "reviewers": "RW2E;ABah;poVK;BLRZ",
@@ -99998,11 +99998,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": 0.3333333333333333,
@@ -104216,7 +104216,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            9,
             0
         ],
         "authors#_avg": [
@@ -108767,7 +108767,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            8,
             0
         ],
         "authors#_avg": [
@@ -112467,34 +112467,34 @@
         "bibtex": "@inproceedings{\nanonymous2025the,\ntitle={The Markovian Thinker},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=3As6AQ9ELI},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "ntQj;iAzf;YiPw;pDsN",
+        "reviewers": "ntQj;YiPw;iAzf;pDsN",
         "site": "https://openreview.net/forum?id=3As6AQ9ELI",
         "pdf_size": 0,
-        "rating": "4;6;6;8",
+        "rating": "4;6;8;8",
         "confidence": "3;4;4;4",
-        "soundness": "2;3;3;3",
-        "contribution": "2;3;4;3",
-        "presentation": "3;3;4;3",
-        "wc_summary": "93;118;62;105",
-        "wc_strengths": "83;66;83;126",
-        "wc_weaknesses": "82;342;300;52",
-        "wc_questions": "2;4;11;48",
-        "wc_review": "260;530;456;331",
+        "soundness": "2;3;4;3",
+        "contribution": "2;4;3;3",
+        "presentation": "3;4;3;3",
+        "wc_summary": "93;62;118;105",
+        "wc_strengths": "83;83;66;126",
+        "wc_weaknesses": "82;300;342;52",
+        "wc_questions": "2;11;4;48",
+        "wc_review": "260;456;530;331",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            6.0,
-            1.4142135623730951
+            6.5,
+            1.6583123951777
         ],
         "confidence_avg": [
             3.75,
             0.4330127018922193
         ],
         "soundness_avg": [
-            2.75,
-            0.4330127018922193
+            3.0,
+            0.7071067811865476
         ],
         "contribution_avg": [
             3.0,
@@ -112541,14 +112541,14 @@
             0
         ],
         "replies_avg": [
-            9,
+            10,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.816496580927726,
+        "corr_rating_confidence": 0.8703882797784891,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -213107,7 +213107,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -216588,7 +216588,7 @@
         "reviewers": "KAnJ;85hy;4wwB;1GUs",
         "site": "https://openreview.net/forum?id=66Ad0i78lW",
         "pdf_size": 0,
-        "rating": "2;6;6;6",
+        "rating": "4;6;6;6",
         "confidence": "5;3;3;3",
         "soundness": "2;3;3;3",
         "contribution": "3;3;3;3",
@@ -216603,8 +216603,8 @@
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            5.0,
-            1.7320508075688772
+            5.5,
+            0.8660254037844386
         ],
         "confidence_avg": [
             3.5,
@@ -216659,7 +216659,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -221670,14 +221670,14 @@
         "id": "6GWYvfsfgg",
         "title": "LLaSO: A Reproducible Foundation for Large Speech-Language Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The development of Large Speech-Language Models (LSLMs) has been limited by fragmented architectures and poor transparency, making reproducibility and fair comparison difficult. In contrast to the vision\u2013language domain, where open resources have driven rapid progress, LSLMs are often released only as model weights without their training data or configurations, leaving the field without common baselines.\nWe present LLaSO, the first fully open, end-to-end framework for large-scale speech\u2013language modeling. LLaSO consists of three key components: (1) LLaSO-Align, a 12M-instance speech\u2013text alignment corpus; (2) LLaSO-Instruct, a 13.5M-instance multi-task instruction-tuning dataset for speech\u2013text understanding; and (3) LLaSO-Eval, a standardized, reproducible benchmark for cross-modal evaluation.\nTo demonstrate its utility, we train LLaSO-Base, a 3.8B-parameter reference model built entirely on public data. LLaSO-Base achieves a normalized score of 0.72, outperforming comparable models and providing a strong, reproducible baseline. Our analysis further shows that while broader training coverage improves performance, significant generalization gaps remain, especially in speech-only scenarios.\nBy releasing datasets, benchmarks, and models together, LLaSO establishes an open standard for LSLMs, enabling unified research and faster community progress.",
         "keywords": "Large Speech-Language Models;speech-text alignment;instruction tuning;multimodal evaluation;paralinguistics;modality robustness;open-source benchmark;reproducibility",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/4ab8e632afbde30c726ea167ca117182856ba4e7.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Yirong Sun;Yizhong Geng;Peidong Wei;Yanjun Chen;Jinghan Yang;Rongfei Chen;Wei Zhang;Xiaoyu Shen",
+        "authorids": "~Yirong_Sun1;~Yizhong_Geng1;~Peidong_Wei1;~Yanjun_Chen8;~Jinghan_Yang4;~Rongfei_Chen1;~Wei_Zhang43;~Xiaoyu_Shen1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -221688,7 +221688,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025llaso,\ntitle={{LL}a{SO}: A Reproducible Foundation for Large Speech-Language Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=6GWYvfsfgg},\nnote={under review}\n}",
+        "bibtex": "@misc{\nsun2025llaso,\ntitle={{LL}a{SO}: A Reproducible Foundation for Large Speech-Language Models},\nauthor={Yirong Sun and Yizhong Geng and Peidong Wei and Yanjun Chen and Jinghan Yang and Rongfei Chen and Wei Zhang and Xiaoyu Shen},\nyear={2025},\nurl={https://openreview.net/forum?id=6GWYvfsfgg}\n}",
         "github": "",
         "project": "",
         "reviewers": "UjN1;GTZ1;4yJd",
@@ -221765,11 +221765,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -261281,7 +261281,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -286034,7 +286034,7 @@
             0
         ],
         "replies_avg": [
-            14,
+            15,
             0
         ],
         "authors#_avg": [
@@ -292361,7 +292361,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
@@ -305792,7 +305792,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -318668,7 +318668,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -352872,14 +352872,14 @@
         "id": "A7PFsHsCHG",
         "title": "LangDriveEdit: Language-Driven Image Editing for Street Scenes",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Ensuring the safety of autonomous driving systems requires rigorous evaluation across diverse street scene conditions within the Operational Design Domain (ODD), such as lighting, weather, traffic, and road variations. Yet collecting real-world data to cover this spectrum is costly, time-consuming, and often impractical. Recent advances in language-driven image editing offer a promising alternative by simulating diverse scenarios through text-based modifications. However, progress has been limited by the absence of a dedicated dataset for driving-scene editing. To address this gap, we introduce, to the best of our knowledge, the first dataset specifically designed for language-driven editing of driving scenes. Our dataset combines real-world and synthetic street scene images and supports 12 distinct editing tasks, spanning global modifications (e.g., weather, season, time of day) and fine-grained local edits (e.g., altering vehicle or pedestrian attributes). Crucially, each edit is paired with \\textbf{detailed textual and visual instructions}, and, together with our proposed supervised and unsupervised fine-tuning objectives, enables state-of-the-art image editing models to follow instructions faithfully and preserve critical content. Experimental results demonstrate that training language-driven editing models with our dataset and objectives yields substantial gains in prompt alignment, visual fidelity, generation realism, and downstream driving-task performance on edited street scene images, across diverse driving domains.",
         "keywords": "Image editing;autonomous driving;driving scenes;computer vision",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Mauricio Soroco;Ziyu Jiang;Francesco Pittaluga;Zaid Tasneem;Abhishek Aich;Bingbing Zhuang;Wuyang Chen;Manmohan Chandraker",
+        "authorids": "~Mauricio_Soroco1;~Ziyu_Jiang1;~Francesco_Pittaluga2;~Zaid_Tasneem1;~Abhishek_Aich1;~Bingbing_Zhuang2;~Wuyang_Chen1;~Manmohan_Chandraker3",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -352890,7 +352890,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025langdriveedit,\ntitle={LangDriveEdit: Language-Driven Image Editing for Street Scenes},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=A7PFsHsCHG},\nnote={under review}\n}",
+        "bibtex": "@misc{\nsoroco2025langdriveedit,\ntitle={LangDriveEdit: Language-Driven Image Editing for Street Scenes},\nauthor={Mauricio Soroco and Ziyu Jiang and Francesco Pittaluga and Zaid Tasneem and Abhishek Aich and Bingbing Zhuang and Wuyang Chen and Manmohan Chandraker},\nyear={2025},\nurl={https://openreview.net/forum?id=A7PFsHsCHG}\n}",
         "github": "",
         "project": "",
         "reviewers": "khDT;mpx4;Ws7H;2tE2",
@@ -352967,11 +352967,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.3333333333333333,
@@ -358295,7 +358295,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -361181,7 +361181,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            11,
             0
         ],
         "authors#_avg": [
@@ -364511,7 +364511,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -384491,7 +384491,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -386061,14 +386061,14 @@
         "id": "B2Neq64sm6",
         "title": "Direct Advantage Estimation for Scalable and Sample-efficient Deep Reinforcement Learning",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Direct Advantage Estimation (DAE) has been shown to improve the sample efficiency of deep reinforcement learning.\nHowever, its reliance on full environment observability limits applicability in realistic settings.\nIn the present work, we (i) extend DAE to partially observable domains with minimal modifications, and (ii) reduce its computational overhead by introducing discrete latent dynamics models to approximate transition probabilities efficiently.\nWe evaluate our approach on the Arcade Learning Environment and find that DAE scales with function approximator capacity while maintaining high sample efficiency.",
         "keywords": "deep reinforcement learning;advantage estimation;arcade learning environment",
         "primary_area": "reinforcement learning",
         "supplementary_material": "/attachment/928848115ee172d80d03b2b51635a16413f948ea.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Hsiao-Ru Pan;Bernhard Sch\u00f6lkopf",
+        "authorids": "~Hsiao-Ru_Pan1;~Bernhard_Sch\u00f6lkopf1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -386079,7 +386079,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025direct,\ntitle={Direct Advantage Estimation for Scalable and Sample-efficient Deep Reinforcement Learning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=B2Neq64sm6},\nnote={under review}\n}",
+        "bibtex": "@misc{\npan2025direct,\ntitle={Direct Advantage Estimation for Scalable and Sample-efficient Deep Reinforcement Learning},\nauthor={Hsiao-Ru Pan and Bernhard Sch{\\\"o}lkopf},\nyear={2025},\nurl={https://openreview.net/forum?id=B2Neq64sm6}\n}",
         "github": "",
         "project": "",
         "reviewers": "H9x2;gx9f;2ngK;mRMv",
@@ -386156,11 +386156,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -398810,7 +398810,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            13,
             0
         ],
         "authors#_avg": [
@@ -405264,14 +405264,14 @@
         "id": "BaYELDYvC1",
         "title": "Reshaping Activation Functions: A Framework for Activation Function Optimization Based on Mollification Theory",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The deep learning paradigm is progressively shifting from non-smooth activation functions, exemplified by ReLU, to smoother alternatives such as GELU and SiLU. This transition is motivated by the fact that non-differentiability introduces challenges for gradient-based optimization, while an expanding body of research demonstrates that smooth activations yield superior convergence, improved generalization, and enhanced training stability. A central challenge, however, is how to systematically transform widely used non-smooth functions into smooth counterparts that preserve their proven representational strengths while improving differentiability and computational efficiency. To address this, we propose a general activation smoothing framework grounded in mollification theory. Leveraging the Epanechnikov kernel, the framework achieves statistical optimality and computational tractability, thereby combining theoretical rigor with practical utility. Within this framework, we introduce Smoothed ReLU (S-ReLU), a novel second-order continuously differentiable (C\u00b2) activation derived from ReLU that inherits its favorable properties while mitigating inherent drawbacks. Extensive experiments on CIFAR-10, CIFAR-100, and ImageNet-1K with Vision Transformers and ConvNeXt consistently demonstrate the superior performance of S-ReLU over existing ReLU variants. Beyond computer vision, large-scale fine-tuning experiments on language models further show that S-ReLU surpasses GELU, underscoring its broad applicability across both vision and language domains and its potential to enhance stability and scalability.",
         "keywords": "Deep Learning;Activation Functions;Mollification Theory",
         "primary_area": "optimization",
         "supplementary_material": "/attachment/36f14c0f6fba0339fb29d45342f86be60a7fc6b0.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Wentao Zhang;Yuxin Zheng;Wentao Mo;AOLAN SUN;Xiaoyang Qu;Haoyuan Sun;Xueqian Wang;Jianzong Wang",
+        "authorids": "~Wentao_Zhang20;~Yuxin_Zheng4;~Wentao_Mo2;~AOLAN_SUN1;~Xiaoyang_Qu1;~Haoyuan_Sun2;~Xueqian_Wang1;~Jianzong_Wang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -405282,7 +405282,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025reshaping,\ntitle={Reshaping Activation Functions: A Framework for Activation Function Optimization Based on Mollification Theory},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=BaYELDYvC1},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhang2025reshaping,\ntitle={Reshaping Activation Functions: A Framework for Activation Function Optimization Based on Mollification Theory},\nauthor={Wentao Zhang and Yuxin Zheng and Wentao Mo and AOLAN SUN and Xiaoyang Qu and Haoyuan Sun and Xueqian Wang and Jianzong Wang},\nyear={2025},\nurl={https://openreview.net/forum?id=BaYELDYvC1}\n}",
         "github": "",
         "project": "",
         "reviewers": "Fdjw;j9N1;eXbh;fiv1",
@@ -405359,11 +405359,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -417569,7 +417569,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -443448,14 +443448,14 @@
         "id": "Cey11tjiSv",
         "title": "Sparse Reasoning is Enough: Biological-Inspired Framework for Abnormal Event Detection with Large Pre-trained Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Abnormal Event Detection (AED) plays a crucial role in real-world applications, including security surveillance, autonomous driving, and industrial monitoring. Recent advances in large pre-trained models have opened new opportunities for training-free AED by leveraging rich prior knowledge and reasoning capabilities learned during pretraining. However, current studies typically rely on dense frame-level inference to ensure abnormal event coverage, incurring high computational costs and latency. This raises a fundamental question: Is this dense reasoning truly necessary when deploying large pre-trained models in AED? To answer this, we propose **ReCoAED**, a new framework inspired by the human nervous system's reflex arc-conscious reasoning stream, enabling adaptive frame processing to reduce redundant computation. It consists of two core streams: i) **Re**flex reacting stream: a lightweight CLIP compares frame features with prototype prompts to form decision vectors, which queries a dynamic memory of prior cases, enabling the system to rapidly determine whether to respond immediately with the memory or escalate the frame for deeper reasoning. ii) **Co**nscious reasoning stream: a medium-scale(7B) vision-language model analyzes novel frames, generating its event descriptions and anomalous scores to continuously update the dynamic memory. Periodically, an LLM reviews accumulated descriptions to identify new abnormal events, refine prototypes, and correct errors to realize self-evolution. Our extensive experiments show that ReCoAED reaches state-of-the-art training-free performance in UCF-Crime/XD-Violence datasets while reasoning on only **28.55%**/**16.04%** of frames used by the previous methods, showing that sparse reasoning is enough for effective large-model-based AED.",
         "keywords": "Abnormal Event Detection;anomaly detection",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "He Huang;Zixuan Hu;Dongxiao Li;Yao Xiao;LINGYU DUAN",
+        "authorids": "~He_Huang2;~Zixuan_Hu2;~Dongxiao_Li2;~Yao_Xiao14;~LINGYU_DUAN1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -443466,7 +443466,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025sparse,\ntitle={Sparse Reasoning is Enough: Biological-Inspired Framework for Abnormal Event Detection with Large Pre-trained Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Cey11tjiSv},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhuang2025sparse,\ntitle={Sparse Reasoning is Enough: Biological-Inspired Framework for Abnormal Event Detection with Large Pre-trained Models},\nauthor={He Huang and Zixuan Hu and Dongxiao Li and Yao Xiao and LINGYU DUAN},\nyear={2025},\nurl={https://openreview.net/forum?id=Cey11tjiSv}\n}",
         "github": "",
         "project": "",
         "reviewers": "G9HJ;eR3k;SYtd;7eKs",
@@ -443543,11 +443543,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -447539,7 +447539,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -464300,7 +464300,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            8,
             0
         ],
         "authors#_avg": [
@@ -495380,7 +495380,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -501411,30 +501411,30 @@
         "bibtex": "@inproceedings{\nanonymous2025velocitycentric,\ntitle={Velocity-Centric 4D Gaussian Splatting for Physical Realistic Dynamic Rendering},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=EOfaPSFMfo},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "XKdi;MZcT;zjWb;xC96",
+        "reviewers": "MZcT;XKdi;zjWb;xC96",
         "site": "https://openreview.net/forum?id=EOfaPSFMfo",
         "pdf_size": 0,
-        "rating": "4;4;6;6",
-        "confidence": "4;4;3;4",
-        "soundness": "2;3;3;3",
-        "contribution": "3;2;3;3",
-        "presentation": "2;1;3;3",
-        "wc_summary": "35;80;116;63",
-        "wc_strengths": "35;73;76;71",
-        "wc_weaknesses": "145;415;92;117",
-        "wc_questions": "89;2;6;77",
-        "wc_review": "304;570;290;328",
+        "rating": "2;4;6;6",
+        "confidence": "5;4;3;4",
+        "soundness": "3;2;3;3",
+        "contribution": "2;3;3;3",
+        "presentation": "1;2;3;3",
+        "wc_summary": "80;35;116;63",
+        "wc_strengths": "73;35;76;71",
+        "wc_weaknesses": "415;145;92;117",
+        "wc_questions": "2;89;6;77",
+        "wc_review": "570;304;290;328",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            5.0,
-            1.0
+            4.5,
+            1.6583123951777
         ],
         "confidence_avg": [
-            3.75,
-            0.4330127018922193
+            4.0,
+            0.7071067811865476
         ],
         "soundness_avg": [
             2.75,
@@ -501485,14 +501485,14 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -0.5773502691896257,
+        "corr_rating_confidence": -0.8528028654224417,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -508367,7 +508367,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -521021,7 +521021,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            9,
             0
         ],
         "authors#_avg": [
@@ -524684,7 +524684,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -554559,14 +554559,14 @@
         "id": "FrRL2jy5Ao",
         "title": "OptSHAP: Explaining Dimensionality Reduction-based Models for Tabular Data via Optimization",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Dimensionality Reduction-based Models (DRbMs), which couple a dimensionality reduction technique with a predictive model, are commonly used to mitigate overfitting and reduce computational complexity regarding high-dimensional tabular data. However, their two-stage architecture presents considerable challenges for explainability, as the projection obscures the original feature space, thus making the model output difficult to interpret in terms of the input features. Model-agnostic explanation methods are applicable to DRbMs but typically rely on sampling-based approximations, leading to instability and low-faithfulness explanations. To address these limitations, we introduce OptSHAP, the first optimization-based attribution specifically designed for DRbMs. Our method leverages reduced-space attributions and then redistributes them back to the original feature space through a transformation that satisfies the principle of efficiency. Additionally, we propose a novel evaluation metric, the $k$-Local Stability Score (LSS), which quantifies the stability of feature attribution methods by averaging their distances to local explanations. Extensive empirical evaluations across high-dimensional datasets, various dimensionality reduction techniques, and multiple machine learning models demonstrate that OptSHAP outperforms state-of-the-art attribution methods, achieving up to $24\\times$ stability and $2\\times$ fidelity on key benchmarks.",
         "keywords": "Explainable Artificial Intelligence;Dimensionality Reduction;Tabular Data;Optimization",
         "primary_area": "interpretability and explainable AI",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Tuan L. Vo;Xuan Hoang Nguyen;Mazouz Alaa Eddine;Binh T. Nguyen;Mehwish Alam;Pavlo Mozharovskyi;Van-Tam Nguyen",
+        "authorids": "~Tuan_L._Vo1;~Xuan_Hoang_Nguyen2;~Mazouz_Alaa_Eddine1;~Binh_T._Nguyen1;~Mehwish_Alam2;~Pavlo_Mozharovskyi1;~Van-Tam_Nguyen1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -554577,7 +554577,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025optshap,\ntitle={Opt{SHAP}: Explaining Dimensionality Reduction-based Models for Tabular Data via Optimization},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=FrRL2jy5Ao},\nnote={under review}\n}",
+        "bibtex": "@misc{\nvo2025optshap,\ntitle={Opt{SHAP}: Explaining Dimensionality Reduction-based Models for Tabular Data via Optimization},\nauthor={Tuan L. Vo and Xuan Hoang Nguyen and Mazouz Alaa Eddine and Binh T. Nguyen and Mehwish Alam and Pavlo Mozharovskyi and Van-Tam Nguyen},\nyear={2025},\nurl={https://openreview.net/forum?id=FrRL2jy5Ao}\n}",
         "github": "",
         "project": "",
         "reviewers": "Xksz;2hiz;excZ;YAFh",
@@ -554654,11 +554654,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -576743,7 +576743,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
@@ -577964,7 +577964,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -581960,7 +581960,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -627692,7 +627692,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -635906,7 +635906,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            16,
             0
         ],
         "authors#_avg": [
@@ -645248,7 +645248,7 @@
         "track": "main",
         "status": "Active",
         "tldr": "",
-        "abstract": "We propose Adaptive World Models for Data-Efficient Learning (AWML), a framework that combines structured latent world models, counterfactual augmentation, and calibrated uncertainty filtering to improve performance in low-data regimes.\n\nAWML learns modular latent dynamics guided by domain priors, generates counterfactuals through modular recombination, and accepts synthetic samples only when an uncertainty estimator passes a calibration check.\n\nOur analysis shows that this design controls estimation error, constrains distributional deviation after augmentation, and clarifies the bias\u2013variance trade-off in terms of estimation quality, acceptance thresholds, and data mass.\n\nInstantiated with neural-operator backbones and modular causal blocks plus safeguards such as ensemble calibration and audit flags, AWML achieves both theoretical guarantees and practical robustness.\n\nEmpirically, it reduces error in synthetic autoregressive tasks and delivers substantial gains on Uganda LSMS 2019 survey data, boosting AUC from 0.8797 to 0.9402 with only 25 labels.\n\nThese results demonstrate that AWML provides a principled and effective approach for safe, data-efficient learning.",
+        "abstract": "We propose Adaptive World Models for Data-Efficient Learning (AWML), a framework that combines structured latent world models, counterfactual augmentation, and calibrated uncertainty filtering to improve learning under scarce labels. AWML learns modular latent dynamics from domain priors, generates counterfactuals by recombining learned modules, and accepts synthetic samples only when a calibrated uncertainty score verifies their reliability.\n\nOur analysis shows that modular recombination improves estimation rates while limiting bias and that calibrated filtering controls the deviation between synthetic and factual distributions. Together, these results yield a clear excess-risk guarantee that captures the bias\u2013variance trade-off through the acceptance threshold and effective sample size.\n\nAWML is instantiated with neural-operator backbones, modular causal blocks, and safeguards such as ensemble calibration and diagnostic audit flags.\n\nEmpirically, AWML reduces error in synthetic autoregressive tasks and achieves substantial gains in real low-label conditions; on the Uganda LSMS 2019 survey, AUC rises from 0.8797 to 0.9402 with only 25 labels.\n\nOverall, AWML provides a principled and practical approach to safe, data-efficient learning.",
         "keywords": "Adaptive world models;Structured Latent Dynamics;Modular causal modeling;Neural operators;Counterfactual recombination",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "/attachment/60418fd34d72950b8d5da2ab3864661b9b6835e9.zip",
@@ -647561,7 +647561,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -664338,14 +664338,14 @@
         "id": "IwSvhHAQcL",
         "title": "Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Long-horizon robotic manipulation poses significant challenges for autonomous systems, requiring extended reasoning, precise execution, and robust error recovery across complex sequential tasks. Current approaches, whether based on static planning or end-to-end visuomotor policies, suffer from error accumulation and lack effective verification mechanisms during execution, limiting their reliability in real-world scenarios. We present Agentic Robot, a brain-inspired framework that addresses these limitations through Standardized Action Procedure (SAP)--a novel coordination protocol governing component interactions throughout manipulation tasks. Drawing inspiration from Standardized Operating Procedures (SOPs) in human organizations, SAP establishes structured workflows for planning, execution, and verification phases. Our architecture comprises three specialized components: (1) a large reasoning model that decomposes high-level instructions into semantically coherent subgoals, (2) a vision-language-action executor that generates continuous control commands from real-time visual inputs, and (3) a temporal verifier that enables autonomous progression and error recovery, ensuring timely subtask termination to avoid redundant execution and enable smooth subgoal transitions. This SAP-driven design supports dynamic self-verification without external supervision. On the LIBERO benchmark, Agentic Robot achieves competitive performance, with a clear advantage in the average success rate of 79.6\\%, outperforming SpatialVLA by 6.1\\% and OpenVLA by 7.4\\% on long-horizon tasks.  These results demonstrate that SAP-driven coordination between specialized components enhances both performance and interpretability in sequential manipulation, suggesting significant potential for reliable autonomous systems.",
         "keywords": "Brain-inspired;Vision-Language-Action models;Embodied agents;Standardized action procedure",
         "primary_area": "applications to robotics, autonomy, planning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Zhejian Yang;Yongchao Chen;Xueyang Zhou;Jiangyue Yan;Dingjie Song;Yinuo Liu;Yuting Li;Yu Zhang;Pan Zhou;Hechang Chen;Lichao Sun",
+        "authorids": "~Zhejian_Yang1;~Yongchao_Chen1;~Xueyang_Zhou2;~Jiangyue_Yan1;~Dingjie_Song1;~Yinuo_Liu1;~Yuting_Li1;~Yu_Zhang3;~Pan_Zhou5;~Hechang_Chen2;~Lichao_Sun1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -664356,7 +664356,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025agentic,\ntitle={Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=IwSvhHAQcL},\nnote={under review}\n}",
+        "bibtex": "@misc{\nyang2025agentic,\ntitle={Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents},\nauthor={Zhejian Yang and Yongchao Chen and Xueyang Zhou and Jiangyue Yan and Dingjie Song and Yinuo Liu and Yuting Li and Yu Zhang and Pan Zhou and Hechang Chen and Lichao Sun},\nyear={2025},\nurl={https://openreview.net/forum?id=IwSvhHAQcL}\n}",
         "github": "",
         "project": "",
         "reviewers": "hZvB;PSLS;SuHz;fqQc",
@@ -664433,11 +664433,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            11,
             0
         ],
         "corr_rating_confidence": -0.30151134457776363,
@@ -687521,7 +687521,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -688409,7 +688409,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -694958,7 +694958,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -697083,14 +697083,14 @@
         "id": "Jq0KN0lgtM",
         "title": "FRL-SAGE: Stackelberg Game-Theoretic Defense Against Adaptive Adversaries in Federated Reinforcement Learning",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Federated Reinforcement Learning (FRL) enables multiple agents to collaboratively train policies without sharing raw trajectories, but remains highly vulnerable to adversarial clients. Unlike supervised FL, FRL\u2019s sequential and policy-driven nature allows attackers to adapt strategies across rounds, while defenders must covertly reallocate protections in response. This evolving interaction naturally resembles a two-player strategic game, yet existing defenses assume static adversaries and fail to capture such dynamics. We propose FRL-SAGE (Stackelberg Adversarial Game Equilibrium in Federated Reinforcement Learning), the first framework to formalize attacker\u2013defender dynamics in FRL as a Stackelberg security game. The defender, acting as leader, commits to client-level protections under a budget, while the attacker, as follower, best responds by selecting clients to compromise. We define asymmetric utilities: attacker utility is damage inflicted minus attack cost, while defender utility is the negative sum of residual damage and defense costs. The attacker\u2019s optimization reduces to a 0/1 knapsack problem, solvable via dynamic programming or greedy heuristics, while the defender\u2019s bilevel planning is NP-hard but tractable through exact enumeration or scalable relaxation-based routines. To evaluate the framework concretely, we instantiate an adversary that uses gradient-noise injection and analyze four representative regimes, ranging from static single-client compromise to dynamic multi-client reshuffling with heterogeneous client importance. We theoretically establish equilibrium existence, prove computational hardness, and provide approximation guarantees for scalable solvers. Experiment on CartPole, a standard FRL testbed, illustrate that FRL-SAGE reduces attack-induced performance loss while operating within realistic defense budgets, supporting its role as a principled game-theoretic foundation for proactive defense in adversarial FRL.",
         "keywords": "Federated reinforcement learning;adversarial attacks;defenses;two-player game;Stackelberg game",
         "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
         "supplementary_material": "/attachment/0eaa83eb1063fbdf7c85cbf08df2c43444bb52df.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Anish Ambreth;K Naveen Kumar;Mohsen Guizani",
+        "authorids": "~Anish_Ambreth1;~K_Naveen_Kumar1;~Mohsen_Guizani1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -697101,7 +697101,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025frlsage,\ntitle={{FRL}-{SAGE}: Stackelberg Game-Theoretic Defense Against Adaptive Adversaries in Federated Reinforcement Learning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Jq0KN0lgtM},\nnote={under review}\n}",
+        "bibtex": "@misc{\nambreth2025frlsage,\ntitle={{FRL}-{SAGE}: Stackelberg Game-Theoretic Defense Against Adaptive Adversaries in Federated Reinforcement Learning},\nauthor={Anish Ambreth and K Naveen Kumar and Mohsen Guizani},\nyear={2025},\nurl={https://openreview.net/forum?id=Jq0KN0lgtM}\n}",
         "github": "",
         "project": "",
         "reviewers": "Spi5;9DLV;CQRU;r5Qq;1N1m",
@@ -697178,11 +697178,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.49999999999999994,
@@ -699398,7 +699398,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            10,
             0
         ],
         "authors#_avg": [
@@ -705191,7 +705191,7 @@
         "abstract": "The \"Reason-Then-Respond\" paradigm, enhanced by Reinforcement Learning, has shown great promise in advancing Multimodal Large Language Models. However, its application to the video domain has led to specialized models that excel at either question answering (QA) or captioning tasks, but struggle to master both. Naively combining reward signals from these tasks results in mutual performance degradation, which we attribute to a conflict between their opposing task natures. To address this challenge, we propose a novel training framework built upon two intermediate proxy tasks: DarkEventInfer, which presents videos with masked event segments, requiring models to infer the obscured content based on contextual video cues; and MixVidQA, which presents interleaved video sequences composed of two distinct clips, challenging models to isolate and reason about one while disregarding the other. These proxy tasks compel the model to simultaneously develop both holistic, divergent understanding and precise, convergent reasoning capabilities. Embodying this framework, we present VidBridge-R1, the first versatile video reasoning model that effectively bridges the paradigm conflict. Extensive experiments show that VidBridge-R1 achieves significant performance gains on both QA and captioning within one model, demonstrating the efficacy of our approach in fostering more generalizable and powerful video understanding models. All code, models, and data will be made publicly available.",
         "keywords": "video-qa;captioning;RL",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/9c492566d53f5a3e9ed60788f0721f8bc6ec487a.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -705281,7 +705281,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            13,
             0
         ],
         "authors#_avg": [
@@ -707649,62 +707649,62 @@
         "bibtex": "@inproceedings{\nanonymous2025from,\ntitle={From Abstract to Contextual: What {LLM}s Still Cannot Do in Mathematics},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=KBknLdXxTa},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "qQ6S;YVi6;xYoD",
+        "reviewers": "MmP5;qQ6S;YVi6;xYoD",
         "site": "https://openreview.net/forum?id=KBknLdXxTa",
         "pdf_size": 0,
-        "rating": "4;6;6",
-        "confidence": "3;4;5",
-        "soundness": "3;3;2",
-        "contribution": "2;3;2",
-        "presentation": "3;3;2",
-        "wc_summary": "111;115;239",
-        "wc_strengths": "68;96;86",
-        "wc_weaknesses": "260;109;105",
-        "wc_questions": "76;2;98",
-        "wc_review": "515;322;528",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "4;4;6;6",
+        "confidence": "3;3;4;5",
+        "soundness": "4;3;3;2",
+        "contribution": "3;2;3;2",
+        "presentation": "3;3;3;2",
+        "wc_summary": "114;111;115;239",
+        "wc_strengths": "56;68;96;86",
+        "wc_weaknesses": "90;260;109;105",
+        "wc_questions": "30;76;2;98",
+        "wc_review": "290;515;322;528",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            5.333333333333333,
-            0.9428090415820634
+            5.0,
+            1.0
         ],
         "confidence_avg": [
-            4.0,
-            0.816496580927726
+            3.75,
+            0.82915619758885
         ],
         "soundness_avg": [
-            2.6666666666666665,
-            0.4714045207910317
+            3.0,
+            0.7071067811865476
         ],
         "contribution_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "presentation_avg": [
-            2.6666666666666665,
-            0.4714045207910317
+            2.75,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
-            155.0,
-            59.41941321375251
+            144.75,
+            54.43516786049254
         ],
         "wc_strengths_avg": [
-            83.33333333333333,
-            11.585431464655178
+            76.5,
+            15.5161206491829
         ],
         "wc_weaknesses_avg": [
-            158.0,
-            72.1433757642839
+            141.0,
+            69.06880627316502
         ],
         "wc_questions_avg": [
-            58.666666666666664,
-            41.063636251825315
+            51.5,
+            37.66629793329841
         ],
         "wc_review_avg": [
-            455.0,
-            94.19483354551176
+            413.75,
+            108.43978743985069
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -707723,14 +707723,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.8660254037844387,
+        "corr_rating_confidence": 0.9045340337332909,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -709293,14 +709293,14 @@
         "id": "KFSv2egats",
         "title": "Learning to Attribute with Attention",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Given a sequence of tokens generated by a language model, we may want to identify the preceding tokens that *influence* the model to generate this sequence. Performing such *token attribution* is expensive; a common approach is to ablate preceding tokens and directly measure their effects. To reduce the cost of token attribution, we revisit attention weights as a heuristic for how a language model uses previous tokens. Naive approaches to attribute model behavior with attention (e.g., averaging attention weights across attention heads to estimate a token's influence) have been found to be unreliable. To attain faithful attributions, we propose treating the attention weights of different attention heads as *features*. This way, we can *learn* how to effectively leverage attention weights for attribution (using signal from ablations). Our resulting method, Attribution with Attention (AT2), reliably performs on par with approaches that involve many ablations, while being significantly more efficient.",
         "keywords": "attribution;generative models;large language models",
         "primary_area": "interpretability and explainable AI",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Benjamin Cohen-Wang;Yung-Sung Chuang;Aleksander Madry",
+        "authorids": "~Benjamin_Cohen-Wang1;~Yung-Sung_Chuang1;~Aleksander_Madry1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -709311,7 +709311,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025learning,\ntitle={Learning to Attribute with Attention},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=KFSv2egats},\nnote={under review}\n}",
+        "bibtex": "@misc{\ncohen-wang2025learning,\ntitle={Learning to Attribute with Attention},\nauthor={Benjamin Cohen-Wang and Yung-Sung Chuang and Aleksander Madry},\nyear={2025},\nurl={https://openreview.net/forum?id=KFSv2egats}\n}",
         "github": "",
         "project": "",
         "reviewers": "AaoN;h1vT;Y4X7;thPH;FLah",
@@ -709388,11 +709388,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.3273268353539886,
@@ -713511,14 +713511,14 @@
         "id": "KMZ7QHguGz",
         "title": "Automatically Advancing LLM Expertise in Technology Judgment",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Large language models (LLMs) are rapidly becoming core tools for science, engineering, and innovation. Their promise lies not just in remembering facts, but in putting knowledge to work. Despite their impressive ability to answer increasingly difficult questions, it remains unclear whether LLMs truly use their knowledge when confronted with new and challenging tasks. We address this question with a patent classification task that requires deep conceptual understanding: distinguishing objectively different but semantically similar patents. To evaluate this approach, we introduce a challenging new benchmark of 1.3 million post-2015 computer science patent pairs, characterized by dense technical jargon and strategically complex writing. We find that LLMs often fail our benchmark and struggle to distinguish among semantically similar patents. To probe this failure, we introduce a novel framework that decomposes model errors into two sources: missing and unused knowledge. Our approach asks models to generate clarifying questions to improve their understanding, and then compares three settings: raw performance, self-answered questions, and externally supplied answers. This decomposition reveals that LLMs often possess the relevant knowledge internally but fail to deploy it, while a smaller share of errors arises from genuine knowledge gaps. We then ask whether the ability of models to construct a task-specific database of questions and answers differs across models. We find that smaller models generate simpler, broadly transferable questions, while larger models propose more complex but less generalizable ones. This suggests new strategies for combining strengths across models. Taken together, our findings highlight a critical limitation of current LLMs and their evaluation: models often know more than they can use. By shifting evaluation from recall of static facts to application of dynamic knowledge, our approach provides a more informative lens on model capabilities and opens a path toward building systems that better support technological discovery and innovation.",
         "keywords": "technology judgement;LLM understanding;benchmark;self-questioning",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "/attachment/eadae7226e4509d9ba6f02d3740d059bb930ddec.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Siyang Wu;Honglin Bao;Nadav Kunievsky;James Evans",
+        "authorids": "~Siyang_Wu3;~Honglin_Bao2;~Nadav_Kunievsky1;~James_Evans1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -713529,7 +713529,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025automatically,\ntitle={Automatically Advancing {LLM} Expertise in Technology Judgment},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=KMZ7QHguGz},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwu2025automatically,\ntitle={Automatically Advancing {LLM} Expertise in Technology Judgment},\nauthor={Siyang Wu and Honglin Bao and Nadav Kunievsky and James Evans},\nyear={2025},\nurl={https://openreview.net/forum?id=KMZ7QHguGz}\n}",
         "github": "",
         "project": "",
         "reviewers": "GGwd;CuVx;1WND;PXH4",
@@ -713606,11 +713606,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.5222329678670935,
@@ -713939,7 +713939,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -730938,14 +730938,14 @@
         "id": "Kmbtv3gMuM",
         "title": "PDE Solvers Should Be Local: Fast, Stable Rollouts with Learned Local Stencils",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Neural operator models for solving partial differential equations (PDEs) often rely on global mixing mechanisms\u2014such as spectral convolutions or attention\u2014which tend to oversmooth sharp local dynamics and introduce high computational cost. We present FINO, a finite-difference\u2013inspired neural architecture that enforces strict locality while retaining multiscale representational power. FINO replaces fixed finite-difference stencil coefficients with learnable convolutional kernels and evolves states via an explicit, learnable time-stepping scheme.  A central Local Operator Block leverage a differential stencil layer, a gating mask, and a linear fuse step to construct adaptive derivative-like local features that propagate forward in time. Embedded in an encoder\u2013decoder with a bottleneck, FINO captures fine-grained local structures while preserving interpretability. We establish (i) a composition error bound linking one-step approximation error to stable long-horizon rollouts under a Lipschitz condition, and (ii) a universal approximation theorem for discrete time-stepped PDE dynamics. (iii) Across six  benchmarks and a climate modelling task, FINO achieves up to 44\\% lower error and up to around 2\u00d7 speedups over state-of-the-art operator-learning baselines, demonstrating that strict locality  with learnable time-stepping yields an accurate and scalable foundation for neural PDE solvers.",
         "keywords": "Neural Operator;PDEs;AI for Science",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Chun-Wun Cheng;Bin Dong;Carola-Bibiane Sch\u00f6nlieb;Angelica I Aviles-Rivero",
+        "authorids": "~Chun-Wun_Cheng1;~Bin_Dong1;~Carola-Bibiane_Sch\u00f6nlieb1;~Angelica_I_Aviles-Rivero1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -730956,7 +730956,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025pde,\ntitle={{PDE} Solvers Should Be Local: Fast, Stable Rollouts with Learned Local Stencils},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Kmbtv3gMuM},\nnote={under review}\n}",
+        "bibtex": "@misc{\ncheng2025pde,\ntitle={{PDE} Solvers Should Be Local: Fast, Stable Rollouts with Learned Local Stencils},\nauthor={Chun-Wun Cheng and Bin Dong and Carola-Bibiane Sch{\\\"o}nlieb and Angelica I Aviles-Rivero},\nyear={2025},\nurl={https://openreview.net/forum?id=Kmbtv3gMuM}\n}",
         "github": "",
         "project": "",
         "reviewers": "eU8k;iZfd;afhf;YAgu",
@@ -731033,11 +731033,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": 0.3333333333333333,
@@ -731699,7 +731699,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -754454,7 +754454,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -768789,14 +768789,14 @@
         "id": "LvyDiPIBw4",
         "title": "M4V: Multimodal Mamba for Efficient Text-to-Video Generation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Text-to-video generation has significantly enriched content creation and holds the potential to evolve into powerful world simulators. However, modeling the vast spatiotemporal space remains computationally demanding, particularly when employing Transformers, which incur quadratic complexity in sequence processing and thus limit practical applications. Recent advancements in linear-time sequence modeling, particularly the Mamba architecture, offer a more efficient alternative. Nevertheless, its plain design limits its direct applicability to multimodal and spatiotemporal video generation tasks. To address these challenges, we introduce M4V, a multimodal Mamba framework for efficient text-to-video generation. Specifically, a MultiModal diffusion Mamba (MM-DiM) block is designed within the framework to enable seamless integration of multimodal information and spatiotemporal modeling. In detail, we introduce a novel multimodal token re-composition design, which employs a bidirectional scheme for multimodal information integration through simple token arrangement, along with visual registers to enhance spatial\u2013temporal consistency. As a result, the MM-DiM blocks in M4V reduce FLOPs by 45% compared with the attention-based alternative when generating videos at 768$\\times$1280 resolution. Additionally, several training strategies are explored in this work to provide a better understanding of training text-to-video models using only publicly available datasets. Extensive experiments on text-to-video benchmarks demonstrate M4V's ability to produce high-quality videos while significantly lowering computational costs. Code will be made publicly available.",
         "keywords": "Video generation;Mamba",
         "primary_area": "generative models",
         "supplementary_material": "/attachment/aee78771f03009433ecc5aa97c5b9c43f3314212.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Jiancheng Huang;Gengwei Zhang;ZEQUN JIE;Siyu Jiao;Yinlong Qian;Ling Chen;Yunchao Wei;Lin Ma",
+        "authorids": "~Jiancheng_Huang1;~Gengwei_Zhang1;~ZEQUN_JIE1;~Siyu_Jiao1;~Yinlong_Qian1;~Ling_Chen5;~Yunchao_Wei1;~Lin_Ma2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -768807,7 +768807,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025mv,\ntitle={M4V: Multimodal Mamba for Efficient Text-to-Video Generation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=LvyDiPIBw4},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhuang2025mv,\ntitle={M4V: Multimodal Mamba for Efficient Text-to-Video Generation},\nauthor={Jiancheng Huang and Gengwei Zhang and ZEQUN JIE and Siyu Jiao and Yinlong Qian and Ling Chen and Yunchao Wei and Lin Ma},\nyear={2025},\nurl={https://openreview.net/forum?id=LvyDiPIBw4}\n}",
         "github": "",
         "project": "",
         "reviewers": "5Gre;W5kk;Qio2",
@@ -768884,11 +768884,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -768995,7 +768995,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            10,
             0
         ],
         "authors#_avg": [
@@ -770882,7 +770882,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -783314,7 +783314,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -783446,7 +783446,7 @@
         "abstract": "In multi-view 3D human pose estimation, models typically rely on images captured simultaneously from different camera views to predict a pose at a specific moment. While providing accurate spatial information, this traditional approach often overlooks the rich temporal dependencies between adjacent frames. We propose a novel 3D human pose estimation input method: the sparse interleaved input to address this. This method leverages images captured from different camera views at various time points (e.g., View 1 at time $t$ and View 2 at time $t+\\delta$), allowing our model to capture rich spatio-temporal information and effectively boost performance. More importantly, this approach offers two key advantages: First, it can theoretically increase the output pose frame rate by N times with N cameras, thereby breaking through single-view frame rate limitations and enhancing the temporal resolution of the production. Second, using a sparse subset of available frames, our method can reduce data redundancy and simultaneously achieve better performance. We introduce the DenseWarper model, which leverages epipolar geometry for efficient spatio-temporal heatmap exchange. We conducted extensive experiments on the Human3.6M and MPI-INF-3DHP datasets. Results demonstrate that our method, utilizing only sparse interleaved images as input, outperforms traditional dense multi-view input approaches and achieves state-of-the-art performance.",
         "keywords": "3D pose estimation; Spatiotemporal; Sparse Interleaved Input; Epipolar Geometry;",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/fc73e0577c3f48d66231e86e6f88e425ed510ef9.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -783536,7 +783536,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            13,
             0
         ],
         "authors#_avg": [
@@ -789752,7 +789752,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -794097,14 +794097,14 @@
         "id": "MgVNhx5uaa",
         "title": "ATOM-Bench: From Atoms to Conclusions in Objective Evaluation of Large Multimodal Models Reasoning",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of Large Multimodal Models (LMMs) to tackle complex image\u2013text tasks, establishing itself as a cornerstone of multimodal learning. Despite significant progress, the impact of CoT on LMMs still lacks objective evaluation and in-depth research. Current CoT evaluation paradigms rely on powerful LLMs as judges of free-form text, but this introduces bias and hallucination from the evaluator itself. Moreover, it may penalize models for stylistic variations rather than genuine reasoning failures, thereby undermining the fairness and reliability of the assessment. To address this gap, we introduce ATOM-Bench, a CoT evaluation framework built on objective atomic questions. ATOM-Bench decomposes complex reasoning tasks into a series of atomic nodes, covering 570 high-resolution real-world images and 2,920 questions across 4 cognitive dimensions, and 12 domains, including architecture, text, transportation, culture, climate, and geology. Our benchmark introduces three novel quantitative metrics to objectively analyze reasoning faithfulness, consistency, and robustness. Extensive experiments with 22 LMMs validate the effectiveness of our framework. The results reveal that even the strongest models often exhibit a mismatch between surface-level correctness of final answers and their underlying evidence comprehension, while also exposing cognitive rigidity when faced with objective facts.We believe that ATOM-Bench, as a more objective and diagnostic tool, will advance LMMs toward more reliable and faithful reasoning.",
         "keywords": "multimodal Large Language Models;benchmark;chain of thought",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Zipeng Wang;Zhiyang Dou;Xumeng Han;Xuehui Yu;Siyao Li;Guorong Li;Zhenjun Han;Jianbin Jiao",
+        "authorids": "~Zipeng_Wang2;~Zhiyang_Dou2;~Xumeng_Han1;~Xuehui_Yu1;~Siyao_Li5;~Guorong_Li1;~Zhenjun_Han1;~Jianbin_Jiao1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -794115,7 +794115,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025atombench,\ntitle={{ATOM}-Bench: From Atoms to Conclusions in Objective Evaluation of Large Multimodal Models Reasoning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=MgVNhx5uaa},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025atombench,\ntitle={{ATOM}-Bench: From Atoms to Conclusions in Objective Evaluation of Large Multimodal Models Reasoning},\nauthor={Zipeng Wang and Zhiyang Dou and Xumeng Han and Xuehui Yu and Siyao Li and Guorong Li and Zhenjun Han and Jianbin Jiao},\nyear={2025},\nurl={https://openreview.net/forum?id=MgVNhx5uaa}\n}",
         "github": "",
         "project": "",
         "reviewers": "sAqG;WwKZ;sR7U;db8N",
@@ -794192,11 +794192,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -795968,7 +795968,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -804515,7 +804515,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            13,
             0
         ],
         "authors#_avg": [
@@ -826509,14 +826509,14 @@
         "id": "NcjrimXYUe",
         "title": "DINOReg: Strong Point Cloud Registration with Vision Foundation Model",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Point cloud registration is a fundamental task in 3D computer vision. Most existing methods rely solely on geometric information for feature extraction and matching. Recently, several studies have incorporated color information from RGB-D data into feature extraction. Although these methods achieve remarkable improvements, they have not fully exploited the abundant texture and semantic information in images, and the feature fusion is performed in an image-lossy manner, which limit their performance. In this paper, we propose DINOReg, a registration network that sufficiently utilizes both visual and geometric information to solve the point cloud registration problem. Inspired by advances in vision foundation models, we employ DINOv2 to extract informative visual features from images, and fuse visual and geometric features at the patch level. This design effectively combines the rich texture and global semantic information extracted by DINOv2 with the detailed geometric structure information captured by the geometric backbone. Additionally, a mixed positional embedding is proposed to encode positional information from both image space and point cloud space, which enhances the model\u2019s ability to perceive spatial relationships between patches. Extensive experiments on the RGBD-3DMatch and RGBD-3DLoMatch datasets demonstrate that our method achieves significant improvements over state-of-the-art geometry-only and multi-modal registration methods, with a 14.2\\% increase in patch inlier ratio and a 15.7\\% increase in registration recall. The code is publicly available at [Anonymous] (provided in the supplementary material).",
         "keywords": "Point cloud registration;multi-modal feature fusion;RGB-D data",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "/attachment/17ca75e9d89adf352a7c26347d0831b9dc7fd2bc.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Congjia Chen;Yufu Qu",
+        "authorids": "~Congjia_Chen1;~Yufu_Qu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -826527,7 +826527,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025dinoreg,\ntitle={{DINOR}eg: Strong Point Cloud Registration with Vision Foundation Model},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=NcjrimXYUe},\nnote={under review}\n}",
+        "bibtex": "@misc{\nchen2025dinoreg,\ntitle={{DINOR}eg: Strong Point Cloud Registration with Vision Foundation Model},\nauthor={Congjia Chen and Yufu Qu},\nyear={2025},\nurl={https://openreview.net/forum?id=NcjrimXYUe}\n}",
         "github": "",
         "project": "",
         "reviewers": "iGf1;PSDE;jibn;cwDP",
@@ -826604,11 +826604,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -839480,7 +839480,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -853133,7 +853133,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -854576,7 +854576,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            14,
             0
         ],
         "authors#_avg": [
@@ -855242,7 +855242,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -857499,62 +857499,62 @@
         "bibtex": "@inproceedings{\nanonymous2025can,\ntitle={Can {LLM}s be Fooled: A Textual Adversarial Attack method via Euphemism Rephrase to Large Language Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=OXCbyE6ph0},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "Embg;Bwyz;fi9D",
+        "reviewers": "Embg;Bwyz;xDNP;fi9D",
         "site": "https://openreview.net/forum?id=OXCbyE6ph0",
         "pdf_size": 0,
-        "rating": "2;2;4",
-        "confidence": "5;3;3",
-        "soundness": "2;3;2",
-        "contribution": "2;2;2",
-        "presentation": "2;3;2",
-        "wc_summary": "103;124;101",
-        "wc_strengths": "65;139;56",
-        "wc_weaknesses": "187;125;181",
-        "wc_questions": "85;211;51",
-        "wc_review": "440;599;389",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;2;4;4",
+        "confidence": "5;3;2;3",
+        "soundness": "2;3;4;2",
+        "contribution": "2;2;2;2",
+        "presentation": "2;3;4;2",
+        "wc_summary": "103;124;142;101",
+        "wc_strengths": "65;139;23;56",
+        "wc_weaknesses": "187;125;73;181",
+        "wc_questions": "85;211;22;51",
+        "wc_review": "440;599;260;389",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            2.6666666666666665,
-            0.9428090415820634
+            3.0,
+            1.0
         ],
         "confidence_avg": [
-            3.6666666666666665,
-            0.9428090415820634
+            3.25,
+            1.0897247358851685
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.75,
+            0.82915619758885
         ],
         "contribution_avg": [
             2.0,
             0.0
         ],
         "presentation_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.75,
+            0.82915619758885
         ],
         "wc_summary_avg": [
-            109.33333333333333,
-            10.402991022884823
+            117.5,
+            16.77050983124842
         ],
         "wc_strengths_avg": [
-            86.66666666666667,
-            37.1872140511882
+            70.75,
+            42.39324828318774
         ],
         "wc_weaknesses_avg": [
-            164.33333333333334,
-            27.920522121829233
+            141.5,
+            46.354611421087334
         ],
         "wc_questions_avg": [
-            115.66666666666667,
-            68.82506003549064
+            92.25,
+            72.09498942367631
         ],
         "wc_review_avg": [
-            476.0,
-            89.43153806124549
+            422.0,
+            121.43516788805456
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -857573,14 +857573,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -0.5000000000000001,
+        "corr_rating_confidence": -0.6882472016116854,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -868911,14 +868911,14 @@
         "id": "OqqgbtAe2T",
         "title": "Efficient Visual Grounding via Alignment Priors and Scale Adaptability",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Visual Grounding links textual descriptions to the corresponding image regions, and its complexity increases with target semantic complexity. Existing methods encounter performance bottlenecks due to semantic alignment bias and scale-induced perception mismatch. In this paper, we propose ASVG, an efficient framework that exploits alignment priors from the cross-modal encoder to build target-aware queries and enhances scale adaptability through progressive cross-scale reasoning. First, we design an alignment prior-guided query generator, which embeds text-conditioned visual heatmaps into object queries to enhance their semantic discriminability. Second, we develop a progressive cross-scale decoder that builds a multi-resolution pyramid solely from single-scale features, enabling progressive cross-scale reasoning while avoiding redundant feature-pyramid fusion. In addition, we introduce a lightweight token branch and Soft Cross-head Distillation (SCD), which enforces feature consistency and adaptively reweights losses, reducing inference cost while maintaining high performance. Our method achieves significant performance gains across six VG and GREC datasets, particularly under complex or ambiguous target semantics.",
         "keywords": "visual grounding;Cross-modal Alignment Priors;Target-aware Query Generation;Scale Adaptability",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yaxiong Chen;Yichen Zhao;Jie Wen;Shengwu Xiong",
+        "authorids": "~Yaxiong_Chen2;~Yichen_Zhao1;~Jie_Wen4;~Shengwu_Xiong1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -868929,7 +868929,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025efficient,\ntitle={Efficient Visual Grounding via Alignment Priors and Scale Adaptability},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=OqqgbtAe2T},\nnote={under review}\n}",
+        "bibtex": "@misc{\nchen2025efficient,\ntitle={Efficient Visual Grounding via Alignment Priors and Scale Adaptability},\nauthor={Yaxiong Chen and Yichen Zhao and Jie Wen and Shengwu Xiong},\nyear={2025},\nurl={https://openreview.net/forum?id=OqqgbtAe2T}\n}",
         "github": "",
         "project": "",
         "reviewers": "LXYv;cUTm;gKGQ;LX9h",
@@ -869006,11 +869006,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.8703882797784891,
@@ -869577,14 +869577,14 @@
         "id": "OsXr7S8X4x",
         "title": "Low-Rank Adversarial PGD Attack",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Adversarial attacks on deep neural networks have become essential tools for studying model robustness, with Projected Gradient Descent (PGD) being widely adopted due to its effectiveness and computational efficiency. In this work, we provide empirical evidence that PGD perturbations are, on average, low-rank, with their magnitude concentrated in the bottom part of the singular value spectrum across CIFAR-10 and ImageNet datasets and multiple architectures. Building on this insight, we introduce LoRa-PGD, a simple low-rank variation of PGD that directly computes adversarial attacks with controllable rank. Through extensive experiments on different datasets and models from the RobustBench ModelZoo, we demonstrate that LoRa-PGD, systematically outperforms or matches standard PGD in terms of robust accuracy and achieves performance comparable to AutoAttack while requiring orders of magnitude less computational time. Additionally, we show that models adversarially trained with LoRa-PGD, are consistently more accurate and more robust against full-rank attacks compared to standard adversarial training, suggesting that low-rank perturbations capture important but otherwise hidden vulnerability patterns.",
         "keywords": "low-rank;adversarial attack;adversarial training",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/e5db1c86f0841ef0dc1198631dbd885a246c0c82.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Dayana Savostianova;Emanuele Zangrando;Francesco Tudisco",
+        "authorids": "~Dayana_Savostianova1;~Emanuele_Zangrando1;~Francesco_Tudisco1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -869595,7 +869595,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025lowrank,\ntitle={Low-Rank Adversarial {PGD} Attack},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=OsXr7S8X4x},\nnote={under review}\n}",
+        "bibtex": "@misc{\nsavostianova2025lowrank,\ntitle={Low-Rank Adversarial {PGD} Attack},\nauthor={Dayana Savostianova and Emanuele Zangrando and Francesco Tudisco},\nyear={2025},\nurl={https://openreview.net/forum?id=OsXr7S8X4x}\n}",
         "github": "",
         "project": "",
         "reviewers": "ERdb;b3wV;d3ui;GYab",
@@ -869672,11 +869672,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -893315,7 +893315,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            13,
             0
         ],
         "authors#_avg": [
@@ -897977,7 +897977,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -898310,7 +898310,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            15,
             0
         ],
         "authors#_avg": [
@@ -924617,7 +924617,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -935051,7 +935051,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -941267,7 +941267,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -946262,7 +946262,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            10,
             0
         ],
         "authors#_avg": [
@@ -948720,14 +948720,14 @@
         "id": "QyRgxUS8bV",
         "title": "Avatar Concept Slider: Controllable Editing of Concepts in 3D Human Avatars",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Text-based editing of 3D human avatars to precisely match user requirements is challenging due to the inherent ambiguity and limited expressiveness of natural language. To overcome this, we propose the Avatar Concept Slider (ACS), a 3D avatar editing method that allows precise editing of semantic concepts in human avatars towards a specified intermediate point between two extremes of concepts, akin to moving a knob along a slider track. To achieve this, our ACS has three designs: Firstly, a Concept Sliding Loss based on linear discriminant analysis to pinpoint the concept-specific axes for precise editing. Secondly, an Attribute Preserving Loss based on principal component analysis for improved preservation of avatar identity during editing. We further propose a 3D Gaussian Splatting primitive selection mechanism based on concept-sensitivity, which updates only the primitives that are the most sensitive to our target concept, to improve efficiency. Results demonstrate that our ACS enables controllable 3D avatar editing, without compromising the avatar quality or its identifying attributes.",
         "keywords": "3D Human Avatar Editing;Controllable Editing",
         "primary_area": "generative models",
         "supplementary_material": "/attachment/d8fe54c3c582f2f2eead336f09f0d3c78b283b8b.pdf",
-        "author": "",
-        "authorids": "",
+        "author": "Lin Geng Foo;Yixuan He;Tiansong Zhou;Ajmal Saeed Mian;Hossein Rahmani;Jun Liu;Christian Theobalt",
+        "authorids": "~Lin_Geng_Foo1;~Yixuan_He3;~Tiansong_Zhou1;~Ajmal_Saeed_Mian1;~Hossein_Rahmani4;~Jun_Liu8;~Christian_Theobalt2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -948738,7 +948738,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025avatar,\ntitle={Avatar Concept Slider: Controllable Editing of Concepts in 3D Human Avatars},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=QyRgxUS8bV},\nnote={under review}\n}",
+        "bibtex": "@misc{\nfoo2025avatar,\ntitle={Avatar Concept Slider: Controllable Editing of Concepts in 3D Human Avatars},\nauthor={Lin Geng Foo and Yixuan He and Tiansong Zhou and Ajmal Saeed Mian and Hossein Rahmani and Jun Liu and Christian Theobalt},\nyear={2025},\nurl={https://openreview.net/forum?id=QyRgxUS8bV}\n}",
         "github": "",
         "project": "",
         "reviewers": "kyf1;DeGG;2GTW",
@@ -948815,11 +948815,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.7559289460184544,
@@ -955475,7 +955475,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -962357,7 +962357,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            11,
             0
         ],
         "authors#_avg": [
@@ -964244,7 +964244,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            15,
             0
         ],
         "authors#_avg": [
@@ -964614,62 +964614,62 @@
         "bibtex": "@inproceedings{\nanonymous2025gama,\ntitle={{GAMA}: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention for Vehicle Routing Problem},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=RNsydf7HB4},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "E3PB;fnfB;ZeT5",
+        "reviewers": "E3PB;fnfB;ZeT5;WtQK",
         "site": "https://openreview.net/forum?id=RNsydf7HB4",
         "pdf_size": 0,
-        "rating": "2;2;2",
-        "confidence": "4;4;5",
-        "soundness": "2;2;1",
-        "contribution": "2;2;1",
-        "presentation": "2;2;2",
-        "wc_summary": "62;105;90",
-        "wc_strengths": "49;36;42",
-        "wc_weaknesses": "175;180;482",
-        "wc_questions": "5;49;49",
-        "wc_review": "291;370;663",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;2;2;4",
+        "confidence": "4;4;5;4",
+        "soundness": "2;2;1;2",
+        "contribution": "2;2;1;2",
+        "presentation": "2;2;2;2",
+        "wc_summary": "62;105;90;62",
+        "wc_strengths": "49;36;42;65",
+        "wc_weaknesses": "175;180;482;147",
+        "wc_questions": "5;49;49;106",
+        "wc_review": "291;370;663;380",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            2.0,
-            0.0
+            2.5,
+            0.8660254037844386
         ],
         "confidence_avg": [
-            4.333333333333333,
-            0.4714045207910317
+            4.25,
+            0.4330127018922193
         ],
         "soundness_avg": [
-            1.6666666666666667,
-            0.4714045207910317
+            1.75,
+            0.4330127018922193
         ],
         "contribution_avg": [
-            1.6666666666666667,
-            0.4714045207910317
+            1.75,
+            0.4330127018922193
         ],
         "presentation_avg": [
             2.0,
             0.0
         ],
         "wc_summary_avg": [
-            85.66666666666667,
-            17.82008853949821
+            79.75,
+            18.525320510047862
         ],
         "wc_strengths_avg": [
-            42.333333333333336,
-            5.312459150169743
+            48.0,
+            10.8397416943394
         ],
         "wc_weaknesses_avg": [
-            279.0,
-            143.55718953318453
+            246.0,
+            136.8338408435574
         ],
         "wc_questions_avg": [
-            34.333333333333336,
-            20.741798914805393
+            52.25,
+            35.856484769146014
         ],
         "wc_review_avg": [
-            441.3333333333333,
-            160.0256923816367
+            426.0,
+            141.1081145788576
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -964688,14 +964688,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.0,
+        "corr_rating_confidence": -0.3333333333333333,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -978246,14 +978246,14 @@
         "id": "RnYc3hV2cs",
         "title": "Enhancing Reasoning Chains through GANs and Textual Gradient Feedback",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Large language models (LLMs) have recently advanced reasoning in multi-agent\nsystems (MAS), yet existing work mainly focuses on improving forward reason\u0002ing accuracy, overlooking the potential of adversarial mechanisms with backward\ngeneration of erroneous reasoning chains to enhance both accuracy and stability.\nWe propose a novel adversarial learning framework in which a forward generator\nproduces accurate reasoning chains, while a backward generator constructs adver\u0002sarial erroneous chains. Guided by a discriminator providing gradient feedback in\nthe textual domain, both generators iteratively refine their outputs through compet\u0002itive optimization with generative adversarial networks (GANs). This competitive\noptimization reduces variability in outputs for identical queries, increases robust\u0002ness to prompt perturbations, and provides interpretability into the distinct roles of\nthe two generators by dynamically tracking the evolution of reasoning chains. Ex\u0002periments show that, after two to three rounds of prompt optimization, our method\nimproves reasoning accuracy from 73.7% to 81.6%, and reduces instability from\n0.39 to 0.08. These results demonstrate the proposed framework\u2019s ability to jointly\noptimize accuracy and stability, and highlight the promise of adversarial forward\u0002backward mechanisms in advancing multi-agent reasoning systems.",
         "keywords": "Large Language Models;Multi-Agent Systems",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Chenghao Li;Chaoning Zhang;Jiaquan Zhang;Shuxu Chen;Haoyu Bian;Yibei Liu;Pengcheng Zheng;Xudong Wang;Kuien Liu;Caiyan Qin;Yang Yang",
+        "authorids": "~Chenghao_Li3;~Chaoning_Zhang1;~Jiaquan_Zhang2;~Shuxu_Chen1;~Haoyu_Bian4;~Yibei_Liu1;~Pengcheng_Zheng1;~Xudong_Wang17;~Kuien_Liu2;~Caiyan_Qin1;~Yang_Yang37",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -978264,7 +978264,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025enhancing,\ntitle={Enhancing Reasoning Chains through {GAN}s and Textual Gradient Feedback},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=RnYc3hV2cs},\nnote={under review}\n}",
+        "bibtex": "@misc{\nli2025enhancing,\ntitle={Enhancing Reasoning Chains through {GAN}s and Textual Gradient Feedback},\nauthor={Chenghao Li and Chaoning Zhang and Jiaquan Zhang and Shuxu Chen and Haoyu Bian and Yibei Liu and Pengcheng Zheng and Xudong Wang and Kuien Liu and Caiyan Qin and Yang Yang},\nyear={2025},\nurl={https://openreview.net/forum?id=RnYc3hV2cs}\n}",
         "github": "",
         "project": "",
         "reviewers": "bgcv;nXjX;qDHT",
@@ -978341,11 +978341,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            11,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -996212,7 +996212,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -997787,7 +997787,7 @@
         "abstract": "Speech-aware Language Models (SpeechLMs) have fundamentally transformed human-AI interaction by enabling voice-based communication, yet they may exhibit acoustic-based gender differentiation where identical questions lead to different responses based on the speaker's gender. This paper propose a new dataset that enables systematic analysis of this phenomenon, containing 9,208 speech samples across three categories: Gender-Independent, Gender-Stereotypical, and Gender-Dependent. We further evaluated LLaMA-Omni series and discovered a paradoxical pattern; while overall responses seems identical regardless of gender, the pattern is far from unbiased responses. Specifically, in Gender-Stereotypical questions, all models consistently exhibited male-oriented responses; meanwhile, in Gender-Dependent questions where gender differentiation would be contextually appropriate, models exhibited responses independent to gender instead. We also confirm that this pattern does not result from neutral options nor perceived gender of a voice. When we allow neutral response, models tends to respond neutrally also in Gender-Dependent questions. The paradoxical pattern yet retains when we applied gender neutralization methods on speech. Through comparison between SpeechLMs with corresponding backbone LLMs, we confirmed that these paradoxical patterns primarily stem from Whisper speech encoders, which generates male-oriented acoustic tokens. These findings reveal that current SpeechLMs may not successfully remove gender biases though they prioritized general fairness principles over contextual appropriateness, highlighting the need for more sophisticated techniques to utilize gender information properly in speech technology.",
         "keywords": "Gender Bias;Spoken Language Model;Acoustic-based Gender Differentiation;Fairness",
         "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/9f895e294184e65a831ab613c60ff8f832cccb19.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -997877,7 +997877,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1001429,7 +1001429,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1006091,7 +1006091,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1007772,14 +1007772,14 @@
         "id": "ScQ7irexRS",
         "title": "Learning to Allocate Propagating Treatments: Maximize Uplift under Network Interference",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Uplift modeling and treatment allocation are classical tasks in promotion marketing. Yet existing allocations ignore propagating treatments and network interference, where both outcomes and the propagation mechanism vary with peers\u2019 treatment history, making policy value hard to estimate and optimize. We formalize a history-driven uplift objective with activation probability $g(\\bm Z_i^t,\\bm X_i)$ and outcomes that depend on neighbors\u2019 treated states. Theoretically, we establish conditions for identification and provide finite-sample guarantees for policy evaluation under interference and model misspecification. Methodologically, we propose GUM-DT via a Monte-Carlo policy search: learn an ensemble of lightweight propagation models and an outcome model, and evaluate candidate allocations via double-robust (DR) estimators with IPW corrections. On synthetic networks, experiments demonstrate consistent gains over uplift allocations of GUM-DT, validating robustness and effectiveness.",
         "keywords": "causality; network interfernece",
         "primary_area": "causal reasoning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Ruiheng Jiang;Xinyan Su;Han Huang;Zhiheng Zhang",
+        "authorids": "~Ruiheng_Jiang1;~Xinyan_Su1;~Han_Huang2;~Zhiheng_Zhang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1007790,7 +1007790,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025learning,\ntitle={Learning to Allocate Propagating Treatments: Maximize Uplift under Network Interference},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ScQ7irexRS},\nnote={under review}\n}",
+        "bibtex": "@misc{\njiang2025learning,\ntitle={Learning to Allocate Propagating Treatments: Maximize Uplift under Network Interference},\nauthor={Ruiheng Jiang and Xinyan Su and Han Huang and Zhiheng Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=ScQ7irexRS}\n}",
         "github": "",
         "project": "",
         "reviewers": "e2gV;hJ9z;CG1F;Gr9p",
@@ -1007867,11 +1007867,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.674199862463242,
@@ -1024517,7 +1024517,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1024739,7 +1024739,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1045607,7 +1045607,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1050935,7 +1050935,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1096112,7 +1096112,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1099347,14 +1099347,14 @@
         "id": "V727xqBYIW",
         "title": "Process Reward Models That Think",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Step-by-step verifiers--also known as process reward models (PRMs)--are a key ingredient for test-time scaling, but training them requires expensive step-level supervision. This work aims to build data-efficient PRMs as verbalized step-wise reward models that verify every step in the solution by generating a verification chain-of-thought (CoT). We propose ThinkPRM, a long CoT verifier fine-tuned on orders of magnitude fewer process labels than those required by discriminative PRMs. Our approach capitalizes on the inherent reasoning abilities of long CoT models, and outperforms LLM-as-a-Judge and discriminative verifiers--using only 1% of the process labels in PRM800K--across several challenging benchmarks. Specifically, ThinkPRM beats the baselines on ProcessBench, MATH-500, and AIME \u201924 under best-of-N selection and reward-guided search. In an out-of-domain evaluation over subsets of GPQA-Diamond and LiveCodeBench, our PRM surpasses discriminative verifiers trained with the full PRM800K by 8% and 4.5%, respectively. Lastly, under the same token budget, ThinkPRM scales up verification compute more effectively compared to LLM-as-a-Judge, outperforming it by 7.2% on a subset of ProcessBench. This work highlights the value of generative, long CoT PRMs that can scale test-time compute for verification while requiring minimal supervision for training.",
         "keywords": "reasoning;process reward models;test-time scaling",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Muhammad Khalifa;Rishabh Agarwal;Lajanugen Logeswaran;Jaekyeom Kim;Hao Peng;Moontae Lee;Honglak Lee;Lu Wang",
+        "authorids": "~Muhammad_Khalifa2;~Rishabh_Agarwal2;~Lajanugen_Logeswaran1;~Jaekyeom_Kim1;~Hao_Peng4;~Moontae_Lee1;~Honglak_Lee2;~Lu_Wang9",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1099365,7 +1099365,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025process,\ntitle={Process Reward Models That Think},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=V727xqBYIW},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkhalifa2025process,\ntitle={Process Reward Models That Think},\nauthor={Muhammad Khalifa and Rishabh Agarwal and Lajanugen Logeswaran and Jaekyeom Kim and Hao Peng and Moontae Lee and Honglak Lee and Lu Wang},\nyear={2025},\nurl={https://openreview.net/forum?id=V727xqBYIW}\n}",
         "github": "",
         "project": "",
         "reviewers": "VqJP;tqMX;AmJt;7sgU",
@@ -1099442,11 +1099442,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -0.816496580927726,
@@ -1112984,7 +1112984,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1127985,14 +1127985,14 @@
         "id": "VwEWZdCNBK",
         "title": "Minutes to Converage: Dataset Distillation for Rapid SNN Training on Event Streams",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Event cameras emit sparse, polarity-signed streams that align with how spiking\nneural networks compute in time, yet image-centric dataset distillation trans-\nfers poorly to this regime. We present PACE (Phase-Aligned Condensation for\nEvents), the first event-native dataset distillation framework for SNNs, which com-\nprises two core modules: ST-DSM and PEQ-N. ST-DSM densifies spikes with\nresidual membrane potential and aligns real and synthetic streams by matching\namplitude and phase using a characteristic-function projection in feature space\nand a discrete Fourier transform along time. PEQ-N is a probabilistic quantizer\nwhose forward pass emits hard integer frames while a straight-through estimator\npreserves gradients and keeps compatibility with standard event-frame pipelines.\nWe optimize only the synthetic data with a time-expanded condensation objec-\ntive on frozen teacher features, which encourages causal spatiotemporal structure\nand shortens convergence time. On DVS-Gestures with IPC=10 at 9.29% of the\ndata, PACE reaches 76.5%, about 89% of full-data performance and +20.4 points\nover a strong baseline. Similar gains appear on CIFAR10-DVS and N-MNIST and\ntransfer across SNN backbones. PACE delivers compact, accurate surrogates that\nreduce storage and wall-clock time and make minutes-to-converge training practi-\ncal on neuromorphic streams while opening a path to efficient on-device learning\nand reproducible distilled benchmarks.",
         "keywords": "Dynamic Vision Sensors; Dataset Distillation; Spiking Neural Networks",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Shuhan Ye;Yi Yu;Qixin Zhang;Chenqi Kong;Qiangqiang Wu;Kun Wang;Dacheng Tao;Xudong Jiang",
+        "authorids": "~Shuhan_Ye1;~Yi_Yu5;~Qixin_Zhang1;~Chenqi_Kong1;~Qiangqiang_Wu1;~Kun_Wang15;~Dacheng_Tao1;~Xudong_Jiang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1128003,7 +1128003,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025minutes,\ntitle={Minutes  to Converage: Dataset Distillation for Rapid {SNN} Training on Event Streams},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=VwEWZdCNBK},\nnote={under review}\n}",
+        "bibtex": "@misc{\nye2025minutes,\ntitle={Minutes  to Converage: Dataset Distillation for Rapid {SNN} Training on Event Streams},\nauthor={Shuhan Ye and Yi Yu and Qixin Zhang and Chenqi Kong and Qiangqiang Wu and Kun Wang and Dacheng Tao and Xudong Jiang},\nyear={2025},\nurl={https://openreview.net/forum?id=VwEWZdCNBK}\n}",
         "github": "",
         "project": "",
         "reviewers": "VDS1;E9uk;sZA1;jrA1",
@@ -1128080,11 +1128080,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1130744,7 +1130744,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1132208,7 +1132208,7 @@
         "abstract": "The advent of Transformer architectures has significantly enhanced the performance and flexibility of neural decoders. Meanwhile, cyclic codes continue to play a crucial role in practical communication systems. In this paper, we bridge these two domains by proposing a novel decoding approach that integrates the algebraic structure of cyclic codes into Transformer-based decoders. Leveraging the inherent cyclic properties, we introduce interpretable error correction patterns and inter-node relationship hypotheses that link the structural characteristics of the codes to the model parameters. Building on these insights, we design a plug-and-play, flexibly deployable decoding method tailored for cyclic codes. Experimental results show that our method achieves an average reduction in bit error rate (BER) by an order of magnitude, while also reducing the total number of parameters by approximately 97\\%. Additional comparative experiments validate our proposed conjectures and highlight a promising pathway for bridging classical coding theory and modern Transformer-based decoding architectures.",
         "keywords": "Algebraic Structure;Cyclic Codes;Parameter Interpretability;Error Correction Pattern;Relationship",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/9577e251449d5c90d1c80302e3db9f8935bf6093.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1146062,7 +1146062,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1148393,7 +1148393,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1152500,7 +1152500,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1172147,7 +1172147,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1178712,14 +1178712,14 @@
         "id": "XVonoE8dWs",
         "title": "LSMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Open-vocabulary semantic segmentation requires precise pixel-level alignment of visual and textual representations, leveraging text as a universal reference to address visual disparities across diverse datasets. \nWhile prior efforts have primarily focused on enhancing visual representations or alignment models, the contribution of textual representations remains underexplored. \nMoreover, although CLIP excels at capturing image-level features, its limited capacity for fine-grained pixel-level representation poses a major challenge for semantic segmentation.\nTo address these challenges, we propose LSMSeg that employs large language models (LLMs) to generate enriched text prompts incorporating diverse visual attributes such as color, shape, size, and texture, thereby replacing simplistic templates with semantically rich descriptions.\nIn addition, we propose a Feature Refinement Module that adapts visual features from the Segment Anything Model (SAM) to the CLIP space using a lightweight adapter, followed by a learnable weighting strategy to fuse them with CLIP features, enhancing pixel-to-text alignment.\nTo further reduce computational overhead, we introduce a Category Filtering Module to accelerate training and decrease parameter complexity. \nExtensive experiments demonstrate that LSMSeg significantly enhances cross-modal alignment and achieves strong performance while maintaining efficiency, offering a robust advancement for open-vocabulary semantic segmentation.",
         "keywords": "Open-vocabulary semantic segmentation;large language models;visual attributes",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Huadong Tang;Youpeng Zhao;Yan Huang;Zhen Yao;En Yu;Min Xu;Qiang Wu",
+        "authorids": "~Huadong_Tang1;~Youpeng_Zhao2;~Yan_Huang14;~Zhen_Yao4;~En_Yu3;~Min_Xu5;~Qiang_Wu2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1178730,7 +1178730,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025lsmseg,\ntitle={{LSMS}eg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=XVonoE8dWs},\nnote={under review}\n}",
+        "bibtex": "@misc{\ntang2025lsmseg,\ntitle={{LSMS}eg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation},\nauthor={Huadong Tang and Youpeng Zhao and Yan Huang and Zhen Yao and En Yu and Min Xu and Qiang Wu},\nyear={2025},\nurl={https://openreview.net/forum?id=XVonoE8dWs}\n}",
         "github": "",
         "project": "",
         "reviewers": "54dY;TUSV;vYEi;J4He",
@@ -1178807,11 +1178807,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.3333333333333333,
@@ -1202006,7 +1202006,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1204559,7 +1204559,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1216769,7 +1216769,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1218989,7 +1218989,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1221542,7 +1221542,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1222319,7 +1222319,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1235084,7 +1235084,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1275044,7 +1275044,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1286477,7 +1286477,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1302350,7 +1302350,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1303682,7 +1303682,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1313672,7 +1313672,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            17,
             0
         ],
         "authors#_avg": [
@@ -1319555,7 +1319555,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            20,
             0
         ],
         "authors#_avg": [
@@ -1330988,7 +1330988,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1364732,7 +1364732,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            16,
             0
         ],
         "authors#_avg": [
@@ -1367417,7 +1367417,7 @@
         "abstract": "Understanding the geometry of the loss landscape near a minimum is key to explaining the implicit bias of gradient-based methods in non-convex optimization problems such as deep neural network training and deep matrix factorization. A central quantity to characterize this geometry is the maximum eigenvalue of the Hessian of loss, which measures the sharpness of the landscape. Currently, its precise role has been obfuscated because no exact expressions for this sharpness measure were known in general settings. In this paper, we present the first exact expression for the maximum eigenvalue of the Hessian of the squared-error loss at any minimizer in general overparameterized deep matrix factorization (i.e., deep linear neural network training) problems, resolving an open question posed by Mulayoff & Michaeli (2020). To complement our theory, we empirically investigate an escape phenomenon observed during gradient-based training near a minimum that crucially relies on our exact expression of the sharpness.",
         "keywords": "Sharpness;Deep Matrix Factorization;Deep Linear Networks",
         "primary_area": "optimization",
-        "supplementary_material": "/attachment/baf06f3ecba29777aa376750d61da035eead828e.zip",
+        "supplementary_material": "/attachment/d05629a58cd0e2a9c3bdfded13ffeafebbf37285.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1367507,7 +1367507,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1372079,7 +1372079,7 @@
         "abstract": "Existing research indicates that the output of **Chain-of-Thought (CoT)** is significantly affected by input perturbations.  \nAlthough many methods aim to mitigate such impact by optimizing prompts, a theoretical explanation of how these perturbations influence CoT outputs remains an open area of research.  \nThis gap limits our in-depth understanding of how input perturbations propagate during the reasoning process and hinders further improvements in prompt optimization methods.  \n\nTherefore, in this paper, we theoretically analyze the effect of input perturbations on the fluctuation of CoT outputs.  \nWe first derive an upper bound for input perturbations under the condition that the output fluctuation is within an acceptable range, and we prove that:  \n\n- *i)* This upper bound is **positively correlated** with the number of reasoning steps in the CoT;  \n- *ii)* Even an infinitely long reasoning process **cannot eliminate** the impact of input perturbations.  \n\nWe then apply these conclusions to the **Linear Self-Attention (LSA)** model, which can be viewed as a simplified version of Transformer.  \nFor the LSA model, we prove that the upper bound for input perturbation is **negatively correlated** with the norms of the input embedding and hidden state vectors.  \n\nTo validate this theoretical analysis, we conduct experiments on **three mainstream datasets** and **four mainstream models**.  \nThe experimental results align with our theoretical analysis, empirically demonstrating the correctness of our findings.",
         "keywords": "Chain-of-Thought; Reasoning Robustness",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/a20e26c7643cd1cc73a7625b41f0ad0ff5f14b98.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1372169,7 +1372169,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1376498,7 +1376498,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1382286,14 +1382286,14 @@
         "id": "dDBT2N3wLG",
         "title": "SCMF: Lightweight Retrieval-Augmented Generation via Retrieval Vector Compression",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "With the widespread adoption of Retrieval-Augmented Generation (RAG) in knowledge-intensive tasks, efficiency bottlenecks become increasingly evident: storing and retrieving large-scale high-dimensional embeddings incur substantial storage and computation costs. To address this challenge, we propose the Semantic Compressed Memory Framework (SCMF), a lightweight and traceable indexing paradigm tailored for large-scale RAG. SCMF first projects document embeddings into a low-dimensional semantic space, and then discretizes them into compact Semantic Memory Units (SMUs) via Residual Vector Quantization (RVQ). Each SMU is explicitly linked to its corresponding Raw Knowledge Unit (RKU) through a semantic inverted index, which enables efficient CRUD operations while preserving the traceability of retrieval results. During retrieval, SCMF performs Approximate Nearest Neighbor (ANN) search in the SMU space, followed by a two-stage re-ranking strategy that combines sparse retrieval (BM25) and dense retrieval, thereby achieving efficient and accurate evidence localization. Experimental results demonstrate that SCMF substantially reduces storage costs and retrieval latency while preserving explicit traceability to the original knowledge units, significantly outperforming mainstream vector indexing methods.",
         "keywords": "Retrieval-Augmented Generation;Semantic Memory;Vector Quantization;Residual Vector Quantization;PCA Compression;Efficient Retrieval",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Jiaquan Zhang;Chaoning Zhang;Qigan Sun;Yibei Liu;Xudong Wang;Pengcheng Zheng;Chenghao Li;Sihan Cao;Caiyan Qin;Jiwei Wei;Yang Yang",
+        "authorids": "~Jiaquan_Zhang2;~Chaoning_Zhang1;~Qigan_Sun1;~Yibei_Liu1;~Xudong_Wang17;~Pengcheng_Zheng1;~Chenghao_Li3;~Sihan_Cao1;~Caiyan_Qin1;~Jiwei_Wei1;~Yang_Yang37",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1382304,7 +1382304,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025scmf,\ntitle={{SCMF}: Lightweight Retrieval-Augmented Generation via Retrieval Vector Compression},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=dDBT2N3wLG},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhang2025scmf,\ntitle={{SCMF}: Lightweight Retrieval-Augmented Generation via Retrieval Vector Compression},\nauthor={Jiaquan Zhang and Chaoning Zhang and Qigan Sun and Yibei Liu and Xudong Wang and Pengcheng Zheng and Chenghao Li and Sihan Cao and Caiyan Qin and Jiwei Wei and Yang Yang},\nyear={2025},\nurl={https://openreview.net/forum?id=dDBT2N3wLG}\n}",
         "github": "",
         "project": "",
         "reviewers": "4DSV;2SvU;Q9LQ;Azzi",
@@ -1382381,11 +1382381,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            11,
             0
         ],
         "corr_rating_confidence": -0.5,
@@ -1382936,7 +1382936,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1404137,7 +1404137,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            15,
             0
         ],
         "authors#_avg": [
@@ -1406595,14 +1406595,14 @@
         "id": "dryNT8UgEn",
         "title": "How far can we go with ImageNet for Text-to-Image generation?",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Recent text-to-image (T2I) generation models have achieved remarkable results by training on billion-scale datasets, following a `bigger is better' paradigm that prioritizes data quantity over availability (closed vs open source) and reproducibility (data decay vs established collections). We challenge this established paradigm by demonstrating that one can match or outperform models trained on massive web-scraped collections, using only ImageNet enhanced with well-designed text and image augmentations. With this much simpler setup, we achieve a overall score over SD-XL on GenEval and on DPGBench while using just 1/10th the parameters and 1/1000th the training images. This opens the way for more reproducible research as ImageNet is a widely available dataset and our standardized training setup does not require massive compute resources.",
         "keywords": "Text-to-image diffusion models",
         "primary_area": "generative models",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Lucas Degeorge;Arijit Ghosh;Nicolas Dufour;David Picard;Vicky Kalogeiton",
+        "authorids": "~Lucas_Degeorge1;~Arijit_Ghosh1;~Nicolas_Dufour1;~David_Picard1;~Vicky_Kalogeiton2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1406613,7 +1406613,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025how,\ntitle={How far can we go with ImageNet for Text-to-Image generation?},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=dryNT8UgEn},\nnote={under review}\n}",
+        "bibtex": "@misc{\ndegeorge2025how,\ntitle={How far can we go with ImageNet for Text-to-Image generation?},\nauthor={Lucas Degeorge and Arijit Ghosh and Nicolas Dufour and David Picard and Vicky Kalogeiton},\nyear={2025},\nurl={https://openreview.net/forum?id=dryNT8UgEn}\n}",
         "github": "",
         "project": "",
         "reviewers": "MBbt;EEuG;EcbE",
@@ -1406690,11 +1406690,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1430000,7 +1430000,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1438214,7 +1438214,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1441100,7 +1441100,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1468184,7 +1468184,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1469754,14 +1469754,14 @@
         "id": "ffRPEtHtqZ",
         "title": "FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Large language models represent significant investments in computation, data, and engineering expertise, making them extraordinarily valuable intellectual assets.\nNevertheless, these AI assets remain vulnerable to unauthorized redistribution and commercial exploitation through fine-tuning or black-box deployment. Current fingerprinting approaches face a fundamental trade-off: intrinsic methods require full parameter access, while backdoor-based techniques employ statistically anomalous triggers easily detected and filtered by adversaries. \nTo address these limitations, we introduce FPEdit, a novel framework that leverages knowledge editing to inject semantically coherent natural language fingerprints through sparse, targeted modifications to model weights. \nOur approach introduces Promote-Suppress Value Vector Optimization, which simultaneously enhances target token likelihood while suppressing competing tokens, ensuring robust fingerprint integration without degrading core model functionality. \nExtensive experiments show that FPEdit achieves 95-100% fingerprint retention under both full-parameter fine-tuning and parameter-efficient adaptation, while preserving performance on downstream benchmarks. \nMoreover, FPEdit remains robust under quantization, pruning, and stochastic decoding, and can embed 10 fingerprint pairs into LLaMA2-7B in under 2 minutes using less than 30 GB of GPU memory, which represents a substantial reduction in resource requirements. \nThese advances establish FPEdit as the first fingerprinting approach to simultaneously achieve robustness against adaptation, resistance to detection, and preservation of model utility, thereby providing a minimally invasive solution for reliable provenance verification of large language models in adversarial deployment scenarios.",
         "keywords": "Large Language Model;Fingerprint;Copyright Tracking",
         "primary_area": "alignment, fairness, safety, privacy, and societal considerations",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Shida Wang;Chaohu Liu;Yubo Wang;Linli Xu",
+        "authorids": "~Shida_Wang2;~Chaohu_Liu1;~Yubo_Wang8;~Linli_Xu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1469772,7 +1469772,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025fpedit,\ntitle={{FPE}dit: Robust {LLM} Fingerprinting through Localized Parameter Editing},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ffRPEtHtqZ},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025fpedit,\ntitle={{FPE}dit: Robust {LLM} Fingerprinting through Localized Parameter Editing},\nauthor={Shida Wang and Chaohu Liu and Yubo Wang and Linli Xu},\nyear={2025},\nurl={https://openreview.net/forum?id=ffRPEtHtqZ}\n}",
         "github": "",
         "project": "",
         "reviewers": "rwEu;Jixw;Kynd;s6KN",
@@ -1469849,11 +1469849,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.4264014327112209,
@@ -1483280,7 +1483280,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1505964,11 +1505964,11 @@
         "reviewers": "hfWb;YHM6;vART;9zKi",
         "site": "https://openreview.net/forum?id=gpeXJ9UI07",
         "pdf_size": 0,
-        "rating": "0;4;4;8",
+        "rating": "4;4;4;8",
         "confidence": "4;3;3;4",
-        "soundness": "1;3;3;4",
-        "contribution": "1;2;2;3",
-        "presentation": "1;3;2;3",
+        "soundness": "3;3;3;4",
+        "contribution": "3;2;2;3",
+        "presentation": "2;3;2;3",
         "wc_summary": "31;101;42;84",
         "wc_strengths": "11;63;36;83",
         "wc_weaknesses": "5;119;53;301",
@@ -1505979,24 +1505979,24 @@
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            4.0,
-            2.8284271247461903
+            5.0,
+            1.7320508075688772
         ],
         "confidence_avg": [
             3.5,
             0.5
         ],
         "soundness_avg": [
-            2.75,
-            1.0897247358851685
+            3.25,
+            0.4330127018922193
         ],
         "contribution_avg": [
-            2.0,
-            0.7071067811865476
+            2.5,
+            0.5
         ],
         "presentation_avg": [
-            2.25,
-            0.82915619758885
+            2.5,
+            0.5
         ],
         "wc_summary_avg": [
             64.5,
@@ -1506035,14 +1506035,14 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.0,
+        "corr_rating_confidence": 0.5773502691896257,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1511807,7 +1511807,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1516136,7 +1516136,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1523240,7 +1523240,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1546106,7 +1546106,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1561091,7 +1561091,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1568861,7 +1568861,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1571784,62 +1571784,62 @@
         "bibtex": "@inproceedings{\nanonymous2025what,\ntitle={What Matters in {RL}-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ia5tQ6EebJ},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "xY4S;ehQz;HZyA",
+        "reviewers": "xY4S;eFcx;ehQz;HZyA",
         "site": "https://openreview.net/forum?id=ia5tQ6EebJ",
         "pdf_size": 0,
-        "rating": "2;6;6",
-        "confidence": "5;4;4",
-        "soundness": "2;3;3",
-        "contribution": "1;2;2",
-        "presentation": "2;3;2",
-        "wc_summary": "241;69;54",
-        "wc_strengths": "93;60;25",
-        "wc_weaknesses": "111;130;35",
-        "wc_questions": "169;62;236",
-        "wc_review": "614;321;350",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;4;6;6",
+        "confidence": "5;2;4;4",
+        "soundness": "2;4;3;3",
+        "contribution": "1;3;2;2",
+        "presentation": "2;3;3;2",
+        "wc_summary": "241;79;69;54",
+        "wc_strengths": "93;41;60;25",
+        "wc_weaknesses": "111;237;130;35",
+        "wc_questions": "169;24;62;236",
+        "wc_review": "614;381;321;350",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            4.666666666666667,
-            1.8856180831641267
+            4.5,
+            1.6583123951777
         ],
         "confidence_avg": [
-            4.333333333333333,
-            0.4714045207910317
+            3.75,
+            1.0897247358851685
         ],
         "soundness_avg": [
-            2.6666666666666665,
-            0.4714045207910317
+            3.0,
+            0.7071067811865476
         ],
         "contribution_avg": [
-            1.6666666666666667,
-            0.4714045207910317
+            2.0,
+            0.7071067811865476
         ],
         "presentation_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "wc_summary_avg": [
-            121.33333333333333,
-            84.83840849258993
+            110.75,
+            75.72441812255806
         ],
         "wc_strengths_avg": [
-            59.333333333333336,
-            27.764885897278397
+            54.75,
+            25.321680433968044
         ],
         "wc_weaknesses_avg": [
-            92.0,
-            41.04469108991645
+            128.25,
+            72.15045044904433
         ],
         "wc_questions_avg": [
-            155.66666666666666,
-            71.6581390275305
+            122.75,
+            84.27151060708476
         ],
         "wc_review_avg": [
-            428.3333333333333,
-            131.81889933625686
+            416.5,
+            115.98383508058353
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1571858,14 +1571858,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -0.9999999999999998,
+        "corr_rating_confidence": -0.2075143391598224,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1580072,7 +1580072,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1582863,14 +1582863,14 @@
         "id": "iu5fSByDUZ",
         "title": "GraphPCB: Graph-encoded Printed Circuit Board Datasets for Component Classification with Graph Neural Networks",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "We present a graph-based framework for Printed Circuit Board (PCB) image analysis, targeting core hardware assurance tasks such as IC segmentation and component identification. PCB images differ fundamentally from natural images in texture simplicity, spatial sparsity, and lack of informative backgrounds, limiting the effectiveness of traditional vision models. We propose GraphPCB, a generic scheme that transforms PCB images into graph-structured data, where nodes represent localized component regions and edges encode spatial proximity. This representation enables the application of Graph Neural Networks (GNNs) to PCB understanding, offering robustness to geometric variations and background noise. We release two high-quality GraphPCB datasets and analyze their structural properties, including graph heterophily and domain-specific challenges. Extensive experiments with various GNN architectures provide benchmarks and insights, establishing GraphPCB as a new testbed for node classification in structured visual domains.",
         "keywords": "Graph neural networks;PCB images;node classification;IC identification",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "/attachment/352999a96369cca660b3000f214ccb8e02ea70a6.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Lan Tian;Wang Yuhang;Feng Ji;Xinrui Wang;Deruo Cheng;Yiqiong Shi;Bah-Hwee Gwee",
+        "authorids": "~Lan_Tian2;~Wang_Yuhang6;~Feng_Ji2;~Xinrui_Wang6;~Deruo_Cheng1;~Yiqiong_Shi1;~Bah-Hwee_Gwee1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1582881,7 +1582881,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025graphpcb,\ntitle={Graph{PCB}: Graph-encoded Printed Circuit Board Datasets for Component Classification with Graph Neural Networks},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=iu5fSByDUZ},\nnote={under review}\n}",
+        "bibtex": "@misc{\ntian2025graphpcb,\ntitle={Graph{PCB}: Graph-encoded Printed Circuit Board Datasets for Component Classification with Graph Neural Networks},\nauthor={Lan Tian and Wang Yuhang and Feng Ji and Xinrui Wang and Deruo Cheng and Yiqiong Shi and Bah-Hwee Gwee},\nyear={2025},\nurl={https://openreview.net/forum?id=iu5fSByDUZ}\n}",
         "github": "",
         "project": "",
         "reviewers": "vWLs;nZFC;zRZz;XDNN",
@@ -1582958,11 +1582958,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -1592615,7 +1592615,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1602938,7 +1602938,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1607822,7 +1607822,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1616480,7 +1616480,7 @@
             0
         ],
         "replies_avg": [
-            13,
+            14,
             0
         ],
         "authors#_avg": [
@@ -1621142,7 +1621142,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1621158,14 +1621158,14 @@
         "id": "k09j9264Nc",
         "title": "Midas: Meta-weighted Diffusion Alignment for Robust Multimodal Human Sensing",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Multimodal human sensing systems promise unprecedented accuracy and robustness but are often hindered by a critical real-world challenge: missing modalities, which can occur due to hardware failures, environmental interference (e.g., adverse weather for LiDAR), deployment cost constraints, or communication dropouts. The failure of one or more sensors can severely degrade performance and is exacerbated by two fundamental and intertwined issues: the Representation Gap between heterogeneous sensor data and the Contamination Effect from low-quality modalities. In this paper, we propose Midas, a novel framework that tackles both root challenges simultaneously through a synergistic integration of meta-learning and knowledge diffusion. To mitigate the Contamination Effect, Midas employs a meta-learning-driven weighting mechanism that dynamically learns to down-weight the influence of noisy, low-contributing modalities. To bridge the Representation Gap, it introduces a diffusion-based knowledge distillation paradigm where an information-rich teacher, formed from all available modalities, refines the features of each student modality. Comprehensive experiments on the large-scale  MM-Fi and XRF55 datasets demonstrate that Midas achieves state-of-the-art performance, significantly improving robustness in numerous missing-modality scenarios. Our work provides a unified and effective solution for building robust, real-world multimodal human sensing systems.",
         "keywords": "Human Sensing;Multimodal Learning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/39146362789d3e8ea558251214d71c3d24ffe018.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Pengcheng Weng;Yanyu Qian;Yangxin Xu;Fei Wang",
+        "authorids": "~Pengcheng_Weng1;~Yanyu_Qian1;~Yangxin_Xu1;~Fei_Wang17",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1621176,7 +1621176,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025midas,\ntitle={Midas: Meta-weighted Diffusion Alignment for Robust Multimodal Human Sensing},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=k09j9264Nc},\nnote={under review}\n}",
+        "bibtex": "@misc{\nweng2025midas,\ntitle={Midas: Meta-weighted Diffusion Alignment for Robust Multimodal Human Sensing},\nauthor={Pengcheng Weng and Yanyu Qian and Yangxin Xu and Fei Wang},\nyear={2025},\nurl={https://openreview.net/forum?id=k09j9264Nc}\n}",
         "github": "",
         "project": "",
         "reviewers": "rwyZ;K4zt;hcgj;HVjD;g746",
@@ -1621253,11 +1621253,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1630466,7 +1630466,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1644896,7 +1644896,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1664892,14 +1664892,14 @@
         "id": "l9PRgLMqu9",
         "title": "LASS-ODE: When Large Foundation Models Meet Small Unified ODE Representations",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Foundation models have transformed language and vision through large-scale attention over discrete tokens, yet progress on continuous-time dynamical signals remains limited. A core challenge is the absence of a natural token-based representation for ODE trajectories, which evolve continuously, span multiple temporal resolutions, and are often partially observed. We introduce the Tokenized ODE Representation (TOR), which maps trajectories into latent tokens governed by local and linear Neural ODEs, leveraging their linearity for efficient scaling. To capture both temporal context and shared structure across systems, we design a hybrid attention architecture that alternates intra-system self-attention, modeling dependencies within each trajectory, and inter-system cross-attention, supported by a Dynamic ODE Hub (DOH) that serves as a shared repository for inter-system knowledge exchange. These components form LASS-ODE (LArge-Scale Small ODE), a foundation model with strong capacity for interpolation, extrapolation, probabilistic inference, and few-shot generalization across diverse ODE systems.",
         "keywords": "Foundation model;continuous-time ODE data;interpolation;extrapolation;few-shot inference;generalization",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "/attachment/c2140b7e107b50294263c81c6d8b5f6f8db88ab8.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Haoran Li;CHENHAN XIAO;Lihao Mai;Hamad alduaij;Yang Weng;Erik Blasch",
+        "authorids": "~Haoran_Li6;~CHENHAN_XIAO1;~Lihao_Mai1;~Hamad_alduaij1;~Yang_Weng1;~Erik_Blasch1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1664910,7 +1664910,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025lassode,\ntitle={{LASS}-{ODE}: When Large Foundation Models Meet Small Unified {ODE} Representations},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=l9PRgLMqu9},\nnote={under review}\n}",
+        "bibtex": "@misc{\nli2025lassode,\ntitle={{LASS}-{ODE}: When Large Foundation Models Meet Small Unified {ODE} Representations},\nauthor={Haoran Li and CHENHAN XIAO and Lihao Mai and Hamad alduaij and Yang Weng and Erik Blasch},\nyear={2025},\nurl={https://openreview.net/forum?id=l9PRgLMqu9}\n}",
         "github": "",
         "project": "",
         "reviewers": "HxGY;76yg;EVL8;VNEo",
@@ -1664987,11 +1664987,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.816496580927726,
@@ -1668539,7 +1668539,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1672646,7 +1672646,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1674533,7 +1674533,7 @@
             0
         ],
         "replies_avg": [
-            13,
+            17,
             0
         ],
         "authors#_avg": [
@@ -1677197,7 +1677197,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1711496,7 +1711496,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1765463,7 +1765463,7 @@
         "abstract": "Large Language Model (LLM) agents show great promise for complex multi-turn tool-use tasks, but their development is often hampered by the extreme scarcity of high-quality training data. Supervised fine-tuning (SFT) on synthetic data leads to overfitting, whereas standard reinforcement learning (RL) struggles with a critical cold-start problem and training instability. To address these challenges, we introduce $\\textbf{Environment Tuning}$, a novel training paradigm that enables agents to learn complex behaviors directly from problem instances without relying on pre-collected expert trajectories. $\\textbf{Environment Tuning}$ orchestrates this learning process through a structured curriculum, actionable environment augmentation that provides corrective feedback, and fine-grained progress rewards to ensure stable and efficient exploration. Using only 400 problem instances from Berkeley Function-Calling Leaderboard (BFCL) benchmark, our method not only achieves competitive in-distribution performance against strong baselines but also demonstrates superior out-of-distribution generalization, overcoming the performance collapse common to SFT-based approaches. Our work presents a paradigm shift from supervised fine-tuning on static trajectories to dynamic, environment-based exploration, paving the way for training more robust and data-efficient agents.",
         "keywords": "Large Language Models;LLM Agents;Tool Learning;Multi-turn tool use;Reinforcement Learning",
         "primary_area": "foundation or frontier models, including LLMs",
-        "supplementary_material": "/attachment/f865261931b58f0b99bf7a8e009578fc629e6728.zip",
+        "supplementary_material": "/attachment/3895c152a3ebbe662258d2cc2e9fb1f6b5c83a01.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1771103,7 +1771103,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1774322,7 +1774322,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1784756,7 +1784756,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1787769,14 +1787769,14 @@
         "id": "ofOdN0RTDz",
         "title": "CircuitProbe: Dissecting Spatiotemporal Visual Semantics with Circuit Tracing",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The processing mechanisms underlying language and image understanding in large vision-language models (LVLMs) have been extensively studied. However, the internal reasoning mechanisms of LVLMs for spatiotemporal understanding remain poorly understood. In this work, we introduce a systematic, circuit-based framework designed to investigate how spatiotemporal visual semantics are represented and processed within these LVLMs. Specifically, our framework comprises three circuits: visual auditing circuit, semantic tracing circuit, and attention flow circuit. Through the lens of these circuits, we discover that visual semantics are highly localized to specific object tokens--removing these tokens can degrade model performance by up to 92.6%. Furthermore, we identify that interpretable concepts of objects and actions emerge and become progressively refined in the middle-to-late layers of LVLMs. In contrary to the current works that solely focus on objects in one image, we reveal that the middle-to-late layers of LVLMs exhibit specialized functional localization for spatiotemporal semantics. Our findings offer significant mechanistic insights into spatiotemporal semantics analysis of LVLMs, laying a foundation for designing more robust and interpretable models.",
         "keywords": "Video Understanding;Multimodal Language Model;Interpretability",
         "primary_area": "interpretability and explainable AI",
         "supplementary_material": "/attachment/8d85c1b886bffd394b0b23102b46370ab6b0c424.pdf",
-        "author": "",
-        "authorids": "",
+        "author": "Yiming Zhang;Chengzhang Yu;Zhuokai Zhao;Kun Wang;Qiankun Li;Zihan Chen;Yang Liu;Zenghui Ding;Yining Sun",
+        "authorids": "~Yiming_Zhang20;~Chengzhang_Yu1;~Zhuokai_Zhao1;~Kun_Wang15;~Qiankun_Li1;~Zihan_Chen14;~Yang_Liu36;~Zenghui_Ding1;~Yining_Sun2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1787787,7 +1787787,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025circuitprobe,\ntitle={CircuitProbe: Dissecting Spatiotemporal Visual Semantics with Circuit Tracing},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ofOdN0RTDz},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhang2025circuitprobe,\ntitle={CircuitProbe: Dissecting Spatiotemporal Visual Semantics with Circuit Tracing},\nauthor={Yiming Zhang and Chengzhang Yu and Zhuokai Zhao and Kun Wang and Qiankun Li and Zihan Chen and Yang Liu and Zenghui Ding and Yining Sun},\nyear={2025},\nurl={https://openreview.net/forum?id=ofOdN0RTDz}\n}",
         "github": "",
         "project": "",
         "reviewers": "RrQL;aGNK;13GA;RRKb",
@@ -1787864,11 +1787864,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            9,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1797854,7 +1797854,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1806734,7 +1806734,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1816946,7 +1816946,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1833374,7 +1833374,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1834151,7 +1834151,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1849691,7 +1849691,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            17,
             0
         ],
         "authors#_avg": [
@@ -1876442,7 +1876442,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1879217,7 +1879217,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1882436,7 +1882436,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1886321,7 +1886321,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            23,
             0
         ],
         "authors#_avg": [
@@ -1898309,7 +1898309,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1905635,7 +1905635,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1916529,14 +1916529,14 @@
         "id": "sOCKQ2UWKs",
         "title": "UniArt: Generating 3D articulated objects with open-set articulation beyond retrieval",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Articulated objects are central in the field of realistic simulation and robot learning, enabling dynamic interactions and task-oriented manipulation. However, manually annotating these objects is labor-intensive, motivating the need for automated generation solutions. Previous methods usually rely on retrieving part structures from existing datasets, which inherently restricts diversity and causes geometric misalignment. To tackle these challenges, we present UniArt, an end-to-end framework that directly synthesizes 3D meshes and articulation parameters in a unified manner. We decompose the problem into three correlated tasks: geometry generation, part segmentation, and articulation prediction, and then integrate them into a single diffusion-based architecture. By formulating both part segmentation and joint parameter inference as open-set problems, our approach incorporates open-world knowledge to generalize beyond training categories. We further enhance training with a large-scale, enriched dataset built from PartNet-Mobility, featuring expanded part and material diversity. Extensive evaluations show that UniArt substantially outperforms existing retrieval-based methods in mesh quality and articulation accuracy, especially under open-set conditions. Code will be publicly available to foster future research in the 3D generation and robotics societies.",
         "keywords": "3d Generation;Embodied AI",
         "primary_area": "applications to robotics, autonomy, planning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Bu Jin;Weize Li;Songen Gu;Yupeng Zheng;Yuhang Zheng;Zhengyi Zhou;Yao Yao",
+        "authorids": "~Bu_Jin1;~Weize_Li1;~Songen_Gu2;~Yupeng_Zheng1;~Yuhang_Zheng2;~Zhengyi_Zhou4;~Yao_Yao1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1916547,7 +1916547,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025uniart,\ntitle={UniArt: Generating 3D articulated objects with open-set articulation beyond retrieval},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=sOCKQ2UWKs},\nnote={under review}\n}",
+        "bibtex": "@misc{\njin2025uniart,\ntitle={UniArt: Generating 3D articulated objects with open-set articulation beyond retrieval},\nauthor={Bu Jin and Weize Li and Songen Gu and Yupeng Zheng and Yuhang Zheng and Zhengyi Zhou and Yao Yao},\nyear={2025},\nurl={https://openreview.net/forum?id=sOCKQ2UWKs}\n}",
         "github": "",
         "project": "",
         "reviewers": "wxyC;knsF;qEA2;9dVL",
@@ -1916624,11 +1916624,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -1930610,7 +1930610,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1935716,7 +1935716,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1948830,14 +1948830,14 @@
         "id": "tKO2l8oICt",
         "title": "Improving Visual Discriminability of CLIP for Training-Free Open-Vocabulary Semantic Segmentation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Extending CLIP models to semantic segmentation remains challenging due to the misalignment between their image-level pre-training objectives and the pixel-level visual understanding required for dense prediction. While prior efforts have achieved encouraging results by reorganizing the final layer and features, they often inherit the global alignment bias of preceding layers, leading to suboptimal segmentation performance. In this work, we propose LHT-CLIP, a novel training-free framework that systematically exploits the visual discriminability of CLIP across layer, head, and token levels. Through comprehensive analysis, we reveal three key insights: (i) the final layers primarily strengthen image\u2013text alignment with sacrifice of visual discriminability (e.g., last 3 layers in ViT-B/16 and 8 layers in ViT-L/14), partly due to the emergence of anomalous tokens; (ii) a subset of attention heads (e.g., 10 out of 144 in ViT-B/16) display consistently strong visual discriminability across datasets; (iii) abnormal tokens display sparse and consistent activation pattern compared to normal tokens. Based on these findings, we propose three complementary techniques: semantic-spatial reweighting, selective head enhancement, and abnormal token replacement to effectively restore visual discriminability and improve segmentation performance without any additional training, auxiliary pre-trained networks, or extensive hyperparameter tuning. Extensive experiments on 8 common semantic segmentation benchmarks demonstrate that LHT-CLIP achieves state-of-the-art performance across diverse scenarios, highlighting its effectiveness and practicality for real-world deployment.",
         "keywords": "CLIP\uff0cAttention;Training-Free;Open Vocabulary;Semantic Segmentation",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/5b2fee34788b22234502f16b666d082452920ad7.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Jinxin Zhou;Jiachen Jiang;Zhihui Zhu",
+        "authorids": "~Jinxin_Zhou2;~Jiachen_Jiang1;~Zhihui_Zhu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1948848,7 +1948848,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025improving,\ntitle={Improving Visual Discriminability of {CLIP} for Training-Free Open-Vocabulary Semantic Segmentation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=tKO2l8oICt},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzhou2025improving,\ntitle={Improving Visual Discriminability of {CLIP} for Training-Free Open-Vocabulary Semantic Segmentation},\nauthor={Jinxin Zhou and Jiachen Jiang and Zhihui Zhu},\nyear={2025},\nurl={https://openreview.net/forum?id=tKO2l8oICt}\n}",
         "github": "",
         "project": "",
         "reviewers": "4ptK;YFs3;mWk7;uquu",
@@ -1948925,11 +1948925,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.7071067811865476,
@@ -1950479,7 +1950479,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1972235,7 +1972235,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1979006,7 +1979006,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1980338,7 +1980338,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1995101,7 +1995101,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1995545,7 +1995545,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1995767,7 +1995767,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2016318,14 +2016318,14 @@
         "id": "vKjJtA6GJQ",
         "title": "TANGO: Tokenized Analysis-by-synthesis for 3D Nuclei Segmentation Correction",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Accurate 3D nuclei segmentation underpins studies from development and regeneration to large-scale anatomy. Landmark volumetric EM datasets, whole-brain Drosophila (FAFB) and petabyte-scale mouse brain tissue (MICrONS), have enabled cellular-scale mapping, yet their released nuclei segmentations retain errors despite extensive proofreading. The last mile\u2014rare, heterogeneous false merges/splits and missing-slice or misalignment artifacts\u2014remains difficult, where discriminative correction models overfit to training degradations and generalize poorly.\nWe introduce TANGO, a tokenized analysis-by-synthesis framework for 3D nuclei segmentation correction. TANGO tokenizes the erroneous seed mask into sub-nucleus fragments and generatively completes multiple shape hypotheses conditioned on the image and tokens. Training applies slice-patch masking to complete-nucleus annotations (without using error labels). A lightweight ordinal selector ranks overlapping hypotheses, and simple NMS decodes a reliable subset of fixes.\nTo evaluate at the brain scale, we curate NucEMFix, a systematic benchmark of nuclei error cases across FAFB and MICrONS (8,000+ annotated error nuclei). Beyond EM, we assess generality on public C. elegans L1 confocal volumes. TANGO consistently improves F1 over strong baselines, achieving state-of-the-art correction without prompt engineering or error-specific supervision. We release NucEMFix, code, and evaluation scripts for reproducible assessment and for quantifying proofreading-time savings.",
         "keywords": "Error correction;Nuclei Segmentation;Connectomics",
         "primary_area": "applications to neuroscience & cognitive science",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Mingzhi Wang;Peng Liu;Yi Zhao;Bingzhang Wang;Jia Wan;Liqiang Nie;Donglai Wei",
+        "authorids": "~Mingzhi_Wang2;~Peng_Liu11;~Yi_Zhao27;~Bingzhang_Wang1;~Jia_Wan2;~Liqiang_Nie2;~Donglai_Wei1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2016336,7 +2016336,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025tango,\ntitle={{TANGO}: Tokenized Analysis-by-synthesis for 3D Nuclei Segmentation Correction},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=vKjJtA6GJQ},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025tango,\ntitle={{TANGO}: Tokenized Analysis-by-synthesis for 3D Nuclei Segmentation Correction},\nauthor={Mingzhi Wang and Peng Liu and Yi Zhao and Bingzhang Wang and Jia Wan and Liqiang Nie and Donglai Wei},\nyear={2025},\nurl={https://openreview.net/forum?id=vKjJtA6GJQ}\n}",
         "github": "",
         "project": "",
         "reviewers": "R8QH;48HC;zgrc;pM5H",
@@ -2016413,11 +2016413,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -2030732,7 +2030732,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            15,
             0
         ],
         "authors#_avg": [
@@ -2063382,14 +2063382,14 @@
         "id": "wdFdObhQnG",
         "title": "Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Large language models (LLMs) have demonstrated emergent in-context learning (ICL) capabilities across a range of tasks, including zero-shot time-series forecasting. We show that text-trained foundation models can accurately extrapolate spatiotemporal dynamics from discretized partial differential equation (PDE) solutions without fine-tuning or natural language prompting. Predictive accuracy improves with longer temporal contexts but degrades at finer spatial discretizations. In multi-step rollouts, where the model recursively predicts future spatial states over multiple time steps, errors grow algebraically with the time horizon, reminiscent of global error accumulation in classical finite-difference solvers. We interpret these trends as in-context neural scaling laws, where prediction quality varies predictably with both context length and output length. To better understand how LLMs are able to internally process PDE solutions so as to accurately roll them out, we analyze token-level output distributions and uncover a consistent ICL progression: beginning with syntactic pattern imitation, transitioning through an exploratory high-entropy phase, and culminating in confident, numerically grounded predictions.",
         "keywords": "Large Language Models;In-Context Learning;Partial Differential Equations;Spatiotemporal Dynamics;Zero-Shot Extrapolation;Numerical Analysis;Interpretability;AI4Science",
         "primary_area": "interpretability and explainable AI",
         "supplementary_material": "/attachment/88286bd2e421963f95642929e1f7c8b1215fe6b6.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Jiajun Bao;Nicolas Boulle;Toni J.B. Liu;Rapha\u00ebl Sarfati;Christopher Earls",
+        "authorids": "~Jiajun_Bao2;~Nicolas_Boulle1;~Toni_J.B._Liu1;~Rapha\u00ebl_Sarfati1;~Christopher_Earls1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2063400,7 +2063400,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025texttrained,\ntitle={Text-Trained {LLM}s Can Zero-Shot Extrapolate {PDE} Dynamics},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=wdFdObhQnG},\nnote={under review}\n}",
+        "bibtex": "@misc{\nbao2025texttrained,\ntitle={Text-Trained {LLM}s Can Zero-Shot Extrapolate {PDE} Dynamics},\nauthor={Jiajun Bao and Nicolas Boulle and Toni J.B. Liu and Rapha{\\\"e}l Sarfati and Christopher Earls},\nyear={2025},\nurl={https://openreview.net/forum?id=wdFdObhQnG}\n}",
         "github": "",
         "project": "",
         "reviewers": "ATXj;69VJ;CtL5;Z8eQ",
@@ -2063477,11 +2063477,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -2088008,7 +2088008,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2088119,7 +2088119,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2112983,7 +2112983,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            11,
             0
         ],
         "authors#_avg": [
@@ -2122418,7 +2122418,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            4,
             0
         ],
         "authors#_avg": [
@@ -2122862,7 +2122862,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            11,
             0
         ],
         "authors#_avg": [
@@ -2132297,7 +2132297,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -2139734,7 +2139734,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            10,
             0
         ],
         "authors#_avg": [
@@ -2163488,7 +2163488,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -2166929,7 +2166929,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2178140,7 +2178140,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
