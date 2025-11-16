@@ -6441,14 +6441,14 @@
         "id": "0BD2dCM4Ig",
         "title": "Two Sides of the Same Optimization Coin: Model Degradation and Representation Collapse in Graph Foundation Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Graph foundation models (GFMs), inspired by the success of LLMs, are designed to learn the optimal embedding function from multi-domain text-attributed graphs (pre-training) for the downstream cross-task generalization capability (fine-tuning). During our investigation, graph vector quantized-masked autoencoder (gVQ-MAE) stands out among the increasingly diverse landscape of GFM architectures. This is attributed to its ability to jointly encode topology and textual attributes from multiple domains into discrete embedding spaces with clear semantic boundaries. Despite its potential, domain generalization conflicts cause imperceptible pitfalls. In this paper, we instantiate two of them, and they are just like two sides of the same GFM optimization coin - Side 1 Model Degradation: The encoder and codebook fail to capture the diversity of inputs (e.g., social networks and molecular graphs); Side 2 Representation Collapse: The hidden embedding and codebook vector fail to preserve semantic separability due to constraints from narrow representation subspaces. These two pitfalls (sides) collectively impair the decoder and generate the low-quality reconstructed supervision, causing the GFM optimization dilemma during pre-training (coin). Through empirical investigation, we attribute the above challenges to Information Bottleneck and Regularization Deficit. To address them, we propose MoT (Mixture-of-Tinkers) - (1) Information Tinker for Two Pitfalls, which utilizes an edge-wise semantic fusion strategy and a mixture-of-codebooks with domain-aware routing to improve information capacity. (2) Regularization Tinker for Optimization Coin, which utilizes two additional regularizations to further improve gradient supervision in our proposed Information Tinker. Notably, as a flexible architecture, MoT adheres to the scaling laws of GFM, offering a controllable model scale. Compared to SOTA baselines, experiments on 22 datasets across 6 domains demonstrate that MoT achieves significant improvements in supervised (1.4%), few-shot (3.1%), and zero-shot (3.3%) scenarios.",
         "keywords": "Foundation Model; Graph Pre-training; Vector Quantization",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/fedf3aa3843901c06791f68b4f82d7bafef5c686.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Xunkai Li;Daohan Su;Sicheng Liu;Ru Zhang;Zhenjun Li;Bing Zhou;Rong-Hua Li;Guoren Wang",
+        "authorids": "~Xunkai_Li1;~Daohan_Su1;~Sicheng_Liu2;~Ru_Zhang8;~Zhenjun_Li1;~Bing_Zhou3;~Rong-Hua_Li2;~Guoren_Wang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -6459,7 +6459,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025two,\ntitle={Two Sides of the Same Optimization Coin: Model Degradation and Representation Collapse in Graph Foundation Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0BD2dCM4Ig},\nnote={under review}\n}",
+        "bibtex": "@misc{\nli2025two,\ntitle={Two Sides of the Same Optimization Coin: Model Degradation and Representation Collapse in Graph Foundation Models},\nauthor={Xunkai Li and Daohan Su and Sicheng Liu and Ru Zhang and Zhenjun Li and Bing Zhou and Rong-Hua Li and Guoren Wang},\nyear={2025},\nurl={https://openreview.net/forum?id=0BD2dCM4Ig}\n}",
         "github": "",
         "project": "",
         "reviewers": "Ap7s;QYw5;35LW;swej",
@@ -6536,11 +6536,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -19116,26 +19116,26 @@
         "bibtex": "@inproceedings{\nanonymous2025fitlight,\ntitle={FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=0XiGLcOpLK},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "k7c6;KQpA;iZx4",
+        "reviewers": "k7c6;iZx4;KQpA",
         "site": "https://openreview.net/forum?id=0XiGLcOpLK",
         "pdf_size": 0,
-        "rating": "2;4;4",
-        "confidence": "3;4;5",
-        "soundness": "2;2;3",
-        "contribution": "2;2;3",
-        "presentation": "3;2;3",
-        "wc_summary": "36;61;55",
-        "wc_strengths": "23;70;33",
-        "wc_weaknesses": "274;112;94",
-        "wc_questions": "274;105;2",
-        "wc_review": "607;348;184",
+        "rating": "2;4;6",
+        "confidence": "3;5;4",
+        "soundness": "2;3;2",
+        "contribution": "2;3;2",
+        "presentation": "3;3;2",
+        "wc_summary": "36;55;61",
+        "wc_strengths": "23;33;70",
+        "wc_weaknesses": "274;94;112",
+        "wc_questions": "274;2;105",
+        "wc_review": "607;184;348",
         "wc_reply_reviewers": "0;0;0",
         "wc_reply_authors": "0;0;0",
         "reply_reviewers": "0;0;0",
         "reply_authors": "0;0;0",
         "rating_avg": [
-            3.3333333333333335,
-            0.9428090415820634
+            4.0,
+            1.632993161855452
         ],
         "confidence_avg": [
             4.0,
@@ -19190,14 +19190,14 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.8660254037844387,
+        "corr_rating_confidence": 0.5,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -25517,7 +25517,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -34952,7 +34952,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -36284,7 +36284,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -41612,7 +41612,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            9,
             0
         ],
         "authors#_avg": [
@@ -42294,14 +42294,14 @@
         "id": "154r7u3LTJ",
         "title": "UMC: A Unified Approach for Resilient Control of Legged Robots Across Masked Malfunction Training",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Adaptation to unpredictable damages is crucial for autonomous legged robots, yet existing methods based on multi-policy or meta-learning frameworks face challenges like limited generalization and maintenance. In this work, we first provide a systematic categorization of eight representative malfunction scenarios, covering both detectable and undetectable cases. Then, we propose a novel model-free framework, \\textbf{U}nified \\textbf{M}alfunction \\textbf{C}ontroller (UMC). UMC employs a two-stage training pipeline: the first stage learns strong baseline locomotion in undamaged environments, while the second stage fine-tunes the controller with mixed malfunction scenarios to encourage adaptive and robust behavior. For detectable settings, we introduce a masking strategy that explicitly filters corrupted signals, preventing error propagation and enabling policies to rely on functional joints. UMC is compatible with both transformer and MLP backbones. Experiments across multiple humanoid and quadruped tasks show that UMC consistently reduces failure rates and improves task completion under diverse damage conditions. The source code and trained models will be made available to the public.",
         "keywords": "Embodied AI",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yu Qiu;Xin Lin;Runfa Li;Dizhe Zhang;Jingbo Wang;Xiangtai Li;Bo Du;Truong Nguyen;Lu Qi",
+        "authorids": "~Yu_Qiu4;~Xin_Lin1;~Runfa_Li1;~Dizhe_Zhang1;~Jingbo_Wang3;~Xiangtai_Li1;~Bo_Du3;~Truong_Nguyen1;~Lu_Qi1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -42312,7 +42312,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025umc,\ntitle={{UMC}: A Unified Approach for Resilient Control of Legged Robots Across Masked Malfunction Training},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=154r7u3LTJ},\nnote={under review}\n}",
+        "bibtex": "@misc{\nqiu2025umc,\ntitle={{UMC}: A Unified Approach for Resilient Control of Legged Robots Across Masked Malfunction Training},\nauthor={Yu Qiu and Xin Lin and Runfa Li and Dizhe Zhang and Jingbo Wang and Xiangtai Li and Bo Du and Truong Nguyen and Lu Qi},\nyear={2025},\nurl={https://openreview.net/forum?id=154r7u3LTJ}\n}",
         "github": "",
         "project": "",
         "reviewers": "BaMK;X7vm;4vVC;AyYD",
@@ -42389,11 +42389,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            9,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -67380,14 +67380,14 @@
         "id": "1qLZsyJN2t",
         "title": "The Information Game: Active Inference as Bilevel Optimization and a Game-Theoretic Benchmark for LLM Inquiry",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Large language models (LLMs) increasingly operate in settings where they must gather information rather than simply recall facts. We model this  task as a multi-street game of incomplete information casting each round of information gathering as a bilevel optimization: an inner variational Bayesian step that updates beliefs over a hidden target object, and an outer query-selection step that minimizes expected free energy, which is equivalent to maximizing expected information gain. This game-theoretic formulation motivates \\emph{Optimal Question Asking} (OQA), a benchmark designed as a tractable \"toy game\" to measure an agent's inquiry strategy by measuring how quickly an agent reduces uncertainty about the target. By solving this game for its Game-theory optimal (GTO) policy, we create a perfect oracle against which we measure the planning gap\u2014the expected number of suboptimal queries.On 25-object tasks, models like GPT-4o and Claude 3.5 Haiku exhibit a planning gap of 1-2 queries. On 100-object tasks, flagship models like GPT-o3 and Gemini 2.5 Pro, while closer to optimal, still show significant strategic leaks. Our synthetic datasets, which remove linguistic priors, reveal deeper deficits. OQA exposes inefficiencies invisible to answer-centric metrics, offering a controlled testbed for forging agents that play the information game not just exploitatively, but optimally.",
         "keywords": "active inference;bilevel optimization;question asking;query optimality;inference;LLMs",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/eb639218e64dadd32da00fed52d513b28b430fd5.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Sanchayan Dutta;Sai Niranjan Ramachandran;Suvrit Sra",
+        "authorids": "~Sanchayan_Dutta1;~Sai_Niranjan_Ramachandran1;~Suvrit_Sra1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -67398,7 +67398,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025the,\ntitle={The Information Game: Active Inference as Bilevel Optimization and a Game-Theoretic Benchmark for {LLM} Inquiry},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=1qLZsyJN2t},\nnote={under review}\n}",
+        "bibtex": "@misc{\ndutta2025the,\ntitle={The Information Game: Active Inference as Bilevel Optimization and a Game-Theoretic Benchmark for {LLM} Inquiry},\nauthor={Sanchayan Dutta and Sai Niranjan Ramachandran and Suvrit Sra},\nyear={2025},\nurl={https://openreview.net/forum?id=1qLZsyJN2t}\n}",
         "github": "",
         "project": "",
         "reviewers": "nWPQ;Lf2E;JAUX;53vQ",
@@ -67475,11 +67475,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -140640,14 +140640,14 @@
         "id": "3zb9ezHwAT",
         "title": "TRACE: Learning to Compute on Graphs",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Learning to compute\u2014the ability to model the functional behavior of a computational graph\u2014is a fundamental challenge for graph representation learning. Yet, the dominant paradigm is architecturally mismatched for this task. This flawed assumption, central to mainstream message passing neural networks (MPNNs) and their conventional Transformer-based counterparts, prevents models from capturing the position-aware, hierarchical nature of computation.\n    To resolve this, we introduce TRACE, a new paradigm built on an architecturally sound backbone and a principled learning objective. First, TRACE employs a Hierarchical Transformer that mirrors the step-by-step flow of computation, providing a faithful architectural backbone that replaces the flawed permutation-invariant aggregation. Second, we introduce function shift learning, a novel objective that decouples the learning problem. Instead of predicting the complex global function directly, our model is trained to predict only the \\textit{function shift}\u2014the discrepancy between the true global function and a simple local approximation that assumes input independence. We validate this paradigm on electronic circuits, one of the most complex and economically critical classes of computational graphs. Across a comprehensive suite of benchmarks, TRACE substantially outperforms all prior architectures. These results demonstrate that our architecturally-aligned backbone and decoupled learning objective form a more robust paradigm for the fundamental challenge of learning to compute on graphs.",
         "keywords": "Graph Transformer;Message Passing Neural Network;Electronic Design Automation",
         "primary_area": "learning on graphs and other geometries & topologies",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Ziyang Zheng;Jiaying Zhu;ZhouJingyi;Qiang Xu",
+        "authorids": "~Ziyang_Zheng1;~Jiaying_Zhu5;~ZhouJingyi1;~Qiang_Xu1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -140658,7 +140658,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025trace,\ntitle={{TRACE}: Learning to Compute on Graphs},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=3zb9ezHwAT},\nnote={under review}\n}",
+        "bibtex": "@misc{\nzheng2025trace,\ntitle={{TRACE}: Learning to Compute on Graphs},\nauthor={Ziyang Zheng and Jiaying Zhu and ZhouJingyi and Qiang Xu},\nyear={2025},\nurl={https://openreview.net/forum?id=3zb9ezHwAT}\n}",
         "github": "",
         "project": "",
         "reviewers": "ghHe;Ua4B;QkfA;xU9p",
@@ -140735,11 +140735,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            4,
             0
         ],
         "corr_rating_confidence": -0.7071067811865476,
@@ -200247,14 +200247,14 @@
         "id": "5e52LK46lm",
         "title": "Subject-Invariant Normalization: A Simple Principle for Robust Sequence Modeling",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Accurately estimating fixation depth from gaze signals is essential for applications in extended reality, robotics, and human-computer interaction. However, existing methods rely heavily on subject-specific calibration and dataset-specific preprocessing, limiting their generalization. We introduce FOVAL, a calibration-free framework for fixation depth estimation that combines spatiotemporal sequence models with a novel subject-invariant normalization strategy. Unlike prior work, FOVAL prevents train-test leakage by enforcing train-only normalization and leverages cross-dataset evaluation across three heterogeneous benchmarks (Robust Vision, Tufts Gaze Depth, Gaze-in-the-Wild). We further provide rigorous statistical testing (bootstrap confidence intervals, Wilcoxon tests, effect sizes) and noise robustness analysis to quantify stability under realistic perturbations. Empirically, FOVAL consistently outperforms alternative architectures (Transformers, TCNs, 1D-CNNs, GRUs) and prior baselines, reducing mean absolute error by up to 20% in cross-dataset scenarios. Our results demonstrate that subject-invariant normalization is a simple yet powerful principle for robust gaze-based depth estimation, with implications for broader subject-independent sequence modeling tasks.",
         "keywords": "subject-invariant learning;calibration-free models;fixation depth estimation;eye tracking;invariant normalization;cross-dataset generalization;spatiotemporal sequence modeling;robustness;LSTM;TCN;Transformer;deep learning;extended reality (XR);human-computer interaction",
         "primary_area": "applications to neuroscience & cognitive science",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Benedikt W. Hosp",
+        "authorids": "~Benedikt_W._Hosp1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -200265,7 +200265,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025subjectinvariant,\ntitle={Subject-Invariant Normalization: A Simple Principle for Robust Sequence Modeling},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=5e52LK46lm},\nnote={under review}\n}",
+        "bibtex": "@misc{\nhosp2025subjectinvariant,\ntitle={Subject-Invariant Normalization: A Simple Principle for Robust Sequence Modeling},\nauthor={Benedikt W. Hosp},\nyear={2025},\nurl={https://openreview.net/forum?id=5e52LK46lm}\n}",
         "github": "",
         "project": "",
         "reviewers": "WB1s;dGAg;v9vg;zhUf",
@@ -200342,11 +200342,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            1,
             0
         ],
         "corr_rating_confidence": -0.5773502691896257,
@@ -211331,7 +211331,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            11,
             0
         ],
         "authors#_avg": [
@@ -226242,62 +226242,62 @@
         "bibtex": "@inproceedings{\nanonymous2025cea,\ntitle={{CEA}: Context Engineering Agent for Enhanced Reliability and Sustainability in Deep Research Systems},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=6QUNblHtto},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "9Jgo;zA4Y;ijDE",
+        "reviewers": "9Jgo;zA4Y;RNRB;ijDE",
         "site": "https://openreview.net/forum?id=6QUNblHtto",
         "pdf_size": 0,
-        "rating": "2;2;4",
-        "confidence": "2;4;3",
-        "soundness": "2;2;3",
-        "contribution": "2;2;2",
-        "presentation": "1;2;2",
-        "wc_summary": "127;113;98",
-        "wc_strengths": "79;101;25",
-        "wc_weaknesses": "432;472;436",
-        "wc_questions": "206;25;107",
-        "wc_review": "844;711;666",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;2;4;4",
+        "confidence": "2;4;3;3",
+        "soundness": "2;2;4;3",
+        "contribution": "2;2;3;2",
+        "presentation": "1;2;2;2",
+        "wc_summary": "127;113;95;98",
+        "wc_strengths": "79;101;43;25",
+        "wc_weaknesses": "432;472;135;436",
+        "wc_questions": "206;25;13;107",
+        "wc_review": "844;711;286;666",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            2.6666666666666665,
-            0.9428090415820634
+            3.0,
+            1.0
         ],
         "confidence_avg": [
             3.0,
-            0.816496580927726
+            0.7071067811865476
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.75,
+            0.82915619758885
         ],
         "contribution_avg": [
-            2.0,
-            0.0
+            2.25,
+            0.4330127018922193
         ],
         "presentation_avg": [
-            1.6666666666666667,
-            0.4714045207910317
+            1.75,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
-            112.66666666666667,
-            11.841546445554409
+            108.25,
+            12.794041581923986
         ],
         "wc_strengths_avg": [
-            68.33333333333333,
-            31.930480039541457
+            62.0,
+            29.748949561287034
         ],
         "wc_weaknesses_avg": [
-            446.6666666666667,
-            17.987650084309387
+            368.75,
+            135.85171143566797
         ],
         "wc_questions_avg": [
-            112.66666666666667,
-            74.00150148626865
+            87.75,
+            77.26375282109976
         ],
         "wc_review_avg": [
-            740.3333333333334,
-            75.57042337375708
+            626.75,
+            207.33231176061295
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -226316,7 +226316,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
@@ -276377,7 +276377,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -294042,14 +294042,14 @@
         "id": "8K0xDNYx9Y",
         "title": "Data Pruning: Counting the Frequency of Loss Transition from Above-Average to Below-Average (FATB) During Early Training",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "In this paper, we propose a novel data pruning algorithm named FATB, which aims to remove potentially redundant data and inherent noise in the original dataset during model training, thereby identifying a core subset of data rich in informational value necessary for effective model training. To quantify the informational content of individual samples during training, we introduce a method that compares the loss value of each sample with the average loss of all samples, resulting in four fundamental scenarios. These scenarios can be combined to describe the transition process of a sample\u2019s loss relative to the average loss throughout training. The informational value of a sample is then derived based on the influence weights associated with these four scenarios. However, computing the influence weights for all four scenarios requires substantial computational resources. To address this challenge, we approximate the sample transition process using one core scenario\u2014where the loss of a single sample transitions from above the average loss to below it between adjacent phases of model training\u2014to estimate the sample\u2019s informational value. Additionally, since the informational contribution of a single sample may vary across different phases of training, we employ an early stopping iteration to determine the count of such core transitions, thereby obtaining a core subset of data enriched with high informational value for model training. Extensive experimental results demonstrate that the proposed method effectively eliminates redundant and noisy data, significantly enhances model performance when training on smaller target-scale core subsets, and remains effective on large-scale datasets.",
         "keywords": "Data Pruning;Loss Transition",
         "primary_area": "other topics in machine learning (i.e., none of the above)",
         "supplementary_material": "/attachment/e2c1a08b106519bad34b8fea9edc8b02d7ba7a05.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Fei Cai;Shuguang Li",
+        "authorids": "~Fei_Cai3;~Shuguang_Li4",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -294060,7 +294060,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025data,\ntitle={Data Pruning: Counting the Frequency of Loss Transition from Above-Average to Below-Average ({FATB}) During Early Training},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=8K0xDNYx9Y},\nnote={under review}\n}",
+        "bibtex": "@misc{\ncai2025data,\ntitle={Data Pruning: Counting the Frequency of Loss Transition from Above-Average to Below-Average ({FATB}) During Early Training},\nauthor={Fei Cai and Shuguang Li},\nyear={2025},\nurl={https://openreview.net/forum?id=8K0xDNYx9Y}\n}",
         "github": "",
         "project": "",
         "reviewers": "62iR;Emq6;8Yzc;Vrhe;h5vm",
@@ -294137,11 +294137,11 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -0.6666666666666667,
@@ -308678,7 +308678,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -355964,7 +355964,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -389523,34 +389523,34 @@
         "bibtex": "@inproceedings{\nanonymous2025oneprompt,\ntitle={One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=B8eIc9783S},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "L3Zd;QtZY;3X9D;Uup3",
+        "reviewers": "QtZY;3X9D;L3Zd;Uup3",
         "site": "https://openreview.net/forum?id=B8eIc9783S",
         "pdf_size": 0,
-        "rating": "4;6;6;8",
-        "confidence": "4;5;4;4",
-        "soundness": "2;3;3;3",
+        "rating": "6;6;6;8",
+        "confidence": "5;4;4;4",
+        "soundness": "3;3;3;3",
         "contribution": "3;3;3;2",
-        "presentation": "3;2;3;3",
-        "wc_summary": "127;68;126;87",
-        "wc_strengths": "86;53;87;67",
-        "wc_weaknesses": "149;231;146;223",
-        "wc_questions": "103;4;131;3",
-        "wc_review": "465;356;490;380",
+        "presentation": "2;3;3;3",
+        "wc_summary": "68;126;127;87",
+        "wc_strengths": "53;87;86;67",
+        "wc_weaknesses": "231;146;149;223",
+        "wc_questions": "4;131;103;3",
+        "wc_review": "356;490;465;380",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            6.0,
-            1.4142135623730951
+            6.5,
+            0.8660254037844386
         ],
         "confidence_avg": [
             4.25,
             0.4330127018922193
         ],
         "soundness_avg": [
-            2.75,
-            0.4330127018922193
+            3.0,
+            0.0
         ],
         "contribution_avg": [
             2.75,
@@ -389597,14 +389597,14 @@
             0
         ],
         "replies_avg": [
-            13,
+            15,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.0,
+        "corr_rating_confidence": -0.3333333333333333,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -399365,7 +399365,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -417569,7 +417569,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            13,
             0
         ],
         "authors#_avg": [
@@ -423230,7 +423230,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -437787,14 +437787,14 @@
         "id": "CVZFzsg1PJ",
         "title": "Rethinking Local Branching: A Reinforcement Learning Approach to Neighborhood Control",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "For Mixed-Integer Linear Programming (MILP), the Local Branching (LB) heuristic is a well-established local search technique. However, its performance is highly sensitive to the neighborhood size\u2014a parameter known to be instance-dependent. While recent learning-based methods aim to predict this numerical parameter, they often require extensive offline training data. This work introduces a novel approach that reframes neighborhood control in LB. Instead of predicting a size parameter, we learn a policy to select a subset of variables to which the LB constraint is applied. Our framework operates in two stages: first, we model the MILP instance as a graph and apply community detection to partition variables into structurally meaningful clusters, which serve as candidate neighborhoods. Second, a reinforcement learning (RL) agent dynamically selects the number of clusters to explore per iteration. Variables within chosen clusters are subjected to the LB constraint, while others are temporarily fixed. This results in an adaptive LB scheme where neighborhoods are defined by structural properties and dynamically scoped via RL\u2014rather than by a single numerical parameter. Computational experiments demonstrate that our method automates neighborhood design without prior data collection. Evaluations across diverse MIP problems show that the proposed framework consistently outperforms state-of-the-art learning-based LB models and the open-source solver SCIP.",
         "keywords": "Mixed-Integer Linear Programming; Local Branching; Reinforcement Learning; Neighborhood Search",
         "primary_area": "optimization",
         "supplementary_material": "/attachment/8e354ce89f692d8bb60ff47b85fe30e9dace22b0.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Keyu Wang;Chaolin Yang",
+        "authorids": "~Keyu_Wang5;~Chaolin_Yang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -437805,7 +437805,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025rethinking,\ntitle={Rethinking Local Branching: A Reinforcement Learning Approach to Neighborhood Control},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=CVZFzsg1PJ},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025rethinking,\ntitle={Rethinking Local Branching: A Reinforcement Learning Approach to Neighborhood Control},\nauthor={Keyu Wang and Chaolin Yang},\nyear={2025},\nurl={https://openreview.net/forum?id=CVZFzsg1PJ}\n}",
         "github": "",
         "project": "",
         "reviewers": "WQ8V;Bgrp;sUAf;H5BD",
@@ -437882,11 +437882,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -456086,7 +456086,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -463412,7 +463412,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            23,
             0
         ],
         "authors#_avg": [
@@ -467741,7 +467741,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            12,
             0
         ],
         "authors#_avg": [
@@ -499931,7 +499931,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -556874,7 +556874,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -588731,7 +588731,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            11,
             0
         ],
         "authors#_avg": [
@@ -621627,59 +621627,59 @@
         "reviewers": "a8WJ;jzfT;qWe6;BCER",
         "site": "https://openreview.net/forum?id=HlsFKjrHSw",
         "pdf_size": 0,
-        "rating": "2;4;6;6",
-        "confidence": "5;4;4;4",
+        "rating": "2;6;6;6",
+        "confidence": "5;3;4;4",
         "soundness": "2;3;3;3",
-        "contribution": "2;2;3;3",
+        "contribution": "2;3;3;3",
         "presentation": "3;3;3;3",
-        "wc_summary": "53;88;65;136",
-        "wc_strengths": "36;69;163;59",
-        "wc_weaknesses": "115;251;125;66",
-        "wc_questions": "20;62;31;16",
-        "wc_review": "224;470;384;277",
+        "wc_summary": "53;147;65;136",
+        "wc_strengths": "36;91;163;59",
+        "wc_weaknesses": "115;82;125;66",
+        "wc_questions": "20;208;31;16",
+        "wc_review": "224;528;384;277",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            4.5,
-            1.6583123951777
+            5.0,
+            1.7320508075688772
         ],
         "confidence_avg": [
-            4.25,
-            0.4330127018922193
+            4.0,
+            0.7071067811865476
         ],
         "soundness_avg": [
             2.75,
             0.4330127018922193
         ],
         "contribution_avg": [
-            2.5,
-            0.5
+            2.75,
+            0.4330127018922193
         ],
         "presentation_avg": [
             3.0,
             0.0
         ],
         "wc_summary_avg": [
-            85.5,
-            31.752952618614856
+            100.25,
+            41.64957982981341
         ],
         "wc_strengths_avg": [
-            81.75,
-            48.41164632606497
+            87.25,
+            47.89767739671726
         ],
         "wc_weaknesses_avg": [
-            139.25,
-            68.27288993443884
+            97.0,
+            23.947860029656095
         ],
         "wc_questions_avg": [
-            32.25,
-            18.0329559418305
+            68.75,
+            80.58341951046754
         ],
         "wc_review_avg": [
-            338.75,
-            95.20340067455574
+            353.25,
+            116.19245887750203
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -621705,7 +621705,7 @@
             0,
             0
         ],
-        "corr_rating_confidence": -0.8703882797784891,
+        "corr_rating_confidence": -0.816496580927726,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -638681,7 +638681,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -756452,7 +756452,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -763492,9 +763492,9 @@
         "presentation": "2;3;3;3",
         "wc_summary": "94;135;39;75",
         "wc_strengths": "52;182;65;120",
-        "wc_weaknesses": "387;287;16;46",
+        "wc_weaknesses": "362;287;16;46",
         "wc_questions": "64;1;1;37",
-        "wc_review": "597;605;121;278",
+        "wc_review": "572;605;121;278",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
@@ -763528,16 +763528,16 @@
             51.38762010445706
         ],
         "wc_weaknesses_avg": [
-            184.0,
-            157.3896438778613
+            177.75,
+            149.50313541862593
         ],
         "wc_questions_avg": [
             25.75,
             26.52710877574109
         ],
         "wc_review_avg": [
-            400.25,
-            208.30191429749271
+            394.0,
+            202.60182625040673
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -783314,7 +783314,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
@@ -791084,7 +791084,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -802628,7 +802628,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -819722,7 +819722,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -850712,7 +850712,7 @@
         "abstract": "Large language models (LLMs) are powerful generic generative models which can often generate responses that are plausible but not grounded in factual reality usually referred to as \u201challucinations\u201d. This is a challenge for using LLMs in applications that require answers that are factually correct. Two approaches have emerged as promising ways to mitigate this issue in the literature: (i) Conformal factuality filtering framework that provides statistical guarantee on the factual accuracy of claims in the final output, but cannot mitigate the hallucinations in the response generation and (ii) retrieval-augmented generation (RAG), which utilizes trusted knowledge bases as reference to guide the generation of response with the aim of reducing hallucinations but does not offer statistical guarantees. In this work, we unite these two approaches by integrating a conformal factuality framework with RAG and systematically study their performance to understand their strengths and limitations. We investigate the role of different key components: reference for generation and scoring functions, sensitivity to calibration data, LLM model capacity, reasoning and robustness to distractors. We propose three new metrics: \\emph{non-empty rate}, \\emph{non-vacuous empirical factuality},  and  \\emph{sufficient correctness} to address limitations of standard factuality measures that fail to meaningfully capture usefulness of the output. Our experiments are comprehensive spanning three datasets (FActScore, MATH, and Natural Questions) and multiple model families and sizes. Our results show the importance of designing scoring functions and highlight trade-offs between correctness and informativeness that standard metrics fail to capture. Together, our findings provide insights that are practically useful and sheds light on the importance of re-thinking LLM factuality.",
         "keywords": "LLMs;hallucinations;factuality;conformal prediction;retrieval-augmented generation (RAG);evaluation metrics;robustness",
         "primary_area": "foundation or frontier models, including LLMs",
-        "supplementary_material": "/attachment/379267681b8d97b8d3a03fc71b8de196b41cbe18.zip",
+        "supplementary_material": "/attachment/b36c7086f01e1d698fb7c3cf2b32ddea57a34239.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -850802,7 +850802,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -881660,7 +881660,7 @@
             0
         ],
         "replies_avg": [
-            24,
+            26,
             0
         ],
         "authors#_avg": [
@@ -902306,7 +902306,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -914072,7 +914072,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -944502,14 +944502,14 @@
         "id": "Qq4jSruxNE",
         "title": "LLM-GC: Temporal-Semantic Disentanglement with Retrieval Augmentation to Activate LLM's Ability for Multimodal Granger Causal Discovery",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Recent advances in neural Granger causal methods have shown promise in modeling temporal nonlinear dependencies. However, existing approaches remain confined to raw time-series data, inherently lacking contextual semantics and tending to overfit, which undermines their real-world applicability. To address these challenges, we propose \\textbf{LLM-GC}, a novel LLM-empowered multimodal Granger causality discovery framework that enriches unimodal temporal dynamics with semantic priors and world knowledge distilled from large language models (LLMs). LLM-GC leverages dual-modality encoding to capture and align both temporal and contextual dynamics by Cross-Modal Dual Retrieval while avoiding causal entanglement across modalities. To extract multimodal causal features, we introduce a causality-aware self-attention mechanism by simply inverting the conventional self-attention structure, enabling a shared causality augmenter to effectively highlight consistent causal patterns across modalities. LLM-GC is the first to bridge LLMs and Granger causality, and experiments on synthetic and real-world benchmark datasets demonstrate that LLM-GC outperforms existing state-of-the-art methods in Granger causal discovery.",
         "keywords": "Multimodel Granger Causal Discovery;Cross-Modality Alignment;Dual-Modal Time Series Encoding;Causality-Aware Self-Attention",
         "primary_area": "causal reasoning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Bo Liu;Hongyan Li;Shenda Hong",
+        "authorids": "~Bo_Liu53;~Hongyan_Li2;~Shenda_Hong1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -944520,7 +944520,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025llmgc,\ntitle={{LLM}-{GC}: Temporal-Semantic Disentanglement with Retrieval Augmentation to Activate {LLM}'s Ability for Multimodal Granger Causal Discovery},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=Qq4jSruxNE},\nnote={under review}\n}",
+        "bibtex": "@misc{\nliu2025llmgc,\ntitle={{LLM}-{GC}: Temporal-Semantic Disentanglement with Retrieval Augmentation to Activate {LLM}'s Ability for Multimodal Granger Causal Discovery},\nauthor={Bo Liu and Hongyan Li and Shenda Hong},\nyear={2025},\nurl={https://openreview.net/forum?id=Qq4jSruxNE}\n}",
         "github": "",
         "project": "",
         "reviewers": "N59e;VSKC;Z3TQ;EstF",
@@ -944597,11 +944597,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -952716,14 +952716,14 @@
         "id": "R4SgZt0wNd",
         "title": "PointArena: Probing Multimodal Grounding Through Language-Guided Pointing",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Pointing serves as a fundamental and intuitive mechanism for grounding language within visual contexts, with applications spanning robotics, assistive technologies, and interactive AI systems. While recent multimodal models have begun supporting pointing capabilities, existing benchmarks typically focus only on referential object localization. We introduce PointArena, a comprehensive platform for evaluating multimodal pointing across diverse reasoning scenarios. PointArena comprises three components: (1) Point-Bench, a curated dataset of approximately 1,000 pointing tasks across five reasoning categories; (2) Point-Battle, an interactive web-based arena facilitating blind, pairwise model comparisons, which has collected over 4,500 anonymized votes; and (3) Point-Act, a real-world robotic manipulation system allowing users to directly evaluate model pointing in practical settings. We conducted extensive evaluations of both state-of-the-art open-source and proprietary models. Results indicate that Molmo-72B consistently outperforms others, though proprietary models increasingly demonstrate comparable performance. Additionally, we find that supervised training targeting pointing tasks significantly improves performance. Across our multi-stage evaluation pipeline, we observe strong correlations, underscoring the critical role of precise pointing in enabling multimodal models to bridge abstract reasoning with real-world actions.",
         "keywords": "Multimodal Large Language Models (MLLMs);Pointing;Open Evaluation;Visual Grounding;Language-guided pointing;MLLM Arena",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "/attachment/14155c18556b23737ad5ff75709c41383197edc9.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Long Cheng;Jiafei Duan;Yi Ru Wang;Haoquan Fang;Boyang Li;Yushan Huang;Elvis Wang;Ainaz Eftekhar;Jason Lee;Wentao Yuan;Rose Hendrix;Noah A. Smith;Fei Xia;Dieter Fox;Ranjay Krishna",
+        "authorids": "~Long_Cheng6;~Jiafei_Duan1;~Yi_Ru_Wang1;~Haoquan_Fang1;~Boyang_Li10;~Yushan_Huang3;~Elvis_Wang1;~Ainaz_Eftekhar1;~Jason_Lee6;~Wentao_Yuan1;~Rose_Hendrix1;~Noah_A._Smith2;~Fei_Xia2;~Dieter_Fox1;~Ranjay_Krishna1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -952734,7 +952734,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025pointarena,\ntitle={PointArena: Probing Multimodal Grounding Through Language-Guided Pointing},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=R4SgZt0wNd},\nnote={under review}\n}",
+        "bibtex": "@misc{\ncheng2025pointarena,\ntitle={PointArena: Probing Multimodal Grounding Through Language-Guided Pointing},\nauthor={Long Cheng and Jiafei Duan and Yi Ru Wang and Haoquan Fang and Boyang Li and Yushan Huang and Elvis Wang and Ainaz Eftekhar and Jason Lee and Wentao Yuan and Rose Hendrix and Noah A. Smith and Fei Xia and Dieter Fox and Ranjay Krishna},\nyear={2025},\nurl={https://openreview.net/forum?id=R4SgZt0wNd}\n}",
         "github": "",
         "project": "",
         "reviewers": "FkoL;cWoh;CNEY;deBG",
@@ -952811,11 +952811,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            15,
             0
         ],
         "corr_rating_confidence": 0.8703882797784891,
@@ -962357,7 +962357,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            14,
             0
         ],
         "authors#_avg": [
@@ -988775,7 +988775,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1013972,7 +1013972,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1034951,7 +1034951,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1050861,26 +1050861,26 @@
         "bibtex": "@inproceedings{\nanonymous2025exoplore,\ntitle={Exo-Plore: Exploring Exoskeleton Control Space through Human-aligned Simulation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=TmYcqOnxhN},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "BgQH;9K5t;MxFv;xhMH",
+        "reviewers": "9K5t;MxFv;BgQH;xhMH",
         "site": "https://openreview.net/forum?id=TmYcqOnxhN",
         "pdf_size": 0,
-        "rating": "2;4;8;10",
-        "confidence": "4;3;5;4",
-        "soundness": "3;2;4;4",
-        "contribution": "2;2;4;3",
-        "presentation": "2;3;4;4",
-        "wc_summary": "96;71;81;119",
-        "wc_strengths": "62;49;282;187",
-        "wc_weaknesses": "248;176;155;364",
-        "wc_questions": "134;75;157;597",
-        "wc_review": "540;371;675;1267",
+        "rating": "4;8;8;10",
+        "confidence": "3;5;4;4",
+        "soundness": "2;4;3;4",
+        "contribution": "2;4;2;3",
+        "presentation": "3;4;2;4",
+        "wc_summary": "71;81;96;119",
+        "wc_strengths": "49;282;62;187",
+        "wc_weaknesses": "176;155;248;364",
+        "wc_questions": "75;157;134;597",
+        "wc_review": "371;675;540;1267",
         "wc_reply_reviewers": "0;0;0;0",
         "wc_reply_authors": "0;0;0;0",
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            6.0,
-            3.1622776601683795
+            7.5,
+            2.179449471770337
         ],
         "confidence_avg": [
             4.0,
@@ -1050935,14 +1050935,14 @@
             0
         ],
         "replies_avg": [
-            10,
+            11,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": 0.447213595499958,
+        "corr_rating_confidence": 0.6488856845230502,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1092042,62 +1092042,62 @@
         "bibtex": "@inproceedings{\nanonymous2025hitjepa,\ntitle={HiT-{JEPA}: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=UtFQNwWBaA},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "uZkJ;ZHZ7;19oU",
+        "reviewers": "uZkJ;db7G;ZHZ7;19oU",
         "site": "https://openreview.net/forum?id=UtFQNwWBaA",
         "pdf_size": 0,
-        "rating": "2;4;6",
-        "confidence": "5;2;4",
-        "soundness": "2;2;3",
-        "contribution": "2;2;2",
-        "presentation": "3;3;3",
-        "wc_summary": "78;77;55",
-        "wc_strengths": "65;45;44",
-        "wc_weaknesses": "196;126;98",
-        "wc_questions": "76;2;4",
-        "wc_review": "415;250;201",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;4;4;6",
+        "confidence": "5;4;2;4",
+        "soundness": "2;3;2;3",
+        "contribution": "2;3;2;2",
+        "presentation": "3;3;3;3",
+        "wc_summary": "78;74;77;55",
+        "wc_strengths": "65;36;45;44",
+        "wc_weaknesses": "196;266;126;98",
+        "wc_questions": "76;3;2;4",
+        "wc_review": "415;379;250;201",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
             4.0,
-            1.632993161855452
+            1.4142135623730951
         ],
         "confidence_avg": [
-            3.6666666666666665,
-            1.247219128924647
+            3.75,
+            1.0897247358851685
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "contribution_avg": [
-            2.0,
-            0.0
+            2.25,
+            0.4330127018922193
         ],
         "presentation_avg": [
             3.0,
             0.0
         ],
         "wc_summary_avg": [
-            70.0,
-            10.614455552060438
+            71.0,
+            9.354143466934854
         ],
         "wc_strengths_avg": [
-            51.333333333333336,
-            9.672412085697939
+            47.5,
+            10.688779163215974
         ],
         "wc_weaknesses_avg": [
-            140.0,
-            41.21488404286329
+            171.5,
+            65.19777603569005
         ],
         "wc_questions_avg": [
-            27.333333333333332,
-            34.4222150491349
+            21.25,
+            31.61783515675923
         ],
         "wc_review_avg": [
-            288.6666666666667,
-            91.54355369015462
+            311.25,
+            88.40354913689835
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1092116,14 +1092116,14 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -0.32732683535398854,
+        "corr_rating_confidence": -0.3244428422615251,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1101699,62 +1101699,62 @@
         "bibtex": "@inproceedings{\nanonymous2025helom,\ntitle={HeLoM: Progressive Disease Detection with Heterogeneous and Longitudinal {EHR}s via Memory-Augmented {LLM}s},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=VBMdD2owBe},\nnote={under review}\n}",
         "github": "",
         "project": "",
-        "reviewers": "mCnm;hKb2;uGpK",
+        "reviewers": "rQLu;mCnm;hKb2;uGpK",
         "site": "https://openreview.net/forum?id=VBMdD2owBe",
         "pdf_size": 0,
-        "rating": "2;2;6",
-        "confidence": "5;4;2",
-        "soundness": "2;2;3",
-        "contribution": "2;2;3",
-        "presentation": "2;2;3",
-        "wc_summary": "43;79;99",
-        "wc_strengths": "14;46;118",
-        "wc_weaknesses": "61;294;68",
-        "wc_questions": "317;19;4",
-        "wc_review": "435;438;289",
-        "wc_reply_reviewers": "0;0;0",
-        "wc_reply_authors": "0;0;0",
-        "reply_reviewers": "0;0;0",
-        "reply_authors": "0;0;0",
+        "rating": "2;2;2;6",
+        "confidence": "5;5;4;2",
+        "soundness": "3;2;2;3",
+        "contribution": "2;2;2;3",
+        "presentation": "2;2;2;3",
+        "wc_summary": "27;43;79;99",
+        "wc_strengths": "10;14;46;118",
+        "wc_weaknesses": "282;61;294;68",
+        "wc_questions": "262;317;19;4",
+        "wc_review": "581;435;438;289",
+        "wc_reply_reviewers": "0;0;0;0",
+        "wc_reply_authors": "0;0;0;0",
+        "reply_reviewers": "0;0;0;0",
+        "reply_authors": "0;0;0;0",
         "rating_avg": [
-            3.3333333333333335,
-            1.8856180831641267
+            3.0,
+            1.7320508075688772
         ],
         "confidence_avg": [
-            3.6666666666666665,
-            1.247219128924647
+            4.0,
+            1.224744871391589
         ],
         "soundness_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.5,
+            0.5
         ],
         "contribution_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.25,
+            0.4330127018922193
         ],
         "presentation_avg": [
-            2.3333333333333335,
-            0.4714045207910317
+            2.25,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
-            73.66666666666667,
-            23.170862929310353
+            62.0,
+            28.478061731796284
         ],
         "wc_strengths_avg": [
-            59.333333333333336,
-            43.4920171474669
+            47.0,
+            43.30127018922193
         ],
         "wc_weaknesses_avg": [
-            141.0,
-            108.22507411254874
+            176.25,
+            111.85788975302547
         ],
         "wc_questions_avg": [
-            113.33333333333333,
-            144.14421790538654
+            150.5,
+            140.45372903557956
         ],
         "wc_review_avg": [
-            387.3333333333333,
-            69.54295235480173
+            435.75,
+            103.24576262491357
         ],
         "wc_reply_reviewers_avg": [
             0,
@@ -1101773,14 +1101773,14 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
             0,
             0
         ],
-        "corr_rating_confidence": -0.944911182523068,
+        "corr_rating_confidence": -0.9428090415820632,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1103898,14 +1103898,14 @@
         "id": "VDsDWH2pdp",
         "title": "PLP-NER: Point-Line-Plane Context Fusion for Named Entity Recognition",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Current state-of-the-art Named Entity Recognition systems commonly leverage an architecture that integrates BERT with Conditional Random Fields. Nevertheless, BERT is inherently constrained in capturing comprehensive global contextual semantics due to its Masked Language Modeling pre-training objective. To address this limitation, A novel \u201cpoint\u2013line\u2013plane\u201d contextual fusion framework is proposed. Within this paradigem, the [CLS] token functions as a \u201cplane\u201d that provides a compressed global representation, while the attention weights between the [CLS] token and individual tokens form a \u201cline\u201d, which captures semantic topological relationships. These multi-grained features are subsequently incorporated into token representations via a Graph Neural Network, considerably enriching their contextual expressiveness. Furthermore, we introduce a Dynamic Linear-Chain CRF that adaptively models label transitions using attention-mechanized probability estimates, thereby overcoming the inflexibility of conventional CRFs. Extensive experiments on multiple benchmark datasets demonstrate that our approach consistently and significantly surpasses competitive baselines, achieving a notable 3.91 point gain in F1-score.",
         "keywords": "NER;POINT-LINE-PLANE;Dynamic Linear Chain CRF",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "/attachment/0689163730fd221c7c106b1a035dd40ade29d638.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Shuning Mao;Wu Yuan;ZiXiang Deng;Wen Yuan;Yidian Huang",
+        "authorids": "~Shuning_Mao2;~Wu_Yuan1;~ZiXiang_Deng1;~Wen_Yuan1;~Yidian_Huang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1103916,7 +1103916,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025plpner,\ntitle={{PLP}-{NER}: Point-Line-Plane Context Fusion for Named Entity Recognition},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=VDsDWH2pdp},\nnote={under review}\n}",
+        "bibtex": "@misc{\nmao2025plpner,\ntitle={{PLP}-{NER}: Point-Line-Plane Context Fusion for Named Entity Recognition},\nauthor={Shuning Mao and Wu Yuan and ZiXiang Deng and Wen Yuan and Yidian Huang},\nyear={2025},\nurl={https://openreview.net/forum?id=VDsDWH2pdp}\n}",
         "github": "",
         "project": "",
         "reviewers": "7g7f;d7qa;sP9z;ib8q",
@@ -1103993,11 +1103993,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            5,
             0
         ],
         "corr_rating_confidence": -0.7071067811865476,
@@ -1108544,7 +1108544,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1112096,7 +1112096,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1112984,7 +1112984,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1144841,7 +1144841,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1204559,7 +1204559,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1222319,7 +1222319,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1270937,7 +1270937,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1309142,7 +1309142,7 @@
         "abstract": "Dual-arm robots play a crucial role in improving efficiency and flexibility in complex multitasking scenarios. While existing methods have achieved promising results in task planning, they often fail to fully optimize task parallelism, limiting the potential of dual-arm collaboration.\nTo address this issue, we propose RoboPARA, a novel large language model (LLM)-driven framework for dual-arm task parallelism planning.\nRoboPARA employs a two-stage process: (1) Dependency Graph-based Planning Candidates Generation, which constructs directed acyclic graphs (DAGs) to model task dependencies and eliminate redundancy, and (2) Graph Re-Traversal-based Dual-Arm Parallel Planning, which optimizes DAG traversal to maximize parallelism while maintaining task coherence. In addition, we introduce the Cross-Scenario Dual-Arm Parallel Task dataset (X-DAPT dataset), the first dataset specifically designed to evaluate dual-arm task parallelism across diverse scenarios and difficulty levels. Extensive experiments demonstrate that RoboPARA significantly outperforms existing planning methods, achieving higher efficiency and reliability, particularly in complex task combinations.",
         "keywords": "Dual-Arm Robots;LLM-driven Planning;Task Parallelism",
         "primary_area": "applications to robotics, autonomy, planning",
-        "supplementary_material": "/attachment/55a9ea468a6a6224ab5a73e53c2c72a8dedca341.zip",
+        "supplementary_material": "/attachment/311a9c313c9a8eafcb6259eb20e03b20b63e7ff1.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1319555,7 +1319555,7 @@
             0
         ],
         "replies_avg": [
-            20,
+            21,
             0
         ],
         "authors#_avg": [
@@ -1320554,7 +1320554,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1334651,7 +1334651,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1341533,7 +1341533,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1348344,11 +1348344,11 @@
         "reviewers": "k9nm;qzhQ;Et4v;Uvpd",
         "site": "https://openreview.net/forum?id=cGv4z4eaNr",
         "pdf_size": 0,
-        "rating": "2;2;4;4",
+        "rating": "2;2;4;6",
         "confidence": "3;4;3;2",
-        "soundness": "3;3;3;2",
-        "contribution": "2;1;2;3",
-        "presentation": "3;3;3;3",
+        "soundness": "3;3;3;3",
+        "contribution": "2;1;2;2",
+        "presentation": "3;3;3;2",
         "wc_summary": "38;75;72;33",
         "wc_strengths": "30;46;19;79",
         "wc_weaknesses": "34;220;45;103",
@@ -1348359,24 +1348359,24 @@
         "reply_reviewers": "0;0;0;0",
         "reply_authors": "0;0;0;0",
         "rating_avg": [
-            3.0,
-            1.0
+            3.5,
+            1.6583123951777
         ],
         "confidence_avg": [
             3.0,
             0.7071067811865476
         ],
         "soundness_avg": [
-            2.75,
-            0.4330127018922193
-        ],
-        "contribution_avg": [
-            2.0,
-            0.7071067811865476
-        ],
-        "presentation_avg": [
             3.0,
             0.0
+        ],
+        "contribution_avg": [
+            1.75,
+            0.4330127018922193
+        ],
+        "presentation_avg": [
+            2.75,
+            0.4330127018922193
         ],
         "wc_summary_avg": [
             54.5,
@@ -1348422,7 +1348422,7 @@
             0,
             0
         ],
-        "corr_rating_confidence": -0.7071067811865475,
+        "corr_rating_confidence": -0.8528028654224417,
         "gs_citation": -1,
         "gs_cited_by_link": "",
         "gs_version_total": -1
@@ -1367507,7 +1367507,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1368062,7 +1368062,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            18,
             0
         ],
         "authors#_avg": [
@@ -1402821,14 +1402821,14 @@
         "id": "djT6GxilxN",
         "title": "Generalized Encouragement-Based Instrumental Variables for Counterfactual Regression",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "In causal inference, encouragement designs (EDs) are widely used to analyze causal effects, when randomized controlled trials (RCTs) are impractical or compliance to treatment cannot be perfectly enforced. Unlike RCTs, which directly allocate treatments, EDs randomly assign encouragement policies that positively motivate individuals to engage in a specific treatment. These random encouragements act as instrumental variables (IVs), facilitating the identification of causal effects through leveraging exogenous perturbations in discrete treatment scenarios. However, real-world implementations of EDs often deviate from ideal conditions. Specifically, encouragements are frequently nonrandom, the number of available encouragement policies is limited, and sample sizes are often small\u2014posing significant challenges to reliable causal estimation. To address this, we propose a novel identifiability theory that leverages variations in encouragement to identify the Conditional Average Treatment Effect (CATE). Building on this foundation, we develop a new IV estimator, named Encouragement-based Counterfactual Regression (EnCounteR), to effectively estimate causal effects even when the number of instruments is smaller than the number of treatments. Extensive experiments on both synthetic and real-world datasets demonstrate the superiority of the proposed EnCounteR.",
         "keywords": "Encouragement Design;Causal Inference;Instrumental Variable;Data Fusion",
         "primary_area": "causal reasoning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yingrong Wang;Anpeng Wu;Yi He;Baohong Li;Zexu Sun;Ruoxuan Xiong;Fei Wu;Kun Kuang",
+        "authorids": "~Yingrong_Wang1;~Anpeng_Wu1;~Yi_He17;~Baohong_Li1;~Zexu_Sun1;~Ruoxuan_Xiong1;~Fei_Wu1;~Kun_Kuang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1402839,7 +1402839,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025generalized,\ntitle={Generalized Encouragement-Based Instrumental Variables for Counterfactual Regression},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=djT6GxilxN},\nnote={under review}\n}",
+        "bibtex": "@misc{\nwang2025generalized,\ntitle={Generalized Encouragement-Based Instrumental Variables for Counterfactual Regression},\nauthor={Yingrong Wang and Anpeng Wu and Yi He and Baohong Li and Zexu Sun and Ruoxuan Xiong and Fei Wu and Kun Kuang},\nyear={2025},\nurl={https://openreview.net/forum?id=djT6GxilxN}\n}",
         "github": "",
         "project": "",
         "reviewers": "tLCN;GeoN;1zZp;QW5W",
@@ -1402916,11 +1402916,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            8,
             0
         ],
         "corr_rating_confidence": -1.0,
@@ -1408482,14 +1408482,14 @@
         "id": "dtyuqZtFdD",
         "title": "Bayesian Decision Trees for Confounder Selection in Mediation Analysis",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The estimation of causal effects in observational research fundamentally relies on proper adjustment for confounding variables. As such, identifying relevant confounders from the data is an important preliminary task. Although numerous data-driven techniques have been suggested for confounder selection in conventional exposure-outcome analyses, such methodologies are absent in causal mediation analysis, which entails identifying the effects within the exposure-mediator-outcome framework. This paper presents a Bayesian framework for confounder selection in mediation analysis via Bayesian additive regression trees (BART). We specify separate models for the exposure, mediator, and outcome, and introduce a common sparsity-inducing prior on their selection probability vectors. This enables identification of covariates that are jointly important across all models (that is, potential confounders). Furthermore, we introduce a novel criterion for confounder selection in the context of mediation analysis and establish that satisfaction of this criterion ensures the validity of the sequential ignorability assumption under certain conditions. The proposed method demonstrates consistently strong performance across a range of simulation scenarios, offering a practical approach for confounder selection in high-dimensional mediation analysis.",
         "keywords": "Causal mediation;Bayesian additive regression trees;Dirichlet prior",
         "primary_area": "probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)",
         "supplementary_material": "/attachment/ec43dbc91a9ea557094d1173b5991c6945f16272.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Chanmin Kim;Hyunwoo Kim",
+        "authorids": "~Chanmin_Kim4;~Hyunwoo_Kim10",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1408500,7 +1408500,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025bayesian,\ntitle={Bayesian Decision Trees for Confounder Selection in Mediation Analysis},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=dtyuqZtFdD},\nnote={under review}\n}",
+        "bibtex": "@misc{\nkim2025bayesian,\ntitle={Bayesian Decision Trees for Confounder Selection in Mediation Analysis},\nauthor={Chanmin Kim and Hyunwoo Kim},\nyear={2025},\nurl={https://openreview.net/forum?id=dtyuqZtFdD}\n}",
         "github": "",
         "project": "",
         "reviewers": "Wh2n;k7PE;HvKq;HnKB",
@@ -1408577,11 +1408577,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": -0.7071067811865476,
@@ -1436438,7 +1436438,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            25,
             0
         ],
         "authors#_avg": [
@@ -1441988,7 +1441988,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            12,
             0
         ],
         "authors#_avg": [
@@ -1449980,7 +1449980,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1465742,7 +1465742,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1468184,7 +1468184,7 @@
             0
         ],
         "replies_avg": [
-            12,
+            15,
             0
         ],
         "authors#_avg": [
@@ -1474971,14 +1474971,14 @@
         "id": "fqc1947QsK",
         "title": "DreamOmni2: Multimodal Instruction-based Editing and Generation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Recent advancements in instruction-based image editing and subject-driven generation have garnered significant attention, yet both tasks still face limitations in meeting practical user needs. Instruction-based editing relies solely on language instructions, which often fail to capture specific editing details, making reference images necessary. Meanwhile, subject-driven generation is limited to combining concrete objects or people, overlooking broader, abstract concepts. To address these challenges, we propose two novel tasks: multimodal instruction-based editing and generation. These tasks support both text and image instructions and extend the scope to include both concrete and abstract concepts, greatly enhancing their practical applications. We introduce DreamOmni2, tackling two primary challenges: data creation and model framework design. Our data synthesis pipeline consists of three steps: (1) using a feature mixing method to create extraction data for both abstract and concrete concepts, (2) generating multimodal instruction-based editing training data using the editing and extraction models, and (3) further applying the extraction model to create training data for multimodal instruction-based editing. For the framework, to handle multi-image input, we propose an index encoding and position encoding shift scheme, which helps the model distinguish images and avoid pixel confusion. Additionally, we introduce joint training with the VLM and our generation/editing model to better process complex instructions. In addition, we have proposed comprehensive benchmarks for these two new tasks to drive their development. Experiments show that DreamOmni2 has achieved impressive results. Models and codes will be released.",
         "keywords": "Image Editing and generation",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Bin Xia;Bohao PENG;Yuechen Zhang;Junjia Huang;JiyangLiu;Jingyao Li;Haoru Tan;Sitong Wu;Chengyao Wang;Yitong Wang;Xinglong Wu;Bei Yu;Jiaya Jia",
+        "authorids": "~Bin_Xia2;~Bohao_PENG1;~Yuechen_Zhang2;~Junjia_Huang1;~JiyangLiu1;~Jingyao_Li2;~Haoru_Tan1;~Sitong_Wu1;~Chengyao_Wang1;~Yitong_Wang1;~Xinglong_Wu2;~Bei_Yu2;~Jiaya_Jia1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1474989,7 +1474989,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025dreamomni,\ntitle={DreamOmni2: Multimodal Instruction-based Editing and Generation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=fqc1947QsK},\nnote={under review}\n}",
+        "bibtex": "@misc{\nxia2025dreamomni,\ntitle={DreamOmni2: Multimodal Instruction-based Editing and Generation},\nauthor={Bin Xia and Bohao PENG and Yuechen Zhang and Junjia Huang and JiyangLiu and Jingyao Li and Haoru Tan and Sitong Wu and Chengyao Wang and Yitong Wang and Xinglong Wu and Bei Yu and Jiaya Jia},\nyear={2025},\nurl={https://openreview.net/forum?id=fqc1947QsK}\n}",
         "github": "",
         "project": "",
         "reviewers": "hXfa;tA9m;Yy5h",
@@ -1475066,11 +1475066,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            13,
             0
         ],
         "corr_rating_confidence": -0.8660254037844387,
@@ -1490828,7 +1490828,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1515692,7 +1515692,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1516136,7 +1516136,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1526903,7 +1526903,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1537892,7 +1537892,7 @@
             0
         ],
         "replies_avg": [
-            10,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1540905,14 +1540905,14 @@
         "id": "hiIqzvDMdm",
         "title": "Leveraging Historical Interactions for Factual Review Generation with Large Language Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "User reviews play a crucial role in influencing purchase decisions and enhancing recommendation systems. Automatically generating high-quality reviews helps complement existing feedback by providing additional perspectives and uncovering overlooked details for consumers. LLMs have become ideal tools for this task due to their strong text generation capabilities. However, existing LLM-based methods often fail to effectively incorporate user- and item-specific interactions, limiting their ability to generate factually consistent and contextually relevant reviews. To address these challenges, we propose DyGRevLLM, an innovative framework that integrates dynamic graph representation learning with LLM-based text generation. DyGRevLLM encodes and updates user and item embeddings through a pretraining procedure designed to predict future review embeddings, aligning historical interaction data with LLM input formats. By dynamically aggregating user-item interaction information and incorporating temporal behaviors, the framework generates reviews that are factually accurate. Extensive experiments on real-world datasets demonstrate that DyGRevLLM improves the factual consistency and relevance of generated reviews while maintaining coherence. Furthermore, our proposed evaluation metrics validate the effectiveness of the framework in overcoming existing limitations, offering a better solution for dynamic personalized review generation.",
         "keywords": "Review Generation;Large Language Models;Historical Interaction Representation Learning",
         "primary_area": "applications to computer vision, audio, language, and other modalities",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Mingzhe Liu;Yi Qiao;Leilei Sun;Tongyu Zhu;Yi Xu;Hao Sheng",
+        "authorids": "~Mingzhe_Liu2;~Yi_Qiao3;~Leilei_Sun2;~Tongyu_Zhu1;~Yi_Xu12;~Hao_Sheng3",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1540923,7 +1540923,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025leveraging,\ntitle={Leveraging Historical Interactions for Factual Review Generation with Large Language Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=hiIqzvDMdm},\nnote={under review}\n}",
+        "bibtex": "@misc{\nliu2025leveraging,\ntitle={Leveraging Historical Interactions for Factual Review Generation with Large Language Models},\nauthor={Mingzhe Liu and Yi Qiao and Leilei Sun and Tongyu Zhu and Yi Xu and Hao Sheng},\nyear={2025},\nurl={https://openreview.net/forum?id=hiIqzvDMdm}\n}",
         "github": "",
         "project": "",
         "reviewers": "LA6Q;G91K;PpAB",
@@ -1541000,11 +1541000,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.8660254037844387,
@@ -1561091,7 +1561091,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            11,
             0
         ],
         "authors#_avg": [
@@ -1573095,14 +1573095,14 @@
         "id": "ibnb8sDM24",
         "title": "MultiChartQA-R: A Benchmark for Multi-Chart Question Answering in Real-World Reasoning Scenarios",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Existing benchmarks for chart analysis primarily focus on single-chart tasks, whereas multi-chart benchmarks are scarce and limited to simplistic question types, making it difficult to comprehensively evaluate the reasoning and decision-making capabilities of multimodal large language models (MLLMs) in realistic scenarios.\nWe present MultiChartQA-R, a benchmark designed to evaluate multi-chart question answering capabilities, ranging from fundamental abilities to decision-making applications, with four progressively complex reasoning tasks that encompass real-world scenarios: cross-chart trend comparison, complementary data integration, anomaly and causal analysis, and strategy recommendation. The benchmark consists of versions in three major languages, each containing 695 chart\u2013code pairs and 2,160 QA pairs, with extensibility to additional languages. We further propose a flexible multiple-choice evaluation metric that can be adjusted based on real-world scenarios, along with an extended dataset consisting of 512 charts and 1,212 QA pairs, designed to study retrieval and scaling behavior as the number of charts increases.\nOur evaluation of 13 representative MLLMs (4 proprietary models and 9 open-weight models) reveals significant performance gaps compared to human, especially in cross-chart visual perception, data integration, and aligning with human preferences. Additionally, our experiments reveal interesting multilingual characteristics of multi-chart question answering.",
         "keywords": "datasets and benchmarks;multi-chart question answering;cross-chart reasoning;chart understanding and reasoning",
         "primary_area": "datasets and benchmarks",
         "supplementary_material": "/attachment/d79b99e56dce7b764673e825f8d79797ed34b0fd.zip",
-        "author": "",
-        "authorids": "",
+        "author": "QiyuanFan;Jinxu Zhang;WeitaoWang;Sihua Chen;Yongqi Yu;Yu Zhang",
+        "authorids": "~QiyuanFan1;~Jinxu_Zhang2;~WeitaoWang1;~Sihua_Chen1;~Yongqi_Yu1;~Yu_Zhang37",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1573113,7 +1573113,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025multichartqar,\ntitle={MultiChart{QA}-R: A Benchmark for Multi-Chart Question Answering in Real-World Reasoning Scenarios},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ibnb8sDM24},\nnote={under review}\n}",
+        "bibtex": "@misc{\nqiyuanfan2025multichartqar,\ntitle={MultiChart{QA}-R: A Benchmark for Multi-Chart Question Answering in Real-World Reasoning Scenarios},\nauthor={QiyuanFan and Jinxu Zhang and WeitaoWang and Sihua Chen and Yongqi Yu and Yu Zhang},\nyear={2025},\nurl={https://openreview.net/forum?id=ibnb8sDM24}\n}",
         "github": "",
         "project": "",
         "reviewers": "Apjk;XBqy;wQLy;5FDr",
@@ -1573190,11 +1573190,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1579850,7 +1579850,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1630133,7 +1630133,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1630466,7 +1630466,7 @@
             0
         ],
         "replies_avg": [
-            11,
+            13,
             0
         ],
         "authors#_avg": [
@@ -1636904,7 +1636904,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1653554,7 +1653554,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            14,
             0
         ],
         "authors#_avg": [
@@ -1657883,7 +1657883,7 @@
             0
         ],
         "replies_avg": [
-            6,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1690961,7 +1690961,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1697954,7 +1697954,7 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
@@ -1729922,7 +1729922,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1740467,7 +1740467,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1749696,14 +1749696,14 @@
         "id": "nVnPqLtO8r",
         "title": "Toward Protein Docking-oriented De Novo Ligand Design via Gradient Inversion",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "De novo ligand design is a fundamental task that seeks to generate protein or molecule candidates that can effectively dock with protein receptors and achieve strong binding affinity entirely from scratch. \n    It holds paramount significance for a wide spectrum of biomedical applications.\n    However, most existing studies are constrained by the \\textbf{Pseudo De Novo}, \\textbf{Limited Docking Modeling}, and \\textbf{Inflexible Ligand Type}.\n    To address these issues, we propose MagicDock, a forward-looking framework grounded in the progressive pipeline and differentiable surface modeling.\n    (1) We adopt a well-designed gradient inversion framework.\n    To begin with, general docking knowledge of receptors and ligands is incorporated into the backbone model.\n    Subsequently, the docking knowledge is instantiated as reverse gradient flows by binding prediction, which iteratively guide the de novo generation of ligands.\n    (2) We emphasize differentiable surface modeling in the docking process, leveraging learnable 3D point-cloud representations to precisely capture binding details, thereby ensuring that the generated ligands preserve docking validity through direct and interpretable spatial fingerprints.\n    (3) We introduce customized designs for different ligand types and integrate them into a unified gradient inversion framework with flexible triggers, thereby ensuring broad applicability.\n    Moreover, we provide rigorous theoretical guarantees for each component of MagicDock.\n    Extensive experiments across 9 scenarios demonstrate that MagicDock achieves average improvements of 27.1\\% and 11.7\\% over SOTA baselines specialized for protein or molecule ligand design, respectively.",
         "keywords": "Receptor-Ligand Docking;De Novo Ligand Design;Inversion Framework",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
         "supplementary_material": "/attachment/aecb4b1bf55f1e6547d1806b6ffd83801d632096.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Zekai Chen;Xunkai Li;Sirui Zhang;Henan Sun;Jia Li;Zhenjun Li;Bing Zhou;Rong-Hua Li;Guoren Wang",
+        "authorids": "~Zekai_Chen8;~Xunkai_Li1;~Sirui_Zhang4;~Henan_Sun1;~Jia_Li4;~Zhenjun_Li1;~Bing_Zhou3;~Rong-Hua_Li2;~Guoren_Wang2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1749714,7 +1749714,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025toward,\ntitle={Toward Protein Docking-oriented De Novo Ligand Design via Gradient Inversion},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=nVnPqLtO8r},\nnote={under review}\n}",
+        "bibtex": "@misc{\nchen2025toward,\ntitle={Toward Protein Docking-oriented De Novo Ligand Design via Gradient Inversion},\nauthor={Zekai Chen and Xunkai Li and Sirui Zhang and Henan Sun and Jia Li and Zhenjun Li and Bing Zhou and Rong-Hua Li and Guoren Wang},\nyear={2025},\nurl={https://openreview.net/forum?id=nVnPqLtO8r}\n}",
         "github": "",
         "project": "",
         "reviewers": "C1qQ;YSYY;qWQw;beRR",
@@ -1749791,11 +1749791,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            9,
             0
         ],
         "corr_rating_confidence": -0.42640143271122083,
@@ -1766124,14 +1766124,14 @@
         "id": "o0hpH7ck29",
         "title": "LangSAM: Language-Guided Expert Routing on SAM2 for Dense Scene Understanding",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Multi-task dense scene understanding tasks require models to jointly reason over heterogeneous visual cues. While foundation vision models like SAM 2 provide strong general-purpose features, their extension to multi-task settings is limited by task interference and the lack of explicit task-aware routing mechanisms. In this paper, we present LangSAM, a novel language-guided mixture-of-experts framework built on top of SAM 2 for dense scene understanding. Our key idea is to leverage natural language task prompts to guide expert activation, thereby enabling more effective task-aware feature representation. Specifically, we encode each task prompt and design a text-guided router that fuses the global visual representation with the task embedding to produce task-aware gating signals. \nThese signals are combined with a token-level MoE gate, yielding a dual-gated mechanism that enables experts to specialize both spatially and semantically. To further enhance representation learning, LangSAM incorporates task-specific language-guided MoE blocks for coarse predictions and a shared language-guided MoE block that refines multi-task features by modeling global dependencies. \nWe evaluate LangSAM on two standard datasets, NYUD-v2 and PASCAL-Context, covering six dense prediction tasks including semantic segmentation, depth estimation, human part segmentation, saliency estimation, surface normal estimation, and boundary detection. Extensive experiments show that LangSAM consistently improves over strong SAM2 baselines and recent multi-task learning methods, highlighting the effectiveness of language-guided expert routing as a new paradigm for multi-task dense prediction. The code will be released.",
         "keywords": "Scene Understanding; Mixture-of-Experts; Multi-task Learning;",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yangyang Xu;Haobo Yuan;Jun Zhu",
+        "authorids": "~Yangyang_Xu5;~Haobo_Yuan1;~Jun_Zhu2",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1766142,7 +1766142,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025langsam,\ntitle={Lang{SAM}: Language-Guided Expert Routing on {SAM}2 for Dense Scene Understanding},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=o0hpH7ck29},\nnote={under review}\n}",
+        "bibtex": "@misc{\nxu2025langsam,\ntitle={Lang{SAM}: Language-Guided Expert Routing on {SAM}2 for Dense Scene Understanding},\nauthor={Yangyang Xu and Haobo Yuan and Jun Zhu},\nyear={2025},\nurl={https://openreview.net/forum?id=o0hpH7ck29}\n}",
         "github": "",
         "project": "",
         "reviewers": "VjxW;91KG;SB4C;zAQJ",
@@ -1766219,11 +1766219,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1790433,14 +1790433,14 @@
         "id": "ojVcsWXPpU",
         "title": "Revisiting Dynamic Graphs from the Perspective of Time Series",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Numerous studies have been conducted to investigate the temporal pattern of dynamic graphs. Existing methods predominantly  fall into two categories: discrete-time dynamic graph (DTDG) methods and continuous-time dynamic graph (CTDG) methods. While these approaches have proven effective in modeling temporal dependencies within dynamic graphs, they exhibit several limitations. For instance, DTDG approaches often lose fine-grained temporal information. CTDG methods can preserve temporal details but may inadequately capture long-term dependencies due to computational constraints. Moreover, both paradigms predominantly focus on existing historical interactions, often neglecting the informative value of non-existing ones. These negative historical interactions can provide complementary insights into the recurring patterns of node behavior. To fully leverage both types of interactions, we propose transforming node interactions into binary time series. Building upon this formulation, we propose a novel model termed the Time Series-based Dynamic Graph (TSDyG) model, which approaches dynamic graph learning from a time series perspective. Compared to existing DTDG and CTDG methods, our model offers several advantages: it captures long-range dependencies, preserves fine-grained temporal details, and leverages information from both existing and non-existing historical interactions. We conduct extensive evaluations of our method on various benchmark datasets. The results demonstrate that our proposed TSDyG model achieves competitive performance on the downstream task such as link prediction.",
         "keywords": "graph learning;dynamic graphs;time series",
         "primary_area": "learning on graphs and other geometries & topologies",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Weili Shi;Dongliang Guo;Sheng Li",
+        "authorids": "~Weili_Shi2;~Dongliang_Guo1;~Sheng_Li3",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1790451,7 +1790451,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025revisiting,\ntitle={Revisiting Dynamic Graphs from the Perspective of Time Series},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=ojVcsWXPpU},\nnote={under review}\n}",
+        "bibtex": "@misc{\nshi2025revisiting,\ntitle={Revisiting Dynamic Graphs from the Perspective of Time Series},\nauthor={Weili Shi and Dongliang Guo and Sheng Li},\nyear={2025},\nurl={https://openreview.net/forum?id=ojVcsWXPpU}\n}",
         "github": "",
         "project": "",
         "reviewers": "j6DG;Um3i;NRw2;Az8W",
@@ -1790528,11 +1790528,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -1794524,7 +1794524,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1796966,7 +1796966,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1807860,14 +1807860,14 @@
         "id": "pIFZtIjHyB",
         "title": "Layer-Informed Fine-Tuning via Three-Stage Functional Segmentation of LLMs",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "In recent years, the performance of large language models (LLMs) on reasoning tasks has been remarkable, even surpassing human capabilities on various benchmarks. However, there remains a lack of clear understanding in the academic community regarding how the structure and internal parameters of LLMs progressively solve complex reasoning problems.\nIn this study, we investigate the inference process of LLMs on cross-linguistic materials and propose the hypothesis that LLM layers exhibit a structured division of labor across conceptualization, reasoning, and textualization. Conceptualization layers are crucial for transforming natural language inputs into abstract representations within the LLM, while reasoning layers play a key role in reasoning over these abstract concepts. Finally, the textualization layers convert these abstract representations back into natural language. Based on this hypothesis, we propose a novel approach, LIFT, to achieves efficient and effective finetuning by selectively finetuning only those layers most relevant to a given task\u2019s functionality. We then conduct extensive experiments to show that the LIFT method not only accelerates the training process but also significantly improves model performance.",
         "keywords": "large language models;internal structure;parameter-efficient fine-tuning",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/16f4fab3bdcf47382f33236f6fe41494edb3cc2f.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Junning Shao;Siwei Wang;Zhixuan Fang",
+        "authorids": "~Junning_Shao1;~Siwei_Wang2;~Zhixuan_Fang1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1807878,7 +1807878,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025layerinformed,\ntitle={Layer-Informed Fine-Tuning via Three-Stage Functional Segmentation of {LLM}s},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=pIFZtIjHyB},\nnote={under review}\n}",
+        "bibtex": "@misc{\nshao2025layerinformed,\ntitle={Layer-Informed Fine-Tuning via Three-Stage Functional Segmentation of {LLM}s},\nauthor={Junning Shao and Siwei Wang and Zhixuan Fang},\nyear={2025},\nurl={https://openreview.net/forum?id=pIFZtIjHyB}\n}",
         "github": "",
         "project": "",
         "reviewers": "9m1p;erV7;hdv2",
@@ -1807955,11 +1807955,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": -0.5,
@@ -1831059,14 +1831059,14 @@
         "id": "q196xGhRMa",
         "title": "CodePDE: An Inference Framework for LLM-driven PDE Solver Generation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Partial differential equations (PDEs) are fundamental to modeling physical systems, yet solving them remains a complex challenge. Traditional numerical solvers rely on expert knowledge to implement and are computationally expensive, while neural-network-based solvers require large training datasets and often lack interpretability. In this work, we frame PDE solving as a code generation task and introduce CodePDE, the first inference framework for generating PDE solvers using large language models (LLMs). With CodePDE, we present a thorough evaluation on critical capacities of LLM for PDE solving: reasoning, debugging, self-refinement, and test-time scaling. CodePDE shows that, with advanced inference-time algorithms and scaling strategies, LLMs can achieve strong performance across a range of representative PDE problems. We also identify novel insights into LLM-driven solver generation, such as trade-offs between solver reliability and sophistication, design principles for LLM-powered PDE solving agents, and failure modes for LLM on hard tasks. These insights offer guidance for building more capable and reliable LLM-based scientific engines.",
         "keywords": "LLM;PDE solving",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/b1c83ca979a950200fb124dff34e8ac88c008b98.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Shanda Li;Tanya Marwah;Junhong Shen;Weiwei Sun;Andrej Risteski;Yiming Yang;Ameet Talwalkar",
+        "authorids": "~Shanda_Li1;~Tanya_Marwah1;~Junhong_Shen1;~Weiwei_Sun9;~Andrej_Risteski2;~Yiming_Yang1;~Ameet_Talwalkar1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -1831077,7 +1831077,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025codepde,\ntitle={Code{PDE}: An Inference Framework for {LLM}-driven {PDE} Solver Generation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=q196xGhRMa},\nnote={under review}\n}",
+        "bibtex": "@misc{\nli2025codepde,\ntitle={Code{PDE}: An Inference Framework for {LLM}-driven {PDE} Solver Generation},\nauthor={Shanda Li and Tanya Marwah and Junhong Shen and Weiwei Sun and Andrej Risteski and Yiming Yang and Ameet Talwalkar},\nyear={2025},\nurl={https://openreview.net/forum?id=q196xGhRMa}\n}",
         "github": "",
         "project": "",
         "reviewers": "1Crm;HkLY;ABqD",
@@ -1831154,11 +1831154,11 @@
             0
         ],
         "replies_avg": [
-            3,
+            4,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": 0.5,
@@ -1851578,7 +1851578,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            6,
             0
         ],
         "authors#_avg": [
@@ -1882436,7 +1882436,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            4,
             0
         ],
         "authors#_avg": [
@@ -1886654,7 +1886654,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1916735,7 +1916735,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
@@ -1950389,7 +1950389,7 @@
         "abstract": "Structured pruning of Generative Pre-trained Transformers (GPTs) offers a promising path to efficient models, but often at the cost of performance degradation from discarded transformer blocks.\nIn this paper, we introduce FuseGPT, a compression paradigm that reframes structured pruning as knowledge redistribution rather than simple removal.\nInstead of discarding less salient blocks, FuseGPT recycles them by fusing their knowledge into neighboring blocks, thereby preserving the model's performance.\nOur approach has two core components.\nFirst, we propose a fusion-aware importance metric, Macro Influence (MI), that identifies blocks not by their redundancy, but by their capacity to be effectively absorbed by other blocks.\nSecond, we introduce a learnable layers fusion mechanism that uses low-rank matrices to graft the knowledge from a pruned block onto its neighbors.\nThis process is guided by a lightweight, group-level fine-tuning procedure that uses a distillation-based loss to ensure the fused knowledge is properly integrated.\nFuseGPT works for both large language and multimodal models, generally surpassing representative prior methods in perplexity and zero-shot task performance, using as few as 32 calibration and 1024 fine-tuning samples. \nThis ``prune-and-fuse'' approach opens a new avenue for model compression, focusing on repurposing rather than discarding valuable pre-trained knowledge.",
         "keywords": "Pruning;LLMs",
         "primary_area": "foundation or frontier models, including LLMs",
-        "supplementary_material": "",
+        "supplementary_material": "/attachment/d801547ff48c5c704dadc2293440d3388435cead.pdf",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -1950479,7 +1950479,7 @@
             0
         ],
         "replies_avg": [
-            7,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1955585,7 +1955585,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1956806,7 +1956806,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -1959914,7 +1959914,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            10,
             0
         ],
         "authors#_avg": [
@@ -1968683,7 +1968683,7 @@
             0
         ],
         "replies_avg": [
-            13,
+            14,
             0
         ],
         "authors#_avg": [
@@ -1972235,7 +1972235,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            7,
             0
         ],
         "authors#_avg": [
@@ -1995767,7 +1995767,7 @@
             0
         ],
         "replies_avg": [
-            8,
+            9,
             0
         ],
         "authors#_avg": [
@@ -1997099,7 +1997099,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            8,
             0
         ],
         "authors#_avg": [
@@ -2010530,7 +2010530,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            7,
             0
         ],
         "authors#_avg": [
@@ -2088119,7 +2088119,7 @@
             0
         ],
         "replies_avg": [
-            9,
+            11,
             0
         ],
         "authors#_avg": [
@@ -2107227,14 +2107227,14 @@
         "id": "y1N4v2v5Xz",
         "title": "Consistent Labeling Across Group Assignments: Variance Reduction in Conditional Average Treatment Effect Estimation",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Numerous algorithms have been developed for Conditional Average Treatment Effect (CATE) estimation. In this paper, we first highlight an overlooked issue in CATE estimation: many algorithms exhibit inconsistent learning behavior for the same instance across different group assignments. We introduce a metric to quantify and visualize this inconsistency. Next, we present a theoretical analysis showing that this inconsistency indeed contributes to higher test errors and cannot be resolved through conventional machine learning techniques. To address this problem, we propose a general method called **Consistent Labeling Across Group Assignments** (CLAGA), which eliminates the inconsistency and is applicable to any existing CATE estimation algorithm. Experiments on both synthetic and real-world datasets demonstrate significant performance improvements with CLAGA.",
         "keywords": "conditional average treatment effect;consistent labeling;group assignments;potential outcomes;variance reduction",
         "primary_area": "causal reasoning",
         "supplementary_material": "",
-        "author": "",
-        "authorids": "",
+        "author": "Yi-Fu Fu;Keng-Te Liao;Shou-De Lin",
+        "authorids": "~Yi-Fu_Fu1;~Keng-Te_Liao1;~Shou-De_Lin1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2107245,7 +2107245,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025consistent,\ntitle={Consistent Labeling Across Group Assignments: Variance Reduction in Conditional Average Treatment Effect Estimation},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=y1N4v2v5Xz},\nnote={under review}\n}",
+        "bibtex": "@misc{\nfu2025consistent,\ntitle={Consistent Labeling Across Group Assignments: Variance Reduction in Conditional Average Treatment Effect Estimation},\nauthor={Yi-Fu Fu and Keng-Te Liao and Shou-De Lin},\nyear={2025},\nurl={https://openreview.net/forum?id=y1N4v2v5Xz}\n}",
         "github": "",
         "project": "",
         "reviewers": "PipY;Af5n;Xq6g;2K6c",
@@ -2107322,11 +2107322,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            3,
             0
         ],
         "corr_rating_confidence": 0.3333333333333333,
@@ -2111112,14 +2111112,14 @@
         "id": "y6je0oiwEg",
         "title": "Datatype tagging and prompt alignment: a recipe for boosting LLMs on algorithmic tasks",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "This paper contributes toward strengthening the bridge between LLMs as programmers and classical ideas in programming languages (PL). Specifically, we show that aligning prompts with *typed programs* enables even small models to reliably emit one-line Python code. We present a simple yet effective recipe consisting of three key ingredients: (i) inline datatype tagging for prompt and code; (ii) a fine-tuned dual-head GPT-2-small with an auxiliary span probe over the prompt; and (iii) a fixed decoder that enforces a finite-state grammar, validates AST shape, and repairs outputs deterministically.\nOn a stratified GPT-4o based dataset that covers primitives such as $\\texttt{add}$, $\\texttt{subtract}$, $\\texttt{max}$, $\\texttt{min}$, and $\\texttt{sort}$, the decoder alone raises execution accuracy by over 40\\% (from $0.58$ to $0.82$)! For counting and repeated addition, prompts map deterministically to single expressions (for example, $\\texttt{s.count('r')}$ and $\\texttt{sum([1]*100)}$), yielding near-zero errors within coverage. Our approach runs on a single GPU, and presents a proof-of-concept on how \"datatype-aware tokenization'' and \"grammar-first decoding,'' among other ideas inspired by PL, improve reliability, coverage, and quality at low cost.",
         "keywords": "tokenizers;datatype tagging;algorithmic alignment;LLMs and coding;LLMs and arithmetic;algebra",
         "primary_area": "foundation or frontier models, including LLMs",
         "supplementary_material": "/attachment/629b909f2a7011fc619b8e430ada97509e8df6b5.zip",
-        "author": "",
-        "authorids": "",
+        "author": "Sanchayan Dutta;Suvrit Sra",
+        "authorids": "~Sanchayan_Dutta1;~Suvrit_Sra1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2111130,7 +2111130,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025datatype,\ntitle={Datatype tagging and prompt alignment: a recipe for boosting {LLM}s on algorithmic tasks},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=y6je0oiwEg},\nnote={under review}\n}",
+        "bibtex": "@misc{\ndutta2025datatype,\ntitle={Datatype tagging and prompt alignment: a recipe for boosting {LLM}s on algorithmic tasks},\nauthor={Sanchayan Dutta and Suvrit Sra},\nyear={2025},\nurl={https://openreview.net/forum?id=y6je0oiwEg}\n}",
         "github": "",
         "project": "",
         "reviewers": "FWAP;bifH;kBAL;Mn4M",
@@ -2111207,11 +2111207,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            2,
             0
         ],
         "corr_rating_confidence": 0.0,
@@ -2125103,7 +2125103,7 @@
         "abstract": "Quantum Error Correction (QEC) decoding faces a fundamental accuracy-\nefficiency tradeoff. Classical methods like Minimum Weight Perfect Matching\n(MWPM) exhibit variable performance across noise models and suffer from poly-\nnomial complexity, while tensor network decoders achieve high accuracy but\nat prohibitively high computational cost. Recent neural decoders reduce com-\nplexity but lack the accuracy needed to compete with computationally expensive\nclassical methods. We introduce SAQ-Decoder, a unified framework combining\ntransformer-based learning with constraint aware post-processing that achieves\nboth near Maximum Likelihood (ML) accuracy and linear scalability. Our ap-\nproach combines a dual-stream transformer architecture that processes syndromes\nand logical information with asymmetric attention patterns, and a novel differ-\nentiable logical loss that directly optimizes Logical Error Rates (LER) through\nsmooth approximations over finite fields. SAQ-Decoder achieves near-optimal\nperformance, with error thresholds of 10.99% (independent noise) and 18.6%\n(depolarizing noise) on toric codes that approach the ML bounds of 11.0% and\n18.9% while outperforming existing neural and classical baselines in accuracy,\ncomplexity, and parameter efficiency. Our findings establish that learned decoders\ncan simultaneously achieve competitive decoding accuracy and computational ef-\nficiency, addressing key requirements for practical fault-tolerant quantum com-\nputing systems.",
         "keywords": "Deep learning;Quantum Information;Error Correcting Codes",
         "primary_area": "applications to physical sciences (physics, chemistry, biology, etc.)",
-        "supplementary_material": "/attachment/762913e0088e94011edf2954f8fb8734498855f6.zip",
+        "supplementary_material": "/attachment/afd4ba6a9a0c254ef1f5fd6c66aa25801b647db5.zip",
         "author": "",
         "authorids": "",
         "gender": "",
@@ -2150057,7 +2150057,7 @@
             0
         ],
         "replies_avg": [
-            5,
+            11,
             0
         ],
         "authors#_avg": [
@@ -2159508,14 +2159508,14 @@
         "id": "zT1HyxGHYS",
         "title": "HyperCore: Coreset Selection under Noise via Hypersphere Models",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "The goal of coreset selection methods is to identify representative subsets of datasets for efficient model training. \nYet, existing methods often ignore the possibility of annotation errors and require fixed pruning ratios, making them impractical in real-world settings.\nWe present HyperCore, a robust and adaptive coreset selection framework designed explicitly for noisy environments. \nHyperCore leverages lightweight hypersphere models learned per class, embedding in-class samples close to a hypersphere center while naturally segregating out-of-class samples based on their distance. \nBy using Youden\u2019s J statistic, HyperCore can adaptively select pruning thresholds, enabling automatic, noise-aware data pruning without hyperparameter tuning. \nOur experiments reveal that HyperCore consistently surpasses state-of-the-art coreset selection methods, especially under noisy and low-data regimes. \nHyperCore effectively discards mislabeled and ambiguous points, yielding compact yet highly informative subsets suitable for scalable and noise-free learning. \nThe code for HyperCore will be published upon acceptance.",
         "keywords": "Coreset Selection;Label Noise;Hypersphere Models;Adaptive Data Pruning",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "/attachment/df4213088b68084ba81b9a34c7de176bc1261da7.pdf",
-        "author": "",
-        "authorids": "",
+        "author": "Brian Bernhard Moser;Arundhati Shanbhag;Tobias Christian Nauen;Stanislav Frolov;Federico Raue;Joachim Folz;Andreas Dengel",
+        "authorids": "~Brian_Bernhard_Moser1;~Arundhati_Shanbhag1;~Tobias_Christian_Nauen1;~Stanislav_Frolov2;~Federico_Raue1;~Joachim_Folz2;~Andreas_Dengel1",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2159526,7 +2159526,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025hypercore,\ntitle={HyperCore: Coreset Selection under Noise via Hypersphere Models},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=zT1HyxGHYS},\nnote={under review}\n}",
+        "bibtex": "@misc{\nmoser2025hypercore,\ntitle={HyperCore: Coreset Selection under Noise via Hypersphere Models},\nauthor={Brian Bernhard Moser and Arundhati Shanbhag and Tobias Christian Nauen and Stanislav Frolov and Federico Raue and Joachim Folz and Andreas Dengel},\nyear={2025},\nurl={https://openreview.net/forum?id=zT1HyxGHYS}\n}",
         "github": "",
         "project": "",
         "reviewers": "Y7bx;5eni;1PsK;ev9C",
@@ -2159603,11 +2159603,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            7,
             0
         ],
         "corr_rating_confidence": -0.30151134457776363,
@@ -2161379,7 +2161379,7 @@
             0
         ],
         "replies_avg": [
-            4,
+            6,
             0
         ],
         "authors#_avg": [
@@ -2162727,14 +2162727,14 @@
         "id": "zZ7NdQ9kob",
         "title": "S3M3D: Cross-Modal Selective State Space Modulation for 3D Object Detection",
         "track": "main",
-        "status": "Active",
+        "status": "Withdraw",
         "tldr": "",
         "abstract": "Multi-modal 3D object detection is critical for autonomous driving. However, prevailing query-based methods suffer from a symmetric fusion bottleneck, treating geometrically precise LiDAR queries and uncertain camera queries with equal reliability. This overlooks the opportunity to use high-fidelity LiDAR queries to guide the interpretation of noise-prone camera queries. To address this, we propose Selective State Space Modulation for 3D object detection (S3M3D), a novel framework applying two synergistic and Mamba-based components to redefine intra- and inter-modality interactions. First, we introduce Spatially-Aware Mamba (SA-Mamba) to model interactions among LiDAR queries, replacing self-attention. It efficiently captures geometric priors by leveraging recursive Z-order serialization of their projected BEV coordinates. Second, we propose LiDAR-Guided Mamba (LG-Mamba) to establish an asymmetric guidance mechanism, where the robust LiDAR queries dynamically modulate the state-space processing of the less reliable camera queries. This allows geometric structure to actively steer semantic feature refinement. Extensive experiments on nuScenes demonstrate that S3M3D achieves state-of-the-art performance.",
         "keywords": "3D Object Detection;Mamba;Multimodal",
         "primary_area": "unsupervised, self-supervised, semi-supervised, and supervised representation learning",
         "supplementary_material": "/attachment/5cc0590491e6c00fd682eefcdb0c1dd44bb8827b.pdf",
-        "author": "",
-        "authorids": "",
+        "author": "Jiaxi Cao;Zhiwei Ning;Huiying Xu;Xinzhong Zhu;JIE YANG;Wei Liu",
+        "authorids": "~Jiaxi_Cao1;~Zhiwei_Ning2;~Huiying_Xu1;~Xinzhong_Zhu1;~JIE_YANG18;~Wei_Liu38",
         "gender": "",
         "homepage": "",
         "dblp": "",
@@ -2162745,7 +2162745,7 @@
         "aff": "",
         "aff_domain": "",
         "position": "",
-        "bibtex": "@inproceedings{\nanonymous2025smd,\ntitle={S3M3D: Cross-Modal Selective State Space Modulation for 3D Object Detection},\nauthor={Anonymous},\nbooktitle={Submitted to The Fourteenth International Conference on Learning Representations},\nyear={2025},\nurl={https://openreview.net/forum?id=zZ7NdQ9kob},\nnote={under review}\n}",
+        "bibtex": "@misc{\ncao2025smd,\ntitle={S3M3D: Cross-Modal Selective State Space Modulation for 3D Object Detection},\nauthor={Jiaxi Cao and Zhiwei Ning and Huiying Xu and Xinzhong Zhu and JIE YANG and Wei Liu},\nyear={2025},\nurl={https://openreview.net/forum?id=zZ7NdQ9kob}\n}",
         "github": "",
         "project": "",
         "reviewers": "XPTQ;wZQV;7hCm;t5wv",
@@ -2162822,11 +2162822,11 @@
             0
         ],
         "replies_avg": [
-            4,
+            5,
             0
         ],
         "authors#_avg": [
-            0,
+            6,
             0
         ],
         "corr_rating_confidence": -0.8703882797784891,
